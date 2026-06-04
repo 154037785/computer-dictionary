@@ -1,0 +1,479 @@
+{
+  "updatedAt": "2026-06-03T08:16:24.643335+00:00",
+  "nextUpdate": "2026-06-03T20:16:24.643335+00:00",
+  "sources": [
+    {
+      "name": "IT之家",
+      "region": "国内",
+      "url": "https://www.ithome.com/rss/"
+    },
+    {
+      "name": "少数派",
+      "region": "国内",
+      "url": "https://sspai.com/feed"
+    },
+    {
+      "name": "InfoQ 中文",
+      "region": "国内",
+      "url": "https://www.infoq.cn/feed"
+    },
+    {
+      "name": "TechCrunch",
+      "region": "国际",
+      "url": "https://techcrunch.com/feed/"
+    },
+    {
+      "name": "The Verge",
+      "region": "国际",
+      "url": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "name": "Ars Technica",
+      "region": "国际",
+      "url": "https://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+      "name": "The Register",
+      "region": "国际",
+      "url": "https://www.theregister.com/headlines.atom"
+    },
+    {
+      "name": "BleepingComputer",
+      "region": "国际",
+      "url": "https://www.bleepingcomputer.com/feed/"
+    },
+    {
+      "name": "MIT Technology Review",
+      "region": "国际",
+      "url": "https://www.technologyreview.com/feed/"
+    },
+    {
+      "name": "Hacker News",
+      "region": "国际",
+      "url": "https://hnrss.org/frontpage?points=100"
+    },
+    {
+      "name": "The Hacker News",
+      "region": "国际",
+      "url": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    {
+      "name": "VentureBeat AI",
+      "region": "国际",
+      "url": "https://venturebeat.com/category/ai/feed/"
+    },
+    {
+      "name": "Google AI Blog",
+      "region": "国际",
+      "url": "https://blog.google/technology/ai/rss/"
+    }
+  ],
+  "errors": [
+    {
+      "source": "update-budget",
+      "error": "Stopped after 95s update budget."
+    }
+  ],
+  "items": [
+    {
+      "title": "TypeScript devs no longer need to tangle with C# to use Aspire dev stack after Microsoft update",
+      "titleZh": "微软 Aspire 13.4 正式支持 TypeScript AppHost，前端开发者可少写 C# 配置",
+      "summary": "微软发布 Aspire 13.4，核心变化是 TypeScript AppHost 进入正式可用阶段。过去使用 Aspire 构建分布式应用时，开发者通常需要接触 C# 项目配置和宿主代码；这次更新让偏 JavaScript/TypeScript 技术栈的团队可以用更熟悉的方式描述应用组件、服务依赖和本地开发拓扑。对企业开发者来说，这降低了 Node.js、前端工程和 .NET 云原生工具链之间的接入门槛，也让 Aspire 更像一个跨语言的开发编排层。需要关注的是，团队迁移时仍要核对已有 .NET 服务、容器配置、观测指标和部署流水线是否与新的 TypeScript AppHost 表达方式一致。",
+      "originalSummary": "Microsoft has released Aspire 13.4, with the key feature being general availability of the TypeScript AppHost, as well as new inte...。",
+      "url": "https://www.theregister.com/devops/2026/06/03/typescript-devs-no-longer-need-to-tangle-with-c-to-use-aspire-dev-stack-after-microsoft-update/5250212",
+      "source": "The Register",
+      "region": "国际",
+      "publishedAt": "2026-06-03T08:12:00+00:00",
+      "tags": [
+        "软件工程",
+        "安全",
+        "云计算",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 3507,
+      "summaryLength": 262,
+      "summaryQuality": "strong",
+      "readerTextZh": "微软发布 Aspire 13.4，核心变化是 TypeScript AppHost 进入正式可用阶段。过去使用 Aspire 构建分布式应用时，开发者通常需要接触 C# 项目配置和宿主代码；这次更新让偏 JavaScript/TypeScript 技术栈的团队可以用更熟悉的方式描述应用组件、服务依赖和本地开发拓扑。对企业开发者来说，这降低了 Node.js、前端工程和 .NET 云原生工具链之间的接入门槛，也让 Aspire 更像一个跨语言的开发编排层。需要关注的是，团队迁移时仍要核对已有 .NET 服务、容器配置、观测指标和部署流水线是否与新的 TypeScript AppHost 表达方式一致。\n\n来源：The Register。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "titleZh": "VS Code 被曝零日漏洞，攻击者可诱导用户一键泄露 GitHub Token",
+      "summary": "BleepingComputer 报道称，安全研究员公开了一个 Visual Studio Code 零日漏洞的利用代码，攻击者可能通过精心构造的项目、链接或 Webview 交互诱导开发者执行操作，从而窃取本机保存的 GitHub Token。该事件的关键风险在于目标人群是开发者：一旦令牌泄露，攻击者不仅能访问私有仓库，还可能进一步篡改代码、植入供应链后门或读取企业内部项目。对个人开发者和团队来说，当前最重要的是谨慎打开陌生仓库和扩展内容，检查 GitHub Token 权限范围，及时轮换可疑凭据，并等待 VS Code 或相关组件发布正式修复。",
+      "originalSummary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to...。",
+      "url": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "source": "BleepingComputer",
+      "region": "国际",
+      "publishedAt": "2026-06-03T06:50:30+00:00",
+      "tags": [
+        "安全",
+        "漏洞",
+        "攻击",
+        "开源"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 211,
+      "summaryLength": 247,
+      "summaryQuality": "strong",
+      "readerTextZh": "BleepingComputer 报道称，安全研究员公开了一个 Visual Studio Code 零日漏洞的利用代码，攻击者可能通过精心构造的项目、链接或 Webview 交互诱导开发者执行操作，从而窃取本机保存的 GitHub Token。该事件的关键风险在于目标人群是开发者：一旦令牌泄露，攻击者不仅能访问私有仓库，还可能进一步篡改代码、植入供应链后门或读取企业内部项目。对个人开发者和团队来说，当前最重要的是谨慎打开陌生仓库和扩展内容，检查 GitHub Token 权限范围，及时轮换可疑凭据，并等待 VS Code 或相关组件发布正式修复。\n\n来源：BleepingComputer。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
+      "titleZh": "Uber 披露机器人出租车遗失物报告，自动驾驶服务开始面对真实运营细节",
+      "summary": "TechCrunch 报道称，Uber 在其机器人出租车服务中记录到数千件乘客遗失物，包括玩偶、假牙和各种个人物品。表面上这是一份轻松的遗失物清单，但它反映了自动驾驶出行从测试走向日常运营后必须处理的具体问题：车辆无人值守时，乘客如何找回物品、平台如何确认归属、车队如何调度清理和交接，以及责任边界如何划分。对自动驾驶公司和出行平台来说，真正的商业化不只看感知算法和接单效率，也要看客服、取物流程、保险、隐私和线下运营是否能跟上大规模使用场景。",
+      "originalSummary": "Thousands of items (it’s a bit too new for millions) were left behind in robotaxis on Uber’s ride-hailing network in the past year...。",
+      "url": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
+      "source": "TechCrunch",
+      "region": "国际",
+      "publishedAt": "2026-06-02T23:25:20+00:00",
+      "tags": [
+        "创业",
+        "AI",
+        "产品",
+        "安全",
+        "开源"
+      ],
+      "analysisMethod": "article-text+editorial-polish",
+      "sourceTextLength": 5120,
+      "summaryLength": 203,
+      "summaryQuality": "strong",
+      "readerTextZh": "TechCrunch 报道称，Uber 在其机器人出租车服务中记录到数千件乘客遗失物，包括玩偶、假牙和各种个人物品。表面上这是一份轻松的遗失物清单，但它反映了自动驾驶出行从测试走向日常运营后必须处理的具体问题：车辆无人值守时，乘客如何找回物品、平台如何确认归属、车队如何调度清理和交接，以及责任边界如何划分。对自动驾驶公司和出行平台来说，真正的商业化不只看感知算法和接单效率，也要看客服、取物流程、保险、隐私和线下运营是否能跟上大规模使用场景。\n\n来源：TechCrunch。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
+      "titleZh": "微软在 Build 2026 发布 Windows 版 Coreutils，常用 Linux 命令将原生进入 Windows",
+      "summary": "微软在 Build 2026 开发者大会上宣布推出 Coreutils for Windows，把许多 Linux/Unix 世界常用的命令行工具带到 Windows 环境中。对开发者来说，这意味着在 Windows 终端里处理文件、文本、脚本和自动化任务时，可以减少对 WSL、Git Bash 或第三方工具链的依赖。这个变化延续了微软近几年加强开发者体验的方向：让 Windows 更适合跨平台工程、云原生开发和 AI 代理工作流。需要注意的是，团队在采用前应测试命令参数、路径规则、字符编码和 CI 脚本兼容性，避免“看起来同名”的工具在细节行为上与 Linux 版本不一致。",
+      "originalSummary": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used...。",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
+      "source": "BleepingComputer",
+      "region": "国际",
+      "publishedAt": "2026-06-02T22:52:40+00:00",
+      "tags": [
+        "安全",
+        "漏洞",
+        "攻击",
+        "开源",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 200,
+      "summaryLength": 249,
+      "summaryQuality": "strong",
+      "readerTextZh": "微软在 Build 2026 开发者大会上宣布推出 Coreutils for Windows，把许多 Linux/Unix 世界常用的命令行工具带到 Windows 环境中。对开发者来说，这意味着在 Windows 终端里处理文件、文本、脚本和自动化任务时，可以减少对 WSL、Git Bash 或第三方工具链的依赖。这个变化延续了微软近几年加强开发者体验的方向：让 Windows 更适合跨平台工程、云原生开发和 AI 代理工作流。需要注意的是，团队在采用前应测试命令参数、路径规则、字符编码和 CI 脚本兼容性，避免“看起来同名”的工具在细节行为上与 Linux 版本不一致。\n\n来源：BleepingComputer。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
+      "titleZh": "微软面向 Windows 开发者推出 Linux 工具、AI 扫描系统和 RTX Spark 桌面方案",
+      "summary": "Ars Technica 汇总了微软面向开发者的一组新动作：一方面，微软继续把 Linux 工具和类 Unix 开发体验引入 Windows；另一方面，还展示了 Microsoft Scout、Codename MDASH 等与 AI 代理和多模型扫描相关的能力，以及面向本地 AI 开发的 RTX Spark 桌面设备。整体信号很明确：微软希望 Windows 不只是传统桌面系统，而是能承载本地模型、云端开发、代码扫描和智能体任务的开发平台。对开发团队而言，这些能力可能降低本地 AI 实验和安全扫描门槛，但也会带来权限隔离、模型数据访问和企业治理的新要求。",
+      "originalSummary": "There's Microsoft Scout , an OpenClaw-based \"Autopilot\" agent that can hook into Microsoft 365 data to perform tasks for users。an expanded preview of \" Codename MDASH ,\" which is a \"multi-model agentic scanning system\" meant to detect an...。",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
+      "source": "Ars Technica",
+      "region": "国际",
+      "publishedAt": "2026-06-02T22:51:10+00:00",
+      "tags": [
+        "科学",
+        "安全",
+        "系统",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 1327,
+      "summaryLength": 243,
+      "summaryQuality": "strong",
+      "readerTextZh": "Ars Technica 汇总了微软面向开发者的一组新动作：一方面，微软继续把 Linux 工具和类 Unix 开发体验引入 Windows；另一方面，还展示了 Microsoft Scout、Codename MDASH 等与 AI 代理和多模型扫描相关的能力，以及面向本地 AI 开发的 RTX Spark 桌面设备。整体信号很明确：微软希望 Windows 不只是传统桌面系统，而是能承载本地模型、云端开发、代码扫描和智能体任务的开发平台。对开发团队而言，这些能力可能降低本地 AI 实验和安全扫描门槛，但也会带来权限隔离、模型数据访问和企业治理的新要求。\n\n来源：Ars Technica。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+      "titleZh": "数据安全公司 Cyera 被曝寻求 120 亿美元估值，收入倍数高达 ARR 的 80 倍",
+      "summary": "TechCrunch 报道称，数据安全创业公司 Cyera 正寻求约 120 亿美元估值，交易倍数达到年度经常性收入 ARR 的 80 倍，即便公司仍处于经营亏损状态。这个估值水平高于许多高速增长的 AI 初创公司，说明资本市场仍愿意为“数据安全 + AI”叙事支付高溢价。背后的逻辑是，企业在引入生成式 AI、RAG 和数据智能平台后，更需要知道敏感数据在哪里、谁能访问、模型是否会误用数据。风险在于，高估值要求 Cyera 证明增长、续费率和毛利能支撑预期，否则后续融资或上市时可能承受更大回调压力。",
+      "originalSummary": "The deal values Cyera at 80 times its ARR, a multiple that’s even higher than investors assign to many fast-growing AI startups So...。",
+      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "source": "TechCrunch",
+      "region": "国际",
+      "publishedAt": "2026-06-02T22:50:56+00:00",
+      "tags": [
+        "创业",
+        "AI",
+        "产品",
+        "安全",
+        "开源"
+      ],
+      "analysisMethod": "article-text+editorial-polish",
+      "sourceTextLength": 3447,
+      "summaryLength": 216,
+      "summaryQuality": "strong",
+      "readerTextZh": "TechCrunch 报道称，数据安全创业公司 Cyera 正寻求约 120 亿美元估值，交易倍数达到年度经常性收入 ARR 的 80 倍，即便公司仍处于经营亏损状态。这个估值水平高于许多高速增长的 AI 初创公司，说明资本市场仍愿意为“数据安全 + AI”叙事支付高溢价。背后的逻辑是，企业在引入生成式 AI、RAG 和数据智能平台后，更需要知道敏感数据在哪里、谁能访问、模型是否会误用数据。风险在于，高估值要求 Cyera 证明增长、续费率和毛利能支撑预期，否则后续融资或上市时可能承受更大回调压力。\n\n来源：TechCrunch。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
+      "titleZh": "OpenAI 更新 GPT-5.5 Instant，并准备逐步淘汰旧版 ChatGPT 模型",
+      "summary": "BleepingComputer 报道称，OpenAI 正在推送 GPT-5.5 Instant 的更新，并计划在后续安排中淘汰部分旧版 ChatGPT 模型。此次变化的重点不是单纯发布一个新名称，而是对现有模型的响应质量、稳定性和默认体验进行调整，同时把用户逐步迁移到新的模型体系。对普通用户来说，影响可能体现在默认模型、历史会话、旧模型入口和回答风格的变化；对开发者和企业来说，则需要关注 API 或产品端是否同步调整模型名称、能力边界、上下文长度、价格和迁移时间表。若业务依赖固定模型输出，应提前做回归测试和提示词兼容性检查。",
+      "originalSummary": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the sched...。",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
+      "source": "BleepingComputer",
+      "region": "国际",
+      "publishedAt": "2026-06-02T22:44:50+00:00",
+      "tags": [
+        "安全",
+        "漏洞",
+        "攻击",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 192,
+      "summaryLength": 237,
+      "summaryQuality": "strong",
+      "readerTextZh": "BleepingComputer 报道称，OpenAI 正在推送 GPT-5.5 Instant 的更新，并计划在后续安排中淘汰部分旧版 ChatGPT 模型。此次变化的重点不是单纯发布一个新名称，而是对现有模型的响应质量、稳定性和默认体验进行调整，同时把用户逐步迁移到新的模型体系。对普通用户来说，影响可能体现在默认模型、历史会话、旧模型入口和回答风格的变化；对开发者和企业来说，则需要关注 API 或产品端是否同步调整模型名称、能力边界、上下文长度、价格和迁移时间表。若业务依赖固定模型输出，应提前做回归测试和提示词兼容性检查。\n\n来源：BleepingComputer。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "Remedy’s Control sequel launches in September",
+      "titleZh": "Remedy《Control》续作定档 2026 年 9 月，游戏发布节奏进一步明确",
+      "summary": "The Verge 报道称，Remedy Entertainment 的《Control》续作《Control Resonant》计划于 2026 年 9 月 24 日发布。虽然这条新闻属于游戏内容，但对技术读者仍有参考价值：大型 3A 游戏的发布日期通常意味着引擎开发、渲染管线、主机优化、发行营销和平台认证已经进入明确倒计时。Remedy 的作品一向重视物理效果、叙事空间和视觉风格，续作可能继续考验实时渲染、光照、关卡流送和跨平台性能优化能力。对游戏开发者和图形技术学习者来说，这类项目值得关注其后续技术展示、硬件需求和开发者访谈。",
+      "originalSummary": "Control Resonant , the upcoming sequel to Remedy Entertainment's Control , will be released on September 24th, 2026, according to...。",
+      "url": "https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer",
+      "source": "The Verge",
+      "region": "国际",
+      "publishedAt": "2026-06-02T22:30:14+00:00",
+      "tags": [
+        "科技产业",
+        "硬件",
+        "AI",
+        "安全",
+        "开源"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 694,
+      "summaryLength": 235,
+      "summaryQuality": "strong",
+      "readerTextZh": "The Verge 报道称，Remedy Entertainment 的《Control》续作《Control Resonant》计划于 2026 年 9 月 24 日发布。虽然这条新闻属于游戏内容，但对技术读者仍有参考价值：大型 3A 游戏的发布日期通常意味着引擎开发、渲染管线、主机优化、发行营销和平台认证已经进入明确倒计时。Remedy 的作品一向重视物理效果、叙事空间和视觉风格，续作可能继续考验实时渲染、光照、关卡流送和跨平台性能优化能力。对游戏开发者和图形技术学习者来说，这类项目值得关注其后续技术展示、硬件需求和开发者访谈。\n\n来源：The Verge。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "'Dumbass' criminal breaks the 'first rule of ransomware club'",
+      "titleZh": "勒索软件团伙成员疑似暴露身份，安全事件揭示黑产协作也会失误",
+      "summary": "The Register 报道了一起带有讽刺意味的勒索软件事件：相关犯罪分子疑似违反了黑产圈最基本的匿名规则，操作失误可能让自己暴露在执法或对手面前。报道提到，Eriell 曾联系 Nova 并提醒勒索软件运营者某个附属成员出了问题。对安全从业者来说，这类事件的价值不在猎奇，而在于观察勒索软件生态的真实运作方式：核心团伙、附属成员、谈判渠道和受害者之间存在复杂分工，一旦身份、通信或基础设施配置失误，整个攻击链就可能留下可追踪线索。企业防护仍应聚焦备份、最小权限、日志留存和勒索攻击演练。",
+      "originalSummary": "Even ransomware cartels make mistakes, and in this case, it was a biggie that could have landed the responsible crim in a Russian...。Apparently, Eriell contacted Nova and notified the ransomware operators about an affiliate's mess-up。",
+      "url": "https://www.theregister.com/cyber-crime/2026/06/02/dumbass-criminal-breaks-the-first-rule-of-ransomware-club/5250380",
+      "source": "The Register",
+      "region": "国际",
+      "publishedAt": "2026-06-02T21:58:34+00:00",
+      "tags": [
+        "软件工程",
+        "安全",
+        "云计算",
+        "开源"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 3662,
+      "summaryLength": 223,
+      "summaryQuality": "strong",
+      "readerTextZh": "The Register 报道了一起带有讽刺意味的勒索软件事件：相关犯罪分子疑似违反了黑产圈最基本的匿名规则，操作失误可能让自己暴露在执法或对手面前。报道提到，Eriell 曾联系 Nova 并提醒勒索软件运营者某个附属成员出了问题。对安全从业者来说，这类事件的价值不在猎奇，而在于观察勒索软件生态的真实运作方式：核心团伙、附属成员、谈判渠道和受害者之间存在复杂分工，一旦身份、通信或基础设施配置失误，整个攻击链就可能留下可追踪线索。企业防护仍应聚焦备份、最小权限、日志留存和勒索攻击演练。\n\n来源：The Register。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "Contentful is a shot in the arm for Salesforce's 'headless' bet",
+      "titleZh": "Salesforce 拟收购 Contentful，强化 Headless 360 与内容平台能力",
+      "summary": "The Register 分析称，Salesforce 计划收购 Contentful 将增强其 Headless 360 产品线。Headless 架构的核心是把内容管理、业务后端和前端展示解耦，让企业可以把同一套内容分发到网站、App、营销页面、客服系统和 AI 代理入口。Contentful 在无头 CMS 市场有较强基础，如果并入 Salesforce，可能帮助后者把 CRM、营销自动化、内容编排和客户体验平台进一步打通。对企业技术团队来说，这类整合既可能减少系统拼接成本，也可能带来平台锁定、数据迁移、权限模型和前端框架适配方面的新评估。",
+      "originalSummary": "Salesforce’s planned acquisition of Contentful should give its Headless 360 product – which CEO Marc Benioff gushed about during e...。",
+      "url": "https://www.theregister.com/saas/2026/06/02/contentful-tops-off-salesforces-headless-bet-analyst-says/5250357",
+      "source": "The Register",
+      "region": "国际",
+      "publishedAt": "2026-06-02T21:20:21+00:00",
+      "tags": [
+        "软件工程",
+        "安全",
+        "云计算",
+        "开源"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 3417,
+      "summaryLength": 242,
+      "summaryQuality": "strong",
+      "readerTextZh": "The Register 分析称，Salesforce 计划收购 Contentful 将增强其 Headless 360 产品线。Headless 架构的核心是把内容管理、业务后端和前端展示解耦，让企业可以把同一套内容分发到网站、App、营销页面、客服系统和 AI 代理入口。Contentful 在无头 CMS 市场有较强基础，如果并入 Salesforce，可能帮助后者把 CRM、营销自动化、内容编排和客户体验平台进一步打通。对企业技术团队来说，这类整合既可能减少系统拼接成本，也可能带来平台锁定、数据迁移、权限模型和前端框架适配方面的新评估。\n\n来源：The Register。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "Here’s seven bloody minutes of Wolverine on the PS5",
+      "titleZh": "索尼公布 PS5《金刚狼》七分钟实机内容，展示动作演出和主机性能",
+      "summary": "The Verge 报道称，索尼在 State of Play 活动中展示了 Insomniac Games 新作《Marvel's Wolverine》的约七分钟内容。新闻本身偏娱乐，但对游戏技术观察者有两个看点：一是动作捕捉、角色材质、场景破坏和镜头演出如何服务高强度动作游戏；二是 PS5 独占或主机优先作品如何在固定硬件上平衡画质、帧率和加载速度。Insomniac 过去在《蜘蛛侠》系列中展示过成熟的城市流送和手柄反馈设计，这次《金刚狼》的实机展示也会成为玩家和开发者判断其技术完成度的重要材料。",
+      "originalSummary": "At its big State of Play show on Tuesday, Sony shared new look Marvel's Wolverine , the next big title from Insomniac Games that's...。",
+      "url": "https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026",
+      "source": "The Verge",
+      "region": "国际",
+      "publishedAt": "2026-06-02T21:11:46+00:00",
+      "tags": [
+        "科技产业",
+        "硬件"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 689,
+      "summaryLength": 222,
+      "summaryQuality": "strong",
+      "readerTextZh": "The Verge 报道称，索尼在 State of Play 活动中展示了 Insomniac Games 新作《Marvel's Wolverine》的约七分钟内容。新闻本身偏娱乐，但对游戏技术观察者有两个看点：一是动作捕捉、角色材质、场景破坏和镜头演出如何服务高强度动作游戏；二是 PS5 独占或主机优先作品如何在固定硬件上平衡画质、帧率和加载速度。Insomniac 过去在《蜘蛛侠》系列中展示过成熟的城市流送和手柄反馈设计，这次《金刚狼》的实机展示也会成为玩家和开发者判断其技术完成度的重要材料。\n\n来源：The Verge。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+      "titleZh": "微软 Project Solara 曝光：面向 AI 代理而非传统 App 的 Android 系统",
+      "summary": "Ars Technica 报道称，微软正在推进 Project Solara，这是一个基于 Android 的系统，但设计目标不是传统移动 App，而是运行 AI 代理。微软近年来在生成式 AI 上投入巨大，从 Copilot 到企业代理平台都试图让软件从“用户点按钮”转向“代理执行任务”。如果 Solara 的定位属实，它可能代表一种新设备形态：系统围绕任务、权限、上下文和代理协作组织，而不是围绕单个 App 图标。对开发者来说，关键问题会变成代理如何获得数据访问权、如何被限制在安全边界内、如何解释执行过程，以及企业如何审计这些自动化动作。",
+      "originalSummary": "Microsoft has been deeply committed to the growth of generative AI technology in recent years through its now-fragmented partnersh...。The new Android-based OS is called Project Solara, and Microsoft says Solara is designed to run agents instead...。",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+      "source": "Ars Technica",
+      "region": "国际",
+      "publishedAt": "2026-06-02T20:47:54+00:00",
+      "tags": [
+        "科学",
+        "安全",
+        "系统",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 1322,
+      "summaryLength": 235,
+      "summaryQuality": "strong",
+      "readerTextZh": "Ars Technica 报道称，微软正在推进 Project Solara，这是一个基于 Android 的系统，但设计目标不是传统移动 App，而是运行 AI 代理。微软近年来在生成式 AI 上投入巨大，从 Copilot 到企业代理平台都试图让软件从“用户点按钮”转向“代理执行任务”。如果 Solara 的定位属实，它可能代表一种新设备形态：系统围绕任务、权限、上下文和代理协作组织，而不是围绕单个 App 图标。对开发者来说，关键问题会变成代理如何获得数据访问权、如何被限制在安全边界内、如何解释执行过程，以及企业如何审计这些自动化动作。\n\n来源：Ars Technica。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
+      "titleZh": "Cyberdeck 硬件社区走红，DIY 设备成为反平台监控的新表达",
+      "summary": "TechCrunch 报道称，Cyberdeck 相关 DIY 硬件社区近期在社交平台上快速升温，许多爱好者展示自制便携终端、太阳能供电设备和强调隐私控制的个人计算装置。Cyberdeck 原本带有赛博朋克文化色彩，如今重新流行，反映出一部分用户对大型科技平台、云端账号体系和数据监控的不信任。技术层面看，这类项目结合了嵌入式硬件、Linux、开源软件、电池管理、离线通信和外壳设计。它未必会成为大众消费电子产品，但能推动更多人重新思考个人计算设备的可修复性、可审计性和数据主权。",
+      "originalSummary": "Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their sola...。",
+      "url": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
+      "source": "TechCrunch",
+      "region": "国际",
+      "publishedAt": "2026-06-02T20:20:00+00:00",
+      "tags": [
+        "创业",
+        "AI",
+        "产品",
+        "安全",
+        "开源"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 209,
+      "summaryLength": 218,
+      "summaryQuality": "strong",
+      "readerTextZh": "TechCrunch 报道称，Cyberdeck 相关 DIY 硬件社区近期在社交平台上快速升温，许多爱好者展示自制便携终端、太阳能供电设备和强调隐私控制的个人计算装置。Cyberdeck 原本带有赛博朋克文化色彩，如今重新流行，反映出一部分用户对大型科技平台、云端账号体系和数据监控的不信任。技术层面看，这类项目结合了嵌入式硬件、Linux、开源软件、电池管理、离线通信和外壳设计。它未必会成为大众消费电子产品，但能推动更多人重新思考个人计算设备的可修复性、可审计性和数据主权。\n\n来源：TechCrunch。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": true
+    },
+    {
+      "title": "劝学生不要用 AI 走捷径的文章却是用 AI 写的，《悉尼先驱晨报》痛批“不可接受”",
+      "titleZh": "大学高管用 AI 撰写反 AI 作弊文章，引发媒体伦理争议",
+      "summary": "据 IT之家援引英国《卫报》报道，西悉尼大学负责质量与诚信的副校长凯丝·埃利斯教授使用 AI 撰写评论文章，而文章主题却是提醒学生不要借助 AI 技术走捷径、要认真完成学习任务。《悉尼先驱晨报》母公司 Nine 的编辑政策允许作者用 AI 做初步研究和构思，但明确禁止 AI 直接撰写供发布的报道文章，因此该事件被批评为“不可接受”。这条新闻的重点不是简单嘲讽，而是揭示教育、媒体和知识生产正在面对同一个问题：AI 可以辅助写作到什么程度、署名责任如何界定、读者是否应被告知，以及机构规则能否真正执行。",
+      "originalSummary": "据英国《卫报》3 日（今天）报道，西悉尼大学负责质量与诚信的副校长凯丝 · 埃利斯教授 使用 AI 撰写评论文章 ，文章的主题是 劝学生认真完成学习任务，不要借助 AI 技术走捷径。《悉尼先驱晨报》母公司 Nine 的编辑政策 允许作者使用 AI 进行初步研究和构思提示词 ，但明确规定 AI 不得用于撰写供发布的报道文章。",
+      "url": "https://www.ithome.com/0/959/397.htm",
+      "source": "IT之家",
+      "region": "国内",
+      "publishedAt": "2026-06-03T08:09:53+00:00",
+      "tags": [
+        "国内科技",
+        "消费电子",
+        "AI"
+      ],
+      "analysisMethod": "article-text+editorial-polish",
+      "sourceTextLength": 2012,
+      "summaryLength": 218,
+      "summaryQuality": "strong",
+      "readerTextZh": "据 IT之家援引英国《卫报》报道，西悉尼大学负责质量与诚信的副校长凯丝·埃利斯教授使用 AI 撰写评论文章，而文章主题却是提醒学生不要借助 AI 技术走捷径、要认真完成学习任务。《悉尼先驱晨报》母公司 Nine 的编辑政策允许作者用 AI 做初步研究和构思，但明确禁止 AI 直接撰写供发布的报道文章，因此该事件被批评为“不可接受”。这条新闻的重点不是简单嘲讽，而是揭示教育、媒体和知识生产正在面对同一个问题：AI 可以辅助写作到什么程度、署名责任如何界定、读者是否应被告知，以及机构规则能否真正执行。\n\n来源：IT之家。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": false
+    },
+    {
+      "title": "荣耀研发工程师答疑 600 系列手机是否支持红外：全系列都支持，并且都在背部影像模组区域",
+      "titleZh": "荣耀确认 600 系列全系支持红外，入口位于背部影像模组区域",
+      "summary": "IT之家报道，荣耀研发工程师回应用户关于荣耀 600 系列是否支持红外功能的问题，确认荣耀 600 全系列都支持红外，并且相关硬件位于背部影像模组区域。荣耀 600 系列已于 2026 年 5 月发布，包括荣耀 600 超级版、荣耀 600 Pro 和荣耀 600 元气版，起售价 2699 元。红外遥控并不是最前沿的手机功能，但在中国市场仍有实用价值，用户可以用手机控制电视、空调、机顶盒等家电。对消费者来说，这条信息有助于购买前确认细节；对厂商来说，也说明中端机型仍会通过本地化功能和日常便利性增强差异化。",
+      "originalSummary": "荣耀研发工程师 @荣耀曹工 今日发文解答了荣耀 600 系列手机是否支持红外这一问题：。荣耀 600 全系列都支持「红外」功能。据IT之家此前报道，荣耀 600 系列手机已于今年 5 月正式发布，共计三款，包括 荣耀 600 超级版 、 荣耀 600 Pro 和 荣耀 600 元气版 ，定价 2699 元起。",
+      "url": "https://www.ithome.com/0/959/394.htm",
+      "source": "IT之家",
+      "region": "国内",
+      "publishedAt": "2026-06-03T08:08:43+00:00",
+      "tags": [
+        "国内科技",
+        "消费电子",
+        "硬件"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 466,
+      "summaryLength": 219,
+      "summaryQuality": "strong",
+      "readerTextZh": "IT之家报道，荣耀研发工程师回应用户关于荣耀 600 系列是否支持红外功能的问题，确认荣耀 600 全系列都支持红外，并且相关硬件位于背部影像模组区域。荣耀 600 系列已于 2026 年 5 月发布，包括荣耀 600 超级版、荣耀 600 Pro 和荣耀 600 元气版，起售价 2699 元。红外遥控并不是最前沿的手机功能，但在中国市场仍有实用价值，用户可以用手机控制电视、空调、机顶盒等家电。对消费者来说，这条信息有助于购买前确认细节；对厂商来说，也说明中端机型仍会通过本地化功能和日常便利性增强差异化。\n\n来源：IT之家。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": false
+    },
+    {
+      "title": "天文学家首次直接观测到“行星育婴室”的旋转",
+      "titleZh": "研究团队首次直接观测到行星盘旋转，为行星形成研究提供新证据",
+      "summary": "IT之家报道，法国国家科学研究中心 CNRS 与波尔多大学团队历时四年观测，首次直接捕捉到御夫座 AB 星周围行星盘的旋转迹象。研究人员使用欧洲南方天文台位于智利甚大望远镜上的 SPHERE 仪器，遮蔽中央恒星强光后追踪星盘尘埃颗粒辐射，并通过三组长期观测合成图像序列，展示星盘围绕恒星旋转的过程。所谓“行星育婴室”指的是年轻恒星周围孕育行星的物质盘。直接观测其运动，有助于验证行星形成模型，理解尘埃和气体如何逐渐聚集成行星，也展示了高对比度成像技术在天文学中的价值。",
+      "originalSummary": "法国国家科学研究中心（CNRS）于 6 月 1 日发布博文，报告称研究团队联合波尔多大学， 历时四年拍摄，首次直接观测到行星盘的旋转迹象。研究团队借助 SPHERE 仪器（欧洲南方天文台位于智利的甚大望远镜上），追踪了御夫座 AB 星周围星盘内的尘埃颗粒辐射。SPHERE 通过遮蔽中央恒星的强烈光芒，在历时 4 年的 3 组观测中清晰呈现了这一星盘的细节，最终合成的图像序列展示了星盘绕恒星旋转的过程。",
+      "url": "https://www.ithome.com/0/959/392.htm",
+      "source": "IT之家",
+      "region": "国内",
+      "publishedAt": "2026-06-03T08:05:07+00:00",
+      "tags": [
+        "国内科技",
+        "消费电子"
+      ],
+      "analysisMethod": "feed-text+editorial-polish",
+      "sourceTextLength": 387,
+      "summaryLength": 214,
+      "summaryQuality": "strong",
+      "readerTextZh": "IT之家报道，法国国家科学研究中心 CNRS 与波尔多大学团队历时四年观测，首次直接捕捉到御夫座 AB 星周围行星盘的旋转迹象。研究人员使用欧洲南方天文台位于智利甚大望远镜上的 SPHERE 仪器，遮蔽中央恒星强光后追踪星盘尘埃颗粒辐射，并通过三组长期观测合成图像序列，展示星盘围绕恒星旋转的过程。所谓“行星育婴室”指的是年轻恒星周围孕育行星的物质盘。直接观测其运动，有助于验证行星形成模型，理解尘埃和气体如何逐渐聚集成行星，也展示了高对比度成像技术在天文学中的价值。\n\n来源：IT之家。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": false
+    },
+    {
+      "title": "让原生体验「接地气」：Pixel Text 与「原点系列」工具集",
+      "titleZh": "Pixel Text 上架 Google Play，开发者整理原生 Android 本地化工具集",
+      "summary": "少数派文章介绍了 Pixel Text 及“原点系列”工具集。作者将此前分散的小工具整理为开源组织 Pixel-Tailor-CN，并把面向原生 Android 体验的工具集合命名为“原点系列”。Pixel Text 的切入点很具体：在国内使用 Android 时，短信仍承载验证码、银行通知、物流提醒等关键场景，原生系统体验往往不够贴近本地需求。这个项目说明，开发者工具和移动端体验优化并不一定只发生在大型系统更新中，个人和社区也可以围绕通知、文本处理、系统交互等细节补足体验。对 Android 用户和开发者来说，它值得关注其开源实现、隐私边界和后续维护能力。",
+      "originalSummary": "目前 Pixel Text 已经上架 Google Play，我也顺势把此前这些零散的小工具整理到一起，成立了开源组织 Pixel-Tailor-CN，并把这个面向原生 Android 体验的小工具集合命名为「原点系列」 在国内，短信依然承载着很多关键通知：验...。",
+      "url": "https://sspai.com/post/110458",
+      "source": "少数派",
+      "region": "国内",
+      "publishedAt": "2026-06-03T07:00:00+00:00",
+      "tags": [
+        "数字生活",
+        "软件工具",
+        "AI",
+        "开源",
+        "硬件"
+      ],
+      "analysisMethod": "article-text+editorial-polish",
+      "sourceTextLength": 2639,
+      "summaryLength": 247,
+      "summaryQuality": "strong",
+      "readerTextZh": "少数派文章介绍了 Pixel Text 及“原点系列”工具集。作者将此前分散的小工具整理为开源组织 Pixel-Tailor-CN，并把面向原生 Android 体验的工具集合命名为“原点系列”。Pixel Text 的切入点很具体：在国内使用 Android 时，短信仍承载验证码、银行通知、物流提醒等关键场景，原生系统体验往往不够贴近本地需求。这个项目说明，开发者工具和移动端体验优化并不一定只发生在大型系统更新中，个人和社区也可以围绕通知、文本处理、系统交互等细节补足体验。对 Android 用户和开发者来说，它值得关注其开源实现、隐私边界和后续维护能力。\n\n来源：少数派。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": false
+    },
+    {
+      "title": "派早报：Apple 公布 2026 年 Apple 设计大奖得主等",
+      "titleZh": "少数派早报汇总 Apple 设计大奖、微软 AI 模型与 AI 产品监管动态",
+      "summary": "少数派早报汇总了多条科技动态，其中包括 Apple 公布 2026 年 Apple 设计大奖得主，以及微软在 Build 2026 大会上推出自研推理模型 MAI-Thinking-1、图像模型 MAI-Image-2.5 及其 flash 变体等消息。报道还提到一项面向特定 AI 公司的监管要求：企业在向公众发布新产品前 30 天，可自愿将模型提交政府进行测试或评估；此前草案曾设想最多提前 90 天，但因行业高管反对而缩短。整体看，这组新闻反映了两个方向：一边是平台公司继续用模型和设计奖项强化生态，另一边是政府开始探索模型发布前评估机制。",
+      "originalSummary": "来源 6 月 2 日，微软在 Build 2026 大会上推出包含 350 亿活跃参数、256K 上下文窗口的自研推理模型 MAI-Thinking-1，以及支持文本转图像和图像转图像的 MAI-Image-2.5 及其 flash 变体、支持 43 种语言的...。该命令要求特定 AI 公司在向公众发布新产品前 30 天，自愿将模型提交给政府进行测试或评估，此前的草案曾要求提前至多 90 天，因 David Sacks 等行业高管抗议而缩短。",
+      "url": "https://sspai.com/post/110658",
+      "source": "少数派",
+      "region": "国内",
+      "publishedAt": "2026-06-03T00:12:45+00:00",
+      "tags": [
+        "数字生活",
+        "软件工具",
+        "AI"
+      ],
+      "analysisMethod": "article-text+editorial-polish",
+      "sourceTextLength": 3754,
+      "summaryLength": 235,
+      "summaryQuality": "strong",
+      "readerTextZh": "少数派早报汇总了多条科技动态，其中包括 Apple 公布 2026 年 Apple 设计大奖得主，以及微软在 Build 2026 大会上推出自研推理模型 MAI-Thinking-1、图像模型 MAI-Image-2.5 及其 flash 变体等消息。报道还提到一项面向特定 AI 公司的监管要求：企业在向公众发布新产品前 30 天，可自愿将模型提交政府进行测试或评估；此前草案曾设想最多提前 90 天，但因行业高管反对而缩短。整体看，这组新闻反映了两个方向：一边是平台公司继续用模型和设计奖项强化生态，另一边是政府开始探索模型发布前评估机制。\n\n来源：少数派。可打开原文核对完整报道、上下文和后续更新。",
+      "isTranslated": false
+    }
+  ],
+  "lastFailedUpdateAt": "2026-06-04T01:09:01.803461+00:00"
+}

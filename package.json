@@ -1,0 +1,19 @@
+{
+  "name": "computer-dictionary",
+  "version": "1.0.0",
+  "description": "A mobile-first Chinese computer science dictionary with frontier technology digests.",
+  "scripts": {
+    "build": "node scripts/build_static_site.js",
+    "generate": "node scripts/build_static_site.js"
+  },
+  "keywords": [
+    "dictionary",
+    "computer-science",
+    "news",
+    "cloudflare-pages"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

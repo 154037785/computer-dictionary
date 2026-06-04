@@ -1,0 +1,9 @@
+node_modules/
+scripts/__pycache__/
+scripts/bin/
+data/tunnel-logs/
+data/public-url.txt
+data/mobile-url.txt
+data/news-update.log
+data/translation-cache.json
+*.log

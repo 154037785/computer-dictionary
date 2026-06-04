@@ -1,0 +1,45 @@
+name: Update dictionary static data
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+permissions:
+  contents: write
+
+jobs:
+  update-dictionary:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update frontier news
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_MODEL: deepseek-chat
+        run: python scripts/update_all_news.py
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Commit static update
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update dictionary static site"
+          file_pattern: data/*.json public

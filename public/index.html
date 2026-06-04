@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>计算机词典</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="mobile-topbar">
+      <button id="mobileMenuToggle" class="mobile-menu-toggle" type="button" aria-controls="sectionNav" aria-expanded="false">板块</button>
+      <strong>计算机词典</strong>
+      <button id="mobileSearchFocus" class="mobile-search-focus" type="button">搜索</button>
+    </div>
+    <div id="sidebarBackdrop" class="sidebar-backdrop" hidden></div>
+    <div class="shell">
+      <aside class="sidebar" aria-label="词典板块">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">01</div>
+          <div>
+            <h1>计算机词典</h1>
+            <p>从基础到扩展的概念地图</p>
+          </div>
+        </div>
+
+        <label class="search">
+          <span>搜索</span>
+          <div class="search-row">
+            <input id="searchInput" type="search" placeholder="输入名词、解释或比喻" autocomplete="off" />
+            <button id="searchButton" type="button">搜索</button>
+          </div>
+        </label>
+
+        <nav id="sectionNav" class="section-nav"></nav>
+
+        <div class="sidebar-note">
+          <strong>编排原则</strong>
+          <p>每个板块都按学习路径排列，不按字母排序。先打地基，再进入工程与前沿概念。</p>
+        </div>
+      </aside>
+
+      <main class="content">
+        <section class="hero" aria-labelledby="pageTitle">
+          <div>
+            <p class="eyebrow">Computer Dictionary</p>
+            <h2 id="pageTitle">把计算机世界拆成能走进去的房间</h2>
+            <p class="hero-copy">
+              这是一份网站形式的计算机词典，覆盖基础、硬件、操作系统、网络、前后端、数据库、安全、云原生、数据科学、大模型等方向。每个词条都有解释、形象描述和相关概念。
+            </p>
+          </div>
+          <div class="hero-visual">
+            <div id="categoryGrid" class="node-grid" aria-label="知识大类入口">
+            </div>
+          </div>
+        </section>
+
+        <section id="categoryPanel" class="category-panel" aria-live="polite"></section>
+
+        <section class="overview" aria-label="词典概览">
+          <div>
+            <span id="termCount" class="metric">0</span>
+            <p>已收录词条</p>
+          </div>
+          <div>
+            <span id="sectionCount" class="metric">0</span>
+            <p>知识板块</p>
+          </div>
+          <div>
+            <span class="metric">基础 → 扩展</span>
+            <p>板块内排序方式</p>
+          </div>
+        </section>
+
+        <section class="section-head">
+          <div>
+            <p id="sectionKicker" class="eyebrow"></p>
+            <h2 id="sectionTitle"></h2>
+            <p id="sectionIntro"></p>
+          </div>
+          <div class="section-tools">
+            <button id="expandAll" type="button">展开全部</button>
+            <button id="collapseAll" type="button">收起全部</button>
+          </div>
+        </section>
+
+        <section id="terms" class="terms" aria-live="polite"></section>
+
+      </main>
+    </div>
+
+    <div id="termModal" class="modal" hidden>
+      <div class="modal-backdrop" data-close-modal></div>
+      <article class="modal-window" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+        <button class="modal-close" type="button" data-close-modal aria-label="关闭">×</button>
+        <p id="modalSection" class="eyebrow"></p>
+        <h2 id="modalTitle"></h2>
+        <p id="modalTag" class="modal-tag"></p>
+        <div class="modal-body">
+          <section>
+            <h3>核心解释</h3>
+            <p id="modalExplanation"></p>
+          </section>
+          <section>
+            <h3>形象描述</h3>
+            <p id="modalImage"></p>
+          </section>
+          <section>
+            <h3>相关概念</h3>
+            <div id="modalRelations" class="relations"></div>
+          </section>
+        </div>
+        <div class="modal-actions">
+          <button id="copyDeepSeekPrompt" type="button">复制问题并打开 DeepSeek</button>
+          <button id="copyTermPrompt" type="button">只复制问题</button>
+        </div>
+        <p id="modalNotice" class="modal-notice" aria-live="polite"></p>
+      </article>
+    </div>
+
+    <div id="newsModal" class="modal" hidden>
+      <div class="modal-backdrop" data-close-news></div>
+      <article class="modal-window news-modal-window" role="dialog" aria-modal="true" aria-labelledby="newsModalTitle">
+        <button class="modal-close" type="button" data-close-news aria-label="关闭">×</button>
+        <p id="newsModalMeta" class="eyebrow"></p>
+        <h2 id="newsModalTitle"></h2>
+        <p id="newsModalSummary" class="modal-tag"></p>
+        <div class="modal-body">
+          <section>
+            <h3>中文阅读</h3>
+            <p id="newsModalBody"></p>
+          </section>
+        </div>
+        <div class="modal-actions">
+          <a id="newsOriginalLink" class="link-button" href="#" target="_blank" rel="noreferrer">查看原文</a>
+        </div>
+        <p class="modal-notice">国外媒体会优先显示中文翻译；如果原文页面限制抓取，站内会保留中文摘要和原文入口。</p>
+      </article>
+    </div>
+
+    <script src="app.js?v=20260604-dictionary-4536"></script>
+  </body>
+</html>
