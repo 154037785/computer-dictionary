@@ -24,6 +24,42 @@ http://电脑局域网IP:8765
 
 推荐按“摸鱼早报”的方式部署到 Cloudflare Pages：GitHub Actions 每 12 小时更新新闻 JSON，Cloudflare Pages 固定托管 `public` 目录。
 
+### Cloudflare 新版 Workers 静态资源固定网址
+
+Cloudflare 新版控制台可能不再单独显示 Pages 入口，而是在 `Create a Worker` 里提供静态文件部署能力。这个仓库已经包含 `wrangler.toml`：
+
+```toml
+name = "computer-dictionary"
+compatibility_date = "2026-06-04"
+
+[assets]
+directory = "./public"
+not_found_handling = "single-page-application"
+```
+
+部署步骤：
+
+1. 打开 Cloudflare Dashboard -> Workers & Pages -> Create application。
+2. 进入 `Create a Worker` 页面后，选择 `Continue with GitHub`。
+3. 选择 GitHub 仓库 `154037785/computer-dictionary`。
+4. 如果页面询问构建/部署命令，使用：
+
+```text
+Build command: npm run build
+Deploy command: npx wrangler deploy
+Root directory: 留空
+```
+
+如果页面只要求项目名和仓库，保持默认即可，Cloudflare 会读取 `wrangler.toml` 并部署 `public` 目录里的静态文件。
+
+部署后会得到类似这样的固定网址：
+
+```text
+https://computer-dictionary.你的账号.workers.dev
+```
+
+这个网址是固定的，不需要电脑开着。
+
 ### Cloudflare Pages 免费固定网址
 
 部署后会得到类似这样的固定网址：
