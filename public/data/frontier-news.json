@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-06T09:14:47.522591+00:00",
-  "nextUpdate": "2026-06-06T21:14:47.522591+00:00",
+  "updatedAt": "2026-06-06T16:00:07.216373+00:00",
+  "nextUpdate": "2026-06-07T04:00:07.216373+00:00",
   "sources": [
     {
       "name": "IT之家",
@@ -71,10 +71,144 @@
   "errors": [
     {
       "source": "Hacker News",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
   "items": [
+    {
+      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+      "titleZh": "国际科技产业、硬件消息：The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data c...",
+      "summary": "印第安纳州谢尔比维尔市长说，只有住在“破房子”里的人才反对数据中心。Shelbyville、Indiana发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。这条消息需要放在科技产业、硬件的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。",
+      "originalSummary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana。And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying o...。The woman speaking to him in the clip quickly pushes back, saying that they're \"working class,\" and...。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+      "source": "The Verge",
+      "region": "国际",
+      "publishedAt": "2026-06-06T15:14:49+00:00",
+      "tags": [
+        "科技产业",
+        "硬件",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 688,
+      "summaryLength": 291,
+      "summaryQuality": "medium",
+      "readerTextZh": "印第安纳州谢尔比维尔市长说，只有住在“破房子”里的人才反对数据中心。Shelbyville、Indiana发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。这条消息需要放在科技产业、硬件的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "82-0 is the best basketball game, to hell with NBA 2K",
+      "titleZh": "国际科技产业、硬件消息：82-0 is the best basketball game, to hell with NBA 2K",
+      "summary": "Screenshot、The Verge、So、Knicks发生科技产业或开发者生态变化，涉及关键数字：82、0 m。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。NBA发生科技产业或开发者生态变化，涉及关键数字：82、0 、2K。这条消息需要放在科技产业、硬件的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。",
+      "originalSummary": "| Screenshot: The Verge 82-0 marries the stat nerd fun of fantasy basketball with instant gratification and a bit of dumb luck。The goal is to draft a team of players that could (theoretically) have a perfect 82-0 season。So, for example, if you pulled the Knicks and 2020s, you might pick Jalen Brunson as your point guard, then yo...。",
+      "url": "https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game",
+      "source": "The Verge",
+      "region": "国际",
+      "publishedAt": "2026-06-06T15:08:43+00:00",
+      "tags": [
+        "科技产业",
+        "硬件",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 735,
+      "summaryLength": 307,
+      "summaryQuality": "medium",
+      "readerTextZh": "Screenshot、The Verge、So、Knicks发生科技产业或开发者生态变化，涉及关键数字：82、0 m。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。NBA发生科技产业或开发者生态变化，涉及关键数字：82、0 、2K。这条消息需要放在科技产业、硬件的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
+      "titleZh": "国际创业、AI消息：Beyond Instagram: Introducing the next generation of social apps",
+      "summary": "这些较新的社交应用程序提供了大型科技公司Feed的替代品，专注于兴趣、创造力和社区。这些较新的社交应用程序提供了大型科技公司Feed的替代品，专注于兴趣、创意。Beyond Instagram、Introducing发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。",
+      "originalSummary": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community。",
+      "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "source": "TechCrunch",
+      "region": "国际",
+      "publishedAt": "2026-06-06T15:00:00+00:00",
+      "tags": [
+        "创业",
+        "AI",
+        "产品",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 113,
+      "summaryLength": 247,
+      "summaryQuality": "weak",
+      "readerTextZh": "这些较新的社交应用程序提供了大型科技公司Feed的替代品，专注于兴趣、创造力和社区。这些较新的社交应用程序提供了大型科技公司Feed的替代品，专注于兴趣、创意。Beyond Instagram、Introducing发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+      "titleZh": "国际安全、漏洞消息：Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+      "summary": "Hackers、CVE-2026-3300、Everest Forms Pro发生安全事件或漏洞修复，涉及关键数字：2026、3300。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Critical Everest Forms Pro、WordPress发生科技产业或开发者生态变化。",
+      "originalSummary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take com...。",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "source": "BleepingComputer",
+      "region": "国际",
+      "publishedAt": "2026-06-06T14:09:26+00:00",
+      "tags": [
+        "安全",
+        "漏洞",
+        "攻击",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 173,
+      "summaryLength": 237,
+      "summaryQuality": "fair",
+      "readerTextZh": "Hackers、CVE-2026-3300、Everest Forms Pro发生安全事件或漏洞修复，涉及关键数字：2026、3300。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Critical Everest Forms Pro、WordPress发生科技产业或开发者生态变化。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+      "titleZh": "国际安全、漏洞消息：New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+      "summary": "OpenAI、Lockdown Mode、ChatGPT发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。New ChatGPT Lockdown Mode、Limits Tools That Could、Enable Data Exfiltration发生科技产业或开发者生态变化。",
+      "originalSummary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration...。The feature is primarily designed for people and organizations that handle sensitive data and require stricter...。Lockdown Mode is available to logged-in users across Free, Go, Plus, and Pro, and。",
+      "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+      "source": "The Hacker News",
+      "region": "国际",
+      "publishedAt": "2026-06-06T13:36:57+00:00",
+      "tags": [
+        "安全",
+        "漏洞",
+        "攻击",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 385,
+      "summaryLength": 250,
+      "summaryQuality": "medium",
+      "readerTextZh": "OpenAI、Lockdown Mode、ChatGPT发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。New ChatGPT Lockdown Mode、Limits Tools That Could、Enable Data Exfiltration发生科技产业或开发者生态变化。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
+      "titleZh": "国际科学、安全消息：Some ancient microbes frozen with Ötzi the Iceman are still growing",
+      "summary": "Iceman、Europe、After、Alps发生科技产业或开发者生态变化，涉及关键数字：5、300。从已有材料看，这不是孤立的标题变化，而是与科学、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Some、Iceman发生科技产业或开发者生态变化。这条消息需要放在科学、安全的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。",
+      "originalSummary": "Ötzi the Iceman, Europe’s most famous mummy, is crawling with microbes, some long dead, some still eking out a living after thousa...。After he died in the Ötztal Alps, the Copper Age man now known as Ötzi lay alone and forgotten for 5,300 years...。Since then, he’s received a lot of attention from scientists, who have sequenced his DNA , pored ove...。",
+      "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
+      "source": "Ars Technica",
+      "region": "国际",
+      "publishedAt": "2026-06-06T11:15:51+00:00",
+      "tags": [
+        "科学",
+        "安全",
+        "系统",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 1282,
+      "summaryLength": 294,
+      "summaryQuality": "medium",
+      "readerTextZh": "Iceman、Europe、After、Alps发生科技产业或开发者生态变化，涉及关键数字：5、300。从已有材料看，这不是孤立的标题变化，而是与科学、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Some、Iceman发生科技产业或开发者生态变化。这条消息需要放在科学、安全的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
     {
       "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
       "titleZh": "国际人工智能消息：Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
@@ -121,29 +255,6 @@
       "isTranslated": true
     },
     {
-      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-      "titleZh": "国际人工智能消息：AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-      "summary": "FFmpeg、Google、Chrome发生安全事件或漏洞修复，涉及关键数字：21 、149 、429。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。AI Agent Uncovers、Zero-Days、FFmpeg、Chrome Patches Record发生AI 模型或智能体能力进展，涉及关键数字：21 、429 B。",
-      "originalSummary": "A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touch...。The same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release。",
-      "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
-      "source": "The Hacker News",
-      "region": "国际",
-      "publishedAt": "2026-06-06T07:28:30+00:00",
-      "tags": [
-        "安全",
-        "漏洞",
-        "攻击",
-        "AI",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 390,
-      "summaryLength": 250,
-      "summaryQuality": "medium",
-      "readerTextZh": "FFmpeg、Google、Chrome发生安全事件或漏洞修复，涉及关键数字：21 、149 、429。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。AI Agent Uncovers、Zero-Days、FFmpeg、Chrome Patches Record发生AI 模型或智能体能力进展，涉及关键数字：21 、429 B。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
       "title": "Oxford Uni student data pwned yet again - this time via career platform breach",
       "titleZh": "国际网络安全消息：Oxford Uni student data pwned yet again - this time via career platform breach",
       "summary": "Oxford University、OxfordUni、May、CareerConnect发生安全事件或漏洞修复，涉及关键数字：28。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Oxford Uni发生安全事件或漏洞修复。这条消息需要放在软件工程、安全的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。",
@@ -163,73 +274,6 @@
       "summaryLength": 309,
       "summaryQuality": "medium",
       "readerTextZh": "Oxford University、OxfordUni、May、CareerConnect发生安全事件或漏洞修复，涉及关键数字：28。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Oxford Uni发生安全事件或漏洞修复。这条消息需要放在软件工程、安全的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Final Fantasy VII’s remake trilogy will conclude with Revelation",
-      "titleZh": "国际科技产业、硬件消息：Final Fantasy VII’s remake trilogy will conclude with Revelation",
-      "summary": "Square Enix、Final Fantasy VII、Final Fantasy VII Revelatio、It发生产品发布或能力更新，涉及关键数字：5、2。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。",
-      "originalSummary": "Square Enix has officially announced the third and final game in its Final Fantasy VII remake trilogy: Final Fantasy VII Revelatio...。It will release on multiple platforms simultaneously - PC, PS5, Xbox Series X / S, and Nintendo Switch 2 - in...。You'll also get to dress up your characters with armor …。",
-      "url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
-      "source": "The Verge",
-      "region": "国际",
-      "publishedAt": "2026-06-05T23:38:30+00:00",
-      "tags": [
-        "科技产业",
-        "硬件",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 691,
-      "summaryLength": 205,
-      "summaryQuality": "medium",
-      "readerTextZh": "Square Enix、Final Fantasy VII、Final Fantasy VII Revelatio、It发生产品发布或能力更新，涉及关键数字：5、2。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
-      "titleZh": "国际科技产业、硬件消息：More than a decade later, the team behind N++ is back with a multiplayer sequel",
-      "summary": "十多年后， N + +背后的团队带着多人续集回归。More发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。这条消息需要放在科技产业、硬件的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。如果该变化进入企业系统，还需要评估兼容性、权限边界、审计记录和对既有工作流的影响。",
-      "originalSummary": "Back in 2015, the two-person studio Metanet released N++ , a brutally hard 2D platformer that was a decade in the making, building...。At the time, cofounder Raigan Burns issued some famous last words : \"We hope it's not another 10 years before...。And this time the focus is on multiplayer。",
-      "url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
-      "source": "The Verge",
-      "region": "国际",
-      "publishedAt": "2026-06-05T23:25:34+00:00",
-      "tags": [
-        "科技产业",
-        "硬件",
-        "AI",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 692,
-      "summaryLength": 302,
-      "summaryQuality": "medium",
-      "readerTextZh": "十多年后， N + +背后的团队带着多人续集回归。More发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。这条消息需要放在科技产业、硬件的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。如果该变化进入企业系统，还需要评估兼容性、权限边界、审计记录和对既有工作流的影响。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Grand Theft Auto VI is warping the video game release calendar",
-      "titleZh": "国际科技产业、硬件消息：Grand Theft Auto VI is warping the video game release calendar",
-      "summary": "Based、Summer Game Fest、Grand Theft Auto VI、November发生产品发布或能力更新。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Grand Theft Auto VI发生科技产业或开发者生态变化。这条消息需要放在科技产业、硬件的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。",
-      "originalSummary": "Based on the last few days of Summer Game Fest, just about everyone。Grand Theft Auto VI hasn't been present at any of the keynote events, but its presence was felt every time a r...。The month of November, when GTA VI launches, is virtually empty。",
-      "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
-      "source": "The Verge",
-      "region": "国际",
-      "publishedAt": "2026-06-05T23:05:27+00:00",
-      "tags": [
-        "科技产业",
-        "硬件",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 691,
-      "summaryLength": 313,
-      "summaryQuality": "medium",
-      "readerTextZh": "Based、Summer Game Fest、Grand Theft Auto VI、November发生产品发布或能力更新。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Grand Theft Auto VI发生科技产业或开发者生态变化。这条消息需要放在科技产业、硬件的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     },
     {
@@ -390,51 +434,6 @@
       "isTranslated": true
     },
     {
-      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
-      "titleZh": "国际网络安全消息：Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
-      "summary": "据称， IBM及其两家子公司在2010年代中期遭到入侵—前网络安全公司。据称， IBM及其两家子公司在2010年代中期遭到入侵--这是一起诉讼……。Former、IBM发生安全事件或漏洞修复。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。这条消息需要放在创业、AI的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。",
-      "originalSummary": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity e...。",
-      "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
-      "source": "TechCrunch",
-      "region": "国际",
-      "publishedAt": "2026-06-05T20:31:04+00:00",
-      "tags": [
-        "创业",
-        "AI",
-        "产品",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 197,
-      "summaryLength": 308,
-      "summaryQuality": "fair",
-      "readerTextZh": "据称， IBM及其两家子公司在2010年代中期遭到入侵—前网络安全公司。据称， IBM及其两家子公司在2010年代中期遭到入侵--这是一起诉讼……。Former、IBM发生安全事件或漏洞修复。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。这条消息需要放在创业、AI的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Small modular nuclear reactor reaches criticality in first test",
-      "titleZh": "国际科学、安全消息：Small modular nuclear reactor reaches criticality in first test",
-      "summary": "Just、Trump Administration、On Thursday、Antares发生产品发布或能力更新。从已有材料看，这不是孤立的标题变化，而是与科学、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Small发生科技产业或开发者生态变化。这条消息需要放在科学、安全的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。",
-      "originalSummary": "Just over a year ago, the Trump Administration issued an executive order meant to accelerate the development of nuclear power in t...。On Thursday, a startup called Antares announced that a test reactor it had placed at the Idaho National Labora...。While an entire startup ecosystem has developed around the use of different—and typically smaller—re...。",
-      "url": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
-      "source": "Ars Technica",
-      "region": "国际",
-      "publishedAt": "2026-06-05T19:23:08+00:00",
-      "tags": [
-        "科学",
-        "安全",
-        "系统",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 1473,
-      "summaryLength": 295,
-      "summaryQuality": "medium",
-      "readerTextZh": "Just、Trump Administration、On Thursday、Antares发生产品发布或能力更新。从已有材料看，这不是孤立的标题变化，而是与科学、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Small发生科技产业或开发者生态变化。这条消息需要放在科学、安全的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
       "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
       "titleZh": "国际网络安全消息：CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
       "summary": "CISA、SolarWinds Serv-U发生安全事件或漏洞修复。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。CISA、Hackers、SolarWinds Serv-U发生科技产业或开发者生态变化。这条消息需要放在安全、漏洞的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。",
@@ -454,28 +453,6 @@
       "summaryLength": 295,
       "summaryQuality": "weak",
       "readerTextZh": "CISA、SolarWinds Serv-U发生安全事件或漏洞修复。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。CISA、Hackers、SolarWinds Serv-U发生科技产业或开发者生态变化。这条消息需要放在安全、漏洞的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Chinese APT deploys new malware to keep access to hacked networks",
-      "titleZh": "国际网络安全消息：Chinese APT deploys new malware to keep access to hacked networks",
-      "summary": "Chinese、UNC5221、Microsoft、Brickstorm发生科技产业或开发者生态变化，涉及关键数字：5221 、365。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Chinese APT发生安全事件或漏洞修复。这条消息需要放在安全、漏洞的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。",
-      "originalSummary": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previ...。",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-      "source": "BleepingComputer",
-      "region": "国际",
-      "publishedAt": "2026-06-05T18:09:47+00:00",
-      "tags": [
-        "安全",
-        "漏洞",
-        "攻击",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 189,
-      "summaryLength": 306,
-      "summaryQuality": "fair",
-      "readerTextZh": "Chinese、UNC5221、Microsoft、Brickstorm发生科技产业或开发者生态变化，涉及关键数字：5221 、365。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Chinese APT发生安全事件或漏洞修复。这条消息需要放在安全、漏洞的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     },
     {
@@ -565,6 +542,29 @@
       "summaryLength": 304,
       "summaryQuality": "medium",
       "readerTextZh": "Attackers、Meta、AI、Instagram发生AI 模型或智能体能力进展，涉及关键数字：5、404 M。从已有材料看，这不是孤立的标题变化，而是与前沿研究、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。The Meta、AI、Mythos发生安全事件或漏洞修复。这条消息需要放在前沿研究、AI的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "Benn Jordan longs for the days of tech that didn’t spy on you",
+      "titleZh": "国际科技产业、硬件消息：Benn Jordan longs for the days of tech that didn’t spy on you",
+      "summary": "Benn、Image、Benn Jordan Benn Jordan、Flashbulb发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Benn Jordan发生科技产业或开发者生态变化。这条消息需要放在科技产业、硬件的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。",
+      "originalSummary": "Benn refuses to be pigeon holed. | Image: Benn Jordan Benn Jordan may have initially gained notoriety for his music as Flashbulb a...。While there will still be the occasional video focused on music or audio - say, poisoning AI music systems or...。But about five years ago, Benn decided to take his YouTube channel in a different direction。",
+      "url": "https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire",
+      "source": "The Verge",
+      "region": "国际",
+      "publishedAt": "2026-06-04T18:16:28+00:00",
+      "tags": [
+        "科技产业",
+        "硬件",
+        "AI",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 741,
+      "summaryLength": 305,
+      "summaryQuality": "medium",
+      "readerTextZh": "Benn、Image、Benn Jordan Benn Jordan、Flashbulb发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Benn Jordan发生科技产业或开发者生态变化。这条消息需要放在科技产业、硬件的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     },
     {
@@ -658,6 +658,48 @@
       "summaryQuality": "medium",
       "readerTextZh": "Jake Cooper、Railway、VentureBeat、What Railway发生AI 模型或智能体能力进展，涉及关键数字：28、$100 m。从已有材料看，这不是孤立的标题变化，而是与AI、产业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Railway、AWS、AI-native发生AI 模型或智能体能力进展，涉及关键数字：$100 m。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
+    },
+    {
+      "title": "查分认准官方渠道，网警曝光“仿冒教育考试类官网伪造成绩”骗局",
+      "titleZh": "查分认准官方渠道，网警曝光“仿冒教育考试类官网伪造成绩”骗局",
+      "summary": "据公安部网安局公众号，2026 年高考进入倒计时，公安网安部门紧盯仿冒官方网站、虚假查分链接、涉考引流诈骗等突出风险，护航高考安全平稳进行。近日，广东公安网安部门工作发现，网上有多条涉 仿冒教育考试类官网“假查分、伪造成绩” 帖文，引发网民关注和讨论。经查，违法行为人罗某于 2026 年 1 月开始，仿照“中国教育考试网”等教育考试相关官方站点， 搭建虚假教育考试网站 ，并通过社交平台进行非法引流，以 提供“定制版成绩查询页面”“定制版成绩查询截图”等虚假成绩 为名...。",
+      "originalSummary": "据公安部网安局公众号，2026 年高考进入倒计时，公安网安部门紧盯仿冒官方网站、虚假查分链接、涉考引流诈骗等突出风险，护航高考安全平稳进行。近日，广东公安网安部门工作发现，网上有多条涉 仿冒教育考试类官网“假查分、伪造成绩” 帖文，引发网民关注和讨论。经查，违法行为人罗某于 2026 年 1 月开始，仿照“中国教育考试网”等教育考试相关官方站点， 搭建虚假教育考试网站 ，并通过社交平台进行非法引流，以 提供“定制版成绩查询页面”“定制版成绩查询截图”等虚假成绩 为名...。",
+      "url": "https://www.ithome.com/0/960/989.htm",
+      "source": "IT之家",
+      "region": "国内",
+      "publishedAt": "2026-06-06T15:41:42+00:00",
+      "tags": [
+        "国内科技",
+        "消费电子",
+        "安全"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 806,
+      "summaryLength": 200,
+      "summaryQuality": "medium",
+      "readerTextZh": "据公安部网安局公众号，2026 年高考进入倒计时，公安网安部门紧盯仿冒官方网站、虚假查分链接、涉考引流诈骗等突出风险，护航高考安全平稳进行 近日，广东公安网安部门工作发现，网上有多条涉 仿冒教育考试类官网“假查分、伪造成绩” 帖文，引发网民关注和讨论 经查，违法行为人罗某于 2026 年 1 月开始，仿照“中国教育考试网”等教育考试相关官方站点， 搭建虚假教育考试网站 ，并通过社交平台进行非法引流，以 提供“定制版成绩查询页面”“定制版成绩查询截图”等虚假成绩 为名，收取费用、非法牟利，其行为严重扰乱招生考试秩序 目前，属地公安机关已对罗某依法采取刑事强制措施， 相关虚假网站、引流账号均被关停清理 IT之家获悉，涉仿冒教育考试网站类违法行为通常具有“三步走”特征 行为人搭建界面与官方高度相似的虚假网站，并设置“高考相关入口链接”作为“信任背书”， 诱导网民误以为其为官方子站 ，以此骗取考生和家长的信任，降低其防备心 通过社交平台将流量导入假网站，专门瞄准 考试失利、压力过大、害怕家人失望 的考生及家长 利用当事人“不想面对现实、急需一个交代”的脆弱心理，将虚假网站包装成可以“解决麻烦”的灰色渠道",
+      "isTranslated": false
+    },
+    {
+      "title": "马斯克将出席阿斯麦 ASML 闭门技术研讨会，讨论 TeraFab 项目",
+      "titleZh": "马斯克将出席阿斯麦 ASML 闭门技术研讨会，讨论 TeraFab 项目",
+      "summary": "据彭博社今日报道，埃隆 · 马斯克将以虚拟形式出席由阿斯麦（ASML）举办的一场闭门技术会议，以讨论他的 TeraFab 项目，阿斯麦将该项目视为一项“认真的尝试”。TeraFab 项目是 SpaceX、特斯拉和英特尔共同推进的合资项目，计划建设一系列巨型半导体工厂，其首期投资 200 亿美元，计划落户得克萨斯州，实现逻辑芯片、存储芯片与先进封装业务一体化生产。SpaceX 还向相关部门提交申请，计划在得州格兰姆斯县建设一座耗资 550 亿美元的半导体厂区，该项目后续扩建总成本最高或将达 1190 亿美元。",
+      "originalSummary": "据彭博社今日报道，埃隆 · 马斯克将以虚拟形式出席由阿斯麦（ASML）举办的一场闭门技术会议，以讨论他的 TeraFab 项目，阿斯麦将该项目视为一项“认真的尝试”。TeraFab 项目是 SpaceX、特斯拉和英特尔共同推进的合资项目，计划建设一系列巨型半导体工厂，其首期投资 200 亿美元，计划落户得克萨斯州，实现逻辑芯片、存储芯片与先进封装业务一体化生产。SpaceX 还向相关部门提交申请，计划在得州格兰姆斯县建设一座耗资 550 亿美元的半导体厂区，该项目后续扩建总成本最高或将达 1190 亿美元。",
+      "url": "https://www.ithome.com/0/960/988.htm",
+      "source": "IT之家",
+      "region": "国内",
+      "publishedAt": "2026-06-06T15:37:09+00:00",
+      "tags": [
+        "国内科技",
+        "消费电子",
+        "芯片"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 934,
+      "summaryLength": 224,
+      "summaryQuality": "medium",
+      "readerTextZh": "据彭博社今日报道，埃隆 · 马斯克将以虚拟形式出席由阿斯麦（ASML）举办的一场闭门技术会议，以讨论他的 TeraFab 项目，阿斯麦将该项目视为一项“认真的尝试” 阿斯麦公司发言人表示，马斯克将在面向阿斯麦员工的活动中分享他对人工智能、机器人、太空和半导体制造的愿景 依托 TeraFab 项目，马斯克团队正式跻身全球半导体产业生态，阿斯麦等多家企业将参与该项目合作 据IT之家此前报道，阿斯麦（ASML）首席执行官克里斯托夫 · 富凯上月透露， 他已就 TeraFab 半导体项目与埃隆 · 马斯克进行了直接沟通 其在接受路透社采访时表示，马斯克对于打造有史以来规模最大的芯片制造基地之一一事态度非常认真 台积电董事长兼 CEO 魏哲家本周则表示，马斯克从零开始建设大规模尖端芯片工厂的计划，距离真正落地还需要很长时间 “对于马斯克的 TeraFab， 我只能说‘祝好运’ TeraFab 项目是 SpaceX、特斯拉和英特尔共同推进的合资项目，计划建设一系列巨型半导体工厂，其首期投资 200 亿美元，计划落户得克萨斯州，实现逻辑芯片、存储芯片与先进封装业务一体化生产",
+      "isTranslated": false
     },
     {
       "title": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
