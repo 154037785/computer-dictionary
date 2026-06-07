@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-07T10:16:24.972325+00:00",
-  "nextUpdate": "2026-06-07T22:16:24.972325+00:00",
+  "updatedAt": "2026-06-07T16:55:18.004322+00:00",
+  "nextUpdate": "2026-06-08T04:55:18.004322+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -97,6 +97,10 @@
     {
       "source": "阿里云开发者",
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source": "SegmentFault 思否",
+      "error": "The read operation timed out"
     }
   ],
   "items": [
@@ -108,7 +112,7 @@
       "url": "https://tech.meituan.com/2026/03/09/LongCat-OpenClaw.html",
       "source": "美团技术团队",
       "region": "公众号/技术团队",
-      "publishedAt": "2026-06-07T10:15:57.941843+00:00",
+      "publishedAt": "2026-06-07T16:54:56.245078+00:00",
       "tags": [
         "后端",
         "工程",
@@ -131,7 +135,7 @@
       "url": "https://tech.meituan.com/2026/03/13/Qwik-practice-in-dianping.html",
       "source": "美团技术团队",
       "region": "公众号/技术团队",
-      "publishedAt": "2026-06-07T10:15:57.937310+00:00",
+      "publishedAt": "2026-06-07T16:54:56.240489+00:00",
       "tags": [
         "后端",
         "工程",
@@ -154,7 +158,7 @@
       "url": "https://tech.meituan.com/2026/03/20/Busniness-Intelligence-practice-in-meituan.html",
       "source": "美团技术团队",
       "region": "公众号/技术团队",
-      "publishedAt": "2026-06-07T10:15:57.928023+00:00",
+      "publishedAt": "2026-06-07T16:54:56.231161+00:00",
       "tags": [
         "后端",
         "工程",
@@ -177,7 +181,7 @@
       "url": "https://tech.meituan.com/2026/04/02/LongCat-Next.html",
       "source": "美团技术团队",
       "region": "公众号/技术团队",
-      "publishedAt": "2026-06-07T10:15:57.914751+00:00",
+      "publishedAt": "2026-06-07T16:54:56.217843+00:00",
       "tags": [
         "后端",
         "工程",
@@ -193,6 +197,29 @@
       "isTranslated": false
     },
     {
+      "title": "LongCat-Flash-Prover：AI 攻克数学定理证明，不仅要“算得对”，更要“证得严”",
+      "titleZh": "LongCat-Flash-Prover：AI 攻克数学定理证明，不仅要“算得对”，更要“证得严”",
+      "summary": "现如今的大语言模型已经能流畅地写文章、写代码，甚至执行复杂的 Agent 工作流，然而，它们在面对严谨的数学定理证明时，却往往显得力不从心。为了解答这个问题，我们开源了专门用于数学形式化与定理证明的模型 —— LongCat-Flash-Prover。而 LongCat-Flash-Prover 在结合工具集成推理（TIR）后， 仅需 72 次尝试，就在 MiniF2F-Test 数据集上达到了 97.1% 的通过率 ，刷新了已知开源模型的 SOTA。",
+      "originalSummary": "现如今的大语言模型已经能流畅地写文章、写代码，甚至执行复杂的 Agent 工作流，然而，它们在面对严谨的数学定理证明时，却往往显得力不从心。为了解答这个问题，我们开源了专门用于数学形式化与定理证明的模型 —— LongCat-Flash-Prover。而 LongCat-Flash-Prover 在结合工具集成推理（TIR）后， 仅需 72 次尝试，就在 MiniF2F-Test 数据集上达到了 97.1% 的通过率 ，刷新了已知开源模型的 SOTA。",
+      "url": "https://tech.meituan.com/2026/04/07/LongCat-Flash-Prover.html",
+      "source": "美团技术团队",
+      "region": "公众号/技术团队",
+      "publishedAt": "2026-06-07T16:54:56.210743+00:00",
+      "tags": [
+        "后端",
+        "工程",
+        "技术团队",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 6384,
+      "summaryLength": 190,
+      "summaryQuality": "weak",
+      "readerTextZh": "现如今的大语言模型已经能流畅地写文章、写代码，甚至执行复杂的 Agent 工作流，然而，它们在面对严谨的数学定理证明时，却往往显得力不从心 在常规的数学解题中，模型只需要“答对最终数值”即可，但数学定理证明不同，它要求极度严苛的逻辑链条，任何一句自然语言的模棱两可，都可能导致整个证明的崩塌 那么，如何让 AI 从“猜答案”走向“严谨证明”，成为复杂推理具有挑战的课题 为了解答这个问题，我们开源了专门用于数学形式化与定理证明的模型 —— LongCat-Flash-Prover LongCat-Flash-Prover 在解决定理证明和形式化任务时，将形式化推理拆解为自动形式化（Auto-Formalization）、草稿生成（Sketching）和证明生成（Proving）三大原子能力 在结合工具集成推理（Tool-Integrated Reasoning，TIR）策略下， 仅用 72 次推理预算，MiniF2F-Test 通过率就达到 97.1% ，在已知开源 Prover 模型中刷新 SOTA 在超难竞赛级任务上， MathOlympiad-Bench 达 46.7%（180 次预算），PutnamBench 达 41.5%（118 次预算） ，同样超越现有开源模型 目前 LongCat-Flash-Prover 已全面开源，欢迎使用：",
+      "isTranslated": false
+    },
+    {
       "title": "突破零样本 TTS 音色克隆上限：LongCat-AudioDiT 的声音克隆艺术",
       "titleZh": "突破零样本 TTS 音色克隆上限：LongCat-AudioDiT 的声音克隆艺术",
       "summary": "其中 LongCat-AudioDiT-3.5B 模型，在 Seed-ZH 测试集的说话人相似度（SIM）指标提升至 0.818，Seed-Hard 测试集达到 0.797，超过了 Seed-TTS、CosyVoice3.5、MiniMax-Speech 等知...。我们在 Seed 基准上测试了 LongCat-AudioDiT 的表现，并与业界知名模型，比如 SeedTTS、CosyVoice3.5、MiniMax-Speech 等进行对比。今天，我们将 LongCat-AudioDiT 模型（1B / 3.5B）全部开源，期待与社区同仁共同推动语音生成技术的边界。",
@@ -200,7 +227,7 @@
       "url": "https://tech.meituan.com/2026/04/20/LongCat-AudioDiT.html",
       "source": "美团技术团队",
       "region": "公众号/技术团队",
-      "publishedAt": "2026-06-07T10:15:57.901989+00:00",
+      "publishedAt": "2026-06-07T16:54:56.204788+00:00",
       "tags": [
         "后端",
         "工程",
@@ -216,6 +243,28 @@
       "isTranslated": false
     },
     {
+      "title": "LARYBench 发布：定义具身动作表征 ImageNet，首次度量从人类视频学习的泛化表征",
+      "titleZh": "LARYBench 发布：定义具身动作表征 ImageNet，首次度量从人类视频学习的泛化表征",
+      "summary": "评测的核心逻辑如图2所示：输入一段视频或图像序列，通过待测的隐式动作模型（Latent Action Model, LAM）提取出动作表征 z ，随后通过浅层探测头（probing）来验证 z 的质量。处理流程包括，动作片段切片、视频描述、动作提取和归一化，最后通过人工抽检做质检校验，确保训练集准确率在85%以上，测试集准确率在95%以上。综合来看，DINOv3 在四个数据集上的平均 MSE 低至 0.19，而具身专项模型 LAPA 的平均 MSE 高达 0.97。",
+      "originalSummary": "评测的核心逻辑如图2所示：输入一段视频或图像序列，通过待测的隐式动作模型（Latent Action Model, LAM）提取出动作表征 z ，随后通过浅层探测头（probing）来验证 z 的质量。处理流程包括，动作片段切片、视频描述、动作提取和归一化，最后通过人工抽检做质检校验，确保训练集准确率在85%以上，测试集准确率在95%以上。综合来看，DINOv3 在四个数据集上的平均 MSE 低至 0.19，而具身专项模型 LAPA 的平均 MSE 高达 0.97。",
+      "url": "https://tech.meituan.com/2026/04/27/LongCat-LARYBench.html",
+      "source": "美团技术团队",
+      "region": "公众号/技术团队",
+      "publishedAt": "2026-06-07T16:54:56.200419+00:00",
+      "tags": [
+        "后端",
+        "工程",
+        "技术团队",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 4732,
+      "summaryLength": 196,
+      "summaryQuality": "weak",
+      "readerTextZh": "如果你看过今年春晚武术节目《武BOT》，一定会对那群与人类武者同台对打的机器人印象深刻 但在流畅的武术动作背后，是一个工程师团队连续数周针对特定舞台、特定灯光反复调试后才可能达到的动作丝滑 为什么机器人在固定场景下表现良好，但换一个环境、任务，泛化能力就会明显下降？ 究其根源，是具身行业缺少带动作标注的训练数据进行泛化学习，而互联网上大规模人类数据是极具潜力的数据来源 为了指引具身智能走向GPT时刻，像大模型一样走通大规模数据学习范式，通过人类视频数据学习通用的、跨本体的隐式动作表征是关键 为此，我们提出了 LARYBench （Latent Action Representation Yielding Benchmark） ，一个指引从大规模的视觉数据学习到通用的隐式动作表征的系统化评测基准 实验结果表明：在动作泛化和控制精度上，通用视觉模型的表现均显著优于专门为具身智能设计的动作专家模型，具身动作表征可以从大规模人类视频数据中涌现 01 背景： 缺一把从视频到动作的标尺",
+      "isTranslated": false
+    },
+    {
       "title": "用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践",
       "titleZh": "用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践",
       "summary": "当团队 90% 以上的代码由 AI 生成，31 万行的复杂业务系统还在高速膨胀，你会发现一个反直觉的事实：AI Coding 不会自动收敛复杂度 —— 没有统一规范的约束，不同人用 AI 写出的代码风格各异，系统反而会加速腐化。利用 AI 工具，工程师短时间内就发现了 10 个性能隐患——过去需要长期积累才能建立的代码全局感，现在借助 AI，团队中的每个人都能快速具备。具体来说，人负责圈定 P0/P1 级问题和优先级，AI 负责在圈定的方向上做穷举扫描——比如梳理业务模型问题、定位大数据量性能隐患、排查状态管理和索引层面的技术债。",
@@ -223,7 +272,7 @@
       "url": "https://tech.meituan.com/2026/05/07/Agent-AI-Coding.html",
       "source": "美团技术团队",
       "region": "公众号/技术团队",
-      "publishedAt": "2026-06-07T10:15:57.893284+00:00",
+      "publishedAt": "2026-06-07T16:54:56.196058+00:00",
       "tags": [
         "后端",
         "工程",
@@ -238,47 +287,245 @@
       "isTranslated": false
     },
     {
-      "title": "从高拟真到真可用，LongCat-Video-Avatar 1.5 正式开源",
-      "titleZh": "从高拟真到真可用，LongCat-Video-Avatar 1.5 正式开源",
-      "summary": "美团正式开源 LongCat-Video-Avatar 1.5 ，作为一款从开源 SOTA 迈向商业级应用的数字人视频模型。LongCat-Video-Avatar 1.5 即便在复杂商业场景里，也能稳定、自然地输出高质量内容，让数字人视频生成从彩排室的完美演练，走向千人千面的真实舞台。这一升级同时提升了唇形同步与全身时序稳定性——面部表情、头部姿态、肩颈和肢体动作与语音更自然地协同，大幅减少了长视频中的抖动、跳帧、画面冻结和身份漂移 综合评测中， LongCat-Video-Avatar 1.5 的自...。",
-      "originalSummary": "美团正式开源 LongCat-Video-Avatar 1.5 ，作为一款从开源 SOTA 迈向商业级应用的数字人视频模型。LongCat-Video-Avatar 1.5 即便在复杂商业场景里，也能稳定、自然地输出高质量内容，让数字人视频生成从彩排室的完美演练，走向千人千面的真实舞台。这一升级同时提升了唇形同步与全身时序稳定性——面部表情、头部姿态、肩颈和肢体动作与语音更自然地协同，大幅减少了长视频中的抖动、跳帧、画面冻结和身份漂移 综合评测中， LongCat-Video-Avatar 1.5 的自...。",
-      "url": "https://tech.meituan.com/2026/05/25/LongCat-Video-Avatar-1.5.html",
-      "source": "美团技术团队",
-      "region": "公众号/技术团队",
-      "publishedAt": "2026-06-07T10:15:57.884560+00:00",
-      "tags": [
-        "后端",
-        "工程",
-        "技术团队",
-        "AI",
-        "开源"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 5876,
-      "summaryLength": 219,
-      "summaryQuality": "strong",
-      "readerTextZh": "美团正式开源 LongCat-Video-Avatar 1.5 ，作为一款从开源 SOTA 迈向商业级应用的数字人视频模型 在唇形同步、物理合理性、长视频稳定性、多人互动和高效推理上实现了全面跃升 LongCat-Video-Avatar 1.5 即便在复杂商业场景里，也能稳定、自然地输出高质量内容，让数字人视频生成从彩排室的完美演练，走向千人千面的真实舞台 为了让数字人\"更稳定、更自然\"地动起来，我们在以下三方面实现能力升级： 基础体验全面商用化 ：在长句、快语速、歌唱等复杂语音输入下，唇部运动更精准平滑，面部表情、头部姿态和肢体动作更协调，整体表达自然稳定 支持更丰富的场景 ：借助高质量数据体系，模型能稳定处理真人、动漫、动物等多类主体，多人对话更加自然且准确区分说话者与聆听者 推理部署更高效 ：采用 DMD 蒸馏至 8 步生成，效率提升约 15 倍，更适配规模化应用和真实业务场景 GitHub ： https://github.com/meituan-longcat/LongCat-Video",
-      "isTranslated": false
-    },
-    {
-      "title": "别再把 make 和 new 搞混：Go make 从切片到通道实战详解",
-      "titleZh": "别再把 make 和 new 搞混：Go make 从切片到通道实战详解",
-      "summary": "简介 make 是 Go 里的内置函数，专门用来创建并初始化三种类型： slice map channel 语法大概长这样： 常见写法： 一句话概括： 这点和 new 不一样。new 返回指针，得到 make 是 Go 里的内置函数，专门用来创建并初始化三种类型： s := make ([] int , 0 , 10 ) m := make ( map [ string ] int ) ch...。这点和 new 不一样 make 返回类型本身，得到的是已经初始化好的 slice、map、channel var s [] int var m map [ string ] int var ch c...。",
-      "originalSummary": "简介 make 是 Go 里的内置函数，专门用来创建并初始化三种类型： slice map channel 语法大概长这样： 常见写法： 一句话概括： 这点和 new 不一样。new 返回指针，得到 make 是 Go 里的内置函数，专门用来创建并初始化三种类型： s := make ([] int , 0 , 10 ) m := make ( map [ string ] int ) ch...。这点和 new 不一样 make 返回类型本身，得到的是已经初始化好的 slice、map、channel var s [] int var m map [ string ] int var ch c...。",
-      "url": "https://juejin.cn/post/7647918647206707219",
+      "title": "Mac 进阶效率手册：从操作熟练到效率飞升",
+      "titleZh": "Mac 进阶效率手册：从操作熟练到效率飞升",
+      "summary": "一、 截图与录屏：比第三方工具更好用 Mac 自带的截图 🍏 Mac 进阶效率手册：从操作熟练到效率飞升 这篇技巧涵盖了截图、多任务管理、系统隐藏功能及苹果生态联动。建议收藏到你的“进阶技巧”分类中 Mac 自带的截图功能非常强大，完全不需要打开聊天软件来截图 Command + Shift + 4： 自由截图。按下后光标变成相机，点击任何窗口即可截取带漂亮阴影的单一窗口图 Command + Shift + 5： 截图/录屏综合控制台。",
+      "originalSummary": "一、 截图与录屏：比第三方工具更好用 Mac 自带的截图 🍏 Mac 进阶效率手册：从操作熟练到效率飞升 这篇技巧涵盖了截图、多任务管理、系统隐藏功能及苹果生态联动。建议收藏到你的“进阶技巧”分类中 Mac 自带的截图功能非常强大，完全不需要打开聊天软件来截图 Command + Shift + 4： 自由截图。按下后光标变成相机，点击任何窗口即可截取带漂亮阴影的单一窗口图 Command + Shift + 5： 截图/录屏综合控制台。",
+      "url": "https://juejin.cn/post/7648278168965906472",
       "source": "掘金技术社区",
       "region": "公众号/中文深度",
-      "publishedAt": "2026-06-07T10:02:42+00:00",
+      "publishedAt": "2026-06-07T16:03:03+00:00",
       "tags": [
         "前端",
         "后端",
         "开发者"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2437,
-      "summaryLength": 209,
-      "summaryQuality": "strong",
-      "readerTextZh": "简介 make 是 Go 里的内置函数，专门用来创建并初始化三种类型： slice map channel 语法大概长这样： 常见写法： 一句话概括： 这点和 new 不一样 new 返回指针，得到 简介 make 是 Go 里的内置函数，专门用来创建并初始化三种类型： slice map channel 语法大概长这样： 常见写法： 一句话概括： 这点和 new 不一样 new 返回指针，得到 make 是 Go 里的内置函数，专门用来创建并初始化三种类型： s := make ([] int , 0 , 10 ) m := make ( map [ string ] int ) ch := make ( chan int , 3 ) 一句话概括： make 用来把 slice、map、channel 初始化成可用状态 这点和 new 不一样 make 返回类型本身，得到的是已经初始化好的 slice、map、channel var s [] int var m map [ string ] int var ch chan int 它们都是零值状态： package main import \"fmt\" func main () { var s [] int var m map [ string ] int var ch chan int fmt.Println(s == nil ) fmt.Println(m == nil ) fmt.Println(ch == nil ) } 输出： true true true nil slice、nil map、nil channel 都不是完全不能用，但限制很多： 创建底层数据结构，让 slice、map、channel 进入可正常使用的状态 make 的返回值不是指针 package main import \"fmt\" func main () { s := make ([] int , 3 ) m := make ( map [ string ] int ) ch := make ( chan int ) fmt.P...",
+      "sourceTextLength": 1589,
+      "summaryLength": 180,
+      "summaryQuality": "weak",
+      "readerTextZh": "🍏 Mac 进阶效率手册：从操作熟练到效率飞升 这篇技巧涵盖了截图、多任务管理、系统隐藏功能及苹果生态联动 一、 截图与录屏：比第三方工具更好用 Mac 自带的截图 🍏 Mac 进阶效率手册：从操作熟练到效率飞升 这篇技巧涵盖了截图、多任务管理、系统隐藏功能及苹果生态联动 一、 截图与录屏：比第三方工具更好用 Mac 自带的截图 这篇技巧涵盖了截图、多任务管理、系统隐藏功能及苹果生态联动 建议收藏到你的“进阶技巧”分类中 Mac 自带的截图功能非常强大，完全不需要打开聊天软件来截图 Command + Shift + 4： 自由截图 小技巧： 拖动过程中按住 空格键 ，可以移动这个选框 按住 Option ，可以从中心缩放 Command + Shift + 4 + 空格： 窗口截图 按下后光标变成相机，点击任何窗口即可截取带漂亮阴影的单一窗口图 Command + Shift + 5： 截图/录屏综合控制台 在这里可以选择录制全屏或局部 Mac 管理窗口的逻辑与 Windows 不同，掌握以下三点是关键： 调度中心 (Mission Control)： 三指上滑： 看到当前所有打开的窗口，防止找不到后台软件 顶部栏： 将窗口往屏幕最上方拖动，可以创建“新桌面”",
+      "isTranslated": false
+    },
+    {
+      "title": "深度学习框架PyTorch笔记（三）数据集类(Data Set)与数据加载器(Data Loader) - GeoFXR",
+      "titleZh": "深度学习框架PyTorch笔记（三）数据集类(Data Set)与数据加载器(Data Loader) - GeoFXR",
+      "summary": "【摘要】在PyTorch中，数据集(Data Set)和数据加载器(Data Loader)是实现深度学习模型和测试的基本组件。下面将首先介绍数据集(Data Set)和数据加载器（Data Loader）的概念，然后介绍如何创建和使用PyTorch中的数据加载器的一些步骤和示例。数据集的主要目的是提供对数据的标准访问方法，以便可以轻松地将其用于模型训练、验证和测试 ​ 数据加载器（Data Loader） 是一个提供批量加载数据的工具。",
+      "originalSummary": "【摘要】在PyTorch中，数据集(Data Set)和数据加载器(Data Loader)是实现深度学习模型和测试的基本组件。下面将首先介绍数据集(Data Set)和数据加载器（Data Loader）的概念，然后介绍如何创建和使用PyTorch中的数据加载器的一些步骤和示例。数据集的主要目的是提供对数据的标准访问方法，以便可以轻松地将其用于模型训练、验证和测试 ​ 数据加载器（Data Loader） 是一个提供批量加载数据的工具。",
+      "url": "https://www.cnblogs.com/GeophysicsWorker/p/20363775",
+      "source": "博客园技术文章",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T15:56:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3494,
+      "summaryLength": 193,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】在PyTorch中，数据集(Data Set)和数据加载器(Data Loader)是实现深度学习模型和测试的基本组件 下面将首先介绍数据集(Data Set)和数据加载器（Data Loader）的概念，然后介绍如何创建和使用PyTorch中的数据加载器的一些步骤和示例 阅读全文 在PyTorch中，数据集(Data Set)和数据加载器(Data Loader)是实现深度学习模型和测试的基本组件 下面将首先介绍数据集(Data Set)和数据加载器（Data Loader）的概念，然后介绍如何创建和使用PyTorch中的数据加载器的一些步骤和示例 在PyTorch中，数据集(Data Set)和数据加载器(Data Loader)是实现深度学习模型和测试的基本组件 下面将首先介绍数据集(Data Set)和数据加载器（Data Loader）的概念，然后介绍如何创建和使用PyTorch中的数据加载器的一些步骤和示例 ​ 数据集类（Data Set） 是指存储和表示数据的类或接口 它通常用于封装数据，以便能够在机器学习任务中使用 数据集可以是任何形式的数据，比如图像、文本、音频等 数据集的主要目的是提供对数据的标准访问方法，以便可以轻松地将其用于模型训练、验证和测试 ​ 数据加载器（Data Loader） 是一个提供批量加载数据的工具",
+      "isTranslated": false
+    },
+    {
+      "title": "FastAPI 身份验证总踩坑？这份 FastAPI Users “避坑指南”请收好 - 一名程序媛呀",
+      "titleZh": "FastAPI 身份验证总踩坑？这份 FastAPI Users “避坑指南”请收好 - 一名程序媛呀",
+      "summary": "【摘要】身份验证是每个后端项目的“第一道门”，但往往也是劝退新手的第一大坑。本文不讲虚的，以一个全栈工程师的真实踩坑视角，带你梳理 FastAPI 身份验证与用户管理的最优解—— FastAPI Users 库，从安装、实战到选型建议，一条龙拆解。如果你正被 JWT、Cookie、数据库迁移搞得头秃，这篇“... 阅读全文。",
+      "originalSummary": "【摘要】身份验证是每个后端项目的“第一道门”，但往往也是劝退新手的第一大坑。本文不讲虚的，以一个全栈工程师的真实踩坑视角，带你梳理 FastAPI 身份验证与用户管理的最优解—— FastAPI Users 库，从安装、实战到选型建议，一条龙拆解。如果你正被 JWT、Cookie、数据库迁移搞得头秃，这篇“... 阅读全文。",
+      "url": "https://www.cnblogs.com/ymtianyu/p/20363746",
+      "source": "博客园技术文章",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T15:40:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 162,
+      "summaryLength": 134,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】身份验证是每个后端项目的“第一道门”，但往往也是劝退新手的第一大坑 本文不讲虚的，以一个全栈工程师的真实踩坑视角，带你梳理 FastAPI 身份验证与用户管理的最优解—— FastAPI Users 库，从安装、实战到选型建议，一条龙拆解 如果你正被 JWT、Cookie、数据库迁移搞得头秃，这篇“... 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "读《堂吉诃德》到最后，我舍不得堂吉诃德与桑丘",
+      "titleZh": "读《堂吉诃德》到最后，我舍不得堂吉诃德与桑丘",
+      "summary": "《清华大学荐读书目》是一本专为大家推荐图书的书，书中推荐的书分作四个类别：中国文化名著、中国文学名著、世界文化名著、世界文学名著。阅读这本书时，我总想要将书中那些推荐书籍统统读完，于是将好多书加入书架。",
+      "originalSummary": "《清华大学荐读书目》是一本专为大家推荐图书的书，书中推荐的书分作四个类别：中国文化名著、中国文学名著、世界文化名著、世界文学名著。阅读这本书时，我总想要将书中那些推荐书籍统统读完，于是将好多书加入书架。",
+      "url": "https://juejin.cn/post/7648435540396703807",
+      "source": "掘金技术社区",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T14:35:21+00:00",
+      "tags": [
+        "前端",
+        "后端",
+        "开发者"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 100,
+      "summaryLength": 90,
+      "summaryQuality": "weak",
+      "readerTextZh": "《清华大学荐读书目》是一本专为大家推荐图书的书，书中推荐的书分作四个类别：中国文化名著、中国文学名著、世界文化名著、世界文学名著 阅读这本书时，我总想要将书中那些推荐书籍统统读完，于是将好多书加入书架",
+      "isTranslated": false
+    },
+    {
+      "title": "Python 模块与包的导入导出",
+      "titleZh": "Python 模块与包的导入导出",
+      "summary": "这篇只解决一个问题：Python 里的模块、包、导入方式和 import 查找规则到底是什么关系。先按前端思维类比： 但 Python 和前端最大的区别是： Python 文件里写在顶层的变量、函数。",
+      "originalSummary": "这篇只解决一个问题：Python 里的模块、包、导入方式和 import 查找规则到底是什么关系。先按前端思维类比： 但 Python 和前端最大的区别是： Python 文件里写在顶层的变量、函数。",
+      "url": "https://juejin.cn/post/7648168173879656511",
+      "source": "掘金技术社区",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T14:22:03+00:00",
+      "tags": [
+        "前端",
+        "后端",
+        "开发者"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 100,
+      "summaryLength": 84,
+      "summaryQuality": "weak",
+      "readerTextZh": "这篇只解决一个问题：Python 里的模块、包、导入方式和 import 查找规则到底是什么关系 先按前端思维类比： 但 Python 和前端最大的区别是： Python 文件里写在顶层的变量、函数",
+      "isTranslated": false
+    },
+    {
+      "title": "Python venv 虚拟环境",
+      "titleZh": "Python venv 虚拟环境",
+      "summary": "本文面向已有前端开发基础、正在学习 Python 工程化的开发者。这篇只解决一个问题： 先记住主线： venv 是 Python 标准库里的虚拟环境工具。它不是第三方包，也不是新的 Python。",
+      "originalSummary": "本文面向已有前端开发基础、正在学习 Python 工程化的开发者。这篇只解决一个问题： 先记住主线： venv 是 Python 标准库里的虚拟环境工具。它不是第三方包，也不是新的 Python。",
+      "url": "https://juejin.cn/post/7648435540396507199",
+      "source": "掘金技术社区",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T13:43:04+00:00",
+      "tags": [
+        "前端",
+        "后端",
+        "开发者",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 99,
+      "summaryLength": 83,
+      "summaryQuality": "weak",
+      "readerTextZh": "本文面向已有前端开发基础、正在学习 Python 工程化的开发者 这篇只解决一个问题： 先记住主线： venv 是 Python 标准库里的虚拟环境工具 它不是第三方包，也不是新的 Python",
+      "isTranslated": false
+    },
+    {
+      "title": "实战指南：利用 Git Worktrees 实现同仓库多 AI Agent 并行开发",
+      "titleZh": "实战指南：利用 Git Worktrees 实现同仓库多 AI Agent 并行开发",
+      "summary": "如果你在同一个代码仓库上运行多个 AI 编程智能体（Agents），你可能遇到过这种情况：智能体 A 正在修改 src/auth.rs，而智能体 B 恰好也在修改 src/auth.rs。",
+      "originalSummary": "如果你在同一个代码仓库上运行多个 AI 编程智能体（Agents），你可能遇到过这种情况：智能体 A 正在修改 src/auth.rs，而智能体 B 恰好也在修改 src/auth.rs。",
+      "url": "https://juejin.cn/post/7648477668240785423",
+      "source": "掘金技术社区",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T13:12:42+00:00",
+      "tags": [
+        "前端",
+        "后端",
+        "开发者",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 100,
+      "summaryLength": 76,
+      "summaryQuality": "weak",
+      "readerTextZh": "如果你在同一个代码仓库上运行多个 AI 编程智能体（Agents），你可能遇到过这种情况：智能体 A 正在修改 src/auth.rs，而智能体 B 恰好也在修改 src/auth.rs",
+      "isTranslated": false
+    },
+    {
+      "title": "自进化 Agent 实现的 4 个层面",
+      "titleZh": "自进化 Agent 实现的 4 个层面",
+      "summary": "如果 AI 能像人一样，随着时间，经验，反馈不断学习，会发生什么？。我们现在常用的 Agent，不管是豆包，还是编程用的 Cursor，本质是还是一次性对话工程，你问一句，它答一句，或者执行完一堆任务。",
+      "originalSummary": "如果 AI 能像人一样，随着时间，经验，反馈不断学习，会发生什么？。我们现在常用的 Agent，不管是豆包，还是编程用的 Cursor，本质是还是一次性对话工程，你问一句，它答一句，或者执行完一堆任务。",
+      "url": "https://juejin.cn/post/7648435540396212287",
+      "source": "掘金技术社区",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T13:05:07+00:00",
+      "tags": [
+        "前端",
+        "后端",
+        "开发者",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 100,
+      "summaryLength": 84,
+      "summaryQuality": "weak",
+      "readerTextZh": "如果 AI 能像人一样，随着时间，经验，反馈不断学习，会发生什么？ 我们现在常用的 Agent，不管是豆包，还是编程用的 Cursor，本质是还是一次性对话工程，你问一句，它答一句，或者执行完一堆任务",
+      "isTranslated": false
+    },
+    {
+      "title": "OpenSpec规约编程实践",
+      "titleZh": "OpenSpec规约编程实践",
+      "summary": "规约驱动开发（Spec-Driven Development，SDD）意味着在实现功能之前（及过程中），你需要以书面形式就意图、约束条件和验收标准达成共识——这样人类和 AI。",
+      "originalSummary": "规约驱动开发（Spec-Driven Development，SDD）意味着在实现功能之前（及过程中），你需要以书面形式就意图、约束条件和验收标准达成共识——这样人类和 AI。",
+      "url": "https://juejin.cn/post/7648157267779321871",
+      "source": "掘金技术社区",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T12:47:57+00:00",
+      "tags": [
+        "前端",
+        "后端",
+        "开发者",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 100,
+      "summaryLength": 75,
+      "summaryQuality": "weak",
+      "readerTextZh": "规约驱动开发（Spec-Driven Development，SDD）意味着在实现功能之前（及过程中），你需要以书面形式就意图、约束条件和验收标准达成共识——这样人类和 AI",
+      "isTranslated": false
+    },
+    {
+      "title": "Python 如何同时做很多事：进程、线程、协程",
+      "titleZh": "Python 如何同时做很多事：进程、线程、协程",
+      "summary": "从全局角度理解“程序如何同时做很多事”。并发与并行、同步与异步、进程、线程、协程、GIL、锁、队列、管道、进程池、线程池这些知识点，会放到各自真正适合的位置讲。你可以先记住一句话： 一、先建立全局地。",
+      "originalSummary": "从全局角度理解“程序如何同时做很多事”。并发与并行、同步与异步、进程、线程、协程、GIL、锁、队列、管道、进程池、线程池这些知识点，会放到各自真正适合的位置讲。你可以先记住一句话： 一、先建立全局地。",
+      "url": "https://juejin.cn/post/7648435540396081215",
+      "source": "掘金技术社区",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T12:35:24+00:00",
+      "tags": [
+        "前端",
+        "后端",
+        "开发者"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 100,
+      "summaryLength": 81,
+      "summaryQuality": "weak",
+      "readerTextZh": "从全局角度理解“程序如何同时做很多事” 并发与并行、同步与异步、进程、线程、协程、GIL、锁、队列、管道、进程池、线程池这些知识点，会放到各自真正适合的位置讲 你可以先记住一句话： 一、先建立全局地",
+      "isTranslated": false
+    },
+    {
+      "title": "Postgresql TPC-H OLAP测试全流程 - aixueforever",
+      "titleZh": "Postgresql TPC-H OLAP测试全流程 - aixueforever",
+      "summary": "【摘要】编译 1. 测试能否进入 PostgreSQL 先执行： sudo -u postgres psql -c \"SELECT version()。\" 如果能输出 PostgreSQL 版本，说明数据库服务正常。2. 创建 TPC-H 测试数据库 你当前 Linux 用户是 username，先检查 阅读全文。",
+      "originalSummary": "【摘要】编译 1. 测试能否进入 PostgreSQL 先执行： sudo -u postgres psql -c \"SELECT version()。\" 如果能输出 PostgreSQL 版本，说明数据库服务正常。2. 创建 TPC-H 测试数据库 你当前 Linux 用户是 username，先检查 阅读全文。",
+      "url": "https://www.cnblogs.com/aslanvon/p/20362058",
+      "source": "博客园技术文章",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T12:12:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 158,
+      "summaryLength": 119,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】编译 1. 测试能否进入 PostgreSQL 先执行： sudo -u postgres psql -c \"SELECT version() \" 如果能输出 PostgreSQL 版本，说明数据库服务正常 2. 创建 TPC-H 测试数据库 你当前 Linux 用户是 username，先检查 阅读全文",
       "isTranslated": false
     },
     {
@@ -305,6 +552,48 @@
       "isTranslated": false
     },
     {
+      "title": "GNU GCC 多版本函数扩展 - apocelipes",
+      "titleZh": "GNU GCC 多版本函数扩展 - apocelipes",
+      "summary": "【摘要】GNU GCC 为编写跨平台代码提供了多种支持，今天要讲的就是其中一种叫“多版本函数”的技术。什么是多版本函数 多版本函数指的是可以为同一个函数在不同的处理器平台或者指令集下编写不同的实现，程序在运行时会自动选择一个最合适的实现作为这个函数真正运行的实体。文字解释可能比较抽象，我们拿具体的cpp 阅读全文。",
+      "originalSummary": "【摘要】GNU GCC 为编写跨平台代码提供了多种支持，今天要讲的就是其中一种叫“多版本函数”的技术。什么是多版本函数 多版本函数指的是可以为同一个函数在不同的处理器平台或者指令集下编写不同的实现，程序在运行时会自动选择一个最合适的实现作为这个函数真正运行的实体。文字解释可能比较抽象，我们拿具体的cpp 阅读全文。",
+      "url": "https://www.cnblogs.com/apocelipes/p/20361495",
+      "source": "博客园技术文章",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T09:40:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 144,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】GNU GCC 为编写跨平台代码提供了多种支持，今天要讲的就是其中一种叫“多版本函数”的技术 什么是多版本函数 多版本函数指的是可以为同一个函数在不同的处理器平台或者指令集下编写不同的实现，程序在运行时会自动选择一个最合适的实现作为这个函数真正运行的实体 文字解释可能比较抽象，我们拿具体的cpp 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "纯浏览器PDF 编辑器：PDF.js + pdf-lib + Canvas 三件套深度拆解 - 疯狂SQL",
+      "titleZh": "纯浏览器PDF 编辑器：PDF.js + pdf-lib + Canvas 三件套深度拆解 - 疯狂SQL",
+      "summary": "【摘要】 在线体验：geekformat.com/zh-CN/pdf/edit（不用注册、不上传文件，浏览器里就能玩） 故事开头 老板：这份 50 页的合同 PDF，你帮我在每页右下角加个页码，再把所有\"乙方\"的位置画个箭头。你：好的（熟练打开 Adobe Acrobat 准备买会员）。",
+      "originalSummary": "【摘要】 在线体验：geekformat.com/zh-CN/pdf/edit（不用注册、不上传文件，浏览器里就能玩） 故事开头 老板：这份 50 页的合同 PDF，你帮我在每页右下角加个页码，再把所有\"乙方\"的位置画个箭头。你：好的（熟练打开 Adobe Acrobat 准备买会员）。",
+      "url": "https://www.cnblogs.com/fksql/p/20361491",
+      "source": "博客园技术文章",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T09:39:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 157,
+      "summaryLength": 113,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】 在线体验：geekformat.com/zh-CN/pdf/edit（不用注册、不上传文件，浏览器里就能玩） 故事开头 老板：这份 50 页的合同 PDF，你帮我在每页右下角加个页码，再把所有\"乙方\"的位置画个箭头 你：好的（熟练打开 Adobe Acrobat 准备买会员）",
+      "isTranslated": false
+    },
+    {
       "title": "接住来自空间站的信号：如何用手台接收 SSTV？",
       "titleZh": "接住来自空间站的信号：如何用手台接收 SSTV？",
       "summary": "它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验 它不是玄学，也不是单纯的浪漫。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 无论是在无人旷野之中的夜晚，还是城市中被灯光抢去光亮的夜空，你有没有想过去接收那些来自星空的信息？。所以「打卫星」的玩法有很多种，有进行卫星通联的，有接收 SSTV 信号的，还有一些学校会与国际空间站合作，开展学生与宇航员通联的教学活动 之前有介绍过 UV 段通联，但是受限于频率、传播环境和地形条件，UV 段在城市中通...。",
@@ -323,6 +612,333 @@
       "summaryLength": 228,
       "summaryQuality": "strong",
       "readerTextZh": "它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验 查看全文 它不是玄学，也不是单纯的浪漫 它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验 它不是玄学，也不是单纯的浪漫 它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 无论是在无人旷野之中的夜晚，还是城市中被灯光抢去光亮的夜空，你有没有想过去接收那些来自星空的信息？ 光年以外的宇宙之音对我们来说可能过于遥远，毕竟连 CRT 电视雪花里那一点点大爆炸的余晖，都早已经被更先进的技术所替代 但人工卫星的信号却在无时无刻地穿过天空、穿过我们的身体，回荡在这地球之上 在 上一篇文章 中，我讲述了如何使用手台进行中继台通信 没想到在少数派有很多派友对无线电通信感兴趣，所以今天整理一篇使用手台接收卫星 SSTV 信号的文章 严格来说，「打卫星」就是使用无线电电台获取卫星发来的信号，或者通过卫星进行无线电通信",
+      "isTranslated": false
+    },
+    {
+      "title": "DeepAgents - 使用Postgres作为Checkpoint - 花酒锄作田",
+      "titleZh": "DeepAgents - 使用Postgres作为Checkpoint - 花酒锄作田",
+      "summary": "【摘要】前言 在用 deepagents 做 Chatbot 的时候，有个最基本的需求：Agent 得记住上一轮聊了什么。你不能每轮对话都让用户重新自我介绍一遍。LangGraph / DeepAgents 内置了一个叫 checkpoint 的机制来处理这个事。",
+      "originalSummary": "【摘要】前言 在用 deepagents 做 Chatbot 的时候，有个最基本的需求：Agent 得记住上一轮聊了什么。你不能每轮对话都让用户重新自我介绍一遍。LangGraph / DeepAgents 内置了一个叫 checkpoint 的机制来处理这个事。",
+      "url": "https://www.cnblogs.com/XY-Heruo/p/20360614",
+      "source": "博客园技术文章",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T07:49:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 158,
+      "summaryLength": 113,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】前言 在用 deepagents 做 Chatbot 的时候，有个最基本的需求：Agent 得记住上一轮聊了什么 你不能每轮对话都让用户重新自我介绍一遍 LangGraph / DeepAgents 内置了一个叫 checkpoint 的机制来处理这个事 开发阶段用 MemorySaver 跑跑 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "Ubuntu 20.04 连接 HC-05 蓝牙模块失败 - zylyehuo",
+      "titleZh": "Ubuntu 20.04 连接 HC-05 蓝牙模块失败 - zylyehuo",
+      "summary": "【摘要】博客地址：https://www.cnblogs.com/zylyehuo/ 一、问题描述 在 Ubuntu 20.04 系统中连接 HC-05 蓝牙串口模块时，Windows 系统可以正常连接，但 Ubuntu 系统中会出现蓝牙可以搜索到、PIN 码...。",
+      "originalSummary": "【摘要】博客地址：https://www.cnblogs.com/zylyehuo/ 一、问题描述 在 Ubuntu 20.04 系统中连接 HC-05 蓝牙串口模块时，Windows 系统可以正常连接，但 Ubuntu 系统中会出现蓝牙可以搜索到、PIN 码...。",
+      "url": "https://www.cnblogs.com/zylyehuo/p/20360291",
+      "source": "博客园技术文章",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T07:14:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 103,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】博客地址：https://www.cnblogs.com/zylyehuo/ 一、问题描述 在 Ubuntu 20.04 系统中连接 HC-05 蓝牙串口模块时，Windows 系统可以正常连接，但 Ubuntu 系统中会出现蓝牙可以搜索到、PIN 码输入正确、设备可以配对成功，但是连接后立即断开的 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "张高兴的 Hailo-10 开发指南：（二）使用 LangChain 搭建本地大模型 RAG 问答应用 - 张高兴",
+      "titleZh": "张高兴的 Hailo-10 开发指南：（二）使用 LangChain 搭建本地大模型 RAG 问答应用 - 张高兴",
+      "summary": "【摘要】目录环境配置安装 HailoRT安装 Hailo-OllamaPython 环境启动 Hailo-Ollama 服务实现 RAG 应用1. 引用相关包2。PDF 文档处理3. 文本切分4. 向量化和存储5. 自定义 HailoChatOllama 类6。RAG 链的组装LoRA 微调1. 微调2 阅读全文。",
+      "originalSummary": "【摘要】目录环境配置安装 HailoRT安装 Hailo-OllamaPython 环境启动 Hailo-Ollama 服务实现 RAG 应用1. 引用相关包2。PDF 文档处理3. 文本切分4. 向量化和存储5. 自定义 HailoChatOllama 类6。RAG 链的组装LoRA 微调1. 微调2 阅读全文。",
+      "url": "https://www.cnblogs.com/zhanggaoxing/p/20339463",
+      "source": "博客园技术文章",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T06:46:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 128,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】目录环境配置安装 HailoRT安装 Hailo-OllamaPython 环境启动 Hailo-Ollama 服务实现 RAG 应用1. 引用相关包2 PDF 文档处理3. 文本切分4. 向量化和存储5. 自定义 HailoChatOllama 类6 RAG 链的组装LoRA 微调1. 微调2 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "未高考满分作文：从\"词语\"到\"中国词元\"：一个青年眼中的时代之变",
+      "titleZh": "未高考满分作文：从\"词语\"到\"中国词元\"：一个青年眼中的时代之变",
+      "summary": "今天的高考全国卷1语文作文题： 阅读下面的材料，根据要求写作。（60分） 词语是表达思想情感的载体，也是展现社会生活变化的窗口。当前，世界之变、时代之变、历史之变正以前所未有的方式展开。",
+      "originalSummary": "今天的高考全国卷1语文作文题： 阅读下面的材料，根据要求写作。（60分） 词语是表达思想情感的载体，也是展现社会生活变化的窗口。当前，世界之变、时代之变、历史之变正以前所未有的方式展开。",
+      "url": "https://www.oschina.net/news/453556",
+      "source": "开源中国资讯",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-07T04:19:36+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 155,
+      "summaryLength": 80,
+      "summaryQuality": "weak",
+      "readerTextZh": "今天的高考全国卷1语文作文题： 阅读下面的材料，根据要求写作 （60分） 词语是表达思想情感的载体，也是展现社会生活变化的窗口 当前，世界之变、时代之变、历史之变正以前所未有的方式展开 青年是常为新的，在你的成长过程中，你对哪一个词语的理解发生了变化？ 这变化有你成长的印记，对你有特殊的意义…… 以上材料",
+      "isTranslated": false
+    },
+    {
+      "title": "MateClaw v1.5.0 发布：Goal Checklist、LLM Wiki 自维护与多人记忆隔离",
+      "titleZh": "MateClaw v1.5.0 发布：Goal Checklist、LLM Wiki 自维护与多人记忆隔离",
+      "summary": "MateClaw v1.5.0 已发布。这一版的重点不是“多接一个模型”或“多加几个按钮”，而是继续补齐 Agent 在真实团队里运行时需要的基础能力：目标要能验收，知识库要能维护一致性，记忆要能区分不同使用者。如果用一句话概括 v1.5.0： 把 Agent 从“能继续干活”推进到“能按清单收尾、按知识关系维护上下文、按用户身份隔。",
+      "originalSummary": "MateClaw v1.5.0 已发布。这一版的重点不是“多接一个模型”或“多加几个按钮”，而是继续补齐 Agent 在真实团队里运行时需要的基础能力：目标要能验收，知识库要能维护一致性，记忆要能区分不同使用者。如果用一句话概括 v1.5.0： 把 Agent 从“能继续干活”推进到“能按清单收尾、按知识关系维护上下文、按用户身份隔。",
+      "url": "https://www.oschina.net/news/453257",
+      "source": "开源中国资讯",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-06T11:49:12+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 172,
+      "summaryLength": 139,
+      "summaryQuality": "weak",
+      "readerTextZh": "MateClaw v1.5.0 已发布 这一版的重点不是“多接一个模型”或“多加几个按钮”，而是继续补齐 Agent 在真实团队里运行时需要的基础能力：目标要能验收，知识库要能维护一致性，记忆要能区分不同使用者 如果用一句话概括 v1.5.0： 把 Agent 从“能继续干活”推进到“能按清单收尾、按知识关系维护上下文、按用户身份隔",
+      "isTranslated": false
+    },
+    {
+      "title": "我用 Tauri 2 做了一个能跑 30 多种语言的代码运行器，聊聊插件化架构是怎么扛住的",
+      "titleZh": "我用 Tauri 2 做了一个能跑 30 多种语言的代码运行器，聊聊插件化架构是怎么扛住的",
+      "summary": "如果你只想看产品，项目在这里：https://github.com/devlive-community/codeforge。如果你也在用 Tauri 折腾桌面工具，下面这些架构上的取舍和坑，也许能帮你少走点弯路。起因：我想要一个「代码草稿本」，但没找到顺手的 事情的起点很朴素。",
+      "originalSummary": "如果你只想看产品，项目在这里：https://github.com/devlive-community/codeforge。如果你也在用 Tauri 折腾桌面工具，下面这些架构上的取舍和坑，也许能帮你少走点弯路。起因：我想要一个「代码草稿本」，但没找到顺手的 事情的起点很朴素。",
+      "url": "https://www.oschina.net/news/452973",
+      "source": "开源中国资讯",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-06T02:26:34+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 183,
+      "summaryLength": 118,
+      "summaryQuality": "weak",
+      "readerTextZh": "如果你只想看产品，项目在这里：https://github.com/devlive-community/codeforge 如果你也在用 Tauri 折腾桌面工具，下面这些架构上的取舍和坑，也许能帮你少走点弯路 起因：我想要一个「代码草稿本」，但没找到顺手的 事情的起点很朴素 我经常需要快速验证一小段代码——可能是一段 Python",
+      "isTranslated": false
+    },
+    {
+      "title": "Aifei 发布，世界首个 AI Coding 框架",
+      "titleZh": "Aifei 发布，世界首个 AI Coding 框架",
+      "summary": "Aifei 是世界首个 AI Coding 框架。Aifei 不是在传统框架之上增加 AI 用法，而是从框架结构本身出发，围绕大模型理解、生成和维护代码的方式，重新设计 Java 服务端开发。过去三年，AI 写代码的能力快速跃升。",
+      "originalSummary": "Aifei 是世界首个 AI Coding 框架。Aifei 不是在传统框架之上增加 AI 用法，而是从框架结构本身出发，围绕大模型理解、生成和维护代码的方式，重新设计 Java 服务端开发。过去三年，AI 写代码的能力快速跃升。",
+      "url": "https://www.oschina.net/news/452924",
+      "source": "开源中国资讯",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-05T21:20:32+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 171,
+      "summaryLength": 97,
+      "summaryQuality": "weak",
+      "readerTextZh": "Aifei 是世界首个 AI Coding 框架 Aifei 不是在传统框架之上增加 AI 用法，而是从框架结构本身出发，围绕大模型理解、生成和维护代码的方式，重新设计 Java 服务端开发 过去三年，AI 写代码的能力快速跃升 代码生成正在从“辅助”走向“主导”，开发者的角色也会越来越多地转向需求判断、架构决策、代码审查与质量控",
+      "isTranslated": false
+    },
+    {
+      "title": "百度开源 nettools，大规模物理网络监控工具集",
+      "titleZh": "百度开源 nettools，大规模物理网络监控工具集",
+      "summary": "大规模数据中心的网络可靠性一直是工程领域的难题。当交换机、路由器、光模块在高速率流量下出现偶发性故障时，传统的ping或traceroute往往无法捕捉那些瞬时、间歇性发生的问题——比如微秒级的丢包、比特翻转导致的随机错误，或者ECMP负载均衡路径上某个特定链路的降级。百度团队开源的nettools，正是针对这类\"黑盒\"监控。",
+      "originalSummary": "大规模数据中心的网络可靠性一直是工程领域的难题。当交换机、路由器、光模块在高速率流量下出现偶发性故障时，传统的ping或traceroute往往无法捕捉那些瞬时、间歇性发生的问题——比如微秒级的丢包、比特翻转导致的随机错误，或者ECMP负载均衡路径上某个特定链路的降级。百度团队开源的nettools，正是针对这类\"黑盒\"监控。",
+      "url": "https://www.oschina.net/news/452720",
+      "source": "开源中国资讯",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-05T11:17:44+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 166,
+      "summaryLength": 150,
+      "summaryQuality": "weak",
+      "readerTextZh": "大规模数据中心的网络可靠性一直是工程领域的难题 当交换机、路由器、光模块在高速率流量下出现偶发性故障时，传统的ping或traceroute往往无法捕捉那些瞬时、间歇性发生的问题——比如微秒级的丢包、比特翻转导致的随机错误，或者ECMP负载均衡路径上某个特定链路的降级 百度团队开源的nettools，正是针对这类\"黑盒\"监控",
+      "isTranslated": false
+    },
+    {
+      "title": "程序员为养生把喝可乐改成果汁，半年瘦 20 斤进抢救室",
+      "titleZh": "程序员为养生把喝可乐改成果汁，半年瘦 20 斤进抢救室",
+      "summary": "宁波晚报报道称，浙江一名 28 岁的程序员小吴（化名）为了养生戒掉喝可乐的爱好，改成每天喝 2 升纯果汁。这样坚持的结果是，小吴确实在半年内瘦了 20 斤，但同时也因“糖尿病酮症酸中毒”，进了医院的抢救室。据悉，事情起因在于半年前，身高只有 1 米 75 的，体重却达 190 斤的小吴有一天看到一篇文章说“喝可乐等于慢。",
+      "originalSummary": "宁波晚报报道称，浙江一名 28 岁的程序员小吴（化名）为了养生戒掉喝可乐的爱好，改成每天喝 2 升纯果汁。这样坚持的结果是，小吴确实在半年内瘦了 20 斤，但同时也因“糖尿病酮症酸中毒”，进了医院的抢救室。据悉，事情起因在于半年前，身高只有 1 米 75 的，体重却达 190 斤的小吴有一天看到一篇文章说“喝可乐等于慢。",
+      "url": "https://www.oschina.net/news/452709",
+      "source": "开源中国资讯",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-05T10:59:19+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 164,
+      "summaryLength": 133,
+      "summaryQuality": "weak",
+      "readerTextZh": "宁波晚报报道称，浙江一名 28 岁的程序员小吴（化名）为了养生戒掉喝可乐的爱好，改成每天喝 2 升纯果汁 这样坚持的结果是，小吴确实在半年内瘦了 20 斤，但同时也因“糖尿病酮症酸中毒”，进了医院的抢救室 据悉，事情起因在于半年前，身高只有 1 米 75 的，体重却达 190 斤的小吴有一天看到一篇文章说“喝可乐等于慢",
+      "isTranslated": false
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：优化人机协同决策交互，提升选项确认与流程推进体验",
+      "titleZh": "【AI 智能运维平台】本周更新：优化人机协同决策交互，提升选项确认与流程推进体验",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。:loudspeaker: 【平台 · 本周更新速递】 :hammer_and_wrench:️ 系统管理 • 内置系统管理员、安全管理员、审计管理员角色，满足三员管理要求 :card_index_dividers: C...。",
+      "originalSummary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。:loudspeaker: 【平台 · 本周更新速递】 :hammer_and_wrench:️ 系统管理 • 内置系统管理员、安全管理员、审计管理员角色，满足三员管理要求 :card_index_dividers: C...。",
+      "url": "https://www.oschina.net/news/452696",
+      "source": "开源中国资讯",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-05T10:41:37+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI",
+        "安全"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 197,
+      "summaryLength": 153,
+      "summaryQuality": "weak",
+      "readerTextZh": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具 :loudspeaker: 【平台 · 本周更新速递】 :hammer_and_wrench:️ 系统管理 • 内置系统管理员、安全管理员、审计管理员角色，满足三员管理要求 :card_index_dividers: CMDB",
+      "isTranslated": false
+    },
+    {
+      "title": "阿里开源 AI 代码审查 CLI 工具：Open Code Review",
+      "titleZh": "阿里开源 AI 代码审查 CLI 工具：Open Code Review",
+      "summary": "代码审查是软件工程中保证代码质量的关键环节，但在快速迭代的团队中，人工审查的效率往往跟不上代码提交的节奏。阿里巴巴将内部使用两年的 AI 代码审查助手 Open Code Review 开源，免费提供给社区使用。在内部部署期间，该工具服务了数万名开发者，发现了数百万个代码缺陷——这个规模是目前大多数 AI 代码审查工具没有。",
+      "originalSummary": "代码审查是软件工程中保证代码质量的关键环节，但在快速迭代的团队中，人工审查的效率往往跟不上代码提交的节奏。阿里巴巴将内部使用两年的 AI 代码审查助手 Open Code Review 开源，免费提供给社区使用。在内部部署期间，该工具服务了数万名开发者，发现了数百万个代码缺陷——这个规模是目前大多数 AI 代码审查工具没有。",
+      "url": "https://www.oschina.net/news/452693",
+      "source": "开源中国资讯",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-05T10:34:23+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 165,
+      "summaryLength": 145,
+      "summaryQuality": "weak",
+      "readerTextZh": "代码审查是软件工程中保证代码质量的关键环节，但在快速迭代的团队中，人工审查的效率往往跟不上代码提交的节奏 阿里巴巴将内部使用两年的 AI 代码审查助手 Open Code Review 开源，免费提供给社区使用 在内部部署期间，该工具服务了数万名开发者，发现了数百万个代码缺陷——这个规模是目前大多数 AI 代码审查工具没有",
+      "isTranslated": false
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "titleZh": "本周看什么 | 最近值得一看的 8 部作品",
+      "summary": "📅本周新预告《逃出绝命街》正式预告6月1日，电影《逃出绝命街》发布了正式预告，将于8月14日在北美上映。大卫·罗伯特·米切尔执导，J·J·艾布拉姆斯制片，安妮·海瑟薇、伊万·麦克格雷格主演，一场雷暴之 ... 查看全文。",
+      "originalSummary": "📅本周新预告《逃出绝命街》正式预告6月1日，电影《逃出绝命街》发布了正式预告，将于8月14日在北美上映。大卫·罗伯特·米切尔执导，J·J·艾布拉姆斯制片，安妮·海瑟薇、伊万·麦克格雷格主演，一场雷暴之 ... 查看全文。",
+      "url": "https://sspai.com/post/110786",
+      "source": "少数派深度",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-05T10:19:28+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 109,
+      "summaryLength": 86,
+      "summaryQuality": "weak",
+      "readerTextZh": "📅本周新预告《逃出绝命街》正式预告6月1日，电影《逃出绝命街》发布了正式预告，将于8月14日在北美上映 大卫·罗伯特·米切尔执导，J·J·艾布拉姆斯制片，安妮·海瑟薇、伊万·麦克格雷格主演，一场雷暴之 ... 查看全文",
+      "isTranslated": false
+    },
+    {
+      "title": "macOS 存储管理漫谈：去重是节约空间的最好方法",
+      "titleZh": "macOS 存储管理漫谈：去重是节约空间的最好方法",
+      "summary": "虽然最近各种用LLM帮忙整理电脑里的文件、删除垃圾数据的帖子很火，但我天然对这种LLM用法抱有一丝警惕，我始终相信电脑里存在的文件都有自己的意义。所以我就想在这篇文章里和大家聊聊macOS里的存储管理 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "originalSummary": "虽然最近各种用LLM帮忙整理电脑里的文件、删除垃圾数据的帖子很火，但我天然对这种LLM用法抱有一丝警惕，我始终相信电脑里存在的文件都有自己的意义。所以我就想在这篇文章里和大家聊聊macOS里的存储管理 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "url": "https://sspai.com/prime/story/macos-storage-management-deduplication",
+      "source": "少数派深度",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-05T10:00:12+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度",
+        "AI",
+        "硬件"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 138,
+      "summaryLength": 121,
+      "summaryQuality": "weak",
+      "readerTextZh": "虽然最近各种用LLM帮忙整理电脑里的文件、删除垃圾数据的帖子很火，但我天然对这种LLM用法抱有一丝警惕，我始终相信电脑里存在的文件都有自己的意义 所以我就想在这篇文章里和大家聊聊macOS里的存储管理 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "31 位普通人，给一只背包开出了成绩单",
+      "titleZh": "31 位普通人，给一只背包开出了成绩单",
+      "summary": "写在前面一只背包，能不能让你体面地背去客户的会议室，也能陪你参加朋友聚会？。装下两三天的差旅行李之后，它还能让你背得轻松吗？。当包里同时塞着笔记本、平板和各种重设备，容量、舒适与防护，究竟能不能兼得？。",
+      "originalSummary": "写在前面一只背包，能不能让你体面地背去客户的会议室，也能陪你参加朋友聚会？。装下两三天的差旅行李之后，它还能让你背得轻松吗？。当包里同时塞着笔记本、平板和各种重设备，容量、舒适与防护，究竟能不能兼得？。",
+      "url": "https://sspai.com/post/110666",
+      "source": "少数派深度",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-05T08:55:39+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 109,
+      "summaryLength": 88,
+      "summaryQuality": "weak",
+      "readerTextZh": "写在前面一只背包，能不能让你体面地背去客户的会议室，也能陪你参加朋友聚会？ 装下两三天的差旅行李之后，它还能让你背得轻松吗？ 当包里同时塞着笔记本、平板和各种重设备，容量、舒适与防护，究竟能不能兼得？",
+      "isTranslated": false
+    },
+    {
+      "title": "WWDC26 开幕在即，今年有哪些看点值得关注？",
+      "titleZh": "WWDC26 开幕在即，今年有哪些看点值得关注？",
+      "summary": "今年WWDC全球开发者大会即将在北京时间6月9日凌晨拉开帷幕，对Apple来说今年这一次活动是一个非常关键的节点：首先，2024年WWDC上画的饼至今没有兑现，而AI竞赛在2026年已经进入了白热化， ... 查看全文。",
+      "originalSummary": "今年WWDC全球开发者大会即将在北京时间6月9日凌晨拉开帷幕，对Apple来说今年这一次活动是一个非常关键的节点：首先，2024年WWDC上画的饼至今没有兑现，而AI竞赛在2026年已经进入了白热化， ... 查看全文。",
+      "url": "https://sspai.com/post/110669",
+      "source": "少数派深度",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-06-05T03:45:01+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 109,
+      "summaryLength": 99,
+      "summaryQuality": "weak",
+      "readerTextZh": "今年WWDC全球开发者大会即将在北京时间6月9日凌晨拉开帷幕，对Apple来说今年这一次活动是一个非常关键的节点：首先，2024年WWDC上画的饼至今没有兑现，而AI竞赛在2026年已经进入了白热化， ... 查看全文",
       "isTranslated": false
     },
     {
@@ -349,47 +965,70 @@
       "isTranslated": false
     },
     {
-      "title": "开源 OpenWorkflows 能否替代 Claude Code Dynamic Workflows？",
-      "titleZh": "开源 OpenWorkflows 能否替代 Claude Code Dynamic Workflows？",
-      "summary": "最近升级了 Claude Code 到 4.8 版本，测试了下 Dynamic Workflows ，开发了一个比较复杂的 UE4 迁移到 UE5 的功能，确实质量很高，一上午花掉了 300 多元，中转站一周才 600 块的额度，一不小心就爆了。网上说 Dynamic Workflows 有多角度探索、对抗性验证、方案投票机制，也就是每个需求都同时几十个 agent 同时跑，对抗选择最好的答案，怪不得质量比较高。囊中羞涩，网上搜索一遍有个开源版本的 OpenWorkflows( https://github.com/wellingfeng/OpenWorkflows ),说是可以用 kimi 、deepseek 等便宜大模型，有...。",
-      "originalSummary": "最近升级了 Claude Code 到 4.8 版本，测试了下 Dynamic Workflows ，开发了一个比较复杂的 UE4 迁移到 UE5 的功能，确实质量很高，一上午花掉了 300 多元，中转站一周才 600 块的额度，一不小心就爆了。网上说 Dynamic Workflows 有多角度探索、对抗性验证、方案投票机制，也就是每个需求都同时几十个 agent 同时跑，对抗选择最好的答案，怪不得质量比较高。囊中羞涩，网上搜索一遍有个开源版本的 OpenWorkflows( https://github.com/wellingfeng/OpenWorkflows ),说是可以用 kimi 、deepseek 等便宜大模型，有...。",
-      "url": "https://segmentfault.com/q/1010000047808122",
-      "source": "SegmentFault 思否",
+      "title": "新玩意 243｜少数派的编辑们最近买了啥？",
+      "titleZh": "新玩意 243｜少数派的编辑们最近买了啥？",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文。",
+      "originalSummary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文。",
+      "url": "https://sspai.com/post/110736",
+      "source": "少数派深度",
       "region": "公众号/中文深度",
-      "publishedAt": "2026-06-01T06:00:59+00:00",
+      "publishedAt": "2026-06-04T11:15:27+00:00",
       "tags": [
-        "开发者",
+        "工具",
+        "数字生活",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 109,
+      "summaryLength": 93,
+      "summaryQuality": "weak",
+      "readerTextZh": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」 我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何 内容声明：《新玩意》栏目如含有 ... 查看全文",
+      "isTranslated": false
+    },
+    {
+      "title": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
+      "titleZh": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。绝大部分公司需要外购 Token，大家可以用他的例子计算一下，如果一个程序员每月用掉几千亿、甚至上万亿的 Token，公司要出多少钱？。如果改用便宜的模型，国内最便宜的开源模型，价格大约是国外旗舰模型的1/30到1/50，那么一年就是200万～300万人民币。",
+      "originalSummary": "这里记录每周值得分享的科技内容，周五发布。绝大部分公司需要外购 Token，大家可以用他的例子计算一下，如果一个程序员每月用掉几千亿、甚至上万亿的 Token，公司要出多少钱？。如果改用便宜的模型，国内最便宜的开源模型，价格大约是国外旗舰模型的1/30到1/50，那么一年就是200万～300万人民币。",
+      "url": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
+      "source": "阮一峰网络日志",
+      "region": "公众号/中文深度",
+      "publishedAt": "2026-05-29T00:08:39+00:00",
+      "tags": [
         "前端",
-        "后端",
+        "开发者",
+        "中文深度",
         "AI",
         "开源"
       ],
       "analysisMethod": "feed-text",
-      "sourceTextLength": 344,
-      "summaryLength": 265,
-      "summaryQuality": "medium",
-      "readerTextZh": "最近升级了 Claude Code 到 4.8 版本，测试了下 Dynamic Workflows ，开发了一个比较复杂的 UE4 迁移到 UE5 的功能，确实质量很高，一上午花掉了 300 多元，中转站一周才 600 块的额度，一不小心就爆了 网上说 Dynamic Workflows 有多角度探索、对抗性验证、方案投票机制，也就是每个需求都同时几十个 agent 同时跑，对抗选择最好的答案，怪不得质量比较高 囊中羞涩，网上搜索一遍有个开源版本的 OpenWorkflows( https://github.com/wellingfeng/OpenWorkflows ),说是可以用 kimi 、deepseek 等便宜大模型，有人尝试过吗，求教程",
+      "sourceTextLength": 5944,
+      "summaryLength": 134,
+      "summaryQuality": "weak",
+      "readerTextZh": "这里记录每周值得分享的科技内容，周五发布 另有 《谁在招人》 服务，发布程序员招聘信息 合作请 邮件联系 （yifeng.ruan@gmail.com） 去年开放的浙江省安吉县的安吉文化艺术中心 上周，OpenClaw（龙虾）的创始人彼得·斯坦伯格（Peter Steinberger）贴出了自己的 Token 使用量 他不是故意炫耀，自己用了多少 Token，而是为了介绍工具软件 CodexBar 这个菜单栏小工具可以统计你的 Token 使用量，计算出对应的费用 大家猜猜看，他用了多少 Token？",
       "isTranslated": false
     },
     {
-      "title": "CMake中vcpkg清单模式如何避免重复安装依赖到Debug/Release目录？",
-      "titleZh": "CMake中vcpkg清单模式如何避免重复安装依赖到Debug/Release目录？",
-      "summary": "在cmake中，用vcpkg清单模式安装依赖，安装路径怎么选择？。我用ninja进行构建，要区分debug和release版本，所以在debug和release两个configurepresets分别指定了两个binarydir,${sourceDir}/build/debug和${s...。通过cmake --preset 进行配置时，vcpkg会在两个binary目录下分别安装相同的依赖项，占了两份硬盘空间，怎么应该怎样修改才能只安装一次依赖？。",
-      "originalSummary": "在cmake中，用vcpkg清单模式安装依赖，安装路径怎么选择？。我用ninja进行构建，要区分debug和release版本，所以在debug和release两个configurepresets分别指定了两个binarydir,${sourceDir}/build/debug和${s...。通过cmake --preset 进行配置时，vcpkg会在两个binary目录下分别安装相同的依赖项，占了两份硬盘空间，怎么应该怎样修改才能只安装一次依赖？。",
-      "url": "https://segmentfault.com/q/1010000047785580",
-      "source": "SegmentFault 思否",
+      "title": "科技爱好者周刊（第 397 期）：财富正在向 AI 集中",
+      "titleZh": "科技爱好者周刊（第 397 期）：财富正在向 AI 集中",
+      "summary": "内存、储存、CPU、服务器、液冷、光通信、变压器......股价全部在涨，更不要提，前期已经涨过的芯片、模型、算力了，甚至铜和铝也在涨。至于 AI 模型公司，更是人人都是亿万富翁。如果你在一个跟 AI 无关的行业，很可能吃不到 AI 的红利，反而被它伤害，因为你会面临成本上升、需求不足、投资减少。",
+      "originalSummary": "内存、储存、CPU、服务器、液冷、光通信、变压器......股价全部在涨，更不要提，前期已经涨过的芯片、模型、算力了，甚至铜和铝也在涨。至于 AI 模型公司，更是人人都是亿万富翁。如果你在一个跟 AI 无关的行业，很可能吃不到 AI 的红利，反而被它伤害，因为你会面临成本上升、需求不足、投资减少。",
+      "url": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html",
+      "source": "阮一峰网络日志",
       "region": "公众号/中文深度",
-      "publishedAt": "2026-05-22T07:38:28+00:00",
+      "publishedAt": "2026-05-21T23:58:35+00:00",
       "tags": [
-        "开发者",
         "前端",
-        "后端"
+        "开发者",
+        "中文深度",
+        "AI",
+        "芯片"
       ],
       "analysisMethod": "feed-text",
-      "sourceTextLength": 249,
-      "summaryLength": 200,
-      "summaryQuality": "fair",
-      "readerTextZh": "在cmake中，用vcpkg清单模式安装依赖，安装路径怎么选择？ 我用ninja进行构建，要区分debug和release版本，所以在debug和release两个configurepresets分别指定了两个binarydir,${sourceDir}/build/debug和${sourceDir}/build/release 通过cmake --preset 进行配置时，vcpkg会在两个binary目录下分别安装相同的依赖项，占了两份硬盘空间，怎么应该怎样修改才能只安装一次依赖？",
+      "sourceTextLength": 5994,
+      "summaryLength": 117,
+      "summaryQuality": "weak",
+      "readerTextZh": "这里记录每周值得分享的科技内容，周五发布 另有 《谁在招人》 服务，发布程序员招聘信息 合作请 邮件联系 （yifeng.ruan@gmail.com） 马岩松事务所设计的海南科技馆，今年五一开馆 内存、储存、CPU、服务器、液冷、光通信、变压器......股价全部在涨，更不要提，前期已经涨过的芯片、模型、算力了，甚至铜和铝也在涨 就以内存为例，世界三大内存厂商有两家在韩国，单单这两家公司就把韩国股市，从2600点一年之内拉到7600点 2024年10月，三星公司董事长还因为半导体业绩不佳而 道歉 ，结果今年很可能成为 世界最赚钱公司 它跟工会有劳资协议，10%的利润要分给员工",
       "isTranslated": false
     }
   ],
