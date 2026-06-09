@@ -32,6 +32,12 @@ jobs:
       - name: Build static site
         run: npm run build
 
+      - name: Check dictionary quality
+        run: node scripts/check_dictionary_quality.js
+
+      - name: Check news quality
+        run: node scripts/check_news_quality.js
+
       - name: Deploy to Cloudflare Workers
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}

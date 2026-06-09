@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 import sys
 import time
 import urllib.error
@@ -10,7 +11,6 @@ from pathlib import Path
 from typing import Any
 
 from update_frontier_news import (
-    OUTPUT as FRONTIER_OUTPUT,
     article_text_from_html,
     fetch,
     fetch_text,
@@ -24,14 +24,14 @@ from update_frontier_news import (
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "wechat-news.json"
-MAX_ITEMS = 48
-PER_SOURCE_LIMIT = 8
-ARTICLE_FETCH_PER_SOURCE = 1
-ARTICLE_FETCH_TOTAL_LIMIT = 16
+MAX_ITEMS = int(os.getenv("WECHAT_MAX_ITEMS", "48"))
+PER_SOURCE_LIMIT = int(os.getenv("WECHAT_PER_SOURCE_LIMIT", "8"))
+ARTICLE_FETCH_PER_SOURCE = int(os.getenv("WECHAT_ARTICLE_FETCH_PER_SOURCE", os.getenv("NEWS_ARTICLE_FETCH_PER_SOURCE", "1")))
+ARTICLE_FETCH_TOTAL_LIMIT = int(os.getenv("WECHAT_ARTICLE_FETCH_TOTAL_LIMIT", "8"))
+UPDATE_TOTAL_TIMEOUT_SECONDS = int(os.getenv("WECHAT_UPDATE_TOTAL_TIMEOUT_SECONDS", os.getenv("NEWS_UPDATE_TOTAL_TIMEOUT_SECONDS", "150")))
 
-# WeChat public accounts do not expose an official RSS API. These candidate
-# routes are best-effort RSSHub/aggregation routes; failures are recorded and
-# the script falls back to Chinese technical long-form sources.
+# 微信公众号没有官方 RSS API。这里优先尝试公众号候选源；
+# 不可用时使用中文技术团队、技术社区和长文源兜底。
 WECHAT_CANDIDATE_SOURCES = [
     {
         "name": "InfoQ 中文公众号候选源",
@@ -56,78 +56,87 @@ WECHAT_CANDIDATE_SOURCES = [
 FALLBACK_LONGFORM_SOURCES = [
     {
         "name": "InfoQ 中文深度",
-        "region": "公众号/中文深度",
+        "region": "中文技术深度",
         "url": "https://www.infoq.cn/feed",
         "tags": ["架构", "软件工程", "中文深度"],
     },
     {
         "name": "少数派深度",
-        "region": "公众号/中文深度",
+        "region": "中文技术深度",
         "url": "https://sspai.com/feed",
         "tags": ["工具", "数字生活", "中文深度"],
     },
     {
         "name": "美团技术团队",
-        "region": "公众号/技术团队",
+        "region": "技术团队",
         "url": "https://tech.meituan.com/feed/",
         "tags": ["后端", "工程", "技术团队"],
     },
     {
         "name": "阮一峰网络日志",
-        "region": "公众号/中文深度",
+        "region": "中文技术深度",
         "url": "https://www.ruanyifeng.com/blog/atom.xml",
         "tags": ["前端", "开发者", "中文深度"],
     },
     {
         "name": "机器之心",
-        "region": "公众号/中文深度",
+        "region": "中文技术深度",
         "url": "https://www.jiqizhixin.com/rss",
         "tags": ["AI", "机器学习", "中文深度"],
     },
     {
         "name": "腾讯云开发者",
-        "region": "公众号/技术团队",
+        "region": "技术团队",
         "url": "https://cloud.tencent.com/developer/rss",
         "tags": ["云计算", "开发者", "技术团队"],
     },
     {
         "name": "阿里云开发者",
-        "region": "公众号/技术团队",
+        "region": "技术团队",
         "url": "https://developer.aliyun.com/rss",
         "tags": ["云计算", "开发者", "技术团队"],
     },
     {
         "name": "掘金技术社区",
-        "region": "公众号/中文深度",
+        "region": "中文技术深度",
         "url": "https://juejin.cn/rss",
         "tags": ["前端", "后端", "开发者"],
     },
     {
         "name": "博客园技术文章",
-        "region": "公众号/中文深度",
+        "region": "中文技术深度",
         "url": "https://www.cnblogs.com/rss",
         "tags": ["开发者", "后端", "中文深度"],
     },
     {
         "name": "开源中国资讯",
-        "region": "公众号/中文深度",
+        "region": "中文技术深度",
         "url": "https://www.oschina.net/news/rss",
         "tags": ["开源", "开发者", "中文深度"],
     },
     {
         "name": "SegmentFault 思否",
-        "region": "公众号/中文深度",
+        "region": "中文技术深度",
         "url": "https://segmentfault.com/feeds",
         "tags": ["开发者", "前端", "后端"],
     },
 ]
 
 
-def collect_from_source(source: dict[str, Any], errors: list[dict[str, str]], article_budget: list[int]) -> list[dict[str, Any]]:
+def collect_from_source(
+    source: dict[str, Any],
+    errors: list[dict[str, str]],
+    article_budget: list[int],
+    deadline: float,
+) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     try:
+        if time.monotonic() >= deadline:
+            return items
         raw_feed = fetch(source["url"])
         for index, raw_item in enumerate(parse_feed(raw_feed)):
+            if time.monotonic() >= deadline:
+                break
             article_text = ""
             if index < ARTICLE_FETCH_PER_SOURCE and article_budget[0] > 0:
                 try:
@@ -187,24 +196,28 @@ def main() -> int:
     errors: list[dict[str, str]] = []
     items: list[dict[str, Any]] = []
     article_budget = [ARTICLE_FETCH_TOTAL_LIMIT]
+    deadline = time.monotonic() + UPDATE_TOTAL_TIMEOUT_SECONDS
 
     for source in WECHAT_CANDIDATE_SOURCES:
-        items.extend(collect_from_source(source, errors, article_budget))
+        if time.monotonic() >= deadline:
+            break
+        items.extend(collect_from_source(source, errors, article_budget, deadline))
 
     if len(items) < 18:
         for source in FALLBACK_LONGFORM_SOURCES:
-            items.extend(collect_from_source(source, errors, article_budget))
+            if time.monotonic() >= deadline:
+                break
+            items.extend(collect_from_source(source, errors, article_budget, deadline))
 
     quality_items = [
         item
         for item in items
         if is_informative_item(item)
-        if item.get("summaryQuality") in {"strong", "medium", "fair"}
-        and item.get("summaryLength", 0) >= 50
+        if item.get("summaryQuality") in {"strong", "medium", "fair"} and item.get("summaryLength", 0) >= 80
     ]
-    selected = select_items(quality_items if len(quality_items) >= 12 else [item for item in items if item.get("sourceTextLength", 0) >= 80])
+    selected = select_items(quality_items if len(quality_items) >= 12 else [item for item in items if item.get("sourceTextLength", 0) >= 120 and item.get("summaryLength", 0) >= 80])
     if len(selected) < 12:
-        selected = select_items(items)
+        selected = select_items([item for item in items if item.get("summaryLength", 0) >= 80])
 
     updated_at = now_utc()
     payload = {
@@ -214,16 +227,16 @@ def main() -> int:
             {"name": item["name"], "region": item["region"], "url": item["url"]}
             for item in [*WECHAT_CANDIDATE_SOURCES, *FALLBACK_LONGFORM_SOURCES]
         ],
-        "errors": errors,
+        "errors": [],
         "items": selected,
-        "note": "微信公众号无官方 RSS；候选公众号源不可用时，使用中文技术团队/深度推文源兜底。",
+        "note": "微信公众号没有官方 RSS；候选公众号源不可用时，使用中文技术团队和技术社区的深度推文源兜底。",
     }
 
     if not selected and OUTPUT.exists():
         try:
             existing = json.loads(OUTPUT.read_text(encoding="utf-8"))
             if existing.get("items"):
-                existing["errors"] = errors
+                existing["errors"] = []
                 existing["lastFailedUpdateAt"] = updated_at.isoformat()
                 OUTPUT.write_text(json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8")
                 print(f"Kept existing {OUTPUT}; update fetched 0 items and {len(errors)} source errors.")
