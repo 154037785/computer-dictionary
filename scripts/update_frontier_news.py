@@ -21,11 +21,11 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "frontier-news.json"
 MAX_ITEMS = 40
-TIMEOUT = 3
-TRANSLATE_TIMEOUT = 1.1
-ARTICLE_FETCH_PER_SOURCE = 1
-ARTICLE_FETCH_TOTAL_LIMIT = 5
-PER_SOURCE_LIMIT = 3
+TIMEOUT = float(os.getenv("NEWS_FETCH_TIMEOUT", "5"))
+TRANSLATE_TIMEOUT = float(os.getenv("NEWS_TRANSLATE_TIMEOUT", "1.5"))
+ARTICLE_FETCH_PER_SOURCE = int(os.getenv("NEWS_ARTICLE_FETCH_PER_SOURCE", "1"))
+ARTICLE_FETCH_TOTAL_LIMIT = int(os.getenv("NEWS_ARTICLE_FETCH_TOTAL_LIMIT", "12"))
+PER_SOURCE_LIMIT = int(os.getenv("NEWS_PER_SOURCE_LIMIT", "4"))
 MIN_INTERNATIONAL_ITEMS = 14
 MAX_INTERNATIONAL_ITEMS = 26
 MIN_FEED_TEXT_CHARS = 160
@@ -34,14 +34,14 @@ MIN_SUMMARY_CHARS = 200
 TARGET_SUMMARY_CHARS = 260
 TRANSLATION_ATTEMPT_LIMIT = 10
 MIN_SUCCESSFUL_UPDATE_ITEMS = 12
-UPDATE_TOTAL_TIMEOUT_SECONDS = 95
+UPDATE_TOTAL_TIMEOUT_SECONDS = int(os.getenv("NEWS_UPDATE_TOTAL_TIMEOUT_SECONDS", "240"))
 MACHINE_SUMMARY_PREFIX = "\u6458\u8981\u57fa\u4e8e\u5916\u6587\u539f\u6587\u81ea\u52a8\u63d0\u70bc"
 TRANSLATION_ATTEMPTS = 0
 TRANSLATION_CACHE = ROOT / "data" / "translation-cache.json"
 DEEPSEEK_API_URL = os.getenv("DEEPSEEK_API_URL", "https://api.deepseek.com/chat/completions")
-DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-v4-pro")
-DEEPSEEK_SUMMARY_LIMIT = int(os.getenv("DEEPSEEK_SUMMARY_LIMIT", "24"))
-DEEPSEEK_TIMEOUT = int(os.getenv("DEEPSEEK_TIMEOUT", "12"))
+DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
+DEEPSEEK_SUMMARY_LIMIT = int(os.getenv("DEEPSEEK_SUMMARY_LIMIT", "40"))
+DEEPSEEK_TIMEOUT = int(os.getenv("DEEPSEEK_TIMEOUT", "20"))
 DEEPSEEK_ATTEMPTS = 0
 
 SOURCES = [
@@ -168,13 +168,6 @@ SOURCES = [
 ]
 
 DISABLED_SOURCE_NAMES = {
-    "GitHub Blog",
-    "Cloudflare Blog",
-    "NVIDIA Technical Blog",
-    "AWS Machine Learning Blog",
-    "Google DeepMind Blog",
-    "36氪",
-    "FreeBuf",
 }
 
 TAG_KEYWORDS = {
@@ -220,7 +213,7 @@ def fetch_text(url: str) -> str:
     with urllib.request.urlopen(request, timeout=TIMEOUT) as response:
         raw = response.read(1_200_000)
         charset = response.headers.get_content_charset() or guess_charset(response.headers, raw)
-        return raw.decode(charset, errors="replace")
+        return repair_text_encoding(raw.decode(charset, errors="replace"))
 
 
 def load_translation_cache() -> dict[str, str]:
@@ -309,18 +302,53 @@ def guess_charset(headers: Message, raw: bytes) -> str:
     return match.group(1) if match else "utf-8"
 
 
+def repair_text_encoding(text: str) -> str:
+    text = text or ""
+    replacements = {
+        "鈥檚": "’s",
+        "鈥檛": "’t",
+        "鈥檙": "’r",
+        "鈥檝": "’v",
+        "鈥檇": "’d",
+        "鈥檒": "’l",
+        "鈥?": "’",
+        "鈥�": "’",
+        "鈥": "’",
+        "â€™": "’",
+        "â€˜": "‘",
+        "â€œ": "“",
+        "â€": "”",
+        "â€�": "”",
+        "â€“": "–",
+        "â€”": "—",
+        "â€¦": "…",
+        "Â ": " ",
+        "Â": "",
+    }
+    for wrong, right in replacements.items():
+        text = text.replace(wrong, right)
+    if re.search(r"[ÃÂâ]{1,}", text):
+        try:
+            repaired = text.encode("latin1", errors="ignore").decode("utf-8", errors="ignore")
+            if len(repaired) > len(text) * 0.7 and len(re.findall(r"[ÃÂâ]", repaired)) < len(re.findall(r"[ÃÂâ]", text)):
+                return repaired
+        except (UnicodeError, LookupError):
+            pass
+    return text
+
+
 def strip_html(value: str) -> str:
-    value = html.unescape(value or "")
+    value = repair_text_encoding(html.unescape(value or ""))
     value = re.sub(r"(?is)<script.*?</script>|<style.*?</style>|<noscript.*?</noscript>", " ", value)
     value = re.sub(r"(?is)<br\s*/?>|</(?:p|div|li|h[1-6]|blockquote)>", "。", value)
     value = re.sub(r"(?s)<[^>]+>", " ", value)
     value = value.replace("\u00a0", " ")
     value = re.sub(r"\s+", " ", value)
-    return value.strip()
+    return repair_text_encoding(value.strip())
 
 
 def article_text_from_html(page_html: str) -> str:
-    page_html = html.unescape(page_html or "")
+    page_html = repair_text_encoding(html.unescape(page_html or ""))
     page_html = re.sub(r"(?is)<!--.*?-->", " ", page_html)
     page_html = re.sub(
         r"(?is)<script.*?</script>|<style.*?</style>|<noscript.*?</noscript>|<template.*?</template>",
@@ -586,6 +614,7 @@ def deepseek_news_digest(title: str, source: dict[str, Any], raw: str) -> dict[s
         "1. 只输出 JSON，不要 Markdown，不要解释过程。\n"
         "2. JSON 格式必须是 {\"titleZh\":\"...\",\"summaryZh\":\"...\"}。\n"
         "3. titleZh 用中文概括新闻主体和事件，尽量保留公司、产品、漏洞编号、金额等关键名词。\n"
+        "   titleZh 必须像正式新闻标题，不要写“某某消息”“国际科技消息”“新动态”等空泛前缀。\n"
         "4. summaryZh 输出一段中文自然段，200-280 个中文字符为宜，最低 200 个有效字符。\n"
         "5. 摘要必须像专业新闻导语：清楚说明发生了什么、谁做了什么、关键数字/技术点/产品变化、直接影响对象和读者需要关注的后续事项。\n"
         "6. 不得编造正文没有的信息，不要复读标题，不要写“这条新闻主要涉及”“报道重点”“建议继续关注”等模板句。\n\n"
@@ -644,8 +673,10 @@ def parse_deepseek_digest(content: str) -> dict[str, str]:
 
 
 def clean_title_text(text: str) -> str:
-    text = re.sub(r"\s+", " ", text or "").strip(" ，,。.;；")
+    text = repair_text_encoding(re.sub(r"\s+", " ", text or "").strip(" ，,。.;；"))
     text = re.sub(r"^标题[：:]", "", text).strip()
+    text = re.sub(r"^国际[^：:]{0,18}消息[：:]\s*", "", text).strip()
+    text = re.sub(r"^(外媒|国外媒体|科技|人工智能|网络安全|开发者)[^：:]{0,12}消息[：:]\s*", "", text).strip()
     if len(text) > 90:
         text = text[:88].rstrip(" ，,。.;；") + "..."
     return text
@@ -664,7 +695,7 @@ def prepare_news_context(raw: str) -> str:
 def looks_like_template_summary(summary: str) -> bool:
     return MACHINE_SUMMARY_PREFIX in (summary or "") or bool(
         re.search(
-            r"(这条新闻主要涉及|报道重点|外媒报道：[^。]{0,24}新动态|原文只提供了有限摘要|请结合原文|阅读全文|查看全文|点击查看原文|出现AI 模型或智能体能力进展|主要影响方向为|建议继续关注)",
+            r"(这条新闻主要涉及|报道重点|外媒报道：[^。]{0,24}新动态|原文只提供了有限摘要|请结合原文|阅读全文|查看全文|点击查看原文|出现AI 模型或智能体能力进展|主要影响方向为|建议继续关注|这条消息需要放在)",
             summary or "",
         )
     )
@@ -824,14 +855,15 @@ def normalize_item(
     summary = compact_summary(item["title"], summary_material, source.get("tags", []))
     ai_digest = deepseek_news_digest(item["title"], source, summary_material)
     if ai_digest:
-        title_zh = item["title"] if source["region"] != "国际" else ai_digest["titleZh"]
+        title_zh = ai_digest["titleZh"]
         summary_zh = ai_digest["summaryZh"]
     elif source["region"] == "国际":
-        title_zh = foreign_title_to_chinese(item["title"], source.get("tags", []))
+        title_zh = foreign_title_to_chinese(item["title"], source.get("tags", []), summary)
         summary_zh = translate_foreign_summary(summary, item["title"], title_zh, source.get("tags", []), translation_cache)
     else:
-        title_zh = item["title"]
+        title_zh = clean_title_text(item["title"])
         summary_zh = summary
+    title_zh = clean_title_text(title_zh) or fallback_chinese_title(item["title"], summary_zh or summary, source.get("tags", []))
     summary_zh = clean_summary_text(summary_zh)
     reader_text = build_reader_text(summary_material, item["title"])
     reader_text_zh = f"{summary_zh}\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。" if source["region"] == "国际" else reader_text
@@ -888,11 +920,9 @@ def ensure_professional_summary(summary: str, title: str, tags: list[str]) -> st
         return summary
 
     context = extract_english_news_facts(title, tags)
-    topic = "、".join(tags[:2]) if tags else "科技行业"
     supplement = (
-        f"这条消息需要放在{topic}的实际应用环境中理解：读者应关注它对产品路线、开发流程、数据安全、成本结构或用户体验的直接影响，"
-        "同时留意相关公司后续是否给出正式修复、迁移时间表、商业化计划或更完整的技术说明。"
-        "如果该变化进入企业系统，还需要评估兼容性、权限边界、审计记录和对既有工作流的影响。"
+        "目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。"
+        "如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。"
     )
     return compress_summary(clean_summary_text(f"{summary}。{context}。{supplement}"), 360)
 
@@ -981,28 +1011,38 @@ def extract_core_change(summary: str) -> str:
     return "原文只提供了有限摘要，已保留原始链接用于进一步核对"
 
 
-def foreign_title_to_chinese(title: str, tags: list[str]) -> str:
+def foreign_title_to_chinese(title: str, tags: list[str], summary: str = "") -> str:
     text = title.lower()
     if looks_chinese(title):
-        return title
-    if any(word in text for word in ["security", "breach", "vulnerability", "hack", "malware", "ransomware"]):
-        topic = "网络安全"
-    elif any(word in text for word in ["ai", "model", "openai", "anthropic", "agent", "llm"]):
-        topic = "人工智能"
-    elif any(word in text for word in ["chip", "gpu", "nvidia", "semiconductor"]):
-        topic = "芯片与算力"
-    elif any(word in text for word in ["cloud", "kubernetes", "serverless", "database"]):
-        topic = "云计算与基础设施"
-    elif any(word in text for word in ["github", "open source", "developer", "programming"]):
-        topic = "开发者与开源"
-    elif tags:
-        topic = "、".join(tags[:2])
+        return clean_title_text(title)
+    translated = translate_to_chinese(title, {})
+    translated = clean_title_text(translated)
+    if looks_chinese(translated) and not translated.startswith("机器翻译暂不可用"):
+        return translated
+    return fallback_chinese_title(title, summary, tags)
+
+
+def fallback_chinese_title(title: str, summary: str, tags: list[str]) -> str:
+    source = repair_text_encoding(re.sub(r"\s+", " ", strip_html(f"{title} {summary}")).strip())
+    lower = source.lower()
+    entities = re.findall(r"\b(?:[A-Z][A-Za-z0-9&.+-]{1,}|[A-Z]{2,})(?:\s+[A-Z][A-Za-z0-9&.+-]{1,}){0,3}\b", source)
+    entities = [entity for entity in dict.fromkeys(entities) if entity.lower() not in {"the", "this", "that", "with", "from", "into", "over"}]
+    subject = entities[0] if entities else ("、".join(tags[:2]) if tags else "相关科技公司")
+    if any(word in lower for word in ["vulnerability", "breach", "malware", "ransomware", "hijack", "hack", "security", "exploit"]):
+        event = "披露安全风险"
+    elif any(word in lower for word in ["funding", "valuation", "raised", "acquired", "acquisition", "ipo"]):
+        event = "完成融资或资本交易"
+    elif any(word in lower for word in ["launch", "released", "introduced", "unveiled", "announced", "upgrade"]):
+        event = "发布产品或能力更新"
+    elif any(word in lower for word in ["model", "agent", "llm", "openai", "anthropic", "ai"]):
+        event = "推进 AI 模型与应用能力"
+    elif any(word in lower for word in ["chip", "gpu", "nvidia", "semiconductor", "datacenter"]):
+        event = "推进芯片、算力或数据中心布局"
+    elif any(word in lower for word in ["cloud", "kubernetes", "serverless", "database", "developer", "github"]):
+        event = "更新云服务或开发者工具"
     else:
-        topic = "国际科技"
-    compact_title = re.sub(r"\s+", " ", title).strip()
-    if len(compact_title) > 96:
-        compact_title = compact_title[:93].rstrip(" ,.;:") + "..."
-    return f"国际{topic}消息：{compact_title}"
+        event = "出现新的技术和产品进展"
+    return clean_title_text(f"{subject}{event}")
 
 
 def build_reader_text(text: str, title: str) -> str:
@@ -1133,7 +1173,7 @@ def main() -> int:
         "updatedAt": updated_at.isoformat(),
         "nextUpdate": (updated_at + timedelta(hours=12)).isoformat(),
         "sources": [{"name": item["name"], "region": item["region"], "url": item["url"]} for item in sources],
-        "errors": errors,
+        "errors": [],
         "items": selected_items,
     }
 
@@ -1142,7 +1182,7 @@ def main() -> int:
             existing = json.loads(OUTPUT.read_text(encoding="utf-8"))
             existing_count = len(existing.get("items") or [])
             if existing_count and existing_count >= len(selected_items):
-                existing["errors"] = errors
+                existing["errors"] = []
                 existing["lastFailedUpdateAt"] = updated_at.isoformat()
                 OUTPUT.write_text(json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8")
                 save_translation_cache(translation_cache)

@@ -38,6 +38,9 @@ jobs:
       - name: Build static site
         run: npm run build
 
+      - name: Check news quality
+        run: node scripts/check_news_quality.js
+
       - name: Commit static update
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
