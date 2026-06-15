@@ -51,10 +51,46 @@ vm.createContext(sandbox);
 vm.runInContext(source, sandbox, { timeout: 15000 });
 
 const dictionary = sandbox.__dict || [];
-const badSuffixes = ["核心概念", "工作机制", "组成结构", "关键流程", "常见指标", "设计权衡", "错误模式", "排障方法", "安全边界", "实践场景"];
+const badSuffixes = [
+  "\u6838\u5FC3\u6982\u5FF5",
+  "\u5DE5\u4F5C\u673A\u5236",
+  "\u7EC4\u6210\u7ED3\u6784",
+  "\u5173\u952E\u6D41\u7A0B",
+  "\u5E38\u89C1\u6307\u6807",
+  "\u8BBE\u8BA1\u6743\u8861",
+  "\u9519\u8BEF\u6A21\u5F0F",
+  "\u6392\u969C\u65B9\u6CD5",
+  "\u5B89\u5168\u8FB9\u754C",
+  "\u5B9E\u8DF5\u573A\u666F",
+];
 const allTerms = [];
 const nameCounts = new Map();
 const explanationCounts = new Map();
+
+function containsAny(text, needles) {
+  const value = String(text || "");
+  return needles.some((needle) => value.includes(needle));
+}
+
+function hasMojibake(text) {
+  return containsAny(text, [
+    "\uFFFD",
+    "\u951F\u65A4\u62F7",
+    "\u9234",
+    "\u95B3",
+    "\u8139",
+    "\u8137",
+    "\u8292\u20AC",
+    "\u6D93\uE15F",
+    "\u934F\uE0C3",
+    "\u93B6\u20AC",
+    "\u5A11\u5806",
+    "\u93C2\u677F",
+    "\u675E\u6B22",
+    "\u95C3",
+    "\u9422",
+  ]);
+}
 
 for (const section of dictionary) {
   for (const term of section.terms || []) {
@@ -74,7 +110,15 @@ const lowValueNames = allTerms.filter((term) => badSuffixes.some((suffix) => ter
 const missingCoreFields = allTerms.filter((term) => !term.name || !term.tag || !term.explanation || !term.image);
 const missingEnglish = allTerms.filter((term) => !String(term.english || "").trim());
 const shortExplanations = allTerms.filter((term) => term.explanation.length > 0 && term.explanation.length < 28);
-const genericExplanations = allTerms.filter((term) => /只是一个零件|重要名词/.test(term.explanation) && term.explanation.length < 90);
+const genericExplanations = allTerms.filter((term) => /\u53EA\u662F\u4E00\u4E2A\u96F6\u4EF6|\u91CD\u8981\u540D\u8BCD/.test(term.explanation) && term.explanation.length < 90);
+const mojibakeTerms = allTerms.filter((term) =>
+  hasMojibake(term.name) ||
+  hasMojibake(term.tag) ||
+  hasMojibake(term.explanation) ||
+  hasMojibake(term.image) ||
+  hasMojibake(term.english) ||
+  hasMojibake(term.sectionTitle)
+);
 const missingRelations = [];
 
 for (const term of allTerms) {
@@ -102,6 +146,8 @@ const report = {
   missingEnglish: missingEnglish.length,
   shortExplanations: shortExplanations.length,
   genericShortExplanations: genericExplanations.length,
+  mojibakeTerms: mojibakeTerms.length,
+  mojibakeSamples: mojibakeTerms.slice(0, 20).map((term) => ({ section: term.sectionTitle, name: term.name })),
   missingRelations: missingRelations.length,
   missingRelationSamples: missingRelations.slice(0, 25),
   largestSections: [...bySection].sort((a, b) => b.count - a.count).slice(0, 12),
@@ -110,6 +156,6 @@ const report = {
 
 console.log(JSON.stringify(report, null, 2));
 
-if (duplicates.length || lowValueNames.length || repeatedExplanations.length || missingCoreFields.length || missingEnglish.length) {
+if (duplicates.length || lowValueNames.length || repeatedExplanations.length || missingCoreFields.length || missingEnglish.length || mojibakeTerms.length) {
   process.exitCode = 1;
 }
