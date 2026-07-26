@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T13:19:22.601384+00:00",
-  "nextUpdate": "2026-07-26T01:19:22.601384+00:00",
+  "updatedAt": "2026-07-26T02:31:54.978905+00:00",
+  "nextUpdate": "2026-07-26T14:31:54.978905+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,6 +76,29 @@
   "errors": [],
   "items": [
     {
+      "title": "Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳",
+      "titleZh": "Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳",
+      "summary": "模型参数规模不断突破，推理成本持续下降，开源生态日益繁荣。他在本次会议的详细演讲内容如下： 1. 为什么业务超线性增长需要 Agentic-Native 组织 软件公司的增长瓶颈正在从开发效率转向核心人才吸引、组织效率围绕关键员工进行建设的新挑战 Agentic-Native...。理解 Agentic-native 增长的核心逻辑：不是用 AI 替代人，而是用 Agent 降低组织增长的边际协调成本。",
+      "originalSummary": "模型参数规模不断突破，推理成本持续下降，开源生态日益繁荣。他在本次会议的详细演讲内容如下： 1. 为什么业务超线性增长需要 Agentic-Native 组织 软件公司的增长瓶颈正在从开发效率转向核心人才吸引、组织效率围绕关键员工进行建设的新挑战 Agentic-Native...。理解 Agentic-native 增长的核心逻辑：不是用 AI 替代人，而是用 Agent 降低组织增长的边际协调成本。",
+      "url": "https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-07-26T10:00:00+00:00",
+      "tags": [
+        "架构",
+        "软件工程",
+        "中文深度",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1885,
+      "summaryLength": 175,
+      "summaryQuality": "weak",
+      "readerTextZh": "Agent 如何在企业环境中实现跨系统协作，以及背后的关键工程实践 Agent 如何在企业环境中实现跨系统协作，以及背后的关键工程实践 Agent 时代，哪些方向正在成为行业关键变量？ 模型参数规模不断突破，推理成本持续下降，开源生态日益繁荣 当模型能力逐渐成为行业共识，一个新的问题开始浮现： 当人人都能获得强大的模型能力之后，真正的竞争力还剩下什么？ 答案正在从模型能力本身，转向围绕模型构建可规模化的智能系统 从单点能力提升，转向系统工程与组织级落地能力 在这一背景下， 2026 年 AICon 人工智能开发与应用大会 · 深圳站 正式启动 本次大会将于 8 月 21 日—22 日 举办，聚焦 AI 基础设施、大模型系统、智能体工程、数据智能、多模态技术与行业落地等关键方向，邀请来自腾讯、阿里、华为、百度、蚂蚁集团等 50 + 头部科技企业技术负责人、科研机构一线专家，系统性分享前沿洞察与实战干货，共同探讨 AI 技术从能力到系统、从实验到生产的真实路径 Zilliz 联合创始人兼产品副总裁郭人通已确认出席 “ 超级个体与蜂群智能的共生进化 ” 专题，并发表题为 《 Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张 》 的主题分享 本次分享将结合 Zilliz Agent 的真实落地案例，重点介绍 Agent 如何在企业环境中实现跨系统协作，以及背后的关键工程实践，包括上下文预算管理、长期 Memory 设计、Skills 工程化、Human-in-the-Loop 机制和异步工作流构建 并且还将进一步讨论，当 Agent 从简单问答演进为业务执行主体后，对数据基础设施提出了哪些新的要求，以及 Agent-Native Data Infrastructure 将如何成为下一代企业智能系统的重要底座 郭人通，Zilliz 联合创始人兼产品副总裁，Milvus 核心架构师之一",
+      "isTranslated": false
+    },
+    {
       "title": "ACL 2026美团论文精选：从能力评测到推理优化，构建生成新范式",
       "titleZh": "ACL 2026美团论文精选：从能力评测到推理优化，构建生成新范式",
       "summary": "自 1962 年创办以来，ACL 已成为 NLP 领域规模最大、影响力最高的学术盛会，汇聚了来自全球学术界和工业界的顶尖研究者。本文解读了被 ACL 顶会收录的其中 6 篇论文，技术方向覆盖 大模型评测、复杂流程推理、竞赛级数学思维优化、强化学习优化、生成式推荐 等领域，欢迎大家一起交流学习。该基准利用 COREPIPE 框架，从 12 个 Python 开源库自动生成 1,524 个结构化任务，涵盖开发、修复、测试驱动开发等多种软件工程场景，有效区分不同认知负载并动态调整任务复杂度。",
@@ -83,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/06/05/ACL-2026.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-07-25T13:18:58.476620+00:00",
+      "publishedAt": "2026-07-26T02:31:20.214230+00:00",
       "tags": [
         "后端",
         "工程",
@@ -106,7 +129,7 @@
       "url": "https://tech.meituan.com/2026/06/11/ACL-2026-Agent.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-07-25T13:18:58.181478+00:00",
+      "publishedAt": "2026-07-26T02:31:19.886048+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +151,7 @@
       "url": "https://tech.meituan.com/2026/06/12/LongCat-WBench.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-07-25T13:18:57.897257+00:00",
+      "publishedAt": "2026-07-26T02:31:19.551092+00:00",
       "tags": [
         "后端",
         "工程",
@@ -151,7 +174,7 @@
       "url": "https://tech.meituan.com/2026/06/18/AIGC-poster.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-07-25T13:18:57.613706+00:00",
+      "publishedAt": "2026-07-26T02:31:19.197278+00:00",
       "tags": [
         "后端",
         "工程",
@@ -174,7 +197,7 @@
       "url": "https://tech.meituan.com/2026/06/18/2026-ASX.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-07-25T13:18:57.303625+00:00",
+      "publishedAt": "2026-07-26T02:31:18.828462+00:00",
       "tags": [
         "后端",
         "工程",
@@ -196,7 +219,7 @@
       "url": "https://tech.meituan.com/2026/06/29/LongCat-VitaBench-2.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-07-25T13:18:57.005184+00:00",
+      "publishedAt": "2026-07-26T02:31:18.460738+00:00",
       "tags": [
         "后端",
         "工程",
@@ -219,7 +242,7 @@
       "url": "https://tech.meituan.com/2026/06/29/ICML-2026.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-07-25T13:18:56.729543+00:00",
+      "publishedAt": "2026-07-26T02:31:18.106845+00:00",
       "tags": [
         "后端",
         "工程",
@@ -241,7 +264,7 @@
       "url": "https://tech.meituan.com/2026/06/30/LongCat2.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-07-25T13:18:56.432015+00:00",
+      "publishedAt": "2026-07-26T02:31:17.764910+00:00",
       "tags": [
         "后端",
         "工程",
@@ -257,24 +280,179 @@
       "isTranslated": false
     },
     {
-      "title": "列表查询的 GraphQL —— 一行代码终结你的 if-else 地狱！ - troyzhxu",
-      "titleZh": "列表查询的 GraphQL —— 一行代码终结你的 if-else 地狱！ - troyzhxu",
-      "summary": "if (StringUtils.isNotBlank(name)) { predicates.add(cb.like(root.get(\"name\"), \"%\" + name + \"%\"))。} // ... 同样的 if 地狱，只是换了语法 return cb.and(predicates.toArray(new Predicate[0]))。本质没变—— 你还是在用手工方式把参数翻译成查询条件 这个问题存在的唯一原因，就是你把\"声明\"和\"执行\"混在了一起 那为什么中间的翻译工作——把 HTTP 参数翻译成 SQL——需要你一行一行写 if-else？。",
-      "originalSummary": "if (StringUtils.isNotBlank(name)) { predicates.add(cb.like(root.get(\"name\"), \"%\" + name + \"%\"))。} // ... 同样的 if 地狱，只是换了语法 return cb.and(predicates.toArray(new Predicate[0]))。本质没变—— 你还是在用手工方式把参数翻译成查询条件 这个问题存在的唯一原因，就是你把\"声明\"和\"执行\"混在了一起 那为什么中间的翻译工作——把 HTTP 参数翻译成 SQL——需要你一行一行写 if-else？。",
-      "url": "https://www.cnblogs.com/zhoxu/p/21920168",
+      "title": "技术总结|十分钟了解PageIndex",
+      "titleZh": "技术总结|十分钟了解PageIndex",
+      "summary": "在 FinanceBench（金融文档 QA 基准测试）上，PageIndex 达到了 98.7% 的 SOTA 准确率 ，远远超越传统向量 RAG 方案 文档 → 固定大小分块 → Embedding 向量 → 存入向量数据库 → 查询向量 → 近邻检索 →...。把一份财务报告切成 512-token 的小块，你会发现\"第三季度营收增长 15%\"和\"但综合成本上升导致利润下滑 3%\"被分到了两个不同的 chunk 里。你有没有遇到过这种情况：把几百页的 PDF 扔进 RAG 系统里，问了一个需要上下文理解的问题，结果它返回了一堆似乎\"语义相近\"但完全不相关的内容，偏偏漏掉了真正关键的那几页？。",
+      "originalSummary": "在 FinanceBench（金融文档 QA 基准测试）上，PageIndex 达到了 98.7% 的 SOTA 准确率 ，远远超越传统向量 RAG 方案 文档 → 固定大小分块 → Embedding 向量 → 存入向量数据库 → 查询向量 → 近邻检索 →...。把一份财务报告切成 512-token 的小块，你会发现\"第三季度营收增长 15%\"和\"但综合成本上升导致利润下滑 3%\"被分到了两个不同的 chunk 里。你有没有遇到过这种情况：把几百页的 PDF 扔进 RAG 系统里，问了一个需要上下文理解的问题，结果它返回了一堆似乎\"语义相近\"但完全不相关的内容，偏偏漏掉了真正关键的那几页？。",
+      "url": "https://juejin.cn/post/7666017589641576448",
+      "source": "掘金技术社区",
+      "region": "中文技术深度",
+      "publishedAt": "2026-07-26T02:22:48+00:00",
+      "tags": [
+        "前端",
+        "后端",
+        "开发者",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3203,
+      "summaryLength": 235,
+      "summaryQuality": "strong",
+      "readerTextZh": "你有没有遇到过这种情况：把几百页的 PDF 扔进 RAG 系统里，问了一个需要上下文理解的问题，结果它返回了一堆似乎\"语义相近\"但完全不相关的内容，偏偏漏掉了真正关键的那几页？ 你有没有遇到过这种情况：把几百页的 PDF 扔进 RAG 系统里，问了一个需要上下文理解的问题，结果它返回了一堆似乎 你有没有遇到过这种情况：把几百页的 PDF 扔进 RAG 系统里，问了一个需要上下文理解的问题，结果它返回了一堆似乎\"语义相近\"但完全不相关的内容，偏偏漏掉了真正关键的那几页？ 这不是你的 prompt 没写好，而是传统向量 RAG 的基因缺陷： 语义相似性 ≠ 相关性 今天介绍的 PageIndex 从根本上重新思考了这个问题，用一种全新的范式取代了\"分块 + 向量检索\"的传统路线 在 FinanceBench（金融文档 QA 基准测试）上，PageIndex 达到了 98.7% 的 SOTA 准确率 ，远远超越传统向量 RAG 方案 文档 → 固定大小分块 → Embedding 向量 → 存入向量数据库 → 查询向量 → 近邻检索 → 拼接上下文 → LLM 回答 这套流程有两个根本性缺陷： 第一，分块（Chunking）破坏了文档结构 把一份财务报告切成 512-token 的小块，你会发现\"第三季度营收增长 15%\"和\"但综合成本上升导致利润下滑 3%\"被分到了两个不同的 chunk 里 检索时，第一个 chunk 因为包含\"营收\"被高亮返回，但第二个包含关键反转信息的 chunk 却因为语义距离被排到了后面 第二，向量相似度搜索不理解上下文 向量检索本质上是在做\"感觉式匹配\"——它找的是 embedding 空间中距离最近的向量，而不是真正需要推理才能确定的\"相关段落\" 当你问\"公司面临的最大风险是什么\"时，向量搜索可能返回一大堆提到\"风险\"一词的段落，却漏掉了那些在讨论市场环境时隐含风险判断的重要章节 换句话说：向量搜索擅长找\"长得像\"的，但不擅长找\"应该看\"的 PageIndex 的核心洞察很简单： 模仿人类专家阅读长文档的方式 一个金融分析师阅读 SEC...",
+      "isTranslated": false
+    },
+    {
+      "title": "kbot3测试Model报500：一次app_id参数排查记录 - AlfredZhao",
+      "titleZh": "kbot3测试Model报500：一次app_id参数排查记录 - AlfredZhao",
+      "summary": "【摘要】kbot3是一款支持以oracle为底座的知识库产品。本文分享一次常见的问题诊断，kbot3 中新增的模型开始进入测试阶段。但在 APEX 前端点击 LLM 配置的 Test 按钮时，请求 /api/model/test 返回 500，前端提示：AxiosError kbot3测试Model报500：一次app_id参数排查记录 kbot3是...。",
+      "originalSummary": "【摘要】kbot3是一款支持以oracle为底座的知识库产品。本文分享一次常见的问题诊断，kbot3 中新增的模型开始进入测试阶段。但在 APEX 前端点击 LLM 配置的 Test 按钮时，请求 /api/model/test 返回 500，前端提示：AxiosError kbot3测试Model报500：一次app_id参数排查记录 kbot3是...。",
+      "url": "https://www.cnblogs.com/jyzhao/p/21924586",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-07-25T13:01:00+00:00",
+      "publishedAt": "2026-07-26T01:38:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1596,
+      "summaryLength": 151,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】kbot3是一款支持以oracle为底座的知识库产品 本文分享一次常见的问题诊断，kbot3 中新增的模型开始进入测试阶段 但在 APEX 前端点击 LLM 配置的 Test 按钮时，请求 /api/model/test 返回 500，前端提示：AxiosError 阅读全文 kbot3是一款支持以oracle为底座的知识库产品 但在 APEX 前端点击 LLM 配置的 Test 按钮时，请求 /api/model/test 返回 500，前端提示：AxiosError kbot3是一款支持以oracle为底座的知识库产品 但在 APEX 前端点击 LLM 配置的 Test 按钮时，请求 /api/model/test 返回 500，前端提示：AxiosError kbot3测试Model报500：一次app_id参数排查记录 kbot3是一款支持以oracle为底座的知识库产品 前端APEX，后端Python 本文分享一次常见的问题诊断，kbot3 中新增的模型开始进入测试阶段 但在 APEX 前端点击 LLM 配置的 Test 按钮时，请求 /api/model/test 返回 500，前端提示： AxiosError: Request failed with status code 500 这类问题表面是接口 500，实际往往要顺着前端请求、主服务查询、下游服务查询一路看参数是否一致 APEX 前端点击 LLM 配置的 Test 按钮，请求 /api/model/test ，返回 500 已确认 APEX 侧鉴权正常，如果前后端联通有问题，会报错 401，此外，前后端没问题，页面右上角的锁头会是绿色 也就是说，APEX page 43 的 JS 没有发送 app_id 后端主服务会先按 model_id 查询 kbot_md_models ，这一步是正常的 随后 llm-service 会继续按 display_name + app_id 查询模型配置 从 v$sql_bind_capture 抓到的实际绑定值是： display_name = de...",
+      "isTranslated": false
+    },
+    {
+      "title": "你的 AI 编程工具里，缺一个“专家团队“，一人公司必备的Agents合集 - lincats",
+      "titleZh": "你的 AI 编程工具里，缺一个“专家团队“，一人公司必备的Agents合集 - lincats",
+      "summary": "【摘要】agency-agents，GitHub **13.6 万星**。作者起的名字很贴切：一家完整的 AI 公司，随时待命。说白了，你以前跟 AI 说\"帮我写代码\"，现在你说\"激活高级前端开发工程师... 阅读全文。",
+      "originalSummary": "【摘要】agency-agents，GitHub **13.6 万星**。作者起的名字很贴切：一家完整的 AI 公司，随时待命。说白了，你以前跟 AI 说\"帮我写代码\"，现在你说\"激活高级前端开发工程师... 阅读全文。",
+      "url": "https://www.cnblogs.com/lincats/p/21924288",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-07-26T01:37:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 162,
+      "summaryLength": 81,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】agency-agents，GitHub **13.6 万星** 作者起的名字很贴切：一家完整的 AI 公司，随时待命 它给每个角色定义了三个东西：独特的人设、专业的工作流程、可交付的成果标准 说白了，你以前跟 AI 说\"帮我写代码\"，现在你说\"激活高级前端开发工程师... 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "tssh v0.1.26 已经发布，支持 trz/tsz 的 ssh 客户端",
+      "titleZh": "tssh v0.1.26 已经发布，支持 trz/tsz 的 ssh 客户端",
+      "summary": "tssh v0.1.26 已经发布，支持 trz/tsz 的 ssh 客户端 此版本更新内容包括： 发布 v0.1.26 (Release v0.1.26) 本次发布为 SSH 多路复用 (Multiplexing) 和 UDP 会话管理带来了重要的新功能，同...。核心新特性 (Major Features) 多路复用与 ControlMaster 支持:。",
+      "originalSummary": "tssh v0.1.26 已经发布，支持 trz/tsz 的 ssh 客户端 此版本更新内容包括： 发布 v0.1.26 (Release v0.1.26) 本次发布为 SSH 多路复用 (Multiplexing) 和 UDP 会话管理带来了重要的新功能，同...。核心新特性 (Major Features) 多路复用与 ControlMaster 支持:。",
+      "url": "https://www.oschina.net/news/479481",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-07-26T00:52:43+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 212,
+      "summaryLength": 136,
+      "summaryQuality": "weak",
+      "readerTextZh": "tssh v0.1.26 已经发布，支持 trz/tsz 的 ssh 客户端 此版本更新内容包括： 发布 v0.1.26 (Release v0.1.26) 本次发布为 SSH 多路复用 (Multiplexing) 和 UDP 会话管理带来了重要的新功能，同时包含了广泛的兼容性改进、新的配置选项以及大量的 Bug 修复 核心新特性 (Major Features) 多路复用与 ControlMaster 支持:",
+      "isTranslated": false
+    },
+    {
+      "title": "MCP Server 权限边界工程实践：OAuth、最小权限与工具沙箱，别让 Agent 拿到整台机器",
+      "titleZh": "MCP Server 权限边界工程实践：OAuth、最小权限与工具沙箱，别让 Agent 拿到整台机器",
+      "summary": "MCP 让 Agent 接工具变得很快，但生产风险也随之集中到权限边界上。本文用五层模型拆解入口身份、资源授权、工具白名单、执行沙箱与审计回放，并给出 TypeScript policy engine、scope、manifest 与上线检查清单，帮助团队避免让 Agent 拿到整台机器。",
+      "originalSummary": "MCP 让 Agent 接工具变得很快，但生产风险也随之集中到权限边界上。本文用五层模型拆解入口身份、资源授权、工具白名单、执行沙箱与审计回放，并给出 TypeScript policy engine、scope、manifest 与上线检查清单，帮助团队避免让 Agent 拿到整台机器。",
+      "url": "https://juejin.cn/post/7666142463166775323",
+      "source": "掘金技术社区",
+      "region": "中文技术深度",
+      "publishedAt": "2026-07-26T00:10:04+00:00",
+      "tags": [
+        "前端",
+        "后端",
+        "开发者",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 145,
+      "summaryLength": 126,
+      "summaryQuality": "weak",
+      "readerTextZh": "MCP 让 Agent 接工具变得很快，但生产风险也随之集中到权限边界上 本文用五层模型拆解入口身份、资源授权、工具白名单、执行沙箱与审计回放，并给出 TypeScript policy engine、scope、manifest 与上线检查清单，帮助团队避免让 Agent 拿到整台机器",
+      "isTranslated": false
+    },
+    {
+      "title": "企业数字化最大的坑不是技术，是主数据——18年实战笔记 - 凌波微数",
+      "titleZh": "企业数字化最大的坑不是技术，是主数据——18年实战笔记 - 凌波微数",
+      "summary": "【摘要】企业数字化最大的坑不是技术，是主数据——18年实战笔记 18年汽车行业数字化，甲方乙方都干过。从DMS运维起步，管过DMS/TMS/MES/PDM/BI，后来全面转数据方向，主导过CDP客户数据平台、数据中台、MA数字化运营平台的建设。这两段经历让我同时看过两件事：业 阅读全文。",
+      "originalSummary": "【摘要】企业数字化最大的坑不是技术，是主数据——18年实战笔记 18年汽车行业数字化，甲方乙方都干过。从DMS运维起步，管过DMS/TMS/MES/PDM/BI，后来全面转数据方向，主导过CDP客户数据平台、数据中台、MA数字化运营平台的建设。这两段经历让我同时看过两件事：业 阅读全文。",
+      "url": "https://www.cnblogs.com/w1985/p/21920583",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-07-25T13:54:00+00:00",
       "tags": [
         "开发者",
         "后端",
         "中文深度"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 3215,
-      "summaryLength": 201,
-      "summaryQuality": "strong",
-      "readerTextZh": "【摘要】产品加一个筛选条件，你要改四层代码 这不是 MyBatis 的锅，也不是 JPA 的锅——是你把\"声明\"和\"执行\"混在了一起 如果列表查询有 GraphQL，会是什么样？ 阅读全文 产品加一个筛选条件，你要改四层代码 这不是 MyBatis 的锅，也不是 JPA 的锅——是你把 产品加一个筛选条件，你要改四层代码 这不是 MyBatis 的锅，也不是 JPA 的锅——是你把 一个后端工程师的自白：为什么你写了 100 行 Java 代码，其实只做了一件事——把前端传进来的几个参数，拼成一条 SQL // 首先，你要写一条动态 SQL SELECT u.*, d.name as deptName FROM user u LEFT JOIN dept d ON u.dept_id = d.id AND u.name LIKE CONCAT('%', #{name}, '%') AND u.age >= #{ageMin} AND u.age AND d.name = #{dept} AND u.entry_date >= #{entryDateStart} AND u.entry_date ORDER BY ${sortField} ${sortOrder} LIMIT #{offset}, #{size} 还没完 你还需要一个统计 SQL、一个 Controller 方法解析参数、一个 Service 层做分页计算、一个 Mapper 接口、一个 VO 类专门承接查询结果——还要小心 ${} SQL 注入 然后小王说：\"对了，把部门筛选改成支持多选 \" 这不是 MyBatis 的问题——换 JPA，你也不会更轻松： Specification spec = (root, query, cb) -> { List predicates = new ArrayList<>()",
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 123,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】企业数字化最大的坑不是技术，是主数据——18年实战笔记 18年汽车行业数字化，甲方乙方都干过 从DMS运维起步，管过DMS/TMS/MES/PDM/BI，后来全面转数据方向，主导过CDP客户数据平台、数据中台、MA数字化运营平台的建设 这两段经历让我同时看过两件事：业 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "QT自定义控件之内嵌报表 - Littlehero_121",
+      "titleZh": "QT自定义控件之内嵌报表 - Littlehero_121",
+      "summary": "【摘要】一、古法炮制 在这个AI百花齐放的时期里，我们还在用QT手搓控件，自嘲为古法制作。众做周知，QWidget做界面不美（网友骂之更多），但其实亲身经历发现，它就是麻烦了，其实用心效果之后也能达到美观程度。在嵌入式，制造业领域，需要的复杂控件，我们正在学习研究中，期待后期能更好的跟大家见面。",
+      "originalSummary": "【摘要】一、古法炮制 在这个AI百花齐放的时期里，我们还在用QT手搓控件，自嘲为古法制作。众做周知，QWidget做界面不美（网友骂之更多），但其实亲身经历发现，它就是麻烦了，其实用心效果之后也能达到美观程度。在嵌入式，制造业领域，需要的复杂控件，我们正在学习研究中，期待后期能更好的跟大家见面。",
+      "url": "https://www.cnblogs.com/JJ-Wu/p/21920364",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-07-25T13:40:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 129,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】一、古法炮制 在这个AI百花齐放的时期里，我们还在用QT手搓控件，自嘲为古法制作 众做周知，QWidget做界面不美（网友骂之更多），但其实亲身经历发现，它就是麻烦了，其实用心效果之后也能达到美观程度 在嵌入式，制造业领域，需要的复杂控件，我们正在学习研究中，期待后期能更好的跟大家见面",
+      "isTranslated": false
+    },
+    {
+      "title": "我给开源项目做门户，结果彩蛋比正站还费时间 - AneiangSoft",
+      "titleZh": "我给开源项目做门户，结果彩蛋比正站还费时间 - AneiangSoft",
+      "summary": "【摘要】做 AneiangSoft 的开源项目有一阵了，Aneiang.Yarp（API 网关）和 Aneiang.Pa（热榜爬虫）一直在维护，但始终缺一个像样的门户。最近终于把 aneiang.com 做了出来。代码基本是 AI 辅助生成的，我负责想\"做什么、长什么样、梗怎么藏\"。",
+      "originalSummary": "【摘要】做 AneiangSoft 的开源项目有一阵了，Aneiang.Yarp（API 网关）和 Aneiang.Pa（热榜爬虫）一直在维护，但始终缺一个像样的门户。最近终于把 aneiang.com 做了出来。代码基本是 AI 辅助生成的，我负责想\"做什么、长什么样、梗怎么藏\"。",
+      "url": "https://www.cnblogs.com/aneiangsoft/p/21920303",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-07-25T13:32:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 115,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】做 AneiangSoft 的开源项目有一阵了，Aneiang.Yarp（API 网关）和 Aneiang.Pa（热榜爬虫）一直在维护，但始终缺一个像样的门户 最近终于把 aneiang.com 做了出来 代码基本是 AI 辅助生成的，我负责想\"做什么、长什么样、梗怎么藏\"",
       "isTranslated": false
     },
     {
@@ -381,117 +559,6 @@
       "summaryLength": 136,
       "summaryQuality": "weak",
       "readerTextZh": "【摘要】1.滑雪比赛 题目： 狗狗们的全国冬季滑雪运动会的场地是一个M*N的矩阵 矩阵中的每个小方格上的数代表的是每块地方的高度，范围是0到1000000000之间的整数 矩阵中某些小方格被认为是中转点，主办方希望能够设置一个最小的D值，使得每只狗狗从任意一个中转点出发都可以到达其他任意的中转点",
-      "isTranslated": false
-    },
-    {
-      "title": "【开源项目】开源智能排产系统深度研究报告（第一部分） - doiito",
-      "titleZh": "【开源项目】开源智能排产系统深度研究报告（第一部分） - doiito",
-      "summary": "【摘要】开源智能排产系统深度研究报告 研究对象：frePPLe、Timefold Solver、Google OR-Tools 研究目标：深度分析三大开源项目的排产算法、功能特性、生产可用性，并给出最优组合技术方案 报告日期：2026-07-25 报告格式：M...。",
-      "originalSummary": "【摘要】开源智能排产系统深度研究报告 研究对象：frePPLe、Timefold Solver、Google OR-Tools 研究目标：深度分析三大开源项目的排产算法、功能特性、生产可用性，并给出最优组合技术方案 报告日期：2026-07-25 报告格式：M...。",
-      "url": "https://www.cnblogs.com/doiito/p/21918241",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-07-25T10:15:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "开源"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 110,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】开源智能排产系统深度研究报告 研究对象：frePPLe、Timefold Solver、Google OR-Tools 研究目标：深度分析三大开源项目的排产算法、功能特性、生产可用性，并给出最优组合技术方案 报告日期：2026-07-25 报告格式：Markdown（含 Mermaid 图形） 目录 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon深圳",
-      "titleZh": "以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon深圳",
-      "summary": "本次大会将于 8 月 21 日—22 日 举办，聚焦 AI 基础设施、大模型系统、智能体工程、数据智能、多模态技术与行业落地等关键方向，邀请来自腾讯、阿里、华为、百度、蚂蚁集团等 50 + 头部科技企业技术负责人、科研机构一线专家，系统性分享前沿洞察与实战干货...。本次演讲将从第一性原理出发，分享一套面向智能体时代的 Agent Runtime 安全方案——以 AI 对抗 AI，覆盖事前、事中、事后全链路，并依托真实生产数据实现能力的持续自迭代，让 Agent 的安全，越用越强 段...。Agent 正加速进入企业核心场景，但其自主规划、工具调用与数据访问能力，也让提示词注入、意图偏离、工具滥用、数据泄露等运行时的风险浮出水面 Agent 正加速进入企业核心场景，但其自主规划、工具调用...。",
-      "originalSummary": "本次大会将于 8 月 21 日—22 日 举办，聚焦 AI 基础设施、大模型系统、智能体工程、数据智能、多模态技术与行业落地等关键方向，邀请来自腾讯、阿里、华为、百度、蚂蚁集团等 50 + 头部科技企业技术负责人、科研机构一线专家，系统性分享前沿洞察与实战干货...。本次演讲将从第一性原理出发，分享一套面向智能体时代的 Agent Runtime 安全方案——以 AI 对抗 AI，覆盖事前、事中、事后全链路，并依托真实生产数据实现能力的持续自迭代，让 Agent 的安全，越用越强 段...。Agent 正加速进入企业核心场景，但其自主规划、工具调用与数据访问能力，也让提示词注入、意图偏离、工具滥用、数据泄露等运行时的风险浮出水面 Agent 正加速进入企业核心场景，但其自主规划、工具调用...。",
-      "url": "https://www.infoq.cn/article/fovd670ZuVMSMI7Z0zO4?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-07-25T10:00:00+00:00",
-      "tags": [
-        "架构",
-        "软件工程",
-        "中文深度",
-        "AI",
-        "安全"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 1645,
-      "summaryLength": 286,
-      "summaryQuality": "strong",
-      "readerTextZh": "Agent 正加速进入企业核心场景，但其自主规划、工具调用与数据访问能力，也让提示词注入、意图偏离、工具滥用、数据泄露等运行时的风险浮出水面 Agent 正加速进入企业核心场景，但其自主规划、工具调用与数据访问能力，也让提示词注入、意图偏离、工具滥用、数据泄露等运行时的风险浮出水面 Agent 时代，哪些方向正在成为行业关键变量？ 模型参数规模不断突破，推理成本持续下降，开源生态日益繁荣 当模型能力逐渐成为行业共识，一个新的问题开始浮现： 当人人都能获得强大的模型能力之后，真正的竞争力还剩下什么？ 答案正在从模型能力本身，转向围绕模型构建可规模化的智能系统 从单点能力提升，转向系统工程与组织级落地能力 在这一背景下， 2026 年 AICon 人工智能开发与应用大会 · 深圳站 正式启动 本次大会将于 8 月 21 日—22 日 举办，聚焦 AI 基础设施、大模型系统、智能体工程、数据智能、多模态技术与行业落地等关键方向，邀请来自腾讯、阿里、华为、百度、蚂蚁集团等 50 + 头部科技企业技术负责人、科研机构一线专家，系统性分享前沿洞察与实战干货，共同探讨 AI 技术从能力到系统、从实验到生产的真实路径 腾讯安全专家段昊彤已确认出席 “ Agent 安全：从风险到可控 ” 专题，并发表题为 《 以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线 》 的主题分享 Agent 正加速进入企业核心场景，但其自主规划、工具调用与数据访问能力，也让提示词注入、意图偏离、工具滥用、数据泄露等运行时的风险浮出水面 传统规则安全在语义化攻击与非确定性行为面前逐渐失效",
-      "isTranslated": false
-    },
-    {
-      "title": "BAOWUNOJ平分石头 - 陈晨2011",
-      "titleZh": "BAOWUNOJ平分石头 - 陈晨2011",
-      "summary": "题目 题目描述 给定 N 块石头与目标数值 M，每块石头只能选或者不选，从中挑选若干块石头，使得选出石头的总质量最接近 M，输出这个总质量。接下来 N 行，每行一个整数，表示单块石头的质量。数据范围 (0 < N < 200)。",
-      "originalSummary": "题目 题目描述 给定 N 块石头与目标数值 M，每块石头只能选或者不选，从中挑选若干块石头，使得选出石头的总质量最接近 M，输出这个总质量。接下来 N 行，每行一个整数，表示单块石头的质量。数据范围 (0 < N < 200)。",
-      "url": "https://www.cnblogs.com/chenchen2011/p/21912445",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-07-25T07:30:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 149,
-      "summaryLength": 88,
-      "summaryQuality": "weak",
-      "readerTextZh": "题目 题目描述 给定 N 块石头与目标数值 M，每块石头只能选或者不选，从中挑选若干块石头，使得选出石头的总质量最接近 M，输出这个总质量 接下来 N 行，每行一个整数，表示单块石头的质量 数据范围 (0 < N < 200)",
-      "isTranslated": false
-    },
-    {
-      "title": "在 JetBrains IDE 中接入 OpenCode 并配置自定义模型 - SharpCJ",
-      "titleZh": "在 JetBrains IDE 中接入 OpenCode 并配置自定义模型 - SharpCJ",
-      "summary": "【摘要】OpenCode 是一款开源 AI 编程代理，目前在 GitHub 上拥有超过 16 万颗 Star，月活开发者超过 750 万。它支持终端、桌面应用和 IDE 扩展等多种使用方式，并且由于隐私优先的设计——不存储你的代码和上下文数据——在对隐私敏感的开发环境中也能放心使用。",
-      "originalSummary": "【摘要】OpenCode 是一款开源 AI 编程代理，目前在 GitHub 上拥有超过 16 万颗 Star，月活开发者超过 750 万。它支持终端、桌面应用和 IDE 扩展等多种使用方式，并且由于隐私优先的设计——不存储你的代码和上下文数据——在对隐私敏感的开发环境中也能放心使用。",
-      "url": "https://www.cnblogs.com/joy99/p/21897539",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-07-25T06:29:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI",
-        "安全"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 118,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】OpenCode 是一款开源 AI 编程代理，目前在 GitHub 上拥有超过 16 万颗 Star，月活开发者超过 750 万 它支持终端、桌面应用和 IDE 扩展等多种使用方式，并且由于隐私优先的设计——不存储你的代码和上下文数据——在对隐私敏感的开发环境中也能放心使用",
-      "isTranslated": false
-    },
-    {
-      "title": "DuckDB 存储层到执行层： Segment、DataChunk、Filter 与 Morsel-Driven Hash Join 的完整执行过程 - aixueforever",
-      "titleZh": "DuckDB 存储层到执行层： Segment、DataChunk、Filter 与 Morsel-Driven Hash Join 的完整执行过程 - aixueforever",
-      "summary": "【摘要】本文以 DuckDB 的向量化执行模型为背景，详细解释三个问题： 存储层中的 ColumnSegment 如何被扫描为执行层的 DataChunk。DataChunk 经过 Filter 时，是复制数据还是使用选择向量。两个表各自的 morsel/DataChunk 如何先 Filter，再分 阅读全文。",
-      "originalSummary": "【摘要】本文以 DuckDB 的向量化执行模型为背景，详细解释三个问题： 存储层中的 ColumnSegment 如何被扫描为执行层的 DataChunk。DataChunk 经过 Filter 时，是复制数据还是使用选择向量。两个表各自的 morsel/DataChunk 如何先 Filter，再分 阅读全文。",
-      "url": "https://www.cnblogs.com/aslanvon/p/21907390",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-07-25T04:45:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 158,
-      "summaryLength": 134,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】本文以 DuckDB 的向量化执行模型为背景，详细解释三个问题： 存储层中的 ColumnSegment 如何被扫描为执行层的 DataChunk DataChunk 经过 Filter 时，是复制数据还是使用选择向量 两个表各自的 morsel/DataChunk 如何先 Filter，再分 阅读全文",
       "isTranslated": false
     },
     {
@@ -644,27 +711,6 @@
       "summaryLength": 143,
       "summaryQuality": "weak",
       "readerTextZh": "本次版本集中呈现了 Wow 在核心可靠性、事件存储、消息基础设施、BI / ClickHouse 与开发者体验上的阶段性演进 :trophy: 荣获 KaiCode’26 优秀奖 Wow 荣获 KaiCode’26 Excellent Award（优秀奖） 感谢 KaiCode’26 对 Wow 的认可，也感谢每一位使用、反馈和参与项目建设的开发者",
-      "isTranslated": false
-    },
-    {
-      "title": "开源的 OA 办公系统 — 勾股 OA 6.0.1 发布",
-      "titleZh": "开源的 OA 办公系统 — 勾股 OA 6.0.1 发布",
-      "summary": "勾股 OA 办公系统是一款简单实用的开源的企业办公系统。系统集成了系统设置、附件管理、人事管理、行政管理、消息管理、资产管理、企业公告、知识网盘、审批流程设置、办公审批、工作计划、工作汇报、工作日志、日常办公、财务管理、客户管理、合同管理、项目管理、任务管理等功能模块。",
-      "originalSummary": "勾股 OA 办公系统是一款简单实用的开源的企业办公系统。系统集成了系统设置、附件管理、人事管理、行政管理、消息管理、资产管理、企业公告、知识网盘、审批流程设置、办公审批、工作计划、工作汇报、工作日志、日常办公、财务管理、客户管理、合同管理、项目管理、任务管理等功能模块。",
-      "url": "https://www.oschina.net/news/478429",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-07-24T06:48:38+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 154,
-      "summaryLength": 113,
-      "summaryQuality": "weak",
-      "readerTextZh": "勾股 OA 办公系统是一款简单实用的开源的企业办公系统 系统集成了系统设置、附件管理、人事管理、行政管理、消息管理、资产管理、企业公告、知识网盘、审批流程设置、办公审批、工作计划、工作汇报、工作日志、日常办公、财务管理、客户管理、合同管理、项目管理、任务管理等功能模块",
       "isTranslated": false
     },
     {
