@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-08T15:58:33.045388+00:00",
-  "nextUpdate": "2026-09-09T03:58:33.045388+00:00",
+  "updatedAt": "2026-09-09T02:59:52.894669+00:00",
+  "nextUpdate": "2026-09-09T14:59:52.894669+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,24 +76,25 @@
   "errors": [],
   "items": [
     {
-      "title": "从告警风暴到一句话诊断：HCF 全息编码框架科普",
-      "titleZh": "从告警风暴到一句话诊断：HCF 全息编码框架科普",
-      "summary": "让软件系统自己 让软件系统自己 核心观点： 分布式系统出故障时，几百条告警刷屏，但没有一条告诉你\"哪里坏了、该怎么办\"。HCF（全息编码框架）换了一个测量问题：不问\"每个组件在做什么\"，而问\"这些组件配合得怎么样\"，把几十个指标翻译成一张冲突图，再压缩成一个\"内摩擦指数\"（I 值）——健康系统有稳定的\"静息心率\"（约 0.75），故障后显...。在 RCAEval 基准的 202 次故障注入中，监控栈可观测的 177 例故障全部检出（100%），预警平均提前约 20 分钟出现 做运维的人对这个场景都不陌生：一个依赖关系复杂的微服务系统出了问题，几十个仪表盘同时飘...。",
-      "originalSummary": "让软件系统自己 让软件系统自己 核心观点： 分布式系统出故障时，几百条告警刷屏，但没有一条告诉你\"哪里坏了、该怎么办\"。HCF（全息编码框架）换了一个测量问题：不问\"每个组件在做什么\"，而问\"这些组件配合得怎么样\"，把几十个指标翻译成一张冲突图，再压缩成一个\"内摩擦指数\"（I 值）——健康系统有稳定的\"静息心率\"（约 0.75），故障后显...。在 RCAEval 基准的 202 次故障注入中，监控栈可观测的 177 例故障全部检出（100%），预警平均提前约 20 分钟出现 做运维的人对这个场景都不陌生：一个依赖关系复杂的微服务系统出了问题，几十个仪表盘同时飘...。",
-      "url": "https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article",
+      "title": "Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+      "titleZh": "Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+      "summary": "本次分享将结合阿里 Open Code Review 的建设实践，介绍如何通过确定性工程 + Agent 协同，将通用 Agent 收敛为适用于代码评审场景的垂直领域 Agent 本次分享将结合阿里 Open Code Review 的建设实践，介绍如何通过确...。推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Agent Framework 快速演进……AI 正在从回答问题的模型，演变为能够自主规划、调用工具、执行任务的软件系统。",
+      "originalSummary": "本次分享将结合阿里 Open Code Review 的建设实践，介绍如何通过确定性工程 + Agent 协同，将通用 Agent 收敛为适用于代码评审场景的垂直领域 Agent 本次分享将结合阿里 Open Code Review 的建设实践，介绍如何通过确...。推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Agent Framework 快速演进……AI 正在从回答问题的模型，演变为能够自主规划、调用工具、执行任务的软件系统。",
+      "url": "https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-08T20:59:09+00:00",
+      "publishedAt": "2026-09-09T10:00:00+00:00",
       "tags": [
         "架构",
         "软件工程",
-        "中文深度"
+        "中文深度",
+        "AI"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 3173,
-      "summaryLength": 230,
+      "sourceTextLength": 2699,
+      "summaryLength": 206,
       "summaryQuality": "strong",
-      "readerTextZh": "让软件系统自己 让软件系统自己 核心观点： 分布式系统出故障时，几百条告警刷屏，但没有一条告诉你\"哪里坏了、该怎么办\" HCF（全息编码框架）换了一个测量问题：不问\"每个组件在做什么\"，而问\"这些组件配合得怎么样\"，把几十个指标翻译成一张冲突图，再压缩成一个\"内摩擦指数\"（I 值）——健康系统有稳定的\"静息心率\"（约 0.75），故障后显著下降，且不同故障留下不同\"指纹\" E05），指向具体层级、模式与建议动作 在 RCAEval 基准的 202 次故障注入中，监控栈可观测的 177 例故障全部检出（100%），预警平均提前约 20 分钟出现 做运维的人对这个场景都不陌生：一个依赖关系复杂的微服务系统出了问题，几十个仪表盘同时飘红，几百条告警在群里刷屏 每条告警都是\"对的\"——CPU 确实高了，延迟确实超了，错误率确实涨了 但没有一条告警回答那个真正重要的问题：到底哪里出问题了，现在该干什么？ 换句话说，现有监控能告诉你\"着火了\"，却回答不了\"火源在哪、该先扑哪一间\" 而 MTTR（平均修复时间）的大头往往不是修复，而是定位——把\"从几百条告警里人肉侦探\"压缩成\"读一张冲突图、看一串诊断码\"，正是 HCF 要缩短的那一段 于是值班工程师开始人肉做侦探：从几百个指标里找出\"哪一个先动的\"，在依赖拓扑上推断\"故障从哪里传播过来\"，再凭经验判断\"先重启还是先扩容\"",
+      "readerTextZh": "本次分享将结合阿里 Open Code Review 的建设实践，介绍如何通过确定性工程 + Agent 协同，将通用 Agent 收敛为适用于代码评审场景的垂直领域 Agent 本次分享将结合阿里 Open Code Review 的建设实践，介绍如何通过确定性工程 + Agent 协同，将通用 Agent 收敛为适用于代码评审场景的垂直领域 Agent 从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Agent Framework 快速演进……AI 正在从回答问题的模型，演变为能够自主规划、调用工具、执行任务的软件系统 AI 不再只是软件中的一个能力，而开始成为软件系统的一部分 这意味着软件工程面对的挑战也发生了变化：团队需要思考的不再只是如何训练模型、模型、部署模型 或优化 Prompt，而不是如何让具备自主能力的 AI 稳定、可信、可控地运行 模型决定 AI 能做什么，系统决定 AI 能否真正创造价值 在这一背景下， 2026 年 QCon 全球软件开发大会大会 · 上海站 正式启动 本次大会将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 阿里巴巴高级研发工程师李峥峰已确认出席 “ AI 驱动的软件工程 ” 专题，并发表题为 《 Open Code Review：百万真实任务验证的确定性工程与 Agent 协同 》 的主题分享 本次分享将结合阿里 Open Code Review 的建设实践，介绍如何通过确定性工程 + Agen...",
       "isTranslated": false
     },
     {
@@ -104,7 +105,7 @@
       "url": "https://tech.meituan.com/2026/07/11/2026-meituan-32-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-08T15:57:56.418226+00:00",
+      "publishedAt": "2026-09-09T02:59:12.975958+00:00",
       "tags": [
         "后端",
         "工程",
@@ -126,7 +127,7 @@
       "url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-08T15:57:55.825312+00:00",
+      "publishedAt": "2026-09-09T02:59:12.273835+00:00",
       "tags": [
         "后端",
         "工程",
@@ -149,7 +150,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-08T15:57:55.235344+00:00",
+      "publishedAt": "2026-09-09T02:59:11.621680+00:00",
       "tags": [
         "后端",
         "工程",
@@ -171,7 +172,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-08T15:57:54.639891+00:00",
+      "publishedAt": "2026-09-09T02:59:10.990984+00:00",
       "tags": [
         "后端",
         "工程",
@@ -194,7 +195,7 @@
       "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-08T15:57:54.056165+00:00",
+      "publishedAt": "2026-09-09T02:59:10.342846+00:00",
       "tags": [
         "后端",
         "工程",
@@ -217,7 +218,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-08T15:57:53.468752+00:00",
+      "publishedAt": "2026-09-09T02:59:09.695841+00:00",
       "tags": [
         "后端",
         "工程",
@@ -239,7 +240,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-08T15:57:52.859299+00:00",
+      "publishedAt": "2026-09-09T02:59:09.044334+00:00",
       "tags": [
         "后端",
         "工程",
@@ -261,7 +262,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-08T15:57:52.269268+00:00",
+      "publishedAt": "2026-09-09T02:59:08.379229+00:00",
       "tags": [
         "后端",
         "工程",
@@ -276,24 +277,333 @@
       "isTranslated": false
     },
     {
-      "title": "PHP clone 之后，为什么改副本会影响原对象？ - JaguarJack",
-      "titleZh": "PHP clone 之后，为什么改副本会影响原对象？ - JaguarJack",
-      "summary": "【摘要】PHP clone 之后，为什么改副本会影响原对象？。spl_object_id() 证明两个用户的 address 属性指向同一个 Address 对象（ID 为 3 ） __clone 魔术方法可以解决这一问题。经验证，其性能为每次操作 1.74 µs ，而 __clone 链为每次操作 0.44 µs ，前者慢约 4 倍，但对复杂嵌套结构更稳妥。",
-      "originalSummary": "【摘要】PHP clone 之后，为什么改副本会影响原对象？。spl_object_id() 证明两个用户的 address 属性指向同一个 Address 对象（ID 为 3 ） __clone 魔术方法可以解决这一问题。经验证，其性能为每次操作 1.74 µs ，而 __clone 链为每次操作 0.44 µs ，前者慢约 4 倍，但对复杂嵌套结构更稳妥。",
-      "url": "https://www.cnblogs.com/catchadmin/p/22897021",
+      "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+      "titleZh": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+      "summary": "ACL（Annual Meeting of the Association for Computational Linguistics）是计算语言学和自然语言处理（NLP）领域的国际顶级学术会议，是CCF-A类会议，也是中国计算机学会推荐的自然语言处理方向最高...。ACL 2026杰出论文奖（Outstanding Paper）在圣地亚哥揭晓，全球共 18 篇入选 ，美团履约技术团队的《GeoRA:Geometry-Aware Low-Rank Adaptation for RLV...。在分布内（ID）的数学基准上，GeoRA 在两个骨干模型上都取得了最强的整体表现，对低秩基线的领先在竞赛难度的基准上尤为一致——Qwen3-8B 的 AIME24 达到 23.75%，甚至略高于全参微调。",
+      "originalSummary": "ACL（Annual Meeting of the Association for Computational Linguistics）是计算语言学和自然语言处理（NLP）领域的国际顶级学术会议，是CCF-A类会议，也是中国计算机学会推荐的自然语言处理方向最高...。ACL 2026杰出论文奖（Outstanding Paper）在圣地亚哥揭晓，全球共 18 篇入选 ，美团履约技术团队的《GeoRA:Geometry-Aware Low-Rank Adaptation for RLV...。在分布内（ID）的数学基准上，GeoRA 在两个骨干模型上都取得了最强的整体表现，对低秩基线的领先在竞赛难度的基准上尤为一致——Qwen3-8B 的 AIME24 达到 23.75%，甚至略高于全参微调。",
+      "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+      "source": "美团技术团队",
+      "region": "技术团队",
+      "publishedAt": "2026-09-09T02:59:07.722617+00:00",
+      "tags": [
+        "后端",
+        "工程",
+        "技术团队",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 5830,
+      "summaryLength": 295,
+      "summaryQuality": "medium",
+      "readerTextZh": "ACL（Annual Meeting of the Association for Computational Linguistics）是计算语言学和自然语言处理（NLP）领域的国际顶级学术会议，是CCF-A类会议，也是中国计算机学会推荐的自然语言处理方向最高等级国际学术会议 ACL 2026杰出论文奖（Outstanding Paper）在圣地亚哥揭晓，全球共 18 篇入选 ，美团履约技术团队的《GeoRA:Geometry-Aware Low-Rank Adaptation for RLVR》 就是其中之一 论文下载 ： GeoRA：Geometry-Aware Low-Rank Adaptation for RLVR 讲解视频 ： ACL2026 杰出论文分享（受智源社区邀请） RLVR已经成为提升大模型推理能力的关键范式，但它的训练开销较高，于是一个自然的技术就是用 LoRA 这类参数高效微调方法来做 RLVR 但是，LoRA 及其变体几乎都是在 SFT 场景下建立并验证的 而近期一系列机制研究表明，RLVR 与 SFT 的优化几何存在本质差异：RLVR 则更像一次受约束的优化，有效更新分散在稀疏的子空间中，并倾向于避开预训练权重的主方向 因此，把为 SFT 设计的先验直接搬到 RLVR 上，就构成了几何错位，后果是效果欠优、能力遗忘甚至训练崩溃",
+      "isTranslated": false
+    },
+    {
+      "title": "美团智播——数字人直播技术创新与实践",
+      "titleZh": "美团智播——数字人直播技术创新与实践",
+      "summary": "随着大语言模型、生成式AI与多模态交互技术的快速发展，数字人直播已突破早期形象僵硬、交互单一的瓶颈，在本地生活、电商、文娱等领域展现出巨大的商业潜力。美团智播，是面向本地生活场景的AI数字人直播解决方案，融合大模型、数字人与多模态交互技术，提供丰富的行业专属数字人形象，支持真人1:1复刻与门店实景定制，30秒生成直播素材，3分钟完成开播配置，7×24小时稳定上播。过去一年，依托生成式AI技术，数字人直播月日均GTV同比增长82.12%，月日均观看人次同比增长163.44%，开播场次提升11倍，充分验证了AI数字人直播在本地生活商业闭环中的实际价值。",
+      "originalSummary": "随着大语言模型、生成式AI与多模态交互技术的快速发展，数字人直播已突破早期形象僵硬、交互单一的瓶颈，在本地生活、电商、文娱等领域展现出巨大的商业潜力。美团智播，是面向本地生活场景的AI数字人直播解决方案，融合大模型、数字人与多模态交互技术，提供丰富的行业专属数字人形象，支持真人1:1复刻与门店实景定制，30秒生成直播素材，3分钟完成开播配置，7×24小时稳定上播。过去一年，依托生成式AI技术，数字人直播月日均GTV同比增长82.12%，月日均观看人次同比增长163.44%，开播场次提升11倍，充分验证了AI数字人直播在本地生活商业闭环中的实际价值。",
+      "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+      "source": "美团技术团队",
+      "region": "技术团队",
+      "publishedAt": "2026-09-09T02:59:07.084510+00:00",
+      "tags": [
+        "后端",
+        "工程",
+        "技术团队",
+        "AI"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 10387,
+      "summaryLength": 249,
+      "summaryQuality": "strong",
+      "readerTextZh": "随着大语言模型、生成式AI与多模态交互技术的快速发展，数字人直播已突破早期形象僵硬、交互单一的瓶颈，在本地生活、电商、文娱等领域展现出巨大的商业潜力 美团智播，是面向本地生活场景的AI数字人直播解决方案，融合大模型、数字人与多模态交互技术，提供丰富的行业专属数字人形象，支持真人1:1复刻与门店实景定制，30秒生成直播素材，3分钟完成开播配置，7×24小时稳定上播 过去一年，依托生成式AI技术，数字人直播月日均GTV同比增长82.12%，月日均观看人次同比增长163.44%，开播场次提升11倍，充分验证了AI数字人直播在本地生活商业闭环中的实际价值 2026年7月8日至10日，美团智播在中国互联网大会上完成行业首秀，以“实时交互数字人+直播带货数字人”为主题亮相科技互动展区 展区中，实时交互数字人通过秒级语音问答与观众自然对话，数字人直播间则让参会者发出“完全看不出是数字人”的感叹——这一亮相标志着美团智播正式从内部打磨走向行业舞台 如何让数字人直播达到真人级表现力，并满足大规模商业化落地的要求 ？ 本文将围绕美团智播的核心能力，系统介绍支撑产品的关键技术突破——涵盖高保真形象生成、自然动作驱动、语音手势协调、高效推理部署及系统架构设计，这些技术共同构成了数字人直播从“能用”到“好用”，再到“规模化量产”的完整技术闭环 凭借这些技术积累，美团智播荣获2026年度“中国多媒体企业创新技术奖”，这一奖项由中国计算机学会（CCF）和中国图象图形学学会（CSIG）指导，中国多媒体大会（ChinaMM）设立并颁发，是对美团在数字人直播领域自主创新能力的行业认可",
+      "isTranslated": false
+    },
+    {
+      "title": "CURD系统怎么做出技术含量惊艳面试官完善版 - 编程一生",
+      "titleZh": "CURD系统怎么做出技术含量惊艳面试官完善版 - 编程一生",
+      "summary": "举个例子，张爱玲有个神作《金锁记》，女主经历了不幸的一生 阅读全文 引子 十几年前的一天，有段时间在读张爱玲的小说，同事看见了就说原来你爱看这种东西。在高并发量场景下可能日志是这样的： 1、thread-1|ClassName|参数1：11，参数2:11 2、thread-2|ClassName|参数1：22，参数2:22 3、thread-1|ClassName|参...。即节约了自身的成本，又体现了专业性，何乐不为 1、公司内有规范的、完善的、各个部门严格执行的全链路追踪标准 在《实战并发-使用分布式缓存和有限状态机》里我讲过有限状态自动机。",
+      "originalSummary": "举个例子，张爱玲有个神作《金锁记》，女主经历了不幸的一生 阅读全文 引子 十几年前的一天，有段时间在读张爱玲的小说，同事看见了就说原来你爱看这种东西。在高并发量场景下可能日志是这样的： 1、thread-1|ClassName|参数1：11，参数2:11 2、thread-2|ClassName|参数1：22，参数2:22 3、thread-1|ClassName|参...。即节约了自身的成本，又体现了专业性，何乐不为 1、公司内有规范的、完善的、各个部门严格执行的全链路追踪标准 在《实战并发-使用分布式缓存和有限状态机》里我讲过有限状态自动机。",
+      "url": "https://www.cnblogs.com/xiexj/p/22901885",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-08T15:51:00+00:00",
+      "publishedAt": "2026-09-09T02:37:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2194,
+      "summaryLength": 229,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】引子 十几年前的一天，有段时间在读张爱玲的小说，同事看见了就说原来你爱看这种东西 那时候我只是单纯的觉得张爱玲写的东西有种特质，这种特质掌握了做什么事情都不会太差 后来我想明白了，这种特制叫做：善于运用技巧 举个例子，张爱玲有个神作《金锁记》，女主经历了不幸的一生 阅读全文 引子 十几年前的一天，有段时间在读张爱玲的小说，同事看见了就说原来你爱看这种东西 举个例子，张爱玲有个神作《金锁记》，女主经历了不幸的一生 引子 十几年前的一天，有段时间在读张爱玲的小说，同事看见了就说原来你爱看这种东西 举个例子，张爱玲有个神作《金锁记》，女主经历了不幸的一生 十几年前的一天，有段时间在读张爱玲的小说，同事看见了就说原来你爱看这种东西 后来我想明白了，这种特制叫做：善于运用技巧 举个例子，张爱玲有个神作《金锁记》，女主经历了不幸的一生心灵扭曲，害了儿女的一生 女儿30岁了，终于有人上门提亲，她却说自己女儿怎么怎么不好，还抽大烟，最后吓跑了提亲的人",
+      "isTranslated": false
+    },
+    {
+      "title": "ARM64端到端再提速40%：SimdPaddleOCR 1.2 发布！ - .NET骚操作",
+      "titleZh": "ARM64端到端再提速40%：SimdPaddleOCR 1.2 发布！ - .NET骚操作",
+      "summary": "【摘要】前两天连载了 SimdPaddleOCR 的发布 和 C# 手写向量化的底层逻辑。1.1 版本在 win-x64 上已经基本站稳了脚跟，但短板也很明显：ARM64 环境下虽然能跑，但速度明显慢了一截。现在 ARM64 早就不是小众平台了——MacBook、手机、Windows on ARM 以及越 阅读全文。",
+      "originalSummary": "【摘要】前两天连载了 SimdPaddleOCR 的发布 和 C# 手写向量化的底层逻辑。1.1 版本在 win-x64 上已经基本站稳了脚跟，但短板也很明显：ARM64 环境下虽然能跑，但速度明显慢了一截。现在 ARM64 早就不是小众平台了——MacBook、手机、Windows on ARM 以及越 阅读全文。",
+      "url": "https://www.cnblogs.com/sdcb/p/22900887/20260909-simdpaddleocr-1-2",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-09T01:59:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "硬件"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 129,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】前两天连载了 SimdPaddleOCR 的发布 和 C# 手写向量化的底层逻辑 1.1 版本在 win-x64 上已经基本站稳了脚跟，但短板也很明显：ARM64 环境下虽然能跑，但速度明显慢了一截 现在 ARM64 早就不是小众平台了——MacBook、手机、Windows on ARM 以及越 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "持续打磨适合自己的AI Agent - 我才是银古",
+      "titleZh": "持续打磨适合自己的AI Agent - 我才是银古",
+      "summary": "【摘要】过去一个月，我在一个 agent 配置仓库里改动了 51 个文件、约 2500 行。改的不是业务代码，而是 AI agent 自己的\"运行环境\"：模型路由、权限矩阵、提示词缓存、上下文压缩、技能治理。这些问题很少出现在业务开发教程里，但每一个都真实地烧过 token、坑过行为。",
+      "originalSummary": "【摘要】过去一个月，我在一个 agent 配置仓库里改动了 51 个文件、约 2500 行。改的不是业务代码，而是 AI agent 自己的\"运行环境\"：模型路由、权限矩阵、提示词缓存、上下文压缩、技能治理。这些问题很少出现在业务开发教程里，但每一个都真实地烧过 token、坑过行为。",
+      "url": "https://www.cnblogs.com/znlgis/p/22900606",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-09T01:50:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 116,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】过去一个月，我在一个 agent 配置仓库里改动了 51 个文件、约 2500 行 改的不是业务代码，而是 AI agent 自己的\"运行环境\"：模型路由、权限矩阵、提示词缓存、上下文压缩、技能治理 这些问题很少出现在业务开发教程里，但每一个都真实地烧过 token、坑过行为",
+      "isTranslated": false
+    },
+    {
+      "title": "高并发下的排行榜系统：如何用Redis快速实现千万用户实时排名 - Rain的Java大神实战圈",
+      "titleZh": "高并发下的排行榜系统：如何用Redis快速实现千万用户实时排名 - Rain的Java大神实战圈",
+      "summary": "【摘要】详解基于Redis ZSet实现千万级用户实时排行榜的工业级方案！。从数据结构选型、分层架构到渐进式优化全覆盖，解决高并发写入、大key、同分排序、查询延迟等核心痛点。整合Kafka削峰、分桶分片、Caffeine热点缓存、Lua原子操作、小顶堆归并等技术，实现读写性能大幅跃升，内存成本直降90%。",
+      "originalSummary": "【摘要】详解基于Redis ZSet实现千万级用户实时排行榜的工业级方案！。从数据结构选型、分层架构到渐进式优化全覆盖，解决高并发写入、大key、同分排序、查询延迟等核心痛点。整合Kafka削峰、分桶分片、Caffeine热点缓存、Lua原子操作、小顶堆归并等技术，实现读写性能大幅跃升，内存成本直降90%。",
+      "url": "https://www.cnblogs.com/zrui-xyu/p/22900145",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-09T01:31:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 162,
+      "summaryLength": 135,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】详解基于Redis ZSet实现千万级用户实时排行榜的工业级方案！ 从数据结构选型、分层架构到渐进式优化全覆盖，解决高并发写入、大key、同分排序、查询延迟等核心痛点 整合Kafka削峰、分桶分片、Caffeine热点缓存、Lua原子操作、小顶堆归并等技术，实现读写性能大幅跃升，内存成本直降90%",
+      "isTranslated": false
+    },
+    {
+      "title": "RAG Hybrid 到底混合了什么 - AI小老六",
+      "titleZh": "RAG Hybrid 到底混合了什么 - AI小老六",
+      "summary": "【摘要】Hybrid 检索混合的是字面召回和语义召回两套能力，而不是简单相加两个分数。RRF 和 rerank 各有清晰位置。> ​阅读时间​：约 6 分钟 很多 RAG 方案都会写“Hybrid = BM25 + 向量 + rerank”。",
+      "originalSummary": "【摘要】Hybrid 检索混合的是字面召回和语义召回两套能力，而不是简单相加两个分数。RRF 和 rerank 各有清晰位置。> ​阅读时间​：约 6 分钟 很多 RAG 方案都会写“Hybrid = BM25 + 向量 + rerank”。",
+      "url": "https://www.cnblogs.com/ai-old-six/p/22900094",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-09T01:28:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 90,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】Hybrid 检索混合的是字面召回和语义召回两套能力，而不是简单相加两个分数 RRF 和 rerank 各有清晰位置 > ​阅读时间​：约 6 分钟 很多 RAG 方案都会写“Hybrid = BM25 + 向量 + rerank” 这句话没错，但太短了，短到容易把三件事混成一团",
+      "isTranslated": false
+    },
+    {
+      "title": "JimuReport 积木报表 v2.5.2 版本发布，免费开源的 AI 报表工具",
+      "titleZh": "JimuReport 积木报表 v2.5.2 版本发布，免费开源的 AI 报表工具",
+      "summary": "项目介绍 真正的 AI 报表来了，一句话描述需求，AI 自动生成报表与数据大屏，支持对话式修改报表。同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景 :sparkles: 积木报表是一款免费的数据可视化报表工具，集报表、打印、大屏、仪表盘于一体，像搭积木一样完全在线设计。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "originalSummary": "项目介绍 真正的 AI 报表来了，一句话描述需求，AI 自动生成报表与数据大屏，支持对话式修改报表。同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景 :sparkles: 积木报表是一款免费的数据可视化报表工具，集报表、打印、大屏、仪表盘于一体，像搭积木一样完全在线设计。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "url": "https://www.oschina.net/news/502389",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-09T01:26:07+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 388,
+      "summaryLength": 225,
+      "summaryQuality": "medium",
+      "readerTextZh": "项目介绍 真正的 AI 报表来了，一句话描述需求，AI 自动生成报表与数据大屏，支持对话式修改报表 同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景 :sparkles: 积木报表是一款免费的数据可视化报表工具，集报表、打印、大屏、仪表盘于一体，像搭积木一样完全在线设计 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
+      "isTranslated": false
+    },
+    {
+      "title": "EasyGoAdmin 敏捷开发框架 GoFrame+AntdVue 版本 v2.7.1 发布",
+      "titleZh": "EasyGoAdmin 敏捷开发框架 GoFrame+AntdVue 版本 v2.7.1 发布",
+      "summary": "v2.7.1 更新内容： 1、修复近期用户反馈的问题。一款 Go 语言基于 GoFrame、Vue3、AntDesign、MySQL 等框架精心打造的一款模块化、插件化、高性能的前后端分离架构敏捷开发框架，可快速搭建前后端分离后台管理系统，本着简化开发、提升开发效率的初衷...。",
+      "originalSummary": "v2.7.1 更新内容： 1、修复近期用户反馈的问题。一款 Go 语言基于 GoFrame、Vue3、AntDesign、MySQL 等框架精心打造的一款模块化、插件化、高性能的前后端分离架构敏捷开发框架，可快速搭建前后端分离后台管理系统，本着简化开发、提升开发效率的初衷...。",
+      "url": "https://www.oschina.net/news/502387",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-09T01:17:09+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 172,
+      "summaryLength": 117,
+      "summaryQuality": "weak",
+      "readerTextZh": "v2.7.1 更新内容： 1、修复近期用户反馈的问题 一款 Go 语言基于 GoFrame、Vue3、AntDesign、MySQL 等框架精心打造的一款模块化、插件化、高性能的前后端分离架构敏捷开发框架，可快速搭建前后端分离后台管理系统，本着简化开发、提升开发效率的初衷，框架自研了一套个性化的组件，实现了可插拔的组件式开发方式，同时",
+      "isTranslated": false
+    },
+    {
+      "title": "AI 测试工具收藏了几十篇，一篇没看？我建了个学习圈子，专治这种... - 狂师",
+      "titleZh": "AI 测试工具收藏了几十篇，一篇没看？我建了个学习圈子，专治这种... - 狂师",
+      "summary": "今天正式介绍一个新东西，我新开了一个知识星球，叫 「AI 测开进化圈」，聚焦 AI 测试这一个方向。学习路线、提效思路这些，我在 GitHub 和公众号上全部免费开放过，一分钱没收。但每天还是有很多人来问我问题，而且高度集中在三类。",
+      "originalSummary": "今天正式介绍一个新东西，我新开了一个知识星球，叫 「AI 测开进化圈」，聚焦 AI 测试这一个方向。学习路线、提效思路这些，我在 GitHub 和公众号上全部免费开放过，一分钱没收。但每天还是有很多人来问我问题，而且高度集中在三类。",
+      "url": "https://www.cnblogs.com/jinjiangongzuoshi/p/22899760",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-09T01:12:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 98,
+      "summaryQuality": "weak",
+      "readerTextZh": "今天正式介绍一个新东西，我新开了一个知识星球，叫 「AI 测开进化圈」，聚焦 AI 测试这一个方向 学习路线、提效思路这些，我在 GitHub 和公众号上全部免费开放过，一分钱没收 但每天还是有很多人来问我问题，而且高度集中在三类",
+      "isTranslated": false
+    },
+    {
+      "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
+      "titleZh": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
+      "summary": "查看全文 Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等 Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等 Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等 9...。在 CPU 规格上，单线程性能提升 15%、应用启动速度加快 12%、网页浏览提速 15%、群集级多线程性能提升 12%，本地 AI 加速直接内置于 CPU 而非分流至独立 NPU 或 TPU，最新 AI 模型运行性能提...。在 GPU 规格上，Mali G2-Ultra NX 整体性能提升 14%，通过神经加速直接集成进图形管线的方式支持 AI 原生图形，集成虚幻引擎 5 的 MegaLights 技术，具备低分辨率游戏...。",
+      "originalSummary": "查看全文 Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等 Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等 Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等 9...。在 CPU 规格上，单线程性能提升 15%、应用启动速度加快 12%、网页浏览提速 15%、群集级多线程性能提升 12%，本地 AI 加速直接内置于 CPU 而非分流至独立 NPU 或 TPU，最新 AI 模型运行性能提...。在 GPU 规格上，Mali G2-Ultra NX 整体性能提升 14%，通过神经加速直接集成进图形管线的方式支持 AI 原生图形，集成虚幻引擎 5 的 MegaLights 技术，具备低分辨率游戏...。",
+      "url": "https://sspai.com/post/114352",
+      "source": "少数派深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-09T00:00:00+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度",
+        "AI",
+        "芯片"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3268,
+      "summaryLength": 271,
+      "summaryQuality": "weak",
+      "readerTextZh": "Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等 查看全文 Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等 Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等 Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等 9 月 8 日，Arm 发布用于未来 Android 芯片的 C2-Ultra 与 C2-Pro CPU 核心 以及 Mali G2-Ultra NX GPU 在 CPU 规格上，单线程性能提升 15%、应用启动速度加快 12%、网页浏览提速 15%、群集级多线程性能提升 12%，本地 AI 加速直接内置于 CPU 而非分流至独立 NPU 或 TPU，最新 AI 模型运行性能提升最高达 1.7 倍 在 GPU 规格上，Mali G2-Ultra NX 整体性能提升 14%，通过神经加速直接集成进图形管线的方式支持 AI 原生图形，集成虚幻引擎 5 的 MegaLights 技术，具备低分辨率游戏超分辨率与插帧生成功能 来源 9 月 8 日，索尼推出旗下首款全画幅鱼眼变焦镜头 8-14mm f/3.5 Fisheye G (SEL814G)，主打鱼眼视角，采用轻量化设计，定价 9999 元 该镜头支持圆形鱼眼和对角线鱼眼两种模式，8mm 情况下可将 180° 视角收录进 CMOS，同时支持 14mm 视角 规格方面采用轻量化设计，重量仅 314g，配备 1 枚 ED 非球面镜片、2 枚非球面镜片、4 枚 ED 镜片，可有效减少炫光和鬼影现象 配备双线性对焦马达，配合 α9 III 相机使用时可实现 120 张 / 秒连拍 此外，该镜头的最近对焦距离是 0.15m，最大放大倍率为 0.22m，支持后置插入式滤镜，拥有防尘防潮设计",
+      "isTranslated": false
+    },
+    {
+      "title": "灵界 OS v5.0 正式发布：全英文适配已完成，系统全面国际化",
+      "titleZh": "灵界 OS v5.0 正式发布：全英文适配已完成，系统全面国际化",
+      "summary": "本次更新是一个重要节点——系统已全面完成英文适配，所有界面均可切换为英文，国际化已准备就绪。✅ v5.0 更新内容 系统界面完全英文化：所有菜单、按钮、对话框、提示信息均已适配英文 设置项新增语言切换入口：用户可在设置中一键切换中英文 中英文环境独立运行：切换语言后不影响已安装的应。",
+      "originalSummary": "本次更新是一个重要节点——系统已全面完成英文适配，所有界面均可切换为英文，国际化已准备就绪。✅ v5.0 更新内容 系统界面完全英文化：所有菜单、按钮、对话框、提示信息均已适配英文 设置项新增语言切换入口：用户可在设置中一键切换中英文 中英文环境独立运行：切换语言后不影响已安装的应。",
+      "url": "https://www.oschina.net/news/502386",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-08T23:09:29+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 161,
+      "summaryLength": 123,
+      "summaryQuality": "weak",
+      "readerTextZh": "本次更新是一个重要节点——系统已全面完成英文适配，所有界面均可切换为英文，国际化已准备就绪 ✅ v5.0 更新内容 系统界面完全英文化：所有菜单、按钮、对话框、提示信息均已适配英文 设置项新增语言切换入口：用户可在设置中一键切换中英文 中英文环境独立运行：切换语言后不影响已安装的应",
+      "isTranslated": false
+    },
+    {
+      "title": "进程都杀了，为什么 `netstat` 还能看到端口？ - AlfredZhao",
+      "titleZh": "进程都杀了，为什么 `netstat` 还能看到端口？ - AlfredZhao",
+      "summary": "【摘要】在运维和开发过程中，你可能也遇到过类似的“诡异”现象：某个服务占用端口出了问题，你找到它的 PID，执行了 kill -9 强制杀掉进程。但当再次用 netstat 或 ss 检查时，却发现该端口依然留在列表中： $ netstat -anop | grep 8000 tcp 0 1 [ 阅读全文。",
+      "originalSummary": "【摘要】在运维和开发过程中，你可能也遇到过类似的“诡异”现象：某个服务占用端口出了问题，你找到它的 PID，执行了 kill -9 强制杀掉进程。但当再次用 netstat 或 ss 检查时，却发现该端口依然留在列表中： $ netstat -anop | grep 8000 tcp 0 1 [ 阅读全文。",
+      "url": "https://www.cnblogs.com/jyzhao/p/22899083",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-08T23:09:00+00:00",
       "tags": [
         "开发者",
         "后端",
         "中文深度"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 3510,
-      "summaryLength": 134,
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 153,
+      "summaryLength": 118,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】PHP clone 之后，为什么改副本会影响原对象？ clone 会复制对象，却会共享嵌套对象 在每一层实现 __clone 可以解决这个问题，使用不可变值对象也可以 所有行为均已在 PHP 8.3 中验证 下面这个错误报告改变了一个团队对 PHP 对象语义的理解 某电商平台拥有一套订单处理服务 阅读全文 PHP clone 之后，为什么改副本会影响原对象？ 某电商平台拥有一套订单处理服务 PHP clone 之后，为什么改副本会影响原对象？ 某电商平台拥有一套订单处理服务 clone 会复制对象，却会共享嵌套对象",
+      "readerTextZh": "【摘要】在运维和开发过程中，你可能也遇到过类似的“诡异”现象：某个服务占用端口出了问题，你找到它的 PID，执行了 kill -9 强制杀掉进程 但当再次用 netstat 或 ss 检查时，却发现该端口依然留在列表中： $ netstat -anop | grep 8000 tcp 0 1 [ 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "Termexo v0.8.3 发布：优化终端输入响应，支持任务中途追加指令",
+      "titleZh": "Termexo v0.8.3 发布：优化终端输入响应，支持任务中途追加指令",
+      "summary": "v0.8.3 已发布，推荐正在使用旧版的朋友更新，尤其是经常同时运行多个 Agent、遇到输入卡顿或启动变慢的用户。Termexo 是 MIT 开源的 Windows 多 Agent 工作台，统一管理 Claude Code、Codex CLI、OpenCode 和真实终端。打字更跟手 后台 Git 查询和事件同步此前会与按键写入排在同一条 IPC 线程。",
+      "originalSummary": "v0.8.3 已发布，推荐正在使用旧版的朋友更新，尤其是经常同时运行多个 Agent、遇到输入卡顿或启动变慢的用户。Termexo 是 MIT 开源的 Windows 多 Agent 工作台，统一管理 Claude Code、Codex CLI、OpenCode 和真实终端。打字更跟手 后台 Git 查询和事件同步此前会与按键写入排在同一条 IPC 线程。",
+      "url": "https://www.oschina.net/news/502385",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-08T17:50:58+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 198,
+      "summaryLength": 150,
+      "summaryQuality": "weak",
+      "readerTextZh": "v0.8.3 已发布，推荐正在使用旧版的朋友更新，尤其是经常同时运行多个 Agent、遇到输入卡顿或启动变慢的用户 Termexo 是 MIT 开源的 Windows 多 Agent 工作台，统一管理 Claude Code、Codex CLI、OpenCode 和真实终端 打字更跟手 后台 Git 查询和事件同步此前会与按键写入排在同一条 IPC 线程",
+      "isTranslated": false
+    },
+    {
+      "title": "从经验驱动到数据驱动，到底差在哪一步 - 凌波微数",
+      "titleZh": "从经验驱动到数据驱动，到底差在哪一步 - 凌波微数",
+      "summary": "【摘要】很多公司平台买了、数仓建了、报表也天天看，决策还是靠拍脑袋。干了18年数据，我被问得最多的一句话是，我们数据平台都建好了，为什么干活还是老样子。问这话的人有CEO，有业务总监，也有一线运营。",
+      "originalSummary": "【摘要】很多公司平台买了、数仓建了、报表也天天看，决策还是靠拍脑袋。干了18年数据，我被问得最多的一句话是，我们数据平台都建好了，为什么干活还是老样子。问这话的人有CEO，有业务总监，也有一线运营。",
+      "url": "https://www.cnblogs.com/w1985/p/22896722",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-08T14:32:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 86,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】很多公司平台买了、数仓建了、报表也天天看，决策还是靠拍脑袋 干了18年数据，我被问得最多的一句话是，我们数据平台都建好了，为什么干活还是老样子 问这话的人有CEO，有业务总监，也有一线运营 钱花了，系统上线了，报表大屏很漂亮，可是到了做决策的时候，大家还 阅读全文",
       "isTranslated": false
     },
     {
@@ -341,98 +651,10 @@
       "isTranslated": false
     },
     {
-      "title": "House of cat手法及部分源码分析 - firefly_star",
-      "titleZh": "House of cat手法及部分源码分析 - firefly_star",
-      "summary": "【摘要】手法及源码分析 虽然之前我写过堆上orw的文章，但在2.39中我们会发现找不到控制rdx的这个magic gadget了 mov rdx, qword ptr [rdi + 8]。mov qword ptr [rsp], rax。call qword ptr [rdx + 0x20] 这样我 阅读全文。",
-      "originalSummary": "【摘要】手法及源码分析 虽然之前我写过堆上orw的文章，但在2.39中我们会发现找不到控制rdx的这个magic gadget了 mov rdx, qword ptr [rdi + 8]。mov qword ptr [rsp], rax。call qword ptr [rdx + 0x20] 这样我 阅读全文。",
-      "url": "https://www.cnblogs.com/firefly-star/p/22895923",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-08T12:27:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 119,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】手法及源码分析 虽然之前我写过堆上orw的文章，但在2.39中我们会发现找不到控制rdx的这个magic gadget了 mov rdx, qword ptr [rdi + 8] mov qword ptr [rsp], rax call qword ptr [rdx + 0x20] 这样我 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "写给 Rust 工程师的 OpenClaw.NET 上手指南：用你熟悉的 Rust 思维，跑起一个生产级 AI Agent - 张善友",
-      "titleZh": "写给 Rust 工程师的 OpenClaw.NET 上手指南：用你熟悉的 Rust 思维，跑起一个生产级 AI Agent - 张善友",
-      "summary": "【摘要】它像一个「axum 应用」——对外是 HTTP / WebSocket / 各 IM 的 webhook，对内跑着一个能调工具、读写记忆、跨渠道对话的 AI Agent——只不过 async 不用选 runtime，也不用和借用检查器格斗。",
-      "originalSummary": "【摘要】它像一个「axum 应用」——对外是 HTTP / WebSocket / 各 IM 的 webhook，对内跑着一个能调工具、读写记忆、跨渠道对话的 AI Agent——只不过 async 不用选 runtime，也不用和借用检查器格斗。",
-      "url": "https://www.cnblogs.com/shanyou/p/22851058",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-08T11:51:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 129,
-      "summaryLength": 95,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】它像一个「axum 应用」——对外是 HTTP / WebSocket / 各 IM 的 webhook，对内跑着一个能调工具、读写记忆、跨渠道对话的 AI Agent——只不过 async 不用选 runtime，也不用和借用检查器格斗",
-      "isTranslated": false
-    },
-    {
-      "title": "【手搓 Agent 第2.3关-中】搭建 Agent 进阶能力：Text-to-SQL 数据库查询 - Alkaid2077",
-      "titleZh": "【手搓 Agent 第2.3关-中】搭建 Agent 进阶能力：Text-to-SQL 数据库查询 - Alkaid2077",
-      "summary": "【摘要】上一关我们成功落地了安全可控的文件读写工具，让 Agent 实现了非结构化文本的整理、输出与持久化，具备了内容沉淀的基础能力。但在企业级业务场景中，绝大多数核心业务数据均存储在数据库中，结构化数据的查询与分析，是 Agent 落地业务场景的核心刚需。依托前期搭建的工具注册中心架构，本篇我们继续拓展 阅读全文。",
-      "originalSummary": "【摘要】上一关我们成功落地了安全可控的文件读写工具，让 Agent 实现了非结构化文本的整理、输出与持久化，具备了内容沉淀的基础能力。但在企业级业务场景中，绝大多数核心业务数据均存储在数据库中，结构化数据的查询与分析，是 Agent 落地业务场景的核心刚需。依托前期搭建的工具注册中心架构，本篇我们继续拓展 阅读全文。",
-      "url": "https://www.cnblogs.com/Alkaid2077/p/22895168",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-08T11:16:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI",
-        "安全"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 142,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】上一关我们成功落地了安全可控的文件读写工具，让 Agent 实现了非结构化文本的整理、输出与持久化，具备了内容沉淀的基础能力 但在企业级业务场景中，绝大多数核心业务数据均存储在数据库中，结构化数据的查询与分析，是 Agent 落地业务场景的核心刚需 依托前期搭建的工具注册中心架构，本篇我们继续拓展 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
-      "titleZh": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
-      "summary": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。某种程度上这也印证了「Apple 即将推出触屏版 MacBook」的传闻 若你已经加入 iPadOS 以及 macOS 的 Beta 计划，更新至 iPadOS 27 与 macOS Golden Gate 后即可直接在...。甚至在遥远的 2010 年，iDisplay 就能「十分先进」地将 iPad 的触摸及键入操作反向传回 Mac 只是这款诞生于 iPad 发售之初的软件远远谈不上「流畅」，甚至有着堪称灾难的使用体验：无论是繁琐的前期设置...。",
-      "originalSummary": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。某种程度上这也印证了「Apple 即将推出触屏版 MacBook」的传闻 若你已经加入 iPadOS 以及 macOS 的 Beta 计划，更新至 iPadOS 27 与 macOS Golden Gate 后即可直接在...。甚至在遥远的 2010 年，iDisplay 就能「十分先进」地将 iPad 的触摸及键入操作反向传回 Mac 只是这款诞生于 iPad 发售之初的软件远远谈不上「流畅」，甚至有着堪称灾难的使用体验：无论是繁琐的前期设置...。",
-      "url": "https://sspai.com/prime/story/sidecar-optimizations",
-      "source": "少数派深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-08T10:14:30+00:00",
-      "tags": [
-        "工具",
-        "数字生活",
-        "中文深度",
-        "硬件"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 3112,
-      "summaryLength": 256,
-      "summaryQuality": "strong",
-      "readerTextZh": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文 相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止 相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止 相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止 在 WWDC26 发布的 iPadOS 27 与 macOS Golden Gate 中，随航迎来了堪称史诗级的更新 —— 你可以通过 iPad 的触控屏，用手指完整操控随航中的 macOS 某种程度上这也印证了「Apple 即将推出触屏版 MacBook」的传闻 若你已经加入 iPadOS 以及 macOS 的 Beta 计划，更新至 iPadOS 27 与 macOS Golden Gate 后即可直接在随航功能中体验到这一新特性 经笔者实测，当前 Beta 版本中触控的延迟几乎难以察觉，交互也足够流畅 不过由于 macOS App 大多针对的是键鼠的操作逻辑，大部分 App 尚未针对触控交互进行专门优化，目前大部分的点击与滑动操作，本质上只是由系统转译为相应的鼠标操作 虽然在现阶段，相信你在体验一段时间后可能还是会更愿意回到传统的键鼠操作 但在高强度使用随航近两年后，笔者对它最深的印象其实只有两个字：无感 有时它的流畅甚至会让我忘记两台设备之间并没有数据线连接 本文试着从协议、编码、硬件等技术层面入手，为你解析随航功能流畅体验背后的秘密 或许有些读者对随航还不太熟悉",
-      "isTranslated": false
-    },
-    {
       "title": "开源不止代码，2026北京开源创新赛AIGC赛道全民可参与",
       "titleZh": "开源不止代码，2026北京开源创新赛AIGC赛道全民可参与",
-      "summary": "过去，开源的定义很清晰，交出源代码，让所有人查看、修改、分发。如今，越来越多的开发者把精力从“写代码”转向“怎么让 AI 写出好代码”。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "originalSummary": "过去，开源的定义很清晰，交出源代码，让所有人查看、修改、分发。如今，越来越多的开发者把精力从“写代码”转向“怎么让 AI 写出好代码”。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "summary": "过去，开源的定义很清晰，交出源代码，让所有人查看、修改、分发。如今，越来越多的开发者把精力从“写代码”转向“怎么让 AI 写出好代码”。他们调试提示词，打磨工作流，把与 AI 协作的一整套方法整理成文档，公开分享。",
+      "originalSummary": "过去，开源的定义很清晰，交出源代码，让所有人查看、修改、分发。如今，越来越多的开发者把精力从“写代码”转向“怎么让 AI 写出好代码”。他们调试提示词，打磨工作流，把与 AI 协作的一整套方法整理成文档，公开分享。",
       "url": "https://www.oschina.net/news/502384",
       "source": "开源中国资讯",
       "region": "中文技术深度",
@@ -444,32 +666,11 @@
         "AI",
         "软件工程"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 377,
-      "summaryLength": 149,
-      "summaryQuality": "weak",
-      "readerTextZh": "过去，开源的定义很清晰，交出源代码，让所有人查看、修改、分发 如今，越来越多的开发者把精力从“写代码”转向“怎么让 AI 写出好代码” 他们调试提示词，打磨工作流，把与 AI 协作的一整套方法整理成文档，公开分享 分享的东西变了，开源的内核没变，把创造的过程分享出来，让后来的人少走弯路 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
-      "isTranslated": false
-    },
-    {
-      "title": "学习NOTE 8——二分图 - _T_M_T",
-      "titleZh": "学习NOTE 8——二分图 - _T_M_T",
-      "summary": "【摘要】好久没写图论的学习笔记了，来写一发最近做题学的二分图。是什么 二分图就是类似于把一个图分成两半，分为左部点和右部点。听上去是“二分”，其实和二分算法没什么关系，就是一个分成两半的图。",
-      "originalSummary": "【摘要】好久没写图论的学习笔记了，来写一发最近做题学的二分图。是什么 二分图就是类似于把一个图分成两半，分为左部点和右部点。听上去是“二分”，其实和二分算法没什么关系，就是一个分成两半的图。",
-      "url": "https://www.cnblogs.com/T-M-T/p/22893064",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-08T09:02:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
       "analysisMethod": "feed-text",
       "sourceTextLength": 159,
-      "summaryLength": 83,
+      "summaryLength": 87,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】好久没写图论的学习笔记了，来写一发最近做题学的二分图 是什么 二分图就是类似于把一个图分成两半，分为左部点和右部点 听上去是“二分”，其实和二分算法没什么关系，就是一个分成两半的图 举个例子： 就是像上图一样把一个图分成左部点和右部点两个部分 一般是在一个图上求出最大匹配 阅读全文",
+      "readerTextZh": "过去，开源的定义很清晰，交出源代码，让所有人查看、修改、分发 如今，越来越多的开发者把精力从“写代码”转向“怎么让 AI 写出好代码” 他们调试提示词，打磨工作流，把与 AI 协作的一整套方法整理成文档，公开分享 分享的东西变了，开源的内核没变，把创造的过程分享出来，让后来的人少走弯路",
       "isTranslated": false
     },
     {
@@ -492,29 +693,6 @@
       "summaryLength": 108,
       "summaryQuality": "weak",
       "readerTextZh": "DeepSeek 这个模型名本身就在剧透它的命运——deepseek-v4.1-flash-expires-on-0910 光看这串字符就知道，9 月 10 日它会自动下线 9 月 8 日下午，DeepSeek 放出了 V4.1 Flash 的中间测试版本开启内测 不是正式发布，是把还没定稿的模型拿出来让开发者提前试，窗口只有两天 值得注意的不是「又发了个模型」，而是「",
-      "isTranslated": false
-    },
-    {
-      "title": "grid布局grid-template-columns和grid-template-rows、repeat函数、间距、排列方式 - 南风晚来晚相识",
-      "titleZh": "grid布局grid-template-columns和grid-template-rows、repeat函数、间距、排列方式 - 南风晚来晚相识",
-      "summary": "grid 布局的简单介绍 要使用grid布局,我们需要给一个容器元素(父级容器)加上display:grid。而容器的直接子元素会成为grid项目。例如：container就是grid容器，item就是grid项目。",
-      "originalSummary": "grid 布局的简单介绍 要使用grid布局,我们需要给一个容器元素(父级容器)加上display:grid。而容器的直接子元素会成为grid项目。例如：container就是grid容器，item就是grid项目。",
-      "url": "https://www.cnblogs.com/IwishIcould/p/22892113",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-08T08:32:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI",
-        "云计算"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 150,
-      "summaryLength": 97,
-      "summaryQuality": "weak",
-      "readerTextZh": "grid 布局的简单介绍 要使用grid布局,我们需要给一个容器元素(父级容器)加上display:grid 而容器的直接子元素会成为grid项目 例如：container就是grid容器，item就是grid项目 <div class=\"containe",
       "isTranslated": false
     },
     {
@@ -607,92 +785,6 @@
       "isTranslated": false
     },
     {
-      "title": "qModel开源版算法模型平台v1.4.2上线版本管理与对比功能，让模型每一次迭代都有迹可循",
-      "titleZh": "qModel开源版算法模型平台v1.4.2上线版本管理与对比功能，让模型每一次迭代都有迹可循",
-      "summary": "qModel算法模型平台开源版v1.4.2新增模型版本管理与版本对比能力，在模型详情页增加独立版本管理入口，支持基于现有版本快速创建新版本、任意两个版本横向对比，以及多版本并存、切换与历史版本回滚，进一步完善模型从持续迭代到版本治理的管理链路。从“模型文件不断复制”，到建立清晰的版本演进关系 模型通常不是一次。",
-      "originalSummary": "qModel算法模型平台开源版v1.4.2新增模型版本管理与版本对比能力，在模型详情页增加独立版本管理入口，支持基于现有版本快速创建新版本、任意两个版本横向对比，以及多版本并存、切换与历史版本回滚，进一步完善模型从持续迭代到版本治理的管理链路。从“模型文件不断复制”，到建立清晰的版本演进关系 模型通常不是一次。",
-      "url": "https://www.oschina.net/news/502378",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-08T05:51:47+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 142,
-      "summaryQuality": "weak",
-      "readerTextZh": "qModel算法模型平台开源版v1.4.2新增模型版本管理与版本对比能力，在模型详情页增加独立版本管理入口，支持基于现有版本快速创建新版本、任意两个版本横向对比，以及多版本并存、切换与历史版本回滚，进一步完善模型从持续迭代到版本治理的管理链路 从“模型文件不断复制”，到建立清晰的版本演进关系 模型通常不是一次",
-      "isTranslated": false
-    },
-    {
-      "title": "qKnow 专业版 v3.1.3 发布：抽取任务消息提醒新增，多维度细节优化升级知识治理体验",
-      "titleZh": "qKnow 专业版 v3.1.3 发布：抽取任务消息提醒新增，多维度细节优化升级知识治理体验",
-      "summary": "qKnow智能体构建平台专业版v3.1.3围绕知识治理过程中的任务状态感知、文件预览和首页提醒配置进行优化，主要包括：结构化与非结构化抽取任务新增消息提醒、文件预览新增kkFileView部署配置，以及首页提醒支持通过参数管理控制显示与隐藏，进一步减少任务执行...。",
-      "originalSummary": "qKnow智能体构建平台专业版v3.1.3围绕知识治理过程中的任务状态感知、文件预览和首页提醒配置进行优化，主要包括：结构化与非结构化抽取任务新增消息提醒、文件预览新增kkFileView部署配置，以及首页提醒支持通过参数管理控制显示与隐藏，进一步减少任务执行...。",
-      "url": "https://www.oschina.net/news/502377",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-08T05:49:57+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 163,
-      "summaryLength": 122,
-      "summaryQuality": "weak",
-      "readerTextZh": "qKnow智能体构建平台专业版v3.1.3围绕知识治理过程中的任务状态感知、文件预览和首页提醒配置进行优化，主要包括：结构化与非结构化抽取任务新增消息提醒、文件预览新增kkFileView部署配置，以及首页提醒支持通过参数管理控制显示与隐藏，进一步减少任务执行和平台配置过程中的重复操作",
-      "isTranslated": false
-    },
-    {
-      "title": "GPT-6 越来越擅长端到端开发后，程序员最需要提升哪些能力？",
-      "titleZh": "GPT-6 越来越擅长端到端开发后，程序员最需要提升哪些能力？",
-      "summary": "最近在关注 GPT-6 这类模型在端到端开发、代码生成、调试、测试和 Agent 任务中的表现。我自己的感受是，AI 已经不只是辅助写代码，而是开始逐渐参与需求理解、代码实现、测试、修复甚至部署流程。所以我比较想讨论的是：如果 GPT-6 这类模型继续发展，程序员未来真正重要的能力会发生什么变化？。",
-      "originalSummary": "最近在关注 GPT-6 这类模型在端到端开发、代码生成、调试、测试和 Agent 任务中的表现。我自己的感受是，AI 已经不只是辅助写代码，而是开始逐渐参与需求理解、代码实现、测试、修复甚至部署流程。所以我比较想讨论的是：如果 GPT-6 这类模型继续发展，程序员未来真正重要的能力会发生什么变化？。",
-      "url": "https://segmentfault.com/q/1010000048272607",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-04T06:35:18+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 433,
-      "summaryLength": 127,
-      "summaryQuality": "weak",
-      "readerTextZh": "GPT-6 越来越擅长端到端开发后，程序员最需要提升哪些能力？ 最近在关注 GPT-6 这类模型在端到端开发、代码生成、调试、测试和 Agent 任务中的表现 我自己的感受是，AI 已经不只是辅助写代码，而是开始逐渐参与需求理解、代码实现、测试、修复甚至部署流程 以前很多前后端开发都需要程序员亲自完成，现在部分工作已经可以交给 AI Agent 自动执行 所以我比较想讨论的是：如果 GPT-6 这类模型继续发展，程序员未来真正重要的能力会发生什么变化？ 比如，是否会从“熟练写代码”逐渐转向： AI Agent / Tool Calling 的使用能力 Code Review 和结果验证能力",
-      "isTranslated": false
-    },
-    {
-      "title": "大家在生产环境里，会怎么判断一个 IP 是否真的“稳定”？",
-      "titleZh": "大家在生产环境里，会怎么判断一个 IP 是否真的“稳定”？",
-      "summary": "最近在做网络出口稳定性测试，发现“IP 没有变化”和“网络稳定”其实是两个不同的问题。比如一个固定 IP，可能 IP 地址一直没变，但中间存在丢包、连接超时、TLS 建连慢等情况。如果需要长期运行一个固定网络出口，你们一般会监控哪些指标？。",
-      "originalSummary": "最近在做网络出口稳定性测试，发现“IP 没有变化”和“网络稳定”其实是两个不同的问题。比如一个固定 IP，可能 IP 地址一直没变，但中间存在丢包、连接超时、TLS 建连慢等情况。如果需要长期运行一个固定网络出口，你们一般会监控哪些指标？。",
-      "url": "https://segmentfault.com/q/1010000048270897",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-04T02:35:37+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 253,
-      "summaryLength": 101,
-      "summaryQuality": "weak",
-      "readerTextZh": "最近在做网络出口稳定性测试，发现“IP 没有变化”和“网络稳定”其实是两个不同的问题 比如一个固定 IP，可能 IP 地址一直没变，但中间存在丢包、连接超时、TLS 建连慢等情况 如果需要长期运行一个固定网络出口，你们一般会监控哪些指标？ 如果是你来设计一个简单的 IP Health Check，你会保留哪些指标？",
-      "isTranslated": false
-    },
-    {
       "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
       "titleZh": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
       "summary": "后来发现不能这样，会把用户累死，于是从7月份开始，改成 每月发一个版本 以八月为例，月初的时候发布了测试版 2026.8.1-beta1 ，月中又发了 beta2 和 beta3，到了月底就发了 8月正式版。问题是 OpenClaw 这个工具，主要作用就是自主调用各种外部工具，测试用例很难涵盖各个平台的所有情况，一定有很多地方是测试不到的 所以，16000个 PR 到底引入了多少 Bug，有多少隐藏的风险，真的很难让人有信心...。这里记录每周值得分享的科技内容，周五发布。",
@@ -711,49 +803,6 @@
       "summaryLength": 203,
       "summaryQuality": "strong",
       "readerTextZh": "这里记录每周值得分享的科技内容，周五发布 另有 《谁在招人》 服务，发布程序员招聘信息 合作请 邮件联系 （yifeng.ruan@gmail.com） 宁夏西夏陵使用金属网，将残片还原成石像生 OpenClaw 2.0 是一个缩影 本周，OpenClaw 发布了 2.0版 回想今年春节，它一夜走红，引发了全民热议 一时间，上门安装龙虾成了热门服务，还真有不少人付费",
-      "isTranslated": false
-    },
-    {
-      "title": "对于 PDF 类数据的长期存储最佳办法是什么？",
-      "titleZh": "对于 PDF 类数据的长期存储最佳办法是什么？",
-      "summary": "对于 PDF 类数据的长期存储，考虑到存储成本（体积越小越好），也要考虑到文件传输（磁盘拷贝、数据读取）的速度，综合下来最佳办法是什么？。按日期分文件夹，每个文件夹里面都是小文件。按日期分文件夹， zip -r -0 的方式打包。",
-      "originalSummary": "对于 PDF 类数据的长期存储，考虑到存储成本（体积越小越好），也要考虑到文件传输（磁盘拷贝、数据读取）的速度，综合下来最佳办法是什么？。按日期分文件夹，每个文件夹里面都是小文件。按日期分文件夹， zip -r -0 的方式打包。",
-      "url": "https://segmentfault.com/q/1010000048253211",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-01T05:58:32+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 180,
-      "summaryLength": 93,
-      "summaryQuality": "weak",
-      "readerTextZh": "对于 PDF 类数据的长期存储，考虑到存储成本（体积越小越好），也要考虑到文件传输（磁盘拷贝、数据读取）的速度，综合下来最佳办法是什么？ 按日期分文件夹，每个文件夹里面都是小文件 这不行，因为小文件太多导致整体读取速度很慢 按日期分文件夹， zip -r -0 的方式打包 这方便整体迁移传输，但是不方便单文件读取、部分文件拷贝",
-      "isTranslated": false
-    },
-    {
-      "title": "开学大二想走网安方向，这个方向建议选吗？",
-      "titleZh": "开学大二想走网安方向，这个方向建议选吗？",
-      "summary": "开学大二，想要走网安方向，不知道为什么我暑假学完python后，感觉很迷茫，我不知道我如果选择网安这个方向过后结果是什么？。顺便给点学习网安的建议和学习网安的网站最好是文档版，谢谢了。学过python，Java，数据库MySQL，c++。",
-      "originalSummary": "开学大二，想要走网安方向，不知道为什么我暑假学完python后，感觉很迷茫，我不知道我如果选择网安这个方向过后结果是什么？。顺便给点学习网安的建议和学习网安的网站最好是文档版，谢谢了。学过python，Java，数据库MySQL，c++。",
-      "url": "https://segmentfault.com/q/1010000048225619",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-08-28T14:02:43+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 155,
-      "summaryLength": 105,
-      "summaryQuality": "weak",
-      "readerTextZh": "开学大二，想要走网安方向，不知道为什么我暑假学完python后，感觉很迷茫，我不知道我如果选择网安这个方向过后结果是什么？ 顺便给点学习网安的建议和学习网安的网站最好是文档版，谢谢了 学过python，Java，数据库MySQL，c++",
       "isTranslated": false
     },
     {
@@ -777,93 +826,6 @@
       "summaryLength": 134,
       "summaryQuality": "weak",
       "readerTextZh": "这里记录每周值得分享的科技内容，周五发布 另有 《谁在招人》 服务，发布程序员招聘信息 合作请 邮件联系 （yifeng.ruan@gmail.com） 这是\"AI 小知识系列\"的第三篇，前两篇分别是 《大模型需要多少内存》 和 《AI 缓存是什么》 我分享一些自己的学习笔记，用来理清对于 AI 技术的理解 今天谈一个基本问题： AI 为什么能够回答我们的提问，它怎么会知道答案？ 你可以找到很多这方面的论文和书籍，详细解释大模型的运作，通常非常难懂 但是，对于非专业人士，只要简单知道 AI 的三个机制 ，就可以了",
-      "isTranslated": false
-    },
-    {
-      "title": "我搭建的神经网络代码哪里出了问题？",
-      "titleZh": "我搭建的神经网络代码哪里出了问题？",
-      "summary": "有人能帮忙看一下我自定义的卷积神经网络的代码哪里出了问题吗，我想做的是图像分类，循环的过程中验证集的损失值越来越大而且accuracy一直在0.1徘徊（我是小白真的不知道怎么办了）。= y_true)[0] print(\"Wrong predictions:\", len(wrong_indices)) for i in wrong_indices[:20]: print( \"True:\", y_tr...。#调用库 import numpy as np import matplotlib.pyplot as plt #画图 from PIL import Image #读图 import os impo...。",
-      "originalSummary": "有人能帮忙看一下我自定义的卷积神经网络的代码哪里出了问题吗，我想做的是图像分类，循环的过程中验证集的损失值越来越大而且accuracy一直在0.1徘徊（我是小白真的不知道怎么办了）。= y_true)[0] print(\"Wrong predictions:\", len(wrong_indices)) for i in wrong_indices[:20]: print( \"True:\", y_tr...。#调用库 import numpy as np import matplotlib.pyplot as plt #画图 from PIL import Image #读图 import os impo...。",
-      "url": "https://segmentfault.com/q/1010000048218350",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-08-27T11:22:41+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 4159,
-      "summaryLength": 238,
-      "summaryQuality": "medium",
-      "readerTextZh": "有人能帮忙看一下我自定义的卷积神经网络的代码哪里出了问题吗，我想做的是图像分类，循环的过程中验证集的损失值越来越大而且accuracy一直在0.1徘徊（我是小白真的不知道怎么办了） #调用库 import numpy as np import matplotlib.pyplot as plt #画图 from PIL import Image #读图 import os import splitfolders #自动划分数据集 from tensorflow.keras.preprocessing.image import ImageDataGenerator from tensorflow.keras.models import Sequential from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout from tensorflow.keras.optimizers import Adam from sklearn.metrics import confusion_matrix,classification_report import seaborn as sns #数据集划分 input_folder=r\"D:\\machine learning\\rename_picture\" output_folder=r\"D:\\machine learning\\split_picture\" splitfolders.ratio(input_folder,output=output_folder,seed=123,ratio=(0.8,0.2)) #123固定每次划分一致 train_path=output_folder+r\"\\train\" val_path=output_folder+r\"\\val\" #处理读取数据 img_size=(128,128) batch_size=32 #归一化像素 train_datagen=ImageDataGenerator(re...",
-      "isTranslated": false
-    },
-    {
-      "title": "deepseek有能力进行游戏系统的大改造吗？",
-      "titleZh": "deepseek有能力进行游戏系统的大改造吗？",
-      "summary": "deepseek搭配claude code有能力进行游戏系统的大改造吗？。喜欢玩单机游戏，想要自己加新系统，jadx反编译的源码，ai数完说是24.3万行，deepseek有这个能力进行游戏系统的大改造吗，有没有懂得的大佬说一下，游戏名叫做文明时代2，好像使用java＋LibGDX开发的。",
-      "originalSummary": "deepseek搭配claude code有能力进行游戏系统的大改造吗？。喜欢玩单机游戏，想要自己加新系统，jadx反编译的源码，ai数完说是24.3万行，deepseek有这个能力进行游戏系统的大改造吗，有没有懂得的大佬说一下，游戏名叫做文明时代2，好像使用java＋LibGDX开发的。",
-      "url": "https://segmentfault.com/q/1010000048201464",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-08-24T14:54:44+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 163,
-      "summaryLength": 132,
-      "summaryQuality": "weak",
-      "readerTextZh": "deepseek搭配claude code有能力进行游戏系统的大改造吗？ 喜欢玩单机游戏，想要自己加新系统，jadx反编译的源码，ai数完说是24.3万行，deepseek有这个能力进行游戏系统的大改造吗，有没有懂得的大佬说一下，游戏名叫做文明时代2，好像使用java＋LibGDX开发的",
-      "isTranslated": false
-    },
-    {
-      "title": "如何解决浏览器访问网站时https显示不安全?",
-      "titleZh": "如何解决浏览器访问网站时https显示不安全?",
-      "summary": "我使用了腾讯免费的EdgeOne，我在美国服务器上的1p面板申请了SSL证书，访问网站的时候我的https被划掉了，并且显示不安全，由于我没有部署网站，国内会返回522，我想问一下这个要怎么解决？。我尝试换过CF都免费cdn，但是国内太慢，我想尝试优选，但是因为个人原因无法使用，但是访问网站https并不会显示不安全，然后我又在EdgeOne那里申请了SSL证书，但是还是会显示不安全，我希望https能正常使用就行。",
-      "originalSummary": "我使用了腾讯免费的EdgeOne，我在美国服务器上的1p面板申请了SSL证书，访问网站的时候我的https被划掉了，并且显示不安全，由于我没有部署网站，国内会返回522，我想问一下这个要怎么解决？。我尝试换过CF都免费cdn，但是国内太慢，我想尝试优选，但是因为个人原因无法使用，但是访问网站https并不会显示不安全，然后我又在EdgeOne那里申请了SSL证书，但是还是会显示不安全，我希望https能正常使用就行。",
-      "url": "https://segmentfault.com/q/1010000048198602",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-08-24T07:37:42+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "安全"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 213,
-      "summaryLength": 194,
-      "summaryQuality": "weak",
-      "readerTextZh": "我使用了腾讯免费的EdgeOne，我在美国服务器上的1p面板申请了SSL证书，访问网站的时候我的https被划掉了，并且显示不安全，由于我没有部署网站，国内会返回522，我想问一下这个要怎么解决？ 我尝试换过CF都免费cdn，但是国内太慢，我想尝试优选，但是因为个人原因无法使用，但是访问网站https并不会显示不安全，然后我又在EdgeOne那里申请了SSL证书，但是还是会显示不安全，我希望https能正常使用就行",
-      "isTranslated": false
-    },
-    {
-      "title": "同一个SOCKS5代理，为什么requests能用，aiohttp却一直报407 Proxy Authentication Required？",
-      "titleZh": "同一个SOCKS5代理，为什么requests能用，aiohttp却一直报407 Proxy Authentication Required？",
-      "summary": "我在使用9HTTP的动态住宅代理时，发现一个奇怪的现象：同样的代理配置（主机、端口、用户名、密码），在 requests 库中可以正常使用，但换成 aiohttp 或 httpx 就会一直报 407 Proxy Authentication Required。aiohttp.client_exceptions.ClientProxyConnectionError: Cannot connect to host global.9http.com:9091 ssl:default...。",
-      "originalSummary": "我在使用9HTTP的动态住宅代理时，发现一个奇怪的现象：同样的代理配置（主机、端口、用户名、密码），在 requests 库中可以正常使用，但换成 aiohttp 或 httpx 就会一直报 407 Proxy Authentication Required。aiohttp.client_exceptions.ClientProxyConnectionError: Cannot connect to host global.9http.com:9091 ssl:default...。",
-      "url": "https://segmentfault.com/q/1010000048194115",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-08-23T07:00:10+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 2690,
-      "summaryLength": 206,
-      "summaryQuality": "medium",
-      "readerTextZh": "同一个SOCKS5代理，为什么requests能用，aiohttp却一直报407 Proxy Authentication Required？ 我在使用9HTTP的动态住宅代理时，发现一个奇怪的现象：同样的代理配置（主机、端口、用户名、密码），在 requests 库中可以正常使用，但换成 aiohttp 或 httpx 就会一直报 407 Proxy Authentication Required 这个问题卡了我两天，同样的代理信息在curl里也能用，但aiohttp就是不行，希望有大佬指点一下 我希望在 aiohttp 中也能像 requests 一样正常使用SOCKS5代理，发送请求并正常返回结果 操作系统：Windows 11 / Ubuntu 22.04（两边都试过，现象一致） 代理服务商：9HTTP 动态住宅代理 代理地址：global.9http.com:9091（用户名密码认证） 能正常工作的代码（requests）：",
       "isTranslated": false
     },
     {
