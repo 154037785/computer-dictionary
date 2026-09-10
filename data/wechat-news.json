@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-09T15:54:24.982748+00:00",
-  "nextUpdate": "2026-09-10T03:54:24.982748+00:00",
+  "updatedAt": "2026-09-10T03:00:18.367378+00:00",
+  "nextUpdate": "2026-09-10T15:00:18.367378+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,26 +76,25 @@
   "errors": [],
   "items": [
     {
-      "title": "技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码",
-      "titleZh": "技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码",
-      "summary": "9月20日，GOAI开源周FDE专场将在杭州举行。我们将通过真实项目复盘、行业圆桌和供需展示，讨论FDE如何把Demo带进生产，以及它究竟是企业AI落地的解法，还是另一种定制化陷阱 AI Demo做出来了，为什么一进入企业真实业务，就被数据、系统、权限和组织协作卡住？。适合公开的企业需求、团队、应用和 Skill，后续也会通过模力工场及 9 月 22 日至 23 日的开源市集继续展示 做过企业 AI 项目的 FDE、Applied AI Engineer 和解决方案团队 如果你正在做一...。",
-      "originalSummary": "9月20日，GOAI开源周FDE专场将在杭州举行。我们将通过真实项目复盘、行业圆桌和供需展示，讨论FDE如何把Demo带进生产，以及它究竟是企业AI落地的解法，还是另一种定制化陷阱 AI Demo做出来了，为什么一进入企业真实业务，就被数据、系统、权限和组织协作卡住？。适合公开的企业需求、团队、应用和 Skill，后续也会通过模力工场及 9 月 22 日至 23 日的开源市集继续展示 做过企业 AI 项目的 FDE、Applied AI Engineer 和解决方案团队 如果你正在做一...。",
-      "url": "https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article",
+      "title": "边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+      "titleZh": "边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+      "summary": "推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Agent Framework 快速演进……AI 正在从回答问题的模型，演变为能够自主规划、调用工具、执行任务的软件系统。模型决定 AI 能做什么，系统决定 AI 能否真正创造价值 在这一背景下， 2026 年 QCon 全球软件开发大会大会 · 上海站 正式启动。VibeWriting 总体架构：主对话框如何驱动多 Agent 主对话框识别用户意图，当前处于讨论、检索、创作、评估还是修改阶段 AI 写作“去 AI 味”用专业知识指导 AI 的生成，用专业的方法论评估与监督生成的质...。",
+      "originalSummary": "推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Agent Framework 快速演进……AI 正在从回答问题的模型，演变为能够自主规划、调用工具、执行任务的软件系统。模型决定 AI 能做什么，系统决定 AI 能否真正创造价值 在这一背景下， 2026 年 QCon 全球软件开发大会大会 · 上海站 正式启动。VibeWriting 总体架构：主对话框如何驱动多 Agent 主对话框识别用户意图，当前处于讨论、检索、创作、评估还是修改阶段 AI 写作“去 AI 味”用专业知识指导 AI 的生成，用专业的方法论评估与监督生成的质...。",
+      "url": "https://www.infoq.cn/article/I0qWiIGTkCqG8H1hAoJb?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-09T18:39:47+00:00",
+      "publishedAt": "2026-09-10T10:00:00+00:00",
       "tags": [
         "架构",
         "软件工程",
         "中文深度",
-        "AI",
-        "开源"
+        "AI"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 1733,
-      "summaryLength": 212,
+      "sourceTextLength": 2421,
+      "summaryLength": 244,
       "summaryQuality": "strong",
-      "readerTextZh": "AI Demo做出来了，为什么一进入企业真实业务，就被数据、系统、权限和组织协作卡住？ 9月20日，GOAI开源周FDE专场将在杭州举行 我们将通过真实项目复盘、行业圆桌和供需展示，讨论FDE如何把Demo带进生产，以及它究竟是企业AI落地的解法，还是另一种定制化陷阱 AI Demo做出来了，为什么一进入企业真实业务，就被数据、系统、权限和组织协作卡住？ 我们将通过真实项目复盘、行业圆桌和供需展示，讨论FDE如何把Demo带进生产，以及它究竟是企业AI落地的解法，还是另一种定制化陷阱 Demo 做出来了，演示效果也不错 但真要接进业务，就开始遇到各种问题：数据不干净、接口接不通、权限拿不到、模型效果不稳定，业务人员也不一定愿意改变原来的工作方式 FDE 全称 Forward Deployed Engineer，通常译为“前线部署工程师” 这类人需要进入业务现场，既能理解企业的问题，也能动手解决工程问题，还要推动 AI 应用接入系统、进入流程并持续运行 有人认为，企业 AI 项目面对的问题太复杂，必须有人进入现场，边做边找答案 也有人担心，FDE 最后会不会变成更高级的驻场开发，团队被大量定制需求拖住，却始终无法形成标准产品 更棘手的是，即使 FDE 具备足够强的技术能力，企业内部的数据、权限、流程和人员并不由他控制 9 月 20 日下午，我们准备在 杭州云谷中心 举办一场小规模的 FDE 线下活动，想和真正做过项目、正在推进项目的人，一起把这些问题聊具体 活动安排了两场主题分享，都会尽量从嘉宾亲自参与的真实项目出发 我们希望嘉宾讲清楚：客户最开始提出了什么需求，进入现场后发现的真实问题是什么，第一个版本怎么做出来，Demo 又是如何接入企业数据、权限和现有系统的 除了做成了什么，我们也希望听到过程中遇到的麻烦、没有达到预期的部分，以及如果重新做一次，哪些决定会改变 这一场更关注企业内部",
+      "readerTextZh": "从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Agent Framework 快速演进……AI 正在从回答问题的模型，演变为能够自主规划、调用工具、执行任务的软件系统 AI 不再只是软件中的一个能力，而开始成为软件系统的一部分 这意味着软件工程面对的挑战也发生了变化：团队需要思考的不再只是如何训练模型、模型、部署模型 或优化 Prompt，而不是如何让具备自主能力的 AI 稳定、可信、可控地运行 模型决定 AI 能做什么，系统决定 AI 能否真正创造价值 在这一背景下， 2026 年 QCon 全球软件开发大会大会 · 上海站 正式启动 本次大会将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 爱奇艺 AI 高级算法总监路香菊博士已确认出席 “ AIGC 内容工业化 ” 专题，并发表题为 《 边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践 》 的主题分享 大模型用于剧本创作时，常出现结构松散、台词悬浮、“AI 味”明显及情绪臆想等问题 本次分享将介绍纳逗 PRO·剧本空间如何构建 VibeWriting 模式：以主对话框驱动多 Agent 协作，将自由交互与专业剧本工作流、量化评估方法论结合，并通过专业知识库增强，实现“边创作、边评估”",
       "isTranslated": false
     },
     {
@@ -106,7 +105,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-09T15:53:46.294544+00:00",
+      "publishedAt": "2026-09-10T02:59:35.322213+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +127,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-09T15:53:45.694031+00:00",
+      "publishedAt": "2026-09-10T02:59:34.652865+00:00",
       "tags": [
         "后端",
         "工程",
@@ -150,7 +149,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-09T15:53:45.087057+00:00",
+      "publishedAt": "2026-09-10T02:59:33.956581+00:00",
       "tags": [
         "后端",
         "工程",
@@ -172,7 +171,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-09T15:53:44.499714+00:00",
+      "publishedAt": "2026-09-10T02:59:33.263952+00:00",
       "tags": [
         "后端",
         "工程",
@@ -187,35 +186,36 @@
       "isTranslated": false
     },
     {
-      "title": "Apache Iceberg Variant 类型：v3 半结构化数据不再「二选一」 - Jackeyzhe",
-      "titleZh": "Apache Iceberg Variant 类型：v3 半结构化数据不再「二选一」 - Jackeyzhe",
-      "summary": "【摘要】你团队里大概率有一张这样的表：用户行为埋点、IoT 设备上报、或者某个第三方服务的 Webhook 回调。能过滤了，但上游每加一个字段，你就得跑一次 ALTER TABLE ADD COLUMN ，表越扩越宽，迁移越来越疼 结果就是那张著名的「800 列宽表」——不是维度建模翻车，是有人把 JSON 拍平了 Iceberg...。过去你只能在「灵活」和「能查」之间二选一 Iceberg v3 把这一题重新出了——它要的不是二选一，而是 在一列里同时拿到两者 Variant 是 Iceberg v3 规范（format version 3）引入的新...。",
-      "originalSummary": "【摘要】你团队里大概率有一张这样的表：用户行为埋点、IoT 设备上报、或者某个第三方服务的 Webhook 回调。能过滤了，但上游每加一个字段，你就得跑一次 ALTER TABLE ADD COLUMN ，表越扩越宽，迁移越来越疼 结果就是那张著名的「800 列宽表」——不是维度建模翻车，是有人把 JSON 拍平了 Iceberg...。过去你只能在「灵活」和「能查」之间二选一 Iceberg v3 把这一题重新出了——它要的不是二选一，而是 在一列里同时拿到两者 Variant 是 Iceberg v3 规范（format version 3）引入的新...。",
-      "url": "https://www.cnblogs.com/Jackeyzhe/p/22912333",
-      "source": "博客园技术文章",
+      "title": "《Agent 评测白皮书》系列：Agent 评测全览",
+      "titleZh": "《Agent 评测白皮书》系列：Agent 评测全览",
+      "summary": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇 前不久，我们发布了一篇博客《 Agent 评测漫谈 》，收到最多的反馈是：方法论看懂了，但落到自...。本系列博客面向 Agent 产品、研发、算法、运营和评测负责人 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的要求在往下降。这带来的直接变化是 Agent 落地场景越来越多，越来越发散 自 2022 年底 ChatGPT（基于 GPT-3.5）发布以来，市场上出现了一波又一波 Agent 项目。",
+      "originalSummary": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇 前不久，我们发布了一篇博客《 Agent 评测漫谈 》，收到最多的反馈是：方法论看懂了，但落到自...。本系列博客面向 Agent 产品、研发、算法、运营和评测负责人 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的要求在往下降。这带来的直接变化是 Agent 落地场景越来越多，越来越发散 自 2022 年底 ChatGPT（基于 GPT-3.5）发布以来，市场上出现了一波又一波 Agent 项目。",
+      "url": "https://juejin.cn/post/7683448371321274404",
+      "source": "掘金技术社区",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-09T15:43:00+00:00",
+      "publishedAt": "2026-09-10T02:48:39+00:00",
       "tags": [
-        "开发者",
+        "前端",
         "后端",
-        "中文深度"
+        "开发者",
+        "AI"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2588,
-      "summaryLength": 228,
+      "sourceTextLength": 2673,
+      "summaryLength": 231,
       "summaryQuality": "strong",
-      "readerTextZh": "【摘要】你团队里大概率有一张这样的表：用户行为埋点、IoT 设备上报、或者某个第三方服务的 Webhook 回调 今天上游加个 coupon_id，明天把 address 从字符串改成嵌套对象 面对这种半结构化数据，过去你基本只有两条路： 塞进一个 STRING 列，把 阅读全文 你团队里大概率有一张这样的表：用户行为埋点、IoT 设备上报、或者某个第三方服务的 Webhook 回调 面对这种半结构化数据，过去你基本只有两条路： 塞进一个 STRING 列，把 你团队里大概率有一张这样的表：用户行为埋点、IoT 设备上报、或者某个第三方服务的 Webhook 回调 它们的共同点—— schema 老变 今天上游加个 coupon_id ，明天把 address 从字符串改成嵌套对象 塞进一个 STRING 列 ，把 '{\"event\":\"pay\",\"amount\":99}' 原样存 查的时候每次全表解析，索引建不上，慢得像在翻一本没目录的字典 或者，把 JSON 拍平成几百列 能过滤了，但上游每加一个字段，你就得跑一次 ALTER TABLE ADD COLUMN ，表越扩越宽，迁移越来越疼 结果就是那张著名的「800 列宽表」——不是维度建模翻车，是有人把 JSON 拍平了 Iceberg v3 的 Variant 类型 想做一件事：让这两种痛苦同时消失—— 一列，既灵活，又可被引擎高效过滤 先把这个两难摆清楚",
+      "readerTextZh": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇 我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇 前不久，我们发布了一篇博客《 Agent 评测漫谈 》，收到最多的反馈是：方法论看懂了，但落到自己项目上还是不知道从哪下手 于是我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇 本系列博客面向 Agent 产品、研发、算法、运营和评测负责人 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的要求在往下降 早期要让模型稳定地按格式输出、正确地选中一个工具，需要反复打磨 Prompt、设计各种兜底 现在这些能力越来越多地由模型本身承担，长上下文、原生工具调用、更强的指令遵循和多步推理，把大量原本需要工程去补的地方补上了 二是 Agent 框架的功能持续丰富 从早期需要自己实现规划、记忆、工具注册和状态管理，到现在框架和协议层把这些抽象成标准组件，接一个工具、加一个 Skill，工作量都在显著下降 两条曲线叠加，结论很直接：搭建 Agent 门槛正在逐年降低 这带来的直接变化是 Agent 落地场景越来越多，越来越发散 自 2022 年底 ChatGPT（基于 GPT-3.5）发布以来，市场上出现了一波又一波 Agent 项目",
       "isTranslated": false
     },
     {
-      "title": "DeepSeek 把 V4 Pro 静默路由到费用更低、性能更好的 Flash，但用户表示拒绝",
-      "titleZh": "DeepSeek 把 V4 Pro 静默路由到费用更低、性能更好的 Flash，但用户表示拒绝",
-      "summary": "\" 这是 DeepSeek 决定把 V4 Pro 的请求静默路由到 V4.1 Flash 之后，开源社区第一时间的反应。9 月 9 日下午，DeepSeek 的 Tianyi Cui 在 X 上发帖，宣布了一个决定：V4.1 Flash 正式上线之后、V4.1 Pro 上线之前，所有打到 V4 Pro 的请求都会被路由到 V4.1 Fla...。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "originalSummary": "\" 这是 DeepSeek 决定把 V4 Pro 的请求静默路由到 V4.1 Flash 之后，开源社区第一时间的反应。9 月 9 日下午，DeepSeek 的 Tianyi Cui 在 X 上发帖，宣布了一个决定：V4.1 Flash 正式上线之后、V4.1 Pro 上线之前，所有打到 V4 Pro 的请求都会被路由到 V4.1 Fla...。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "url": "https://www.oschina.net/news/502395",
+      "title": "Raschka 万字拆解 GPT-6 Astra：循环架构和隐藏的推理链",
+      "titleZh": "Raschka 万字拆解 GPT-6 Astra：循环架构和隐藏的推理链",
+      "summary": "Sebastian Raschka 试完 GPT-6 Astra 之后，给了一个在他嘴里算很高的评价：「可能是我用过的最好的模型」。但这篇长文真正的重心不在夸 Astra 有多强，而在追一个未证实的传闻：The Information 说 Astra 用了「循环深度」——也就是 looped transformer。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "originalSummary": "Sebastian Raschka 试完 GPT-6 Astra 之后，给了一个在他嘴里算很高的评价：「可能是我用过的最好的模型」。但这篇长文真正的重心不在夸 Astra 有多强，而在追一个未证实的传闻：The Information 说 Astra 用了「循环深度」——也就是 looped transformer。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "url": "https://www.oschina.net/news/502401/gpt-6-astra-looped-transformers-and",
       "source": "开源中国资讯",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-09T10:49:15+00:00",
+      "publishedAt": "2026-09-10T02:47:56+00:00",
       "tags": [
         "开源",
         "开发者",
@@ -224,10 +224,33 @@
         "软件工程"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 425,
-      "summaryLength": 226,
+      "sourceTextLength": 414,
+      "summaryLength": 228,
       "summaryQuality": "medium",
-      "readerTextZh": "\" 这是 DeepSeek 决定把 V4 Pro 的请求静默路由到 V4.1 Flash 之后，开源社区第一时间的反应 9 月 9 日下午，DeepSeek 的 Tianyi Cui 在 X 上发帖，宣布了一个决定：V4.1 Flash 正式上线之后、V4.1 Pro 上线之前，所有打到 V4 Pro 的请求都会被路由到 V4.1 Flash，并按 Flash 的价格计费 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
+      "readerTextZh": "Sebastian Raschka 试完 GPT-6 Astra 之后，给了一个在他嘴里算很高的评价：「可能是我用过的最好的模型」 但这篇长文真正的重心不在夸 Astra 有多强，而在追一个未证实的传闻：The Information 说 Astra 用了「循环深度」——也就是 looped transformer Raschka 花了几千字把这门技术从头到尾拆了一遍，然后给出自己 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
+      "isTranslated": false
+    },
+    {
+      "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
+      "titleZh": "派早报：Apple 发布 iPhone Duo 折叠屏等",
+      "summary": "少数派现场上手 iPhone Duo iPhone 18 Pro 系列的核心升级是可变光圈：4800 万像素主摄可在 ƒ/1.48 至 ƒ/4 之间自动或手动调整，同时加入快门速度、白平衡和直方图等专业控制。同时预计在 2027 年推出 Sonos Custom Agents，让用户在系统中创建各自配备模型、人格和语音的 AI 智能体。该应用依托 AI 大模型智能问答系统，旨在为用户提供实时的诈骗手法拆解与风险判断服务 用户进入 app 后即可在智能问答页面输入自己所遇场景，系统将从诈骗风险分析、类型识别及防范建议等多个维度进行回复，并同步关联相关视频...。",
+      "originalSummary": "少数派现场上手 iPhone Duo iPhone 18 Pro 系列的核心升级是可变光圈：4800 万像素主摄可在 ƒ/1.48 至 ƒ/4 之间自动或手动调整，同时加入快门速度、白平衡和直方图等专业控制。同时预计在 2027 年推出 Sonos Custom Agents，让用户在系统中创建各自配备模型、人格和语音的 AI 智能体。该应用依托 AI 大模型智能问答系统，旨在为用户提供实时的诈骗手法拆解与风险判断服务 用户进入 app 后即可在智能问答页面输入自己所遇场景，系统将从诈骗风险分析、类型识别及防范建议等多个维度进行回复，并同步关联相关视频...。",
+      "url": "https://sspai.com/post/114394",
+      "source": "少数派深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-09T22:38:42+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度",
+        "AI",
+        "硬件"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3177,
+      "summaryLength": 240,
+      "summaryQuality": "strong",
+      "readerTextZh": "奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等 查看全文 奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等 奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等 奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等 9 月 10 日，Apple 公司发布 iPhone Duo、iPhone 18 Pro 与 Pro Max、Apple Watch Series 12、Apple Watch Ultra 4 和 AirPods 5 等新品 首款 iPhone 折叠屏 iPhone Duo 配备 7.6 英寸内屏和 5.4 英寸外屏，搭载 2 纳米制程 A20 Pro 芯片、4800 万像素主摄和超广角摄像头，并支持分屏多任务、Apple Pencil 与侧边 Touch ID 中国大陆起售价为 15,999 元，10 月 16 日晚 8 点预购，10 月 23 日发售 少数派现场上手 iPhone Duo iPhone 18 Pro 系列的核心升级是可变光圈：4800 万像素主摄可在 ƒ/1.48 至 ƒ/4 之间自动或手动调整，同时加入快门速度、白平衡和直方图等专业控制 两款手机还采用 A20 Pro、重新设计的均热板、更小的灵动岛以及用于验证照片真实性的 Apple Reference Image iPhone 18 Pro 和 Pro Max 分别从 9,999 元、10,999 元起，9 月 12 日晚 8 点预购，9 月 18 日发售 少数派现场上手 iPhone 18 Pro Apple Watch Series 12 搭载 S11 芯片和全新健康感测系统，可每 5 秒测量一次心率，并通过活动量、训练负荷、生命体征和睡眠生成身体状态准备指数，起售价 2,999 元 Ultra 4 加入同类健康功能，日常续航最长 50 小时，起售价 6,499 元",
       "isTranslated": false
     },
     {
