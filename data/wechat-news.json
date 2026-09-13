@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T14:58:59.552111+00:00",
-  "nextUpdate": "2026-09-13T02:58:59.552111+00:00",
+  "updatedAt": "2026-09-13T03:03:13.793008+00:00",
+  "nextUpdate": "2026-09-13T15:03:13.793008+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,26 +76,26 @@
   "errors": [],
   "items": [
     {
-      "title": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
-      "titleZh": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
-      "summary": "在这里，支付宝 AI 付开发者沙龙聚焦 AI 产品的支付接入与商业化实践，蚂蚁 inclusionAI 与开源伙伴相聚开源嘉年华，应用创意和商业化实践被放到同一个现场，为这些“AI 新物种”从想法走向产品、从作品走向真实使用，提供交流与协作的机会 一款 AI...。超级峰带来的 MotiClaw ，则把素材整理、写作与发布准备放进同一个本地 AI 工作台，让内容创作者能围绕手头的工作使用 AI 做出产品之后，收款也是开发者需要迈过的一步。围绕支付宝 AI 付的开放能力，开发者交流产品接入支付的实践，把讨论落到一笔交易怎样完成、产品如何持续运营这些具体问题上 【图说：外滩大会开发者 Agent 相亲角，给你的 Agent 找搭子】 下午，开放麦上的话题越聊...。",
-      "originalSummary": "在这里，支付宝 AI 付开发者沙龙聚焦 AI 产品的支付接入与商业化实践，蚂蚁 inclusionAI 与开源伙伴相聚开源嘉年华，应用创意和商业化实践被放到同一个现场，为这些“AI 新物种”从想法走向产品、从作品走向真实使用，提供交流与协作的机会 一款 AI...。超级峰带来的 MotiClaw ，则把素材整理、写作与发布准备放进同一个本地 AI 工作台，让内容创作者能围绕手头的工作使用 AI 做出产品之后，收款也是开发者需要迈过的一步。围绕支付宝 AI 付的开放能力，开发者交流产品接入支付的实践，把讨论落到一笔交易怎样完成、产品如何持续运营这些具体问题上 【图说：外滩大会开发者 Agent 相亲角，给你的 Agent 找搭子】 下午，开放麦上的话题越聊...。",
-      "url": "https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article",
+      "title": "Figma 如何利用 AI 代理提升安全性",
+      "titleZh": "Figma 如何利用 AI 代理提升安全性",
+      "summary": "最近，软件公司 Figma 的工程团队详细记录了他们如何构建 AI 代理，以协助安全团队调查警报、检索过往事件、检查公司系统，甚至准备代码修复方案 最近，软件公司 Figma 的工程团队详细记录了他们如何构建 AI 代理，以协助安全团队调查警报、检索过往事件、...。近日，云安全公司 Wiz 在题为“ GhostApproval：AI 编码助手中的信任边界漏洞 ”的报告中指出，有六款 AI 编码助手可能会被恶意代码库所欺骗，向用户显示看似无害的审批提示。这些智能代理通过学习以往的事件调查经验，减少了重复性工作，并帮助工程师将解决复杂警报的速度提升了约 70%，同时仍然保留了人工审核和严格的控制措施 该团队介绍了一套基于 Panther SIEM 构建...。",
+      "originalSummary": "最近，软件公司 Figma 的工程团队详细记录了他们如何构建 AI 代理，以协助安全团队调查警报、检索过往事件、检查公司系统，甚至准备代码修复方案 最近，软件公司 Figma 的工程团队详细记录了他们如何构建 AI 代理，以协助安全团队调查警报、检索过往事件、...。近日，云安全公司 Wiz 在题为“ GhostApproval：AI 编码助手中的信任边界漏洞 ”的报告中指出，有六款 AI 编码助手可能会被恶意代码库所欺骗，向用户显示看似无害的审批提示。这些智能代理通过学习以往的事件调查经验，减少了重复性工作，并帮助工程师将解决复杂警报的速度提升了约 70%，同时仍然保留了人工审核和严格的控制措施 该团队介绍了一套基于 Panther SIEM 构建...。",
+      "url": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-12T20:35:26+00:00",
+      "publishedAt": "2026-09-13T10:00:00+00:00",
       "tags": [
         "架构",
         "软件工程",
         "中文深度",
         "AI",
-        "开源"
+        "安全"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 1455,
-      "summaryLength": 283,
+      "sourceTextLength": 1836,
+      "summaryLength": 284,
       "summaryQuality": "strong",
-      "readerTextZh": "用AI 做科普公益，给Agent 相亲，让年轻人用Coding介绍自己…… 用AI 做科普公益，给Agent 相亲，让年轻人用Coding介绍自己…… 用 AI 做科普公益，给 Agent 相亲，让年轻人用 Coding 介绍自己…… 9 月 12 日，2026 Inclusion·外滩大会开发者日在上海黄浦世博园区 Hero Dome•英雄外滩国际演艺中心举行，全天 30 余场开放麦、20 个开源市集展位及百余项 CodeLab 任务，开发者带着项目和经验走上舞台，也在台下试产品、跑代码，与同行交流想法，在动手实践和面对面的交流中寻找新的合作机会 本届外滩大会以“ 共创AI 新经济 ”为主题，开发者日则将关注点投向了正在创造新产品、新服务的 Builder 们 在这里，支付宝 AI 付开发者沙龙聚焦 AI 产品的支付接入与商业化实践，蚂蚁 inclusionAI 与开源伙伴相聚开源嘉年华，应用创意和商业化实践被放到同一个现场，为这些“AI 新物种”从想法走向产品、从作品走向真实使用，提供交流与协作的机会 一款 AI 产品做出来，怎样迎来愿意付费的用户？ 独立开发者黄啊码介绍小产品的商业化实践，苍何分享从 AI 产品到真实付费的经验 超级峰带来的 MotiClaw ，则把素材整理、写作与发布准备放进同一个本地 AI 工作台，让内容创作者能围绕手头的工作使用 AI 做出产品之后，收款也是开发者需要迈过的一步 围绕支付宝 AI 付的开放能力，开发者交流产品接入支付的实践，把讨论落到一笔交易怎样完成、产品如何持续运营这些具体问题上 【图说：外滩大会开发者 Agent 相亲角，给你的 Agent 找搭子】 下午，开放麦上的话题越聊越开 用户运营专家、公益社团团长奚迅捷，带来“用 Vibe Coding 编织一次次有温度的科普公益”的分享 借助 AI 编程，熟悉公益活动的人也开始尝试亲手开发，把对参与者的了解和对活动的想法带进应用 年轻人怎样让自己的能力被看见，也成为现场话题 Fancyjobs 关注如何用“作品”重新介绍自己",
+      "readerTextZh": "最近，软件公司 Figma 的工程团队详细记录了他们如何构建 AI 代理，以协助安全团队调查警报、检索过往事件、检查公司系统，甚至准备代码修复方案 最近，软件公司 Figma 的工程团队详细记录了他们如何构建 AI 代理，以协助安全团队调查警报、检索过往事件、检查公司系统，甚至准备代码修复方案 最近，软件公司 Figma 的工程团队 详细记录 了他们如何构建 AI 代理，以协助安全团队调查警报、检索过往事件、检查公司系统，甚至准备代码修复方案 这些智能代理通过学习以往的事件调查经验，减少了重复性工作，并帮助工程师将解决复杂警报的速度提升了约 70%，同时仍然保留了人工审核和严格的控制措施 该团队介绍了一套基于 Panther SIEM 构建的安全系统 该系统负责调查警报并检查 AWS、Okta、GitHub、GCP 以及 osquery （一款允许用户使用 SQL 查询计算机安全与系统信息的开源工具）中的审计日志 该系统还会查询其他 100 多个数据源，并能发起拉取请求（PR） 作者报告称，该系统通过降低部分警报的严重级别，将复杂警报的处理时间缩短了约 70%，并将值班通知减少了 20% 曾任 Figma 安全工程师、现任职于 Nition 的 Matthew Sullivan 与 Figma 安全工程经理 Brad Girardeau 写道： 警报分诊代理（采用类似 Claude Opus 的模型）是进行大部分调查工作的核心 它会接收完整的 Slack 对话记录作为背景信息，以及自身的引导内存（稍后详述），并配备了一套安全值班工程师在分诊过程中通常需要的工具集 据这篇文章介绍，该智能代理系统利用 AWS Bedrock 知识库 、 Amazon Kendra 、 Tines 以及一款基于 Snowflake 的工具来检索历史警报并分析 Panther 数据 Sullivan 和 Girardeau 补充道： 最终，“记忆”成为影响该系统随时间推移而变得越来越有用的关键因素 我们拥有多种类型的记忆，而将它们分开管理被证明至关重要 三种类型的记忆有助于系统随着时间的...",
       "isTranslated": false
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-12T14:58:16.774323+00:00",
+      "publishedAt": "2026-09-13T03:02:28.163033+00:00",
       "tags": [
         "后端",
         "工程",
@@ -129,7 +129,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-12T14:58:16.184670+00:00",
+      "publishedAt": "2026-09-13T03:02:27.503083+00:00",
       "tags": [
         "后端",
         "工程",
@@ -151,7 +151,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-12T14:58:15.588335+00:00",
+      "publishedAt": "2026-09-13T03:02:26.835968+00:00",
       "tags": [
         "后端",
         "工程",
@@ -174,7 +174,7 @@
       "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-12T14:58:14.970899+00:00",
+      "publishedAt": "2026-09-13T03:02:26.167474+00:00",
       "tags": [
         "后端",
         "工程",
@@ -197,7 +197,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-12T14:58:14.365783+00:00",
+      "publishedAt": "2026-09-13T03:02:25.473389+00:00",
       "tags": [
         "后端",
         "工程",
@@ -219,7 +219,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-12T14:58:13.765177+00:00",
+      "publishedAt": "2026-09-13T03:02:24.812626+00:00",
       "tags": [
         "后端",
         "工程",
@@ -241,7 +241,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-12T14:58:13.156998+00:00",
+      "publishedAt": "2026-09-13T03:02:24.093340+00:00",
       "tags": [
         "后端",
         "工程",
@@ -263,7 +263,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-12T14:58:12.529737+00:00",
+      "publishedAt": "2026-09-13T03:02:23.388257+00:00",
       "tags": [
         "后端",
         "工程",
@@ -278,10 +278,98 @@
       "isTranslated": false
     },
     {
+      "title": "美团智播——数字人直播技术创新与实践",
+      "titleZh": "美团智播——数字人直播技术创新与实践",
+      "summary": "随着大语言模型、生成式AI与多模态交互技术的快速发展，数字人直播已突破早期形象僵硬、交互单一的瓶颈，在本地生活、电商、文娱等领域展现出巨大的商业潜力。美团智播，是面向本地生活场景的AI数字人直播解决方案，融合大模型、数字人与多模态交互技术，提供丰富的行业专属数字人形象，支持真人1:1复刻与门店实景定制，30秒生成直播素材，3分钟完成开播配置，7×24小时稳定上播。过去一年，依托生成式AI技术，数字人直播月日均GTV同比增长82.12%，月日均观看人次同比增长163.44%，开播场次提升11倍，充分验证了AI数字人直播在本地生活商业闭环中的实际价值。",
+      "originalSummary": "随着大语言模型、生成式AI与多模态交互技术的快速发展，数字人直播已突破早期形象僵硬、交互单一的瓶颈，在本地生活、电商、文娱等领域展现出巨大的商业潜力。美团智播，是面向本地生活场景的AI数字人直播解决方案，融合大模型、数字人与多模态交互技术，提供丰富的行业专属数字人形象，支持真人1:1复刻与门店实景定制，30秒生成直播素材，3分钟完成开播配置，7×24小时稳定上播。过去一年，依托生成式AI技术，数字人直播月日均GTV同比增长82.12%，月日均观看人次同比增长163.44%，开播场次提升11倍，充分验证了AI数字人直播在本地生活商业闭环中的实际价值。",
+      "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+      "source": "美团技术团队",
+      "region": "技术团队",
+      "publishedAt": "2026-09-13T03:02:22.715122+00:00",
+      "tags": [
+        "后端",
+        "工程",
+        "技术团队",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 8084,
+      "summaryLength": 249,
+      "summaryQuality": "medium",
+      "readerTextZh": "随着大语言模型、生成式AI与多模态交互技术的快速发展，数字人直播已突破早期形象僵硬、交互单一的瓶颈，在本地生活、电商、文娱等领域展现出巨大的商业潜力 美团智播，是面向本地生活场景的AI数字人直播解决方案，融合大模型、数字人与多模态交互技术，提供丰富的行业专属数字人形象，支持真人1:1复刻与门店实景定制，30秒生成直播素材，3分钟完成开播配置，7×24小时稳定上播 过去一年，依托生成式AI技术，数字人直播月日均GTV同比增长82.12%，月日均观看人次同比增长163.44%，开播场次提升11倍，充分验证了AI数字人直播在本地生活商业闭环中的实际价值 2026年7月8日至10日，美团智播在中国互联网大会上完成行业首秀，以“实时交互数字人+直播带货数字人”为主题亮相科技互动展区 展区中，实时交互数字人通过秒级语音问答与观众自然对话，数字人直播间则让参会者发出“完全看不出是数字人”的感叹——这一亮相标志着美团智播正式从内部打磨走向行业舞台 如何让数字人直播达到真人级表现力，并满足大规模商业化落地的要求 ？ 本文将围绕美团智播的核心能力，系统介绍支撑产品的关键技术突破——涵盖高保真形象生成、自然动作驱动、语音手势协调、高效推理部署及系统架构设计，这些技术共同构成了数字人直播从“能用”到“好用”，再到“规模化量产”的完整技术闭环 凭借这些技术积累，美团智播荣获2026年度“中国多媒体企业创新技术奖”，这一奖项由中国计算机学会（CCF）和中国图象图形学学会（CSIG）指导，中国多媒体大会（ChinaMM）设立并颁发，是对美团在数字人直播领域自主创新能力的行业认可",
+      "isTranslated": false
+    },
+    {
+      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "titleZh": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "summary": "当 Agent Harness 的任何一个环节发生变化——模型升级、Prompt 调整、知识库更新、Skill 新增或下线——都可以通过离线评测验证效果，避免不成熟的变更导致 Agent 能力劣化。如果 Skill 都正常，但“数据对比类”任务占比从 10% 涨到 35%，那结论是用户结构变了、Agent 在新场景上能力不足——这两种情况的应对完全不同。我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的...。",
+      "originalSummary": "当 Agent Harness 的任何一个环节发生变化——模型升级、Prompt 调整、知识库更新、Skill 新增或下线——都可以通过离线评测验证效果，避免不成熟的变更导致 Agent 能力劣化。如果 Skill 都正常，但“数据对比类”任务占比从 10% 涨到 35%，那结论是用户结构变了、Agent 在新场景上能力不足——这两种情况的应对完全不同。我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的...。",
+      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+      "source": "美团技术团队",
+      "region": "技术团队",
+      "publishedAt": "2026-09-13T03:02:22.042478+00:00",
+      "tags": [
+        "后端",
+        "工程",
+        "技术团队",
+        "AI"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 13800,
+      "summaryLength": 236,
+      "summaryQuality": "strong",
+      "readerTextZh": "搭一个 Agent 正在变得越来越容易 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的要求在往下降 早期要让模型稳定地按格式输出、正确地选中一个工具，需要反复打磨 Prompt、设计各种兜底 现在这些能力越来越多地由模型本身承担，长上下文、原生工具调用、更强的指令遵循和多步推理，把大量原本需要工程去补的地方补上了 二是 Agent 框架的功能持续丰富 从早期需要自己实现规划、记忆、工具注册和状态管理，到现在框架和协议层把这些抽象成标准组件，接一个工具、加一个 Skill，工作量都在显著下降 两条曲线叠加，结论很直接：搭建 Agent 门槛正在逐年降低 这带来的直接变化是 Agent 落地场景越来越多，越来越发散",
+      "isTranslated": false
+    },
+    {
+      "title": "并发编程（零）：并发问题与讨论范围 - ThinkerQAQ",
+      "titleZh": "并发编程（零）：并发问题与讨论范围 - ThinkerQAQ",
+      "summary": "【摘要】目录 1. 先明确讨论范围 2. 从一个共享变量开始 3. 两种主要的协作模型 3.1 Shared Memory：通过同步保护共享状态 3.2 Message Passing：通过消息进行协作 4. 为什么这些代码能够正确工作？。5. 语言需要定义并发语义 6. 为什么还要继续下钻到硬件？。仍然以 count 为例 Java 中可以通过同步保护这段共享状态，例如 sychronized class Counter { private int count = 0。",
+      "originalSummary": "【摘要】目录 1. 先明确讨论范围 2. 从一个共享变量开始 3. 两种主要的协作模型 3.1 Shared Memory：通过同步保护共享状态 3.2 Message Passing：通过消息进行协作 4. 为什么这些代码能够正确工作？。5. 语言需要定义并发语义 6. 为什么还要继续下钻到硬件？。仍然以 count 为例 Java 中可以通过同步保护这段共享状态，例如 sychronized class Counter { private int count = 0。",
+      "url": "https://www.cnblogs.com/ThinkerQAQ/p/22954074",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-13T01:51:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "硬件"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2328,
+      "summaryLength": 188,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】目录 1. 先明确讨论范围 2. 从一个共享变量开始 3. 两种主要的协作模型 3.1 Shared Memory：通过同步保护共享状态 3.2 Message Passing：通过消息进行协作 4. 为什么这些代码能够正确工作？ 5. 语言需要定义并发语义 6. 为什么还要继续下钻到硬件？ 7. 阅读全文 目录 1. 先明确讨论范围 2. 从一个共享变量开始 3. 两种主要的协作模型 3.1 Shared Memory：通过同步保护共享状态 3.2 Message Passing：通过消息进行协作 4. 为什么这些代码能够正确工作？ 7 目录 1. 先明确讨论范围 2. 从一个共享变量开始 3. 两种主要的协作模型 3.1 Shared Memory：通过同步保护共享状态 3.2 Message Passing：通过消息进行协作 4. 为什么这些代码能够正确工作？ 7 3. 两种主要的协作模型 3.1 Shared Memory：通过同步保护共享状态 Thread A Thread B count++ count++ 如果 A 和 B 各执行一次，最终结果是否一定是： 读取 count 计算 count + 1 写回 count 于是可能出现： 初始：count = 0 Thread A Thread B 读取 count -> 0 读取 count -> 0 写入 count -> 1 写入 count -> 1 最终： count = 1 问题的关键在于两个Thread同时修改了 counter ，也就是 在单机、单进程范围内，当多个执行单元需要共享数据时，主要通过两种模型协作： Shared Memory / Shared State ：多个执行单元直接访问同一份状态 Message Passing ：执行单元之间通过消息交换信息 下面仍然以 count++ 为例，看这两种模型分别如何处理前面的并发问题 Shared Memory 中，多个执行单元直接访问同一份状态 仍然以 count 为例 Java 中可以通过同步保护这段共享状态，例如 sych...",
+      "isTranslated": false
+    },
+    {
+      "title": "理解Oracle Property Graph：以账户转账示例完成图特性最小测试 - AlfredZhao",
+      "titleZh": "理解Oracle Property Graph：以账户转账示例完成图特性最小测试 - AlfredZhao",
+      "summary": "【摘要】Oracle Property Graph 让关系型数据也能用图的方式查询。本文用一组转账数据，走一遍建表、建图、单跳与多跳查询的完整流程，并整理 ORA-40954: unknown label 的常见原因。01 | 准备测试表与数据 建议在空白 schema 中执行。",
+      "originalSummary": "【摘要】Oracle Property Graph 让关系型数据也能用图的方式查询。本文用一组转账数据，走一遍建表、建图、单跳与多跳查询的完整流程，并整理 ORA-40954: unknown label 的常见原因。01 | 准备测试表与数据 建议在空白 schema 中执行。",
+      "url": "https://www.cnblogs.com/jyzhao/p/22953898",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-13T01:13:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 116,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】Oracle Property Graph 让关系型数据也能用图的方式查询 本文用一组转账数据，走一遍建表、建图、单跳与多跳查询的完整流程，并整理 ORA-40954: unknown label 的常见原因 01 | 准备测试表与数据 建议在空白 schema 中执行 若对象已存在，先手工删除或 阅读全文",
+      "isTranslated": false
+    },
+    {
       "title": "Rust 成为微软一线语言之后：谈谈 C# 与 Rust 的互补性 - 张善友",
       "titleZh": "Rust 成为微软一线语言之后：谈谈 C# 与 Rust 的互补性 - 张善友",
-      "summary": "【摘要】微软把 Rust 提到 Tier-1，不是让它和 C# 竞争，而是补齐 .NET 生态底下那层一直靠 C++ 硬撑的安全底座。它适合的是\"错一个字节就是一个 CVE\"的层：解析器、编解码、加解密、驱动、协议栈、热路径计算 看微软的实际用法就能验证这一点：Rust 被用来修 Windows 里有漏洞的 C/C++ 代码、做 M365 服务的性能关...。对 C# 架构师而言，学会在边界上定义干净的 FFI 契约，远比纠结\"要不要学 Rust\"更有价值。",
-      "originalSummary": "【摘要】微软把 Rust 提到 Tier-1，不是让它和 C# 竞争，而是补齐 .NET 生态底下那层一直靠 C++ 硬撑的安全底座。它适合的是\"错一个字节就是一个 CVE\"的层：解析器、编解码、加解密、驱动、协议栈、热路径计算 看微软的实际用法就能验证这一点：Rust 被用来修 Windows 里有漏洞的 C/C++ 代码、做 M365 服务的性能关...。对 C# 架构师而言，学会在边界上定义干净的 FFI 契约，远比纠结\"要不要学 Rust\"更有价值。",
+      "summary": "【摘要】微软把 Rust 提到 Tier-1，不是让它和 C# 竞争，而是补齐 .NET 生态底下那层一直靠 C++ 硬撑的安全底座。对 C# 架构师而言，学会在边界上定义干净的 FFI 契约，远比纠结\"要不要学 Rust\"更有价值。未来的高性能 .NET 系统，大概率是这样一个形态：C# 在上，Rust ... 阅读全文。",
+      "originalSummary": "【摘要】微软把 Rust 提到 Tier-1，不是让它和 C# 竞争，而是补齐 .NET 生态底下那层一直靠 C++ 硬撑的安全底座。对 C# 架构师而言，学会在边界上定义干净的 FFI 契约，远比纠结\"要不要学 Rust\"更有价值。未来的高性能 .NET 系统，大概率是这样一个形态：C# 在上，Rust ... 阅读全文。",
       "url": "https://www.cnblogs.com/shanyou/p/22950752",
       "source": "博客园技术文章",
       "region": "中文技术深度",
@@ -293,11 +381,11 @@
         "安全",
         "软件工程"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2169,
-      "summaryLength": 175,
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 162,
+      "summaryLength": 119,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】微软把 Rust 提到 Tier-1，不是让它和 C# 竞争，而是补齐 .NET 生态底下那层一直靠 C++ 硬撑的安全底座 对 C# 架构师而言，学会在边界上定义干净的 FFI 契约，远比纠结\"要不要学 Rust\"更有价值 未来的高性能 .NET 系统，大概率是这样一个形态：C# 在上，Rust ... 阅读全文 微软把 Rust 提到 Tier-1，不是让它和 C# 竞争，而是补齐 .NET 生态底下那层一直靠 C++ 硬撑的安全底座 对 C# 架构师而言，学会在边界上定义干净的 FFI 契约，远比纠结 微软把 Rust 提到 Tier-1，不是让它和 C# 竞争，而是补齐 .NET 生态底下那层一直靠 C++ 硬撑的安全底座 对 C# 架构师而言，学会在边界上定义干净的 FFI 契约，远比纠结 微软正式将 Rust 列为 Tier-1 语言，与 C++、C#、TypeScript 同级 这不是\"狼来了\"，而是 .NET 生态版图的一次正式重划 对 C# 开发者来说，真正值得思考的问题是：Rust 会抢走什么，又会补上什么？ 根据 Rust 基金会的一篇客座博客，Rust 已在微软内部获得 一线（Tier-1）工程支持",
+      "readerTextZh": "【摘要】微软把 Rust 提到 Tier-1，不是让它和 C# 竞争，而是补齐 .NET 生态底下那层一直靠 C++ 硬撑的安全底座 对 C# 架构师而言，学会在边界上定义干净的 FFI 契约，远比纠结\"要不要学 Rust\"更有价值 未来的高性能 .NET 系统，大概率是这样一个形态：C# 在上，Rust ... 阅读全文",
       "isTranslated": false
     },
     {
@@ -544,27 +632,6 @@
       "isTranslated": false
     },
     {
-      "title": "谷歌浏览器网络调试在接口预览时其顶层结构无法触发右键菜单功能?",
-      "titleZh": "谷歌浏览器网络调试在接口预览时其顶层结构无法触发右键菜单功能?",
-      "summary": "第一张图是极速 360 浏览器,第二张图是 chrome 浏览器。极速 360: Mozilla/5.0 (Windows NT 10.0。x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36。",
-      "originalSummary": "第一张图是极速 360 浏览器,第二张图是 chrome 浏览器。极速 360: Mozilla/5.0 (Windows NT 10.0。x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36。",
-      "url": "https://segmentfault.com/q/1010000048290204",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-11T08:47:09+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 397,
-      "summaryLength": 109,
-      "summaryQuality": "weak",
-      "readerTextZh": "第一张图是极速 360 浏览器,第二张图是 chrome 浏览器 最近发现 chrome 浏览器的预览中的顶层的数据无法触发右键菜单(非顶层依然可以),当然这个之前是可以的 极速 360: Mozilla/5.0 (Windows NT 10.0 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 chrome: Mozilla/5.0 (Windows NT 10.0 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 因为我发现 edge 的 Chrome/152.0.0.0 版本也有这个问题",
-      "isTranslated": false
-    },
-    {
       "title": "FocusAny v2.2.0 模型能力标识上线，SDK CLI 新增诊断与转发，插件资源按需下载",
       "titleZh": "FocusAny v2.2.0 模型能力标识上线，SDK CLI 新增诊断与转发，插件资源按需下载",
       "summary": "FocusAny v2.2.0 带来三个方面的更新：大模型的能力标识变得更直观，SDK 命令行工具新增了诊断和转发命令，插件开发者可以按需下载资源文件。如果你在模型设置里面对几十个模型名挑来挑去，现在每个模型旁边会显示它的能力标签——能看图还是有工具调用功能，看一眼就知道。插件开发者也不用再把大文件打进包里了，新增。",
@@ -677,6 +744,51 @@
       "isTranslated": false
     },
     {
+      "title": "Termexo v0.8.6 发布：刷新保留 Agent 进程，终端改用屏幕状态重放",
+      "titleZh": "Termexo v0.8.6 发布：刷新保留 Agent 进程，终端改用屏幕状态重放",
+      "summary": "Termexo v0.8.6 已发布。Termexo 是 MIT 开源的 Windows 多 Agent 工作台，统一管理 Claude Code、Codex、OpenCode 和真实终端。本文由项目维护者提供，AI 根据正式发布说明整理。",
+      "originalSummary": "Termexo v0.8.6 已发布。Termexo 是 MIT 开源的 Windows 多 Agent 工作台，统一管理 Claude Code、Codex、OpenCode 和真实终端。本文由项目维护者提供，AI 根据正式发布说明整理。",
+      "url": "https://www.oschina.net/news/502419",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-11T03:15:51+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 192,
+      "summaryLength": 98,
+      "summaryQuality": "weak",
+      "readerTextZh": "Termexo v0.8.6 已发布 Termexo 是 MIT 开源的 Windows 多 Agent 工作台，统一管理 Claude Code、Codex、OpenCode 和真实终端 本版聚焦刷新、重连与尺寸变化后的连续工作体验 本文由项目维护者提供，AI 根据正式发布说明整理 刷新后保留正在运行的 Agent 此前前端加载会被误当成新的终端启动，刷新可能重启原本正在",
+      "isTranslated": false
+    },
+    {
+      "title": "OpenAI 把 Codex 做成 API：Agents API 开放托管会话与沙箱",
+      "titleZh": "OpenAI 把 Codex 做成 API：Agents API 开放托管会话与沙箱",
+      "summary": "OpenAI 在开发者文档里正式上线了 Agents API，把 Codex 的 harness 通过一个 OpenAI 托管的 REST API 暴露出来。核心端点就一个：POST https://api.openai.com/v1/agents/sessions，带 OpenAI-Beta: agents=v1 头。语义很直白——OpenAI 负责会话、编排、上下文压缩和恢复，应用负责提供工具、决定执行环境。",
+      "originalSummary": "OpenAI 在开发者文档里正式上线了 Agents API，把 Codex 的 harness 通过一个 OpenAI 托管的 REST API 暴露出来。核心端点就一个：POST https://api.openai.com/v1/agents/sessions，带 OpenAI-Beta: agents=v1 头。语义很直白——OpenAI 负责会话、编排、上下文压缩和恢复，应用负责提供工具、决定执行环境。",
+      "url": "https://www.oschina.net/news/502418",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-11T03:08:25+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 217,
+      "summaryLength": 168,
+      "summaryQuality": "weak",
+      "readerTextZh": "OpenAI 在开发者文档里正式上线了 Agents API，把 Codex 的 harness 通过一个 OpenAI 托管的 REST API 暴露出来 核心端点就一个：POST https://api.openai.com/v1/agents/sessions，带 OpenAI-Beta: agents=v1 头 语义很直白——OpenAI 负责会话、编排、上下文压缩和恢复，应用负责提供工具、决定执行环境",
+      "isTranslated": false
+    },
+    {
       "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
       "titleZh": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
       "summary": "直到上周，一个研究团队宣布， Claude AI 用了11天终于完成了，将安德鲁·怀尔斯的证明翻译成了 Lean 语言的程序。在 AI 时代，提交 PR 几乎和提交 issue 一样简单 （4）禁止 issue 的根本原因是，开源项目资源不足，应付不了激增的 issue AI 时代，项目不再应鼓励用户把问题抛出来指望别人来解决，而应鼓励大家一起...。这里记录每周值得分享的科技内容，周五发布。",
@@ -700,138 +812,6 @@
       "isTranslated": false
     },
     {
-      "title": "个人开发者接大模型 API 做“套壳/包装工具”，现在还能赚到钱吗？",
-      "titleZh": "个人开发者接大模型 API 做“套壳/包装工具”，现在还能赚到钱吗？",
-      "summary": "看到很多独立开发者做 AI 图像去背景、AI 文案生成、AI 变现小工具。想问问大家，在各大厂商原生 API 功能越来越强的今天，个人做这种轻量级的 AI 工具，核心壁垒到底在哪里？。是看流量运营还是看特定场景的极致体验？。",
-      "originalSummary": "看到很多独立开发者做 AI 图像去背景、AI 文案生成、AI 变现小工具。想问问大家，在各大厂商原生 API 功能越来越强的今天，个人做这种轻量级的 AI 工具，核心壁垒到底在哪里？。是看流量运营还是看特定场景的极致体验？。",
-      "url": "https://segmentfault.com/q/1010000048288429",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-10T12:04:11+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 129,
-      "summaryLength": 94,
-      "summaryQuality": "weak",
-      "readerTextZh": "看到很多独立开发者做 AI 图像去背景、AI 文案生成、AI 变现小工具 想问问大家，在各大厂商原生 API 功能越来越强的今天，个人做这种轻量级的 AI 工具，核心壁垒到底在哪里？ 是看流量运营还是看特定场景的极致体验？",
-      "isTranslated": false
-    },
-    {
-      "title": "前后端不分离的项目（python+jquery）容器化方案？",
-      "titleZh": "前后端不分离的项目（python+jquery）容器化方案？",
-      "summary": "前后端不分离的项目（python+jquery），在容器化改造时，一般是一条流水线一个仓库一个镜像，还是两条流水线两个镜像？。虽然理论上都可以，但是两条流水线两个仓库两个镜像，增加了一些改造成本。我目前还在一条流水线一个仓库一个镜像上挣扎。",
-      "originalSummary": "前后端不分离的项目（python+jquery），在容器化改造时，一般是一条流水线一个仓库一个镜像，还是两条流水线两个镜像？。虽然理论上都可以，但是两条流水线两个仓库两个镜像，增加了一些改造成本。我目前还在一条流水线一个仓库一个镜像上挣扎。",
-      "url": "https://segmentfault.com/q/1010000048288385",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-10T11:25:38+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "云计算"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 135,
-      "summaryLength": 108,
-      "summaryQuality": "weak",
-      "readerTextZh": "前后端不分离的项目（python+jquery），在容器化改造时，一般是一条流水线一个仓库一个镜像，还是两条流水线两个镜像？ 虽然理论上都可以，但是两条流水线两个仓库两个镜像，增加了一些改造成本 我目前还在一条流水线一个仓库一个镜像上挣扎",
-      "isTranslated": false
-    },
-    {
-      "title": "大模型 API 里的 Token 到底是怎么算的？",
-      "titleZh": "大模型 API 里的 Token 到底是怎么算的？",
-      "summary": "最近在使用 DeepSeek、GPT、Claude、Gemini 这类大模型 API，发现 API 计费基本都是按照 Token 来计算的。想问下大家实际开发时，一般是怎么理解和计算 Token 的？。比如一段中文、英文代码分别大概会占多少 Token？。",
-      "originalSummary": "最近在使用 DeepSeek、GPT、Claude、Gemini 这类大模型 API，发现 API 计费基本都是按照 Token 来计算的。想问下大家实际开发时，一般是怎么理解和计算 Token 的？。比如一段中文、英文代码分别大概会占多少 Token？。",
-      "url": "https://segmentfault.com/q/1010000048284821",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-09T08:04:36+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 234,
-      "summaryLength": 107,
-      "summaryQuality": "weak",
-      "readerTextZh": "最近在使用 DeepSeek、GPT、Claude、Gemini 这类大模型 API，发现 API 计费基本都是按照 Token 来计算的 想问下大家实际开发时，一般是怎么理解和计算 Token 的？ 比如一段中文、英文代码分别大概会占多少 Token？ 输入 Token 和输出 Token 又是怎么计算的？ 有没有比较方便的 Token 统计工具推荐？ 希望搞清楚中文、英文、代码等不同内容的 Token 消耗差异，以及有没有方便的 Token 统计工具",
-      "isTranslated": false
-    },
-    {
-      "title": "ai能力的边界在哪里？",
-      "titleZh": "ai能力的边界在哪里？",
-      "summary": "本人准大一新生，因为对代码的热爱选了软件工程，但说实话对计算机并不能说很了解，看网上营销号一直在发布ai来了，计算机已死的言论，感觉有点焦虑，但是我对ai的使用比较粗浅，不知道ai究竟能做到什么样的地步，真的有网上说的这么严重吗。",
-      "originalSummary": "本人准大一新生，因为对代码的热爱选了软件工程，但说实话对计算机并不能说很了解，看网上营销号一直在发布ai来了，计算机已死的言论，感觉有点焦虑，但是我对ai的使用比较粗浅，不知道ai究竟能做到什么样的地步，真的有网上说的这么严重吗。",
-      "url": "https://segmentfault.com/q/1010000048284759",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-09T07:39:30+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 127,
-      "summaryLength": 106,
-      "summaryQuality": "weak",
-      "readerTextZh": "本人准大一新生，因为对代码的热爱选了软件工程，但说实话对计算机并不能说很了解，看网上营销号一直在发布ai来了，计算机已死的言论，感觉有点焦虑，但是我对ai的使用比较粗浅，不知道ai究竟能做到什么样的地步，真的有网上说的这么严重吗",
-      "isTranslated": false
-    },
-    {
-      "title": "GPT-6 越来越擅长端到端开发后，程序员最需要提升哪些能力？",
-      "titleZh": "GPT-6 越来越擅长端到端开发后，程序员最需要提升哪些能力？",
-      "summary": "最近在关注 GPT-6 这类模型在端到端开发、代码生成、调试、测试和 Agent 任务中的表现。我自己的感受是，AI 已经不只是辅助写代码，而是开始逐渐参与需求理解、代码实现、测试、修复甚至部署流程。所以我比较想讨论的是：如果 GPT-6 这类模型继续发展，程序员未来真正重要的能力会发生什么变化？。",
-      "originalSummary": "最近在关注 GPT-6 这类模型在端到端开发、代码生成、调试、测试和 Agent 任务中的表现。我自己的感受是，AI 已经不只是辅助写代码，而是开始逐渐参与需求理解、代码实现、测试、修复甚至部署流程。所以我比较想讨论的是：如果 GPT-6 这类模型继续发展，程序员未来真正重要的能力会发生什么变化？。",
-      "url": "https://segmentfault.com/q/1010000048272607",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-04T06:35:18+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 433,
-      "summaryLength": 127,
-      "summaryQuality": "weak",
-      "readerTextZh": "GPT-6 越来越擅长端到端开发后，程序员最需要提升哪些能力？ 最近在关注 GPT-6 这类模型在端到端开发、代码生成、调试、测试和 Agent 任务中的表现 我自己的感受是，AI 已经不只是辅助写代码，而是开始逐渐参与需求理解、代码实现、测试、修复甚至部署流程 以前很多前后端开发都需要程序员亲自完成，现在部分工作已经可以交给 AI Agent 自动执行 所以我比较想讨论的是：如果 GPT-6 这类模型继续发展，程序员未来真正重要的能力会发生什么变化？ 比如，是否会从“熟练写代码”逐渐转向： AI Agent / Tool Calling 的使用能力 Code Review 和结果验证能力",
-      "isTranslated": false
-    },
-    {
-      "title": "大家在生产环境里，会怎么判断一个 IP 是否真的“稳定”？",
-      "titleZh": "大家在生产环境里，会怎么判断一个 IP 是否真的“稳定”？",
-      "summary": "最近在做网络出口稳定性测试，发现“IP 没有变化”和“网络稳定”其实是两个不同的问题。比如一个固定 IP，可能 IP 地址一直没变，但中间存在丢包、连接超时、TLS 建连慢等情况。如果需要长期运行一个固定网络出口，你们一般会监控哪些指标？。",
-      "originalSummary": "最近在做网络出口稳定性测试，发现“IP 没有变化”和“网络稳定”其实是两个不同的问题。比如一个固定 IP，可能 IP 地址一直没变，但中间存在丢包、连接超时、TLS 建连慢等情况。如果需要长期运行一个固定网络出口，你们一般会监控哪些指标？。",
-      "url": "https://segmentfault.com/q/1010000048270897",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-04T02:35:37+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 253,
-      "summaryLength": 101,
-      "summaryQuality": "weak",
-      "readerTextZh": "最近在做网络出口稳定性测试，发现“IP 没有变化”和“网络稳定”其实是两个不同的问题 比如一个固定 IP，可能 IP 地址一直没变，但中间存在丢包、连接超时、TLS 建连慢等情况 如果需要长期运行一个固定网络出口，你们一般会监控哪些指标？ 如果是你来设计一个简单的 IP Health Check，你会保留哪些指标？",
-      "isTranslated": false
-    },
-    {
       "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
       "titleZh": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
       "summary": "这里记录每周值得分享的科技内容，周五发布。以八月为例，月初的时候发布了测试版 2026.8.1-beta1 ，月中又发了 beta2 和 beta3，到了月底就发了 8月正式版。还是跟以前一样，我建议大家 千万不要在自己的工作电脑上运行 OpenClaw ，而要在独立的物理机/虚拟机/云端运行它。",
@@ -852,27 +832,6 @@
       "summaryLength": 126,
       "summaryQuality": "weak",
       "readerTextZh": "这里记录每周值得分享的科技内容，周五发布 另有 《谁在招人》 服务，发布程序员招聘信息 合作请 邮件联系 （yifeng.ruan@gmail.com） 宁夏西夏陵使用金属网，将残片还原成石像生 OpenClaw 2.0 是一个缩影 本周，OpenClaw 发布了 2.0版 回想今年春节，它一夜走红，引发了全民热议 一时间，上门安装龙虾成了热门服务，还真有不少人付费",
-      "isTranslated": false
-    },
-    {
-      "title": "对于 PDF 类数据的长期存储最佳办法是什么？",
-      "titleZh": "对于 PDF 类数据的长期存储最佳办法是什么？",
-      "summary": "对于 PDF 类数据的长期存储，考虑到存储成本（体积越小越好），也要考虑到文件传输（磁盘拷贝、数据读取）的速度，综合下来最佳办法是什么？。按日期分文件夹，每个文件夹里面都是小文件。按日期分文件夹， zip -r -0 的方式打包。",
-      "originalSummary": "对于 PDF 类数据的长期存储，考虑到存储成本（体积越小越好），也要考虑到文件传输（磁盘拷贝、数据读取）的速度，综合下来最佳办法是什么？。按日期分文件夹，每个文件夹里面都是小文件。按日期分文件夹， zip -r -0 的方式打包。",
-      "url": "https://segmentfault.com/q/1010000048253211",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-01T05:58:32+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 180,
-      "summaryLength": 93,
-      "summaryQuality": "weak",
-      "readerTextZh": "对于 PDF 类数据的长期存储，考虑到存储成本（体积越小越好），也要考虑到文件传输（磁盘拷贝、数据读取）的速度，综合下来最佳办法是什么？ 按日期分文件夹，每个文件夹里面都是小文件 这不行，因为小文件太多导致整体读取速度很慢 按日期分文件夹， zip -r -0 的方式打包 这方便整体迁移传输，但是不方便单文件读取、部分文件拷贝",
       "isTranslated": false
     },
     {
