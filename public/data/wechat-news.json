@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-19T15:20:57.475776+00:00",
-  "nextUpdate": "2026-09-20T03:20:57.475776+00:00",
+  "updatedAt": "2026-09-20T03:19:00.414035+00:00",
+  "nextUpdate": "2026-09-20T15:19:00.414035+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,25 +76,25 @@
   "errors": [],
   "items": [
     {
-      "title": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
-      "titleZh": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
-      "summary": "来自 TGO 鲲鹏会上海、苏州、北京三个分会的 16 位 TGO 学员来到 Snowflake World Tour 2026 上海站的现场 来自 TGO 鲲鹏会上海、苏州、北京三个分会的 16 位 TGO 学员来到 Snowflake World Tour...。大会以 “Making AI Real for Business” 为主题，从数据资产现代化、AI 就绪型数据，到基于业务数据和语义层构建 AI 智能体，讨论的重点已经从 “AI 能做什么”，走向 “AI 怎样真正进入企...。这一次，来自上海、苏州、北京三个分会的 16 位 TGO 学员来到现场。",
-      "originalSummary": "来自 TGO 鲲鹏会上海、苏州、北京三个分会的 16 位 TGO 学员来到 Snowflake World Tour 2026 上海站的现场 来自 TGO 鲲鹏会上海、苏州、北京三个分会的 16 位 TGO 学员来到 Snowflake World Tour...。大会以 “Making AI Real for Business” 为主题，从数据资产现代化、AI 就绪型数据，到基于业务数据和语义层构建 AI 智能体，讨论的重点已经从 “AI 能做什么”，走向 “AI 怎样真正进入企...。这一次，来自上海、苏州、北京三个分会的 16 位 TGO 学员来到现场。",
-      "url": "https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3?utm_source=rss&utm_medium=article",
+      "title": "Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+      "titleZh": "Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+      "summary": "Atlassian 推出新方案，通过关联指标、日志、分布式追踪与服务拓扑，为大规模云原生故障自动做根因分析，输出带优先级的故障源和传播路径推断 Atlassian 推出新方案，通过关联指标、日志、分布式追踪与服务拓扑，为大规模云原生故障自动做根因分析，输出带优...。这项成果 发布 于 云原生计算基金会（Cloud Native Computing Foundation） ，旨在解决事故响应中最耗时的环节之一：运维人员需要在不同仪表盘和工具之间切换，把零散的遥测信号串联成完整故障解释...。",
+      "originalSummary": "Atlassian 推出新方案，通过关联指标、日志、分布式追踪与服务拓扑，为大规模云原生故障自动做根因分析，输出带优先级的故障源和传播路径推断 Atlassian 推出新方案，通过关联指标、日志、分布式追踪与服务拓扑，为大规模云原生故障自动做根因分析，输出带优...。这项成果 发布 于 云原生计算基金会（Cloud Native Computing Foundation） ，旨在解决事故响应中最耗时的环节之一：运维人员需要在不同仪表盘和工具之间切换，把零散的遥测信号串联成完整故障解释...。",
+      "url": "https://www.infoq.cn/article/YlrHfmA3R5k4Tl8iTO7Y?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-19T17:20:08+00:00",
+      "publishedAt": "2026-09-20T10:39:00+00:00",
       "tags": [
         "架构",
         "软件工程",
         "中文深度",
-        "AI"
+        "云计算"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 1996,
-      "summaryLength": 219,
+      "sourceTextLength": 1866,
+      "summaryLength": 215,
       "summaryQuality": "strong",
-      "readerTextZh": "来自 TGO 鲲鹏会上海、苏州、北京三个分会的 16 位 TGO 学员来到 Snowflake World Tour 2026 上海站的现场 来自 TGO 鲲鹏会上海、苏州、北京三个分会的 16 位 TGO 学员来到 Snowflake World Tour 2026 上海站的现场 9 月 8 日，Snowflake World Tour 2026 上海站举行 大会以 “Making AI Real for Business” 为主题，从数据资产现代化、AI 就绪型数据，到基于业务数据和语义层构建 AI 智能体，讨论的重点已经从 “AI 能做什么”，走向 “AI 怎样真正进入企业” TGO 鲲鹏会持续带领科技领导者走进重要科技大会，与领先科技企业、行业专家和一线实践建立连接 这一次，来自上海、苏州、北京三个分会的 16 位 TGO 学员来到现场 会后，我们向参会学员问了两个问题： 参会学员的反馈，落在了一条清晰的链路上： 先让 AI 理解业务，再让 AI 进入系统，最后用真实结果检验价值 参会学员来自不同城市和企业，也带着各自业务中的真实问题走进现场 过去两年，企业谈 AI，往往先看模型能力和演示效果 到了这次大会现场，问题明显具体了：数据能不能被 AI 正确理解？ 企业现有的系统、知识与组织准备好了吗？ Snowflake 在议程中反复强调数据基础、语义层和生产级应用 对技术负责人来说，这意味着技术选型不再只是比参数，而是要回答一整套更难的问题： AI 能否接住企业的业务语境，能否与现有系统配合，能否产生可以持续衡量的结果 多位学员把注意力放在了“语义层”和“业务本体”上",
+      "readerTextZh": "Atlassian 推出新方案，通过关联指标、日志、分布式追踪与服务拓扑，为大规模云原生故障自动做根因分析，输出带优先级的故障源和传播路径推断 Atlassian 推出新方案，通过关联指标、日志、分布式追踪与服务拓扑，为大规模云原生故障自动做根因分析，输出带优先级的故障源和传播路径推断 Atlassian 提出了一种自动化根因分析的新方法，用于应对大规模云原生事故 该方法通过跨指标、日志、分布式追踪和服务拓扑的关联分析生成关于故障起源位置及传播路径的排序假设 这项成果 发布 于 云原生计算基金会（Cloud Native Computing Foundation） ，旨在解决事故响应中最耗时的环节之一：运维人员需要在不同仪表盘和工具之间切换，把零散的遥测信号串联成完整故障解释 该系统将根因分析视为一个跨信号类型、时间和拓扑的多信号关联问题 平台不再要求值班工程师手动识别异常、搜索日志和追踪记录，再重建依赖链，而是独立检测每种信号中的异常，然后将它们对齐到统一时间线上，并通过服务依赖图进行追踪 最终输出一组排序后的假设，指出可能的故障起点、传播路径及支撑证据 Atlassian 的方案首先是缩小搜索空间 系统不会分析大型生产环境中的所有服务，而是利用基于 OpenTelemetry 的服务地图识别出与受影响用户路径相关的服务子集 该依赖图根据真实生产流量构建，利用追踪跨度之间的父子关系展示服务间的实际通信方式，而非依赖静态的架构文档 系统对指标、追踪和日志采用不同的检测方法 日志则被分组处理，用于识别新增或异常的错误模式",
       "isTranslated": false
     },
     {
@@ -105,7 +105,7 @@
       "url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-19T15:20:15.088751+00:00",
+      "publishedAt": "2026-09-20T03:18:19.251029+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-19T15:20:14.500188+00:00",
+      "publishedAt": "2026-09-20T03:18:18.596464+00:00",
       "tags": [
         "后端",
         "工程",
@@ -150,7 +150,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-19T15:20:13.817939+00:00",
+      "publishedAt": "2026-09-20T03:18:17.946156+00:00",
       "tags": [
         "后端",
         "工程",
@@ -173,7 +173,7 @@
       "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-19T15:20:13.187007+00:00",
+      "publishedAt": "2026-09-20T03:18:17.318019+00:00",
       "tags": [
         "后端",
         "工程",
@@ -196,7 +196,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-19T15:20:12.593600+00:00",
+      "publishedAt": "2026-09-20T03:18:16.583671+00:00",
       "tags": [
         "后端",
         "工程",
@@ -218,7 +218,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-19T15:20:11.946075+00:00",
+      "publishedAt": "2026-09-20T03:18:15.940227+00:00",
       "tags": [
         "后端",
         "工程",
@@ -240,7 +240,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-19T15:20:11.312959+00:00",
+      "publishedAt": "2026-09-20T03:18:15.892891+00:00",
       "tags": [
         "后端",
         "工程",
@@ -262,7 +262,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-19T15:20:10.706569+00:00",
+      "publishedAt": "2026-09-20T03:18:15.246636+00:00",
       "tags": [
         "后端",
         "工程",
@@ -277,49 +277,246 @@
       "isTranslated": false
     },
     {
-      "title": "GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的",
-      "titleZh": "GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的",
-      "summary": "她的背景：前 Cursor 核心成员，之前在 Meta React 团队和 Netflix 待过，现在在 SpaceXAI 做 Gro 最近看到两条推文，来自 Lauren Tan（@poteto）。她开源了一套叫 pstack 的 Cursor 插件，在 GitHub 上拿了 8.1k stars，声称靠这套东西每月往生产环境交付 1000 到 2000 个 PR 她写了两篇长文讲这套方法论，我把两篇文章、官方文档...。这两件事的难度完全不在一个量级 \"600 多个重构 PR 才是真实的基础设施。",
-      "originalSummary": "她的背景：前 Cursor 核心成员，之前在 Meta React 团队和 Netflix 待过，现在在 SpaceXAI 做 Gro 最近看到两条推文，来自 Lauren Tan（@poteto）。她开源了一套叫 pstack 的 Cursor 插件，在 GitHub 上拿了 8.1k stars，声称靠这套东西每月往生产环境交付 1000 到 2000 个 PR 她写了两篇长文讲这套方法论，我把两篇文章、官方文档...。这两件事的难度完全不在一个量级 \"600 多个重构 PR 才是真实的基础设施。",
-      "url": "https://juejin.cn/post/7687032811338891302",
-      "source": "掘金技术社区",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-19T15:17:26+00:00",
+      "title": "美团智播——数字人直播技术创新与实践",
+      "titleZh": "美团智播——数字人直播技术创新与实践",
+      "summary": "随着大语言模型、生成式AI与多模态交互技术的快速发展，数字人直播已突破早期形象僵硬、交互单一的瓶颈，在本地生活、电商、文娱等领域展现出巨大的商业潜力。美团智播，是面向本地生活场景的AI数字人直播解决方案，融合大模型、数字人与多模态交互技术，提供丰富的行业专属数字人形象，支持真人1:1复刻与门店实景定制，30秒生成直播素材，3分钟完成开播配置，7×24小时稳定上播。过去一年，依托生成式AI技术，数字人直播月日均GTV同比增长82.12%，月日均观看人次同比增长163.44%，开播场次提升11倍，充分验证了AI数字人直播在本地生活商业闭环中的实际价值。",
+      "originalSummary": "随着大语言模型、生成式AI与多模态交互技术的快速发展，数字人直播已突破早期形象僵硬、交互单一的瓶颈，在本地生活、电商、文娱等领域展现出巨大的商业潜力。美团智播，是面向本地生活场景的AI数字人直播解决方案，融合大模型、数字人与多模态交互技术，提供丰富的行业专属数字人形象，支持真人1:1复刻与门店实景定制，30秒生成直播素材，3分钟完成开播配置，7×24小时稳定上播。过去一年，依托生成式AI技术，数字人直播月日均GTV同比增长82.12%，月日均观看人次同比增长163.44%，开播场次提升11倍，充分验证了AI数字人直播在本地生活商业闭环中的实际价值。",
+      "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+      "source": "美团技术团队",
+      "region": "技术团队",
+      "publishedAt": "2026-09-20T03:18:14.559818+00:00",
       "tags": [
-        "前端",
         "后端",
-        "开发者",
-        "AI",
-        "开源"
+        "工程",
+        "技术团队",
+        "AI"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2454,
-      "summaryLength": 203,
-      "summaryQuality": "strong",
-      "readerTextZh": "最近看到两条推文，来自 Lauren Tan（@poteto） 她的背景：前 Cursor 核心成员，之前在 Meta React 团队和 Netflix 待过，现在在 SpaceXAI 做 Gro 最近看到两条推文，来自 Lauren Tan（@poteto） 她的背景：前 Cursor 核心成员，之前在 Meta React 团队和 Netflix 待过，现在在 SpaceXAI 做 Gro 最近看到两条推文，来自 Lauren Tan（@poteto） 她的背景：前 Cursor 核心成员，之前在 Meta React 团队和 Netflix 待过，现在在 SpaceXAI 做 Grok Bot 她开源了一套叫 pstack 的 Cursor 插件，在 GitHub 上拿了 8.1k stars，声称靠这套东西每月往生产环境交付 1000 到 2000 个 PR 她写了两篇长文讲这套方法论，我把两篇文章、官方文档、Cursor 官方一篇相关研究博客都读了一遍，结合一些业界的实证数据，把真正有价值的东西整理出来 先说一个判断： 这套方法论里最核心的洞察，不是\"怎么用 AI 写更多代码\"，而是\"怎么在 AI 写了大量代码之后，还能保证质量\" 这两件事的难度完全不在一个量级 \"600 多个重构 PR 才是真实的基础设施 那晚自动合并的 20 个 PR，只是输出 \" Grok Bot 的代码库最开始是一个快速搭出来的原型，架构是\"agent 觉得怎么方便就怎么来\"的那种状态 每个任务单独看都能完成，但随着时间推移，目录结构、依赖关系、进程边界、状态管理全部缠在一起",
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 8084,
+      "summaryLength": 249,
+      "summaryQuality": "medium",
+      "readerTextZh": "随着大语言模型、生成式AI与多模态交互技术的快速发展，数字人直播已突破早期形象僵硬、交互单一的瓶颈，在本地生活、电商、文娱等领域展现出巨大的商业潜力 美团智播，是面向本地生活场景的AI数字人直播解决方案，融合大模型、数字人与多模态交互技术，提供丰富的行业专属数字人形象，支持真人1:1复刻与门店实景定制，30秒生成直播素材，3分钟完成开播配置，7×24小时稳定上播 过去一年，依托生成式AI技术，数字人直播月日均GTV同比增长82.12%，月日均观看人次同比增长163.44%，开播场次提升11倍，充分验证了AI数字人直播在本地生活商业闭环中的实际价值 2026年7月8日至10日，美团智播在中国互联网大会上完成行业首秀，以“实时交互数字人+直播带货数字人”为主题亮相科技互动展区 展区中，实时交互数字人通过秒级语音问答与观众自然对话，数字人直播间则让参会者发出“完全看不出是数字人”的感叹——这一亮相标志着美团智播正式从内部打磨走向行业舞台 如何让数字人直播达到真人级表现力，并满足大规模商业化落地的要求 ？ 本文将围绕美团智播的核心能力，系统介绍支撑产品的关键技术突破——涵盖高保真形象生成、自然动作驱动、语音手势协调、高效推理部署及系统架构设计，这些技术共同构成了数字人直播从“能用”到“好用”，再到“规模化量产”的完整技术闭环 凭借这些技术积累，美团智播荣获2026年度“中国多媒体企业创新技术奖”，这一奖项由中国计算机学会（CCF）和中国图象图形学学会（CSIG）指导，中国多媒体大会（ChinaMM）设立并颁发，是对美团在数字人直播领域自主创新能力的行业认可",
       "isTranslated": false
     },
     {
-      "title": "Cloudflare 这个老功能，被 AI Coding 重新带火了 - 开发指南",
-      "titleZh": "Cloudflare 这个老功能，被 AI Coding 重新带火了 - 开发指南",
-      "summary": "以前它只是方便开发者临时分享网站，到了 AI Coding 时代，却突然有了新的价值 Cloudflare 有个存在多年的小功能：一条命令，就能把电脑上的 localhost 变成公网 HTTPS 地址。Cloudflare 官方也明确说，它主要用于开发和测试，不应该拿来运行正式网站 Quick Tunnels 解决的是“先让外面访问一下”，而不是“正式上线” 以前 AI Coding 最神奇的地方，是 AI 可以在你的...。",
-      "originalSummary": "以前它只是方便开发者临时分享网站，到了 AI Coding 时代，却突然有了新的价值 Cloudflare 有个存在多年的小功能：一条命令，就能把电脑上的 localhost 变成公网 HTTPS 地址。Cloudflare 官方也明确说，它主要用于开发和测试，不应该拿来运行正式网站 Quick Tunnels 解决的是“先让外面访问一下”，而不是“正式上线” 以前 AI Coding 最神奇的地方，是 AI 可以在你的...。",
-      "url": "https://www.cnblogs.com/kaifazhinan/p/23040147/cloudflare-tunnels",
+      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "titleZh": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "summary": "当 Agent Harness 的任何一个环节发生变化——模型升级、Prompt 调整、知识库更新、Skill 新增或下线——都可以通过离线评测验证效果，避免不成熟的变更导致 Agent 能力劣化。如果 Skill 都正常，但“数据对比类”任务占比从 10% 涨到 35%，那结论是用户结构变了、Agent 在新场景上能力不足——这两种情况的应对完全不同。我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的...。",
+      "originalSummary": "当 Agent Harness 的任何一个环节发生变化——模型升级、Prompt 调整、知识库更新、Skill 新增或下线——都可以通过离线评测验证效果，避免不成熟的变更导致 Agent 能力劣化。如果 Skill 都正常，但“数据对比类”任务占比从 10% 涨到 35%，那结论是用户结构变了、Agent 在新场景上能力不足——这两种情况的应对完全不同。我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的...。",
+      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+      "source": "美团技术团队",
+      "region": "技术团队",
+      "publishedAt": "2026-09-20T03:18:13.827928+00:00",
+      "tags": [
+        "后端",
+        "工程",
+        "技术团队",
+        "AI"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 13800,
+      "summaryLength": 236,
+      "summaryQuality": "strong",
+      "readerTextZh": "搭一个 Agent 正在变得越来越容易 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的要求在往下降 早期要让模型稳定地按格式输出、正确地选中一个工具，需要反复打磨 Prompt、设计各种兜底 现在这些能力越来越多地由模型本身承担，长上下文、原生工具调用、更强的指令遵循和多步推理，把大量原本需要工程去补的地方补上了 二是 Agent 框架的功能持续丰富 从早期需要自己实现规划、记忆、工具注册和状态管理，到现在框架和协议层把这些抽象成标准组件，接一个工具、加一个 Skill，工作量都在显著下降 两条曲线叠加，结论很直接：搭建 Agent 门槛正在逐年降低 这带来的直接变化是 Agent 落地场景越来越多，越来越发散",
+      "isTranslated": false
+    },
+    {
+      "title": "Agent 平台的两种哲学：从 WeKnora 和 Molio 聊起 - AI闲人",
+      "titleZh": "Agent 平台的两种哲学：从 WeKnora 和 Molio 聊起 - AI闲人",
+      "summary": "【摘要】Agent 平台的两种哲学：从 WeKnora 和 Molio 聊起 WeKnora 最近开源了，也加入了 Wiki 这条路。但 Agent 真正开始干活之后，一个更根本的问题冒出来了 最近同时在琢磨 WeKnora 和 Molio，两个产品虽然都在做 Agent、知识和 Skill，背后的路子完全不同。Molio：用户配置 Agent，管理自己的环境 Agent 通过 Memory Skill 读写用户自己的记忆文件 WeKnora 的生态是横向扩张。",
+      "originalSummary": "【摘要】Agent 平台的两种哲学：从 WeKnora 和 Molio 聊起 WeKnora 最近开源了，也加入了 Wiki 这条路。但 Agent 真正开始干活之后，一个更根本的问题冒出来了 最近同时在琢磨 WeKnora 和 Molio，两个产品虽然都在做 Agent、知识和 Skill，背后的路子完全不同。Molio：用户配置 Agent，管理自己的环境 Agent 通过 Memory Skill 读写用户自己的记忆文件 WeKnora 的生态是横向扩张。",
+      "url": "https://www.cnblogs.com/xianxh/p/23045625",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-19T14:45:00+00:00",
+      "publishedAt": "2026-09-20T03:14:00+00:00",
       "tags": [
         "开发者",
         "后端",
         "中文深度",
         "AI",
-        "云计算"
+        "开源"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 1415,
-      "summaryLength": 180,
+      "sourceTextLength": 1744,
+      "summaryLength": 195,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】Cloudflare 有个存在多年的小功能：一条命令，就能把电脑上的 localhost 变成公网 HTTPS 地址 以前它只是方便开发者临时分享网站，到了 AI Coding 时代，却突然有了新的价值 阅读全文 Cloudflare 有个存在多年的小功能：一条命令，就能把电脑上的 localhost 变成公网 HTTPS 地址 以前它只是方便开发者临时分享网站，到了 AI Coding 时代，却突然有了新的价值 Cloudflare 有个存在多年的小功能：一条命令，就能把电脑上的 localhost 变成公网 HTTPS 地址 以前它只是方便开发者临时分享网站，到了 AI Coding 时代，却突然有了新的价值 最近在 Hacker New 上看到 Cloudflare 的一个小功能又火了，叫 Quick Tunnels 一条命令，把你电脑上的 localhost 变成一个公网 HTTPS 地址 比如你用 Claude Code、Codex 写了一个网站，启动以后地址通常是： http://localhost:3000 这个地址只有你自己的电脑能访问 cloudflared tunnel --url http://localhost:3000 Cloudflare 就会给你一个类似这样的临时地址： https://xxxx.trycloudflare.com 现在，手机可以打开，朋友可以打开，互联网上的其他服务也可以访问 整个过程不需要买域名，不需要配置 DNS，甚至不需要 Cloudflare 账号 Quick Tunnels 并不是 Cloudflare 最近才做出来的，它已经存在好几年了 但到了 AI Coding 时代，这个老功能突然变得特别有用了 Claude Code / Codex 写代码 → 启动本地服务 → 测试 → 发现问题 → 修改代码 你让 Claude Code 做一个 Stripe 支付功能 localhost:3000/api/webhook 但 Stripe 在互联网上，它根本访问不到你的 localhost 开一个 Tu...",
+      "readerTextZh": "【摘要】Agent 平台的两种哲学：从 WeKnora 和 Molio 聊起 WeKnora 最近开源了，也加入了 Wiki 这条路 这个事让我重新开始想一个问题：我们到底需要一个什么样的 Agent 平台？ 过去聊 AI 平台，习惯从模型、RAG、知识库、Workflow、MCP 这些能力出发 但 Ag 阅读全文 Agent 平台的两种哲学：从 WeKnora 和 Molio 聊起 WeKnora 最近开源了，也加入了 Wiki 这条路 但 Ag Agent 平台的两种哲学：从 WeKnora 和 Molio 聊起 WeKnora 最近开源了，也加入了 Wiki 这条路 但 Ag 这个事让我重新开始想一个问题：我们到底需要一个什么样的 Agent 平台？ 但 Agent 真正开始干活之后，一个更根本的问题冒出来了 最近同时在琢磨 WeKnora 和 Molio，两个产品虽然都在做 Agent、知识和 Skill，背后的路子完全不同 一个更接近组织的 AI 基础设施，另一个更接近个人的 AI 工作环境 它可以调用工具、读写文件、执行代码、访问知识、运行命令，甚至持续完成一个复杂任务 以 WeKnora 这样的企业级知识与 Agent 平台来看，它解决的问题非常明确： 企业员工不需要理解底层 Agent 是怎么运行的，只需要在平台提供的边界内使用它 Claude Code、Codex、Gemini CLI、Qwen Code、Hermes 等，他们都是当前能力最强的agent",
+      "isTranslated": false
+    },
+    {
+      "title": "鸿蒙迈入 Agent 时代：HarmonyOS 7 重构底层，意图即服务",
+      "titleZh": "鸿蒙迈入 Agent 时代：HarmonyOS 7 重构底层，意图即服务",
+      "summary": "华为全联接大会2026把鸿蒙的定义往前推了一步：HarmonyOS 7 全面向 Agent 架构演进。字面上的变化是，操作系统的交互逻辑从\"人找服务\"变成了\"意图即服务\"——你不用说\"打开某App再点某按钮\"，只管把想干的事说出来，系统自己规划、自己调度去完成。HarmonyOS 7 的一个核心变化是\"Agent 亲和系统。",
+      "originalSummary": "华为全联接大会2026把鸿蒙的定义往前推了一步：HarmonyOS 7 全面向 Agent 架构演进。字面上的变化是，操作系统的交互逻辑从\"人找服务\"变成了\"意图即服务\"——你不用说\"打开某App再点某按钮\"，只管把想干的事说出来，系统自己规划、自己调度去完成。HarmonyOS 7 的一个核心变化是\"Agent 亲和系统。",
+      "url": "https://www.oschina.net/news/502597/hc2026-agentic-era-harmonyos",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-20T02:26:00+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 396,
+      "summaryLength": 139,
+      "summaryQuality": "weak",
+      "readerTextZh": "华为全联接大会2026把鸿蒙的定义往前推了一步：HarmonyOS 7 全面向 Agent 架构演进 字面上的变化是，操作系统的交互逻辑从\"人找服务\"变成了\"意图即服务\"——你不用说\"打开某App再点某按钮\"，只管把想干的事说出来，系统自己规划、自己调度去完成 HarmonyOS 7 的一个核心变化是\"Agent 亲和系统 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
+      "isTranslated": false
+    },
+    {
+      "title": "mica-voice 1.0.2 发布：Java 生态的声音 AI 全家桶，一行代码接入 ASR / TTS / 声纹 / VAD / 说话人分离 / KWS / 降噪",
+      "titleZh": "mica-voice 1.0.2 发布：Java 生态的声音 AI 全家桶，一行代码接入 ASR / TTS / 声纹 / VAD / 说话人分离 / KWS / 降噪",
+      "summary": "一、项目简介 mica-voice 是一款基于 mica-sherpa-onnx（已发布 Maven Central 的 sherpa-onnx 全平台 fat jar）的 Java 声音 AI 全家桶，统一封装 ASR（语音识别）/ TTS（语音合成）/ 声...。",
+      "originalSummary": "一、项目简介 mica-voice 是一款基于 mica-sherpa-onnx（已发布 Maven Central 的 sherpa-onnx 全平台 fat jar）的 Java 声音 AI 全家桶，统一封装 ASR（语音识别）/ TTS（语音合成）/ 声...。",
+      "url": "https://www.oschina.net/news/502596",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-20T02:25:34+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 220,
+      "summaryLength": 99,
+      "summaryQuality": "weak",
+      "readerTextZh": "一、项目简介 mica-voice 是一款基于 mica-sherpa-onnx（已发布 Maven Central 的 sherpa-onnx 全平台 fat jar）的 Java 声音 AI 全家桶，统一封装 ASR（语音识别）/ TTS（语音合成）/ 声纹识别 / VAD（语音活动检测）/ 说话人分离 / 关键词唤醒 KWS / 音频降噪 7 大能力，提供纯 Java 门面、Spring Boot Starter、Solon",
+      "isTranslated": false
+    },
+    {
+      "title": "mica-ppocr v1.2.3 发布：Java 8 兼容的 PP-OCRv6 纯 ONNX 推理引擎，内置 10 类证件/票据结构化解析",
+      "titleZh": "mica-ppocr v1.2.3 发布：Java 8 兼容的 PP-OCRv6 纯 ONNX 推理引擎，内置 10 类证件/票据结构化解析",
+      "summary": "项目简介 mica-ppocr 是 PP-OCRv6 文字检测与识别流水线的 Java 移植版，使用纯 ONNX Runtime 推理、零 PaddlePaddle 依赖，并完整复现预处理 / 后处理（DB 后处理、CTC 解码、pyclipper 等价的多边...。移植自 AIwork4me/ppocrv6_onnx 的单文件 Python 参考实现，与 Python 版本保持 bit-exact（默认 CPU 单线程。",
+      "originalSummary": "项目简介 mica-ppocr 是 PP-OCRv6 文字检测与识别流水线的 Java 移植版，使用纯 ONNX Runtime 推理、零 PaddlePaddle 依赖，并完整复现预处理 / 后处理（DB 后处理、CTC 解码、pyclipper 等价的多边...。移植自 AIwork4me/ppocrv6_onnx 的单文件 Python 参考实现，与 Python 版本保持 bit-exact（默认 CPU 单线程。",
+      "url": "https://www.oschina.net/news/502595",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-20T02:11:10+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 221,
+      "summaryLength": 169,
+      "summaryQuality": "weak",
+      "readerTextZh": "项目简介 mica-ppocr 是 PP-OCRv6 文字检测与识别流水线的 Java 移植版，使用纯 ONNX Runtime 推理、零 PaddlePaddle 依赖，并完整复现预处理 / 后处理（DB 后处理、CTC 解码、pyclipper 等价的多边形 unclip） 移植自 AIwork4me/ppocrv6_onnx 的单文件 Python 参考实现，与 Python 版本保持 bit-exact（默认 CPU 单线程",
+      "isTranslated": false
+    },
+    {
+      "title": "数据库主从复制扩展(一) - 讲文张字",
+      "titleZh": "数据库主从复制扩展(一) - 讲文张字",
+      "summary": "【摘要】主从复制扩展应用：延时从库 概念介绍说明： 表示人为主动方式将一个从库进行配置，使从库可以按照指定的时间延时后，再进行和主库完成相应数据信息同步。功能作用说明： 通常对于数据库服务中的数据信息产生损坏，可能有两方面因素造成： 物理损坏：主机故障、磁盘异常、数据文件损坏...，可以利用传统主从复制方 阅读全文。",
+      "originalSummary": "【摘要】主从复制扩展应用：延时从库 概念介绍说明： 表示人为主动方式将一个从库进行配置，使从库可以按照指定的时间延时后，再进行和主库完成相应数据信息同步。功能作用说明： 通常对于数据库服务中的数据信息产生损坏，可能有两方面因素造成： 物理损坏：主机故障、磁盘异常、数据文件损坏...，可以利用传统主从复制方 阅读全文。",
+      "url": "https://www.cnblogs.com/zhangwencheng/p/21331027",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-20T02:01:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 136,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】主从复制扩展应用：延时从库 概念介绍说明： 表示人为主动方式将一个从库进行配置，使从库可以按照指定的时间延时后，再进行和主库完成相应数据信息同步 功能作用说明： 通常对于数据库服务中的数据信息产生损坏，可能有两方面因素造成： 物理损坏：主机故障、磁盘异常、数据文件损坏...，可以利用传统主从复制方 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "如何快速上传10G文件 - Rain的Java大神实战圈",
+      "titleZh": "如何快速上传10G文件 - Rain的Java大神实战圈",
+      "summary": "【摘要】详解 10G 大文件上传完整落地方案，采用分片并发、断点续传、秒传能力。前端 WebWorker 增量哈希 + Promise 并发池。附带 Java/JS 核心代码与面试问答，覆盖性能优化、异常兜底，可直接用于生产。",
+      "originalSummary": "【摘要】详解 10G 大文件上传完整落地方案，采用分片并发、断点续传、秒传能力。前端 WebWorker 增量哈希 + Promise 并发池。附带 Java/JS 核心代码与面试问答，覆盖性能优化、异常兜底，可直接用于生产。",
+      "url": "https://www.cnblogs.com/zrui-xyu/p/23043556",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-20T01:39:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 157,
+      "summaryLength": 91,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】详解 10G 大文件上传完整落地方案，采用分片并发、断点续传、秒传能力 前端 WebWorker 增量哈希 + Promise 并发池 后端基于 MinIO+Redis+RabbitMQ，搭配零拷贝合并、分布式锁 附带 Java/JS 核心代码与面试问答，覆盖性能优化、异常兜底，可直接用于生产",
+      "isTranslated": false
+    },
+    {
+      "title": "又是一年了，那个“不务正业“的央企程序员 - 李玉宝",
+      "titleZh": "又是一年了，那个“不务正业“的央企程序员 - 李玉宝",
+      "summary": "【摘要】一年前的十月份，我写了一篇[《央企程序员AI创业一个月感受》](https://www.cnblogs.com/yubaolee/p/19150334/gantt)，那时[星甘StarGantt](https://stargantt.cn)第一次与大家...。",
+      "originalSummary": "【摘要】一年前的十月份，我写了一篇[《央企程序员AI创业一个月感受》](https://www.cnblogs.com/yubaolee/p/19150334/gantt)，那时[星甘StarGantt](https://stargantt.cn)第一次与大家...。",
+      "url": "https://www.cnblogs.com/yubaolee/p/23042984/starganttdev",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-20T00:45:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 162,
+      "summaryLength": 103,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】一年前的十月份，我写了一篇[《央企程序员AI创业一个月感受》](https://www.cnblogs.com/yubaolee/p/19150334/gantt)，那时[星甘StarGantt](https://stargantt.cn)第一次与大家见面，注册用户从零开始",
+      "isTranslated": false
+    },
+    {
+      "title": "Docker 删除 none 镜像：一次真实的清理记录 - AlfredZhao",
+      "titleZh": "Docker 删除 none 镜像：一次真实的清理记录 - AlfredZhao",
+      "summary": "【摘要】笔者在服务器上执行 docker images 时，发现列表里堆了一排 镜像，占用从 511 MB 到 826 MB 不等。它们既没有仓库名，也没有标签，看起来像“幽灵”。01 | none 镜像从哪来 : 常见于以下 阅读全文。",
+      "originalSummary": "【摘要】笔者在服务器上执行 docker images 时，发现列表里堆了一排 镜像，占用从 511 MB 到 826 MB 不等。它们既没有仓库名，也没有标签，看起来像“幽灵”。01 | none 镜像从哪来 : 常见于以下 阅读全文。",
+      "url": "https://www.cnblogs.com/jyzhao/p/23042208",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-19T23:21:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 140,
+      "summaryLength": 90,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】笔者在服务器上执行 docker images 时，发现列表里堆了一排 镜像，占用从 511 MB 到 826 MB 不等 它们既没有仓库名，也没有标签，看起来像“幽灵” 这篇文章记录笔者如何定位根源并清理掉它们 01 | none 镜像从哪来 : 常见于以下 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "Termexo v0.10.4 发布：集成 Grok Build，修复会话 Git 变更归零",
+      "titleZh": "Termexo v0.10.4 发布：集成 Grok Build，修复会话 Git 变更归零",
+      "summary": "Termexo v0.10.4 已发布。新版将 Grok Build 纳入现有 AI 编程终端工作台，并修复长时间使用后会话代码变更显示为 0、Git 面板变空的问题。Grok Build 加入工作台 安装并登录 Grok Build CLI 后，Termexo 可以检测它、在工作区中启动终端、列出并恢复会话，也可以在任务看板中选择 Grok Build 执行任务。",
+      "originalSummary": "Termexo v0.10.4 已发布。新版将 Grok Build 纳入现有 AI 编程终端工作台，并修复长时间使用后会话代码变更显示为 0、Git 面板变空的问题。Grok Build 加入工作台 安装并登录 Grok Build CLI 后，Termexo 可以检测它、在工作区中启动终端、列出并恢复会话，也可以在任务看板中选择 Grok Build 执行任务。",
+      "url": "https://www.oschina.net/news/502594",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-19T17:18:46+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 199,
+      "summaryLength": 153,
+      "summaryQuality": "weak",
+      "readerTextZh": "Termexo v0.10.4 已发布 新版将 Grok Build 纳入现有 AI 编程终端工作台，并修复长时间使用后会话代码变更显示为 0、Git 面板变空的问题 Grok Build 加入工作台 安装并登录 Grok Build CLI 后，Termexo 可以检测它、在工作区中启动终端、列出并恢复会话，也可以在任务看板中选择 Grok Build 执行任务",
       "isTranslated": false
     },
     {
@@ -455,54 +652,10 @@
       "isTranslated": false
     },
     {
-      "title": "Robotics-机器人建模中的坐标系建立 - lvdongjie-avatarx",
-      "titleZh": "Robotics-机器人建模中的坐标系建立 - lvdongjie-avatarx",
-      "summary": "【摘要】机器人建模中的坐标系建立 在机器人建模中，坐标系建立和原点选取看起来像是“画图时的约定”，但它们会直接影响后续的运动学建模、动力学建模、控制算法和程序实现。同一台机器人，如果坐标系建得清晰，后面的变换矩阵、雅可比矩阵、运动学方程会自然很多。如果坐标系建得混乱，公式会变长，符号容易出错，调试时也很难 阅读全文。",
-      "originalSummary": "【摘要】机器人建模中的坐标系建立 在机器人建模中，坐标系建立和原点选取看起来像是“画图时的约定”，但它们会直接影响后续的运动学建模、动力学建模、控制算法和程序实现。同一台机器人，如果坐标系建得清晰，后面的变换矩阵、雅可比矩阵、运动学方程会自然很多。如果坐标系建得混乱，公式会变长，符号容易出错，调试时也很难 阅读全文。",
-      "url": "https://www.cnblogs.com/ai-ldj/p/23037776",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-19T06:25:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "机器人"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 139,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】机器人建模中的坐标系建立 在机器人建模中，坐标系建立和原点选取看起来像是“画图时的约定”，但它们会直接影响后续的运动学建模、动力学建模、控制算法和程序实现 同一台机器人，如果坐标系建得清晰，后面的变换矩阵、雅可比矩阵、运动学方程会自然很多 如果坐标系建得混乱，公式会变长，符号容易出错，调试时也很难 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "点亮第一盏 LED：STM32 的 GPIO 到底在控制什么 - Zw-awa",
-      "titleZh": "点亮第一盏 LED：STM32 的 GPIO 到底在控制什么 - Zw-awa",
-      "summary": "【摘要】经典三问 Q: GPIO 是什么？。A: GPIO 是可以由程序配置为输入或输出的通用数字引脚，芯片通过它读取或驱动外部电平。A: LED、按键、传感器使能和电机方向等大量外设，最终都要通过 GPIO 完成最基本的输入输出。",
-      "originalSummary": "【摘要】经典三问 Q: GPIO 是什么？。A: GPIO 是可以由程序配置为输入或输出的通用数字引脚，芯片通过它读取或驱动外部电平。A: LED、按键、传感器使能和电机方向等大量外设，最终都要通过 GPIO 完成最基本的输入输出。",
-      "url": "https://www.cnblogs.com/zw-awa/p/23025590",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-19T05:28:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "芯片"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 95,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】经典三问 Q: GPIO 是什么？ A: GPIO 是可以由程序配置为输入或输出的通用数字引脚，芯片通过它读取或驱动外部电平 A: LED、按键、传感器使能和电机方向等大量外设，最终都要通过 GPIO 完成最基本的输入输出",
-      "isTranslated": false
-    },
-    {
       "title": "ColorOS 17 新技术解读，渲染、调度与 AI 升级",
       "titleZh": "ColorOS 17 新技术解读，渲染、调度与 AI 升级",
-      "summary": "2026 年 9 月 17 日，2026 OPPO 开发者大会（ODC26）在珠海举行，ColorOS 17 正式发布。新系统将率先搭载在即将上市的 OPPO Find X10 系列和一加 16 等机型上，后续逐步开启推送。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "originalSummary": "2026 年 9 月 17 日，2026 OPPO 开发者大会（ODC26）在珠海举行，ColorOS 17 正式发布。新系统将率先搭载在即将上市的 OPPO Find X10 系列和一加 16 等机型上，后续逐步开启推送。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "summary": "2026 年 9 月 17 日，2026 OPPO 开发者大会（ODC26）在珠海举行，ColorOS 17 正式发布。新系统将率先搭载在即将上市的 OPPO Find X10 系列和一加 16 等机型上，后续逐步开启推送。一场系统发布会通常分为两部分来看，一部分是面向用户的功能清单，另一部分是面向开发者的架构改动。",
+      "originalSummary": "2026 年 9 月 17 日，2026 OPPO 开发者大会（ODC26）在珠海举行，ColorOS 17 正式发布。新系统将率先搭载在即将上市的 OPPO Find X10 系列和一加 16 等机型上，后续逐步开启推送。一场系统发布会通常分为两部分来看，一部分是面向用户的功能清单，另一部分是面向开发者的架构改动。",
       "url": "https://www.oschina.net/news/502593",
       "source": "开源中国资讯",
       "region": "中文技术深度",
@@ -514,11 +667,11 @@
         "AI",
         "软件工程"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 404,
-      "summaryLength": 185,
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 186,
+      "summaryLength": 134,
       "summaryQuality": "weak",
-      "readerTextZh": "2026 年 9 月 17 日，2026 OPPO 开发者大会（ODC26）在珠海举行，ColorOS 17 正式发布 新系统将率先搭载在即将上市的 OPPO Find X10 系列和一加 16 等机型上，后续逐步开启推送 一场系统发布会通常分为两部分来看，一部分是面向用户的功能清单，另一部分是面向开发者的架构改动 ColorOS 17 这次拿出来的东西，两条线 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
+      "readerTextZh": "2026 年 9 月 17 日，2026 OPPO 开发者大会（ODC26）在珠海举行，ColorOS 17 正式发布 新系统将率先搭载在即将上市的 OPPO Find X10 系列和一加 16 等机型上，后续逐步开启推送 一场系统发布会通常分为两部分来看，一部分是面向用户的功能清单，另一部分是面向开发者的架构改动 ColorOS 17 这次拿出来的东西，两条线",
       "isTranslated": false
     },
     {
@@ -632,52 +785,6 @@
       "isTranslated": false
     },
     {
-      "title": "华为发布“Peerium 计算架构”，让百万处理器成为一台计算机",
-      "titleZh": "华为发布“Peerium 计算架构”，让百万处理器成为一台计算机",
-      "summary": "华为发布AI时代的全新计算架构 – Peerium计算架构。该架构能实现百万级处理器成为一台计算机，以满足不断发展的AI算力需求。Peerium计算架构突破了图灵范式，提出了Nested BSP，突破了冯·诺依曼单机架构，颠覆了长久以来的主。",
-      "originalSummary": "华为发布AI时代的全新计算架构 – Peerium计算架构。该架构能实现百万级处理器成为一台计算机，以满足不断发展的AI算力需求。Peerium计算架构突破了图灵范式，提出了Nested BSP，突破了冯·诺依曼单机架构，颠覆了长久以来的主。",
-      "url": "https://www.oschina.net/news/502587/huawei-new-computing-architecture-peerium",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-18T08:41:45+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "AI",
-        "芯片"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 171,
-      "summaryLength": 109,
-      "summaryQuality": "weak",
-      "readerTextZh": "华为发布AI时代的全新计算架构 – Peerium计算架构 该架构能实现百万级处理器成为一台计算机，以满足不断发展的AI算力需求 Peerium计算架构是基于嵌套并行，统一内存寻址、平等互联实现百万级处理器强扩展的计算架构 Peerium计算架构突破了图灵范式，提出了Nested BSP，突破了冯·诺依曼单机架构，颠覆了长久以来的主",
-      "isTranslated": false
-    },
-    {
-      "title": "华为云 All in Agentic Cloud，灵衢昇腾 950 智算集群全球上线",
-      "titleZh": "华为云 All in Agentic Cloud，灵衢昇腾 950 智算集群全球上线",
-      "summary": "华为云这届全联接大会的调子，是\"Agentic Cloud\"。华为云 CEO 周跃峰演讲里那句被反复引用的判断是：智能体时代基础设施的核心，不再只是给算力，而是\"让每一个 Token 更高效\"。最能说明态度的莫过于那个出圈的名字——灵衢昇腾 950 智算集群，面向全球的服务今年 9 月 30 日国内商用、11 月 30 日海外商用。",
-      "originalSummary": "华为云这届全联接大会的调子，是\"Agentic Cloud\"。华为云 CEO 周跃峰演讲里那句被反复引用的判断是：智能体时代基础设施的核心，不再只是给算力，而是\"让每一个 Token 更高效\"。最能说明态度的莫过于那个出圈的名字——灵衢昇腾 950 智算集群，面向全球的服务今年 9 月 30 日国内商用、11 月 30 日海外商用。",
-      "url": "https://www.oschina.net/news/502586/hc-agentic-infra-industry-ai",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-18T08:26:54+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "芯片",
-        "云计算"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 176,
-      "summaryLength": 138,
-      "summaryQuality": "weak",
-      "readerTextZh": "华为云这届全联接大会的调子，是\"Agentic Cloud\" 华为云 CEO 周跃峰演讲里那句被反复引用的判断是：智能体时代基础设施的核心，不再只是给算力，而是\"让每一个 Token 更高效\" 最能说明态度的莫过于那个出圈的名字——灵衢昇腾 950 智算集群，面向全球的服务今年 9 月 30 日国内商用、11 月 30 日海外商用",
-      "isTranslated": false
-    },
-    {
       "title": "让 Agent 读懂你的身体：数据获取篇",
       "titleZh": "让 Agent 读懂你的身体：数据获取篇",
       "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
@@ -721,136 +828,6 @@
       "isTranslated": false
     },
     {
-      "title": "pythonOCC 如何精确计算STEP\\STP的面积体积等信息？",
-      "titleZh": "pythonOCC 如何精确计算STEP\\STP的面积体积等信息？",
-      "summary": "我在尝试使用 pythonOCC 对 STEP\\STP 文件转换为 GLB 文件继而在浏览器的3D预览器中进行查看，同时在转换的时候需要计算物体的体积面积等信息。但是我使用 BRepGProp.VolumeProperties 和 BRepGProp.SurfaceProperties 进行计算的时候，总是会出现一个较大的误差。是否有其他的方式去精确计算面积体积等信息？。",
-      "originalSummary": "我在尝试使用 pythonOCC 对 STEP\\STP 文件转换为 GLB 文件继而在浏览器的3D预览器中进行查看，同时在转换的时候需要计算物体的体积面积等信息。但是我使用 BRepGProp.VolumeProperties 和 BRepGProp.SurfaceProperties 进行计算的时候，总是会出现一个较大的误差。是否有其他的方式去精确计算面积体积等信息？。",
-      "url": "https://segmentfault.com/q/1010000048300589",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-17T01:09:32+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 189,
-      "summaryLength": 168,
-      "summaryQuality": "weak",
-      "readerTextZh": "我在尝试使用 pythonOCC 对 STEP\\STP 文件转换为 GLB 文件继而在浏览器的3D预览器中进行查看，同时在转换的时候需要计算物体的体积面积等信息 但是我使用 BRepGProp.VolumeProperties 和 BRepGProp.SurfaceProperties 进行计算的时候，总是会出现一个较大的误差 是否有其他的方式去精确计算面积体积等信息？",
-      "isTranslated": false
-    },
-    {
-      "title": "个人开发者想在微信小程序里接入 AI 生图，市面上哪些 AI 生图 API 的延迟最低、成本更可控？",
-      "titleZh": "个人开发者想在微信小程序里接入 AI 生图，市面上哪些 AI 生图 API 的延迟最低、成本更可控？",
-      "summary": "在实际项目中，针对这种用户等待型的小程序应用，你们更倾向于接入哪家（万象、豆包，或硅基智能、TokenByte这种AI 网关等等）的生图服务？。个人开发者想在微信小程序里接入 AI 生图，市面上哪些 AI 生图 API 的延迟最低、成本更可控？。",
-      "originalSummary": "在实际项目中，针对这种用户等待型的小程序应用，你们更倾向于接入哪家（万象、豆包，或硅基智能、TokenByte这种AI 网关等等）的生图服务？。个人开发者想在微信小程序里接入 AI 生图，市面上哪些 AI 生图 API 的延迟最低、成本更可控？。",
-      "url": "https://segmentfault.com/q/1010000048297476",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-15T12:39:27+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 124,
-      "summaryLength": 103,
-      "summaryQuality": "weak",
-      "readerTextZh": "个人开发者想在微信小程序里接入 AI 生图，市面上哪些 AI 生图 API 的延迟最低、成本更可控？ 在实际项目中，针对这种用户等待型的小程序应用，你们更倾向于接入哪家（万象、豆包，或硅基智能、TokenByte这种AI 网关等等）的生图服务？",
-      "isTranslated": false
-    },
-    {
-      "title": "LangChain Agent多轮工具调用后忽略输出约束，长任务下如何保证指令遵循？",
-      "titleZh": "LangChain Agent多轮工具调用后忽略输出约束，长任务下如何保证指令遵循？",
-      "summary": "在做一个自动化代码审查的Agent，流程是：读取diff → 分析改动 → 调用多个工具收集上下文 → 生成审查意见。实际跑到第5、6步之后，模型开始忽略system prompt里定好的输出格式约束，返回纯文本而不是约定的JSON，多轮之后越来越明显。Python 3.11 / langchain 0.2.x。",
-      "originalSummary": "在做一个自动化代码审查的Agent，流程是：读取diff → 分析改动 → 调用多个工具收集上下文 → 生成审查意见。实际跑到第5、6步之后，模型开始忽略system prompt里定好的输出格式约束，返回纯文本而不是约定的JSON，多轮之后越来越明显。Python 3.11 / langchain 0.2.x。",
-      "url": "https://segmentfault.com/q/1010000048296778",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-15T08:25:15+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 651,
-      "summaryLength": 130,
-      "summaryQuality": "weak",
-      "readerTextZh": "在做一个自动化代码审查的Agent，流程是：读取diff → 分析改动 → 调用多个工具收集上下文 → 生成审查意见 实际跑到第5、6步之后，模型开始忽略system prompt里定好的输出格式约束，返回纯文本而不是约定的JSON，多轮之后越来越明显 Python 3.11 / langchain 0.2.x 模型：gpt-4o（deepseek-chat 复现了同样现象） SYSTEM_PROMPT = \"\"\" 你是一个代码审查助手 【重要】所有输出必须是合法 JSON：{\"risk\": [...], \"suggestion\": [...]} \"\"\" for step in workflow_steps: result = agent.invoke( {\"messages\": state[\"messages\"] + [step.to_message()]} ) state[\"messages\"].append(result) # 上下文随步骤线性增长 期望结果 经过10+轮工具调用后，模型仍稳定遵守JSON输出约束 关键指令在每轮user message里重复 —— 有效，但token消耗接近翻倍",
-      "isTranslated": false
-    },
-    {
-      "title": "来自一个新人的问题，不是问技术，而是问方法？",
-      "titleZh": "来自一个新人的问题，不是问技术，而是问方法？",
-      "summary": "我是一个小白，专业是普通的工科专业，较少涉及计算机应用。但是一点不会，一点头绪都没有，目前依靠deepseek在持续推进中，这么说起来，我真的靠deepseek弄清楚，做成功很多事情了。但是我好疑惑啊，这种方法是对的吗，你们作为一个新手时，都是怎么上手的呢，乃至在ai出现的那个春节之前，圈子内的各位又是怎么学习的呢，这些问题我找不到答案，来此发帖，希冀大佬们费一点点时间回答。",
-      "originalSummary": "我是一个小白，专业是普通的工科专业，较少涉及计算机应用。但是一点不会，一点头绪都没有，目前依靠deepseek在持续推进中，这么说起来，我真的靠deepseek弄清楚，做成功很多事情了。但是我好疑惑啊，这种方法是对的吗，你们作为一个新手时，都是怎么上手的呢，乃至在ai出现的那个春节之前，圈子内的各位又是怎么学习的呢，这些问题我找不到答案，来此发帖，希冀大佬们费一点点时间回答。",
-      "url": "https://segmentfault.com/q/1010000048295067",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-14T12:59:49+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 302,
-      "summaryLength": 171,
-      "summaryQuality": "weak",
-      "readerTextZh": "我是一个小白，专业是普通的工科专业，较少涉及计算机应用 最近看到了github上的imssy个人主页，觉得很好，自己也想弄一个 但是一点不会，一点头绪都没有，目前依靠deepseek在持续推进中，这么说起来，我真的靠deepseek弄清楚，做成功很多事情了 但是我好疑惑啊，这种方法是对的吗，你们作为一个新手时，都是怎么上手的呢，乃至在ai出现的那个春节之前，圈子内的各位又是怎么学习的呢，这些问题我找不到答案，来此发帖，希冀大佬们费一点点时间回答 想加入社区还是受菜鸟教程上一句话的启发————“一个人走得快，一群人走得远”，我深以为然",
-      "isTranslated": false
-    },
-    {
-      "title": "React组件的prop 是响应式值吗?",
-      "titleZh": "React组件的prop 是响应式值吗?",
-      "summary": "https://arpitjsoni.com/react-internals/performance/react-comp。背景: 这篇文章的作者 给出了响应式值的定义,并认为 组件接收的prop也是响应式值。我不知道这个是作者自己的观点还是react技术圈的看法。",
-      "originalSummary": "https://arpitjsoni.com/react-internals/performance/react-comp。背景: 这篇文章的作者 给出了响应式值的定义,并认为 组件接收的prop也是响应式值。我不知道这个是作者自己的观点还是react技术圈的看法。",
-      "url": "https://segmentfault.com/q/1010000048292302",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-13T02:49:50+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 215,
-      "summaryLength": 116,
-      "summaryQuality": "weak",
-      "readerTextZh": "https://arpitjsoni.com/react-internals/performance/react-comp 背景: 这篇文章的作者 给出了响应式值的定义,并认为 组件接收的prop也是响应式值 我不知道这个是作者自己的观点还是react技术圈的看法 但是我感觉文章作者好像在编造概念 ,自己出题自己答自己判定 按照我的理解 响应值指不应该 是值发生了变化会自动 触发Effect 执行吗?",
-      "isTranslated": false
-    },
-    {
-      "title": "谷歌浏览器网络调试在接口预览时其顶层结构无法触发右键菜单功能?",
-      "titleZh": "谷歌浏览器网络调试在接口预览时其顶层结构无法触发右键菜单功能?",
-      "summary": "第一张图是极速 360 浏览器,第二张图是 chrome 浏览器。极速 360: Mozilla/5.0 (Windows NT 10.0。x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36。",
-      "originalSummary": "第一张图是极速 360 浏览器,第二张图是 chrome 浏览器。极速 360: Mozilla/5.0 (Windows NT 10.0。x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36。",
-      "url": "https://segmentfault.com/q/1010000048290204",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-11T08:47:09+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 397,
-      "summaryLength": 109,
-      "summaryQuality": "weak",
-      "readerTextZh": "第一张图是极速 360 浏览器,第二张图是 chrome 浏览器 最近发现 chrome 浏览器的预览中的顶层的数据无法触发右键菜单(非顶层依然可以),当然这个之前是可以的 极速 360: Mozilla/5.0 (Windows NT 10.0 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 chrome: Mozilla/5.0 (Windows NT 10.0 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 因为我发现 edge 的 Chrome/152.0.0.0 版本也有这个问题",
-      "isTranslated": false
-    },
-    {
       "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
       "titleZh": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
       "summary": "上周，PHP 框架 Laravel 宣布了 一个新规定 ：禁止提交 issue，只能提交 Pull Request。（4）禁止 issue 的根本原因是，开源项目资源不足，应付不了激增的 issue。直到上周，一个研究团队宣布， Claude AI 用了11天终于完成了，将安德鲁·怀尔斯的证明翻译成了 Lean 语言的程序。",
@@ -871,51 +848,6 @@
       "summaryLength": 133,
       "summaryQuality": "weak",
       "readerTextZh": "这里记录每周值得分享的科技内容，周五发布 另有 《谁在招人》 服务，发布程序员招聘信息 合作请 邮件联系 （yifeng.ruan@gmail.com） 上海前滩太古里举办的\"英雄联盟15周年\"展览 上周，PHP 框架 Laravel 宣布了 一个新规定 ：禁止提交 issue，只能提交 Pull Request 用户不能提交 issue，怎么报告问题呢？ 难道你要每个人都读懂源码，自己动手解决问题！ 但是仔细想想，你会发现这个措施 很合理 ，甚至值得推广",
-      "isTranslated": false
-    },
-    {
-      "title": "个人开发者接大模型 API 做“套壳/包装工具”，现在还能赚到钱吗？",
-      "titleZh": "个人开发者接大模型 API 做“套壳/包装工具”，现在还能赚到钱吗？",
-      "summary": "看到很多独立开发者做 AI 图像去背景、AI 文案生成、AI 变现小工具。想问问大家，在各大厂商原生 API 功能越来越强的今天，个人做这种轻量级的 AI 工具，核心壁垒到底在哪里？。是看流量运营还是看特定场景的极致体验？。",
-      "originalSummary": "看到很多独立开发者做 AI 图像去背景、AI 文案生成、AI 变现小工具。想问问大家，在各大厂商原生 API 功能越来越强的今天，个人做这种轻量级的 AI 工具，核心壁垒到底在哪里？。是看流量运营还是看特定场景的极致体验？。",
-      "url": "https://segmentfault.com/q/1010000048288429",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-10T12:04:11+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 129,
-      "summaryLength": 94,
-      "summaryQuality": "weak",
-      "readerTextZh": "看到很多独立开发者做 AI 图像去背景、AI 文案生成、AI 变现小工具 想问问大家，在各大厂商原生 API 功能越来越强的今天，个人做这种轻量级的 AI 工具，核心壁垒到底在哪里？ 是看流量运营还是看特定场景的极致体验？",
-      "isTranslated": false
-    },
-    {
-      "title": "前后端不分离的项目（python+jquery）容器化方案？",
-      "titleZh": "前后端不分离的项目（python+jquery）容器化方案？",
-      "summary": "前后端不分离的项目（python+jquery），在容器化改造时，一般是一条流水线一个仓库一个镜像，还是两条流水线两个镜像？。虽然理论上都可以，但是两条流水线两个仓库两个镜像，增加了一些改造成本。我目前还在一条流水线一个仓库一个镜像上挣扎。",
-      "originalSummary": "前后端不分离的项目（python+jquery），在容器化改造时，一般是一条流水线一个仓库一个镜像，还是两条流水线两个镜像？。虽然理论上都可以，但是两条流水线两个仓库两个镜像，增加了一些改造成本。我目前还在一条流水线一个仓库一个镜像上挣扎。",
-      "url": "https://segmentfault.com/q/1010000048288385",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-10T11:25:38+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "云计算"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 135,
-      "summaryLength": 108,
-      "summaryQuality": "weak",
-      "readerTextZh": "前后端不分离的项目（python+jquery），在容器化改造时，一般是一条流水线一个仓库一个镜像，还是两条流水线两个镜像？ 虽然理论上都可以，但是两条流水线两个仓库两个镜像，增加了一些改造成本 我目前还在一条流水线一个仓库一个镜像上挣扎",
       "isTranslated": false
     },
     {
