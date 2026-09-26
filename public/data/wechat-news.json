@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-26T03:26:31.851278+00:00",
-  "nextUpdate": "2026-09-26T15:26:31.851278+00:00",
+  "updatedAt": "2026-09-26T15:45:29.092720+00:00",
+  "nextUpdate": "2026-09-27T03:45:29.092720+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,14 +76,14 @@
   "errors": [],
   "items": [
     {
-      "title": "AI 时代，技术人靠什么赢？｜QCon上海",
-      "titleZh": "AI 时代，技术人靠什么赢？｜QCon上海",
-      "summary": "本次大会将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、V...。QCon上海站聚焦AI系统化落地，覆盖Agent Runtime、AI Infra、安全可观测等关键实践方向 关键观点：AI Native时代核心挑战是系统级工程而非单点模型优化。本次分享将结合小红书技术团队在“产品工程师（PE）”实践中的探索，复盘 AI 时代技术人能力结构的变化：当 AI 不断降低技术实现的门槛，技术人的价值正在从“把技术做好”转向“把事情做成”——不仅要具...。",
-      "originalSummary": "本次大会将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、V...。QCon上海站聚焦AI系统化落地，覆盖Agent Runtime、AI Infra、安全可观测等关键实践方向 关键观点：AI Native时代核心挑战是系统级工程而非单点模型优化。本次分享将结合小红书技术团队在“产品工程师（PE）”实践中的探索，复盘 AI 时代技术人能力结构的变化：当 AI 不断降低技术实现的门槛，技术人的价值正在从“把技术做好”转向“把事情做成”——不仅要具...。",
-      "url": "https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&utm_medium=article",
+      "title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
+      "titleZh": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
+      "summary": "它内置多项检测能力，可识别空指针异常、线程安全、XSS 和 SQL 注入等问题 OpenCodeReview 基于 Apache 2.0 协议开源，是一款使用 Go 语言开发的命令行工具，它避免将本可确定性处理的工作交给 AI 决策，例如选择文件、选择工具以及...。因此，它将评审流程拆分为多个阶段，每个阶段使用不同级别的确定性：确定性组件负责文件选择、打包和规则匹配，代码分析则由 AI 智能体完成 据报道，OpenCodeReview 已在阿里巴巴内部被数万开发者使用了两年，它兼容...。",
+      "originalSummary": "它内置多项检测能力，可识别空指针异常、线程安全、XSS 和 SQL 注入等问题 OpenCodeReview 基于 Apache 2.0 协议开源，是一款使用 Go 语言开发的命令行工具，它避免将本可确定性处理的工作交给 AI 决策，例如选择文件、选择工具以及...。因此，它将评审流程拆分为多个阶段，每个阶段使用不同级别的确定性：确定性组件负责文件选择、打包和规则匹配，代码分析则由 AI 智能体完成 据报道，OpenCodeReview 已在阿里巴巴内部被数万开发者使用了两年，它兼容...。",
+      "url": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-26T10:00:00+00:00",
+      "publishedAt": "2026-09-26T17:00:00+00:00",
       "tags": [
         "架构",
         "软件工程",
@@ -92,10 +92,10 @@
         "安全"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2338,
-      "summaryLength": 268,
+      "sourceTextLength": 1733,
+      "summaryLength": 209,
       "summaryQuality": "strong",
-      "readerTextZh": "本次分享将结合小红书技术团队在“产品工程师（PE）”实践中的探索，复盘 AI 时代技术人能力结构的变化：当 AI 不断降低技术实现的门槛，技术人的价值正在从“把技术做好”转向“把事情做成”——不仅要具备技术能力，还需要建立 Leader 思维，以及理解业务、判断价值的能力 本次分享将结合小红书技术团队在“产品工程师（PE）”实践中的探索，复盘 AI 时代技术人能力结构的变化：当 AI 不断降低技术实现的门槛，技术人的价值正在从“把技术做好”转向“把事情做成”——不仅要具备技术能力，还需要建立 Leader 思维，以及理解业务、判断价值的能力 从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 2026 年 QCon 全球软件开发大会大会 · 上海站 将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 在这一背景下， 2026 年 QCon 全球软件开发大会大会 · 上海站 正式启动 本次大会将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 小红书 & 电商交易终端负责人曹立成已确认出席 “ 技术人的下一站 ” 专题，并发表题为 《 AI 时代，技术人靠什么赢？...",
+      "readerTextZh": "阿里巴巴开源 AI 代码评审 CLI 工具 OpenCodeReview，采用确定性流水线处理文件选取、打包、规则匹配，搭配 LLM 智能体完成动态代码分析 阿里巴巴开源 AI 代码评审 CLI 工具 OpenCodeReview，采用确定性流水线处理文件选取、打包、规则匹配，搭配 LLM 智能体完成动态代码分析 阿里巴巴最近开源了 OpenCodeReview ，这是一款 AI 驱动的代码评审 CLI 工具，将用于文件选择、打包和规则匹配的确定性流水线与用于动态代码分析的 LLM 智能体相结合 它内置多项检测能力，可识别空指针异常、线程安全、XSS 和 SQL 注入等问题 OpenCodeReview 基于 Apache 2.0 协议开源，是一款使用 Go 语言开发的命令行工具，它避免将本可确定性处理的工作交给 AI 决策，例如选择文件、选择工具以及根据 diff 验证评审意见 因此，它将评审流程拆分为多个阶段，每个阶段使用不同级别的确定性：确定性组件负责文件选择、打包和规则匹配，代码分析则由 AI 智能体完成 据报道，OpenCodeReview 已在阿里巴巴内部被数万开发者使用了两年，它兼容 OpenAI 和 Anthropic 的模型，可以评审 Git diff、分支或整个文件 Shopify 高级开发工程师 Tom Rochette 对该项目进行了评测 并写道： 该架构针对真实的智能体故障场景：在大型变更集上存在覆盖不全、行号漂移、提示词不稳定等问题 它提供了公开的基准测试，并透明地披露了其召回率劣势，这比该类别中大多数工具的表现更有说服力 阿里巴巴表示，在一个覆盖 10 种语言、200 个 PR 的内部基准测试中，OpenCodeReview 取得了比 Claude Code 更高的精确率和 F1 分数，同时使用的 token 数量大约只有后者的九分之一 Rochette 提醒道： 目前唯一一次独立基准测试运行结果很糟糕：在 10 个 Martian-benchmark PR 上精确率约为 12%，维护者对此提出异议，认为是工具调用异常导致的，问题虽已...",
       "isTranslated": false
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-26T03:25:49.817967+00:00",
+      "publishedAt": "2026-09-26T15:44:42.825764+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-26T03:25:49.144440+00:00",
+      "publishedAt": "2026-09-26T15:44:42.187343+00:00",
       "tags": [
         "后端",
         "工程",
@@ -151,7 +151,7 @@
       "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-26T03:25:48.402109+00:00",
+      "publishedAt": "2026-09-26T15:44:41.540027+00:00",
       "tags": [
         "后端",
         "工程",
@@ -174,7 +174,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-26T03:25:47.666426+00:00",
+      "publishedAt": "2026-09-26T15:44:40.905337+00:00",
       "tags": [
         "后端",
         "工程",
@@ -196,7 +196,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-26T03:25:46.924096+00:00",
+      "publishedAt": "2026-09-26T15:44:40.250783+00:00",
       "tags": [
         "后端",
         "工程",
@@ -218,7 +218,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-26T03:25:46.240935+00:00",
+      "publishedAt": "2026-09-26T15:44:39.505613+00:00",
       "tags": [
         "后端",
         "工程",
@@ -240,7 +240,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-26T03:25:45.565450+00:00",
+      "publishedAt": "2026-09-26T15:44:38.845642+00:00",
       "tags": [
         "后端",
         "工程",
@@ -262,7 +262,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-26T03:25:44.915208+00:00",
+      "publishedAt": "2026-09-26T15:44:38.211126+00:00",
       "tags": [
         "后端",
         "工程",
@@ -277,37 +277,80 @@
       "isTranslated": false
     },
     {
-      "title": "我如何让 AI 帮我写技术文档，而不制造废话",
-      "titleZh": "我如何让 AI 帮我写技术文档，而不制造废话",
-      "summary": "开篇 让 AI 写技术文档，最常见的提问是： 得到的结果通常很长，却不一定好用： 把代码注释改写一遍。没有写清楚参数、错误码和调用示例 技术文档的价值，不是字数多，而是让读者更快完成一个动作：调用接口、部署服务、排查故障，或者接手模块 读者是前端开发者。这一步能够明显减少无关内容，也能避免 AI 把文档写成技术说明书 POST /api/auth/login 用于校验邮箱和密码，成功后返回 24 小时有效的访问令牌。",
-      "originalSummary": "开篇 让 AI 写技术文档，最常见的提问是： 得到的结果通常很长，却不一定好用： 把代码注释改写一遍。没有写清楚参数、错误码和调用示例 技术文档的价值，不是字数多，而是让读者更快完成一个动作：调用接口、部署服务、排查故障，或者接手模块 读者是前端开发者。这一步能够明显减少无关内容，也能避免 AI 把文档写成技术说明书 POST /api/auth/login 用于校验邮箱和密码，成功后返回 24 小时有效的访问令牌。",
-      "url": "https://juejin.cn/post/7689045619357286409",
-      "source": "掘金技术社区",
+      "title": "检测数据异常值的五种统计技术 - wang_yb",
+      "titleZh": "检测数据异常值的五种统计技术 - wang_yb",
+      "summary": "今天我们来聊聊最常用的 5 种异常值检测方法：Z-Score、IQR、LOF、Iso 阅读全文 处理数据的时候，最让人头大的往往不是复杂的模型调参，而是那些藏在角落里的异常值。或者模型效果突然断崖式下跌，排查半天发现是几个极端值在捣乱 今天我们来聊聊最常用的 5 种异常值检测方法： Z-Score 、 IQR 、 LOF 、 Isolation Forest 、 马氏距离 Z-Score 是最...。8000. ] 跑完会看到上界通常在两三百左右， 2000 、 5000 、 8000 这些高额电费会被抓出来，少数正常偏高的电费也可能被带上 LOF 看的是局部密度。",
+      "originalSummary": "今天我们来聊聊最常用的 5 种异常值检测方法：Z-Score、IQR、LOF、Iso 阅读全文 处理数据的时候，最让人头大的往往不是复杂的模型调参，而是那些藏在角落里的异常值。或者模型效果突然断崖式下跌，排查半天发现是几个极端值在捣乱 今天我们来聊聊最常用的 5 种异常值检测方法： Z-Score 、 IQR 、 LOF 、 Isolation Forest 、 马氏距离 Z-Score 是最...。8000. ] 跑完会看到上界通常在两三百左右， 2000 、 5000 、 8000 这些高额电费会被抓出来，少数正常偏高的电费也可能被带上 LOF 看的是局部密度。",
+      "url": "https://www.cnblogs.com/wang_yb/p/23128921",
+      "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-26T03:20:31+00:00",
+      "publishedAt": "2026-09-26T14:51:00+00:00",
       "tags": [
-        "前端",
-        "后端",
         "开发者",
-        "AI",
-        "软件工程"
+        "后端",
+        "中文深度",
+        "AI"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 1245,
-      "summaryLength": 177,
+      "sourceTextLength": 5342,
+      "summaryLength": 230,
       "summaryQuality": "weak",
-      "readerTextZh": "开篇 让 AI 写技术文档，最常见的提问是： 得到的结果通常很长，却不一定好用： 把代码注释改写一遍 没有写清楚参数、错误码和调用示例 技术文档的价值，不是字数多，而是让读者更快完成一个动作：调用接口、部署服务、排查故障，或者接手模块 读者是前端开发者 目标是让前端能够完成登录请求、处理成功响应和展示常见错误 范围只包含 HTTP 接口，不介绍数据库实现和登录算法 这一步能够明显减少无关内容，也能避免 AI 把文档写成技术说明书 POST /api/auth/login 用于校验邮箱和密码，成功后返回 24 小时有效的访问令牌 三、让 AI 先提取事实，再组织文字 我不会直接让 AI 根据一段代码生成最终文档，而是分两步进行 请阅读下面的接口代码，只提取代码中能够确认的事实，不要补充猜测 第二步，再组织文档： 请根据上一步确认过的事实，生成一份面向前端开发者的接口文档 要求： 1. 使用 Markdown",
+      "readerTextZh": "【摘要】处理数据的时候，最让人头大的往往不是复杂的模型调参，而是那些藏在角落里的异常值 你是不是也遇到过这种糟心事：明明业务逻辑看着没毛病，一跑统计指标就飘红 或者模型效果突然断崖式下跌，排查半天发现是几个极端值在捣乱 今天我们来聊聊最常用的 5 种异常值检测方法：Z-Score、IQR、LOF、Iso 阅读全文 处理数据的时候，最让人头大的往往不是复杂的模型调参，而是那些藏在角落里的异常值 今天我们来聊聊最常用的 5 种异常值检测方法：Z-Score、IQR、LOF、Iso 处理数据的时候，最让人头大的往往不是复杂的模型调参，而是那些藏在角落里的异常值 今天我们来聊聊最常用的 5 种异常值检测方法：Z-Score、IQR、LOF、Iso 处理数据的时候，最让人头大的往往不是复杂的模型调参，而是那些藏在角落里的异常值 你是不是也遇到过这种糟心事：明明业务逻辑看着没毛病，一跑统计指标就飘红 或者模型效果突然断崖式下跌，排查半天发现是几个极端值在捣乱 今天我们来聊聊最常用的 5 种异常值检测方法： Z-Score 、 IQR 、 LOF 、 Isolation Forest 、 马氏距离 Z-Score 是最简单的一种，它算每个点和均值的距离，相当于几个标准差 一般 |Z| > 3 就算异常 下面造 200 个正常值，围绕 120 波动，再塞 280、20、300 三个极端值 import numpy as np np.random.seed(42) normal = np.random.normal(120, 15, 200) data = np.concatenate([normal, [280, 20, 300]]) mean = np.mean(data) std = np.std(data) z_scores = (data - mean) / std outlier_indices = np.where(np.abs(z_scores) > 3)[0] print(\"Z-Score 异常值：\") for idx in outlier_indices: pr...",
       "isTranslated": false
     },
     {
-      "title": "我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了 - 码哥字节",
-      "titleZh": "我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了 - 码哥字节",
-      "summary": "今天这篇就把这一年踩过的坑、想明白的事一次性讲清楚——尤其是当 OpenAI 这周也下场卷 Skill 的时候，事情就变得有点意思了 这周 GitHub Trending Python 榜上有个项目一周涨了 4290 星，叫 awesome-codex-ski...。Anthropic 在 2025 年 10 月 16 日上线 Skill,OpenAI 这边在 2026 年 4 月才被社区大规模搬运推广,中间差了半年。你把激活条件淹没在 1200 行细则里,模型自己都迷糊该不该用 官方建议是 SKILL.md 主体控制在 500 行以内,超出的拆到 references/ 子目录。",
-      "originalSummary": "今天这篇就把这一年踩过的坑、想明白的事一次性讲清楚——尤其是当 OpenAI 这周也下场卷 Skill 的时候，事情就变得有点意思了 这周 GitHub Trending Python 榜上有个项目一周涨了 4290 星，叫 awesome-codex-ski...。Anthropic 在 2025 年 10 月 16 日上线 Skill,OpenAI 这边在 2026 年 4 月才被社区大规模搬运推广,中间差了半年。你把激活条件淹没在 1200 行细则里,模型自己都迷糊该不该用 官方建议是 SKILL.md 主体控制在 500 行以内,超出的拆到 references/ 子目录。",
-      "url": "https://www.cnblogs.com/uniqueDong/p/23126169",
+      "title": "OctaFuse Gateway 2.12.0：供应商账号管理、路由工作区与多模态入口发现 - 程序猿DD",
+      "titleZh": "OctaFuse Gateway 2.12.0：供应商账号管理、路由工作区与多模态入口发现 - 程序猿DD",
+      "summary": "【摘要】接入的模型和供应商多了，日常维护常常要在几个地方来回查：哪个账号还有额度，某个模型走了哪些路由，新模型应该用哪个接口。出门没带电脑时，临时处理配置也不方便。OctaFuse Gateway 2.12.0 让这些操作更直接：在后台区分账号、查询额度、查找路由，在客户端读取模型支持的调用入口，也能用手 阅读全文。",
+      "originalSummary": "【摘要】接入的模型和供应商多了，日常维护常常要在几个地方来回查：哪个账号还有额度，某个模型走了哪些路由，新模型应该用哪个接口。出门没带电脑时，临时处理配置也不方便。OctaFuse Gateway 2.12.0 让这些操作更直接：在后台区分账号、查询额度、查找路由，在客户端读取模型支持的调用入口，也能用手 阅读全文。",
+      "url": "https://www.cnblogs.com/didispace/p/23128897",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-26T02:21:00+00:00",
+      "publishedAt": "2026-09-26T14:47:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "硬件"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 138,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】接入的模型和供应商多了，日常维护常常要在几个地方来回查：哪个账号还有额度，某个模型走了哪些路由，新模型应该用哪个接口 出门没带电脑时，临时处理配置也不方便 OctaFuse Gateway 2.12.0 让这些操作更直接：在后台区分账号、查询额度、查找路由，在客户端读取模型支持的调用入口，也能用手 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "PostgreSQL 的锁：为什么你的 ALTER TABLE 会卡住，以及怎么查 - Y00",
+      "titleZh": "PostgreSQL 的锁：为什么你的 ALTER TABLE 会卡住，以及怎么查 - Y00",
+      "summary": "【摘要】上周同事问我，为什么给一张表加个字段，整个表就像被冻住了一样，连普通的 SELECT 都进不来。其实这就是 PostgreSQL 的锁在起作用。很多人用 PG，觉得它 MVCC 很厉害，读写互不阻塞。",
+      "originalSummary": "【摘要】上周同事问我，为什么给一张表加个字段，整个表就像被冻住了一样，连普通的 SELECT 都进不来。其实这就是 PostgreSQL 的锁在起作用。很多人用 PG，觉得它 MVCC 很厉害，读写互不阻塞。",
+      "url": "https://www.cnblogs.com/ayic/p/23121980",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-26T09:32:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 87,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】上周同事问我，为什么给一张表加个字段，整个表就像被冻住了一样，连普通的 SELECT 都进不来 其实这就是 PostgreSQL 的锁在起作用 很多人用 PG，觉得它 MVCC 很厉害，读写互不阻塞 这没错，但 MVCC 主要解决的是“读”和“写”之间的冲突 真到了写和写、DDL 和 DML 之间 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "Jev 发布三天就被开源了：33 毫秒做一次判断的 Laya，值不值得进生产？ - 小白跃升坊",
+      "titleZh": "Jev 发布三天就被开源了：33 毫秒做一次判断的 Laya，值不值得进生产？ - 小白跃升坊",
+      "summary": "【摘要】2026 年 9 月 15 日到 9 月 24 日，九天里发生了三件事：TypeSafe AI 发布闭源决策模型 Jev。Convai Innovations 开源了对标的 Laya。1Panel 把 Laya 封装成 Laya Server 上架应用商店。",
+      "originalSummary": "【摘要】2026 年 9 月 15 日到 9 月 24 日，九天里发生了三件事：TypeSafe AI 发布闭源决策模型 Jev。Convai Innovations 开源了对标的 Laya。1Panel 把 Laya 封装成 Laya Server 上架应用商店。",
+      "url": "https://www.cnblogs.com/xiaobaiysf/p/23127340",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-26T07:35:00+00:00",
       "tags": [
         "开发者",
         "后端",
@@ -315,11 +358,98 @@
         "AI",
         "开源"
       ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 162,
+      "summaryLength": 105,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】2026 年 9 月 15 日到 9 月 24 日，九天里发生了三件事：TypeSafe AI 发布闭源决策模型 Jev Convai Innovations 开源了对标的 Laya 1Panel 把 Laya 封装成 Laya Server 上架应用商店 这三件事单独看都是新闻，串起来看是一条完... 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+      "titleZh": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+      "summary": "随着跨平台通用标准 Matter 与 Thread 协议的日益成熟，宜家这个收避锋芒的巨头终于放出了大招：正式宣布全面拥抱 Matter 标准，并一口气推出了 21 款极具性价比的 Matter 新品，涵盖了智能灯泡、无线开关、各类传感器和智能插座。从 Zigbee 升级到 Matter，最直观的体验提升在于配网过程：用户不再需要像过去那样，按照繁琐的节奏连续开关电源 6 次来重置灯泡，只需拿起手机扫描设备本体或包装上的 QR 码，设备就能瞬间被识别并加入网络 而在...。",
+      "originalSummary": "随着跨平台通用标准 Matter 与 Thread 协议的日益成熟，宜家这个收避锋芒的巨头终于放出了大招：正式宣布全面拥抱 Matter 标准，并一口气推出了 21 款极具性价比的 Matter 新品，涵盖了智能灯泡、无线开关、各类传感器和智能插座。从 Zigbee 升级到 Matter，最直观的体验提升在于配网过程：用户不再需要像过去那样，按照繁琐的节奏连续开关电源 6 次来重置灯泡，只需拿起手机扫描设备本体或包装上的 QR 码，设备就能瞬间被识别并加入网络 而在...。",
+      "url": "https://sspai.com/post/114958",
+      "source": "少数派深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-26T06:00:00+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度",
+        "硬件"
+      ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2855,
-      "summaryLength": 241,
+      "sourceTextLength": 3652,
+      "summaryLength": 205,
       "summaryQuality": "strong",
-      "readerTextZh": "【摘要】凌晨一点，我看着 Claude 又一次完美绕过了我精心写的那个 Skill，第三次了 prompt 关键词全对上了，描述里写得清清楚楚「用于 Spring Boot 项目的接口设计」，结果它愣是没触发 我开始怀疑自己——是不是 Claude Code 这个东西本身就不靠谱？ 第二天起来翻官方文档， 阅读全文 凌晨一点，我看着 Claude 又一次完美绕过了我精心写的那个 Skill，第三次了 第二天起来翻官方文档 凌晨一点，我看着 Claude 又一次完美绕过了我精心写的那个 Skill，第三次了 第二天起来翻官方文档 凌晨一点，我看着 Claude 又一次完美绕过了我精心写的那个 Skill，第三次了 prompt 关键词全对上了，描述里写得清清楚楚「用于 Spring Boot 项目的接口设计」，结果它愣是没触发 第二天起来翻官方文档，又翻了 Anthropic 工程师那篇被很多人转的 Medium 长文，才反应过来： 问题不在 Claude，问题在我自己 我以为 Skill 就是 prompt 模板的升级版，结果完全搞反了它的设计哲学 那是去年 11 月的事",
+      "readerTextZh": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息 直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ... 查看全文 距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息 直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息 直到今年年中，多款宜家智能新品陆续出现在国家 CCC 认证数据库中，我们才得知：这批主打高性价比、支持新一代智能家居协议的宜家产品，距离正式上架中国市场已经为时不远了 作为全球家居零售巨头，宜家（IKEA）在智能家居领域的动作一直显得独特而克制 它不像传统科技公司那样疯狂堆砌参数或频出概念，而是始终围绕「家居」这一核心场景演进 从早期的 Zigbee 布局到如今全线拥抱 Matter，宜家究竟在打什么算盘？ 面对生态高度割裂且独特的中国市场，它又将如何落地破局？ 在与宜家全球产品线负责人 David Granath 以及产品开发 Stjepan Begic 的对话中，我们找到了答案 从 Zigbee 到 Matter：宜家智能家居的「平民化」演进 很多人可能不知道，宜家其实已经在智能家居领域深耕了多年",
+      "isTranslated": false
+    },
+    {
+      "title": "【.NET】Logging 库探索（一）：基础接口 - 东邪独孤",
+      "titleZh": "【.NET】Logging 库探索（一）：基础接口 - 东邪独孤",
+      "summary": "【摘要】Logging 属于 .NET 官方扩展库的一部分，因此，它不算第三方库。应某大伙伴要求，老周出一系列介绍 Logging 的水文。老周向来乐于分享技术，啥主题不重要，只要老周会的东西就行。",
+      "originalSummary": "【摘要】Logging 属于 .NET 官方扩展库的一部分，因此，它不算第三方库。应某大伙伴要求，老周出一系列介绍 Logging 的水文。老周向来乐于分享技术，啥主题不重要，只要老周会的东西就行。",
+      "url": "https://www.cnblogs.com/tcjiaan/p/23068018",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-26T03:56:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 83,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】Logging 属于 .NET 官方扩展库的一部分，因此，它不算第三方库 应某大伙伴要求，老周出一系列介绍 Logging 的水文 老周向来乐于分享技术，啥主题不重要，只要老周会的东西就行 Logging 库嘛，当然是用来记录日志的",
+      "isTranslated": false
+    },
+    {
+      "title": "JAVA日志的前世今生 - 编程一生",
+      "titleZh": "JAVA日志的前世今生 - 编程一生",
+      "summary": "【摘要】这世界上很多事情，看起来就像彩虹一样炫目而神奇，实际上背后蕴含着随处可见的原理。就好像静儿几年前买过一件超贵的防辐射服，当时销售人员把手机严严实实的包在防辐射服里，然后让我打电话测试，果然没有信号。直到今天，静儿为了写文章，把自己蒙在空调被里，额，竟然连不上网。",
+      "originalSummary": "【摘要】这世界上很多事情，看起来就像彩虹一样炫目而神奇，实际上背后蕴含着随处可见的原理。就好像静儿几年前买过一件超贵的防辐射服，当时销售人员把手机严严实实的包在防辐射服里，然后让我打电话测试，果然没有信号。直到今天，静儿为了写文章，把自己蒙在空调被里，额，竟然连不上网。",
+      "url": "https://www.cnblogs.com/xiexj/p/23126648",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-26T03:53:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "硬件",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 121,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】这世界上很多事情，看起来就像彩虹一样炫目而神奇，实际上背后蕴含着随处可见的原理 就好像静儿几年前买过一件超贵的防辐射服，当时销售人员把手机严严实实的包在防辐射服里，然后让我打电话测试，果然没有信号 直到今天，静儿为了写文章，把自己蒙在空调被里，额，竟然连不上网 于是掀起一个被角，“大象”的巡检结果 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了 - 码哥字节",
+      "titleZh": "我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了 - 码哥字节",
+      "summary": "【摘要】凌晨一点，我看着 Claude 又一次完美绕过了我精心写的那个 Skill，第三次了。prompt 关键词全对上了，描述里写得清清楚楚「用于 Spring Boot 项目的接口设计」，结果它愣是没触发。我开始怀疑自己——是不是 Claude Code 这个东西本身就不靠谱？。",
+      "originalSummary": "【摘要】凌晨一点，我看着 Claude 又一次完美绕过了我精心写的那个 Skill，第三次了。prompt 关键词全对上了，描述里写得清清楚楚「用于 Spring Boot 项目的接口设计」，结果它愣是没触发。我开始怀疑自己——是不是 Claude Code 这个东西本身就不靠谱？。",
+      "url": "https://www.cnblogs.com/uniqueDong/p/23126169",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-26T02:21:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 118,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】凌晨一点，我看着 Claude 又一次完美绕过了我精心写的那个 Skill，第三次了 prompt 关键词全对上了，描述里写得清清楚楚「用于 Spring Boot 项目的接口设计」，结果它愣是没触发 我开始怀疑自己——是不是 Claude Code 这个东西本身就不靠谱？",
       "isTranslated": false
     },
     {
@@ -346,95 +476,6 @@
       "isTranslated": false
     },
     {
-      "title": "JAVA数据处理的常用技术 - 编程一生",
-      "titleZh": "JAVA数据处理的常用技术 - 编程一生",
-      "summary": "【摘要】背景 在实际开发中，数据的处理有五种：获取、传输、存储、分析、转换。序列化和反序列化 序列化是将对象的信息转换为可传输或可存储形式的过程。传输的序列化除了安全性的考虑，因为涉及到和第三方通信，所以还有重要的一点是可 阅读全文。",
-      "originalSummary": "【摘要】背景 在实际开发中，数据的处理有五种：获取、传输、存储、分析、转换。序列化和反序列化 序列化是将对象的信息转换为可传输或可存储形式的过程。传输的序列化除了安全性的考虑，因为涉及到和第三方通信，所以还有重要的一点是可 阅读全文。",
-      "url": "https://www.cnblogs.com/xiexj/p/23122919",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-25T15:07:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 101,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】背景 在实际开发中，数据的处理有五种：获取、传输、存储、分析、转换 序列化和反序列化 序列化是将对象的信息转换为可传输或可存储形式的过程 反序列化就是反过来让这些可传输的、可存储的信息变回对象 传输的序列化除了安全性的考虑，因为涉及到和第三方通信，所以还有重要的一点是可 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "我用 ASP.NET Core 做了个水稻病虫害检查系统 - 码农刚子",
-      "titleZh": "我用 ASP.NET Core 做了个水稻病虫害检查系统 - 码农刚子",
-      "summary": "【摘要】上传一张叶片照片，AI 告诉你它得了什么病 大家好，我是码农刚子。前阵子回了趟老家，正赶上水稻抽穗，发现一件挺头疼的事。村里谁家田里叶子出了斑点，第一反应不是找农技员——镇上的农技站本来就没几个人，下一趟田得排好几天。",
-      "originalSummary": "【摘要】上传一张叶片照片，AI 告诉你它得了什么病 大家好，我是码农刚子。前阵子回了趟老家，正赶上水稻抽穗，发现一件挺头疼的事。村里谁家田里叶子出了斑点，第一反应不是找农技员——镇上的农技站本来就没几个人，下一趟田得排好几天。",
-      "url": "https://www.cnblogs.com/shenchuanchao/p/23122839/aspnet-core-rice-pest-disease-inspection-system",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-25T14:49:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 98,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】上传一张叶片照片，AI 告诉你它得了什么病 大家好，我是码农刚子 前阵子回了趟老家，正赶上水稻抽穗，发现一件挺头疼的事 村里谁家田里叶子出了斑点，第一反应不是找农技员——镇上的农技站本来就没几个人，下一趟田得排好几天 大家习惯找村里种了一辈子地的老农民给看看",
-      "isTranslated": false
-    },
-    {
-      "title": "ChromaPanel vs 其他 React 颜色选择器对比：功能、包体积、可访问性等 - panxianren",
-      "titleZh": "ChromaPanel vs 其他 React 颜色选择器对比：功能、包体积、可访问性等 - panxianren",
-      "summary": "【摘要】选择一个 React 颜色选择器，听起来很简单，直到你开始认真考虑自己的应用到底需要什么。也许你只需要一个很小的 HEX 颜色选择器。也许你需要 RGB 和 HSL 控制、预设的调色板、一个吸管工具、从图片中取色、渐变功能、可访问性、表单支持，以及 OKLCH 等现代 CSS 颜色。",
-      "originalSummary": "【摘要】选择一个 React 颜色选择器，听起来很简单，直到你开始认真考虑自己的应用到底需要什么。也许你只需要一个很小的 HEX 颜色选择器。也许你需要 RGB 和 HSL 控制、预设的调色板、一个吸管工具、从图片中取色、渐变功能、可访问性、表单支持，以及 OKLCH 等现代 CSS 颜色。",
-      "url": "https://www.cnblogs.com/wangju5170/p/23122583",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-25T13:39:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 120,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】选择一个 React 颜色选择器，听起来很简单，直到你开始认真考虑自己的应用到底需要什么 也许你只需要一个很小的 HEX 颜色选择器 也许你需要 RGB 和 HSL 控制、预设的调色板、一个吸管工具、从图片中取色、渐变功能、可访问性、表单支持，以及 OKLCH 等现代 CSS 颜色",
-      "isTranslated": false
-    },
-    {
-      "title": "阿里云2026年AI Agent 开发者调研报告解读：企业 Agent 到底卡在哪 - 小白跃升坊",
-      "titleZh": "阿里云2026年AI Agent 开发者调研报告解读：企业 Agent 到底卡在哪 - 小白跃升坊",
-      "summary": "【摘要】2026年AI Agent开发者调研显示，虽46%企业已开展开发，但仅18%部署生产，核心瓶颈在工程能力缺失。状态衰减、成本失控、评估体系缺位成三大痛点，65%需研发-测试闭环，73%渴求自主运行底座。上下文与工具管理问题远超窗口限制，MCP落地率仅9%，需企业... 阅读全文。",
-      "originalSummary": "【摘要】2026年AI Agent开发者调研显示，虽46%企业已开展开发，但仅18%部署生产，核心瓶颈在工程能力缺失。状态衰减、成本失控、评估体系缺位成三大痛点，65%需研发-测试闭环，73%渴求自主运行底座。上下文与工具管理问题远超窗口限制，MCP落地率仅9%，需企业... 阅读全文。",
-      "url": "https://www.cnblogs.com/xiaobaiysf/p/23122354",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-25T13:00:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI",
-        "云计算"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 162,
-      "summaryLength": 119,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】2026年AI Agent开发者调研显示，虽46%企业已开展开发，但仅18%部署生产，核心瓶颈在工程能力缺失 状态衰减、成本失控、评估体系缺位成三大痛点，65%需研发-测试闭环，73%渴求自主运行底座 编码场景率先落地，但工具链未形成标准 上下文与工具管理问题远超窗口限制，MCP落地率仅9%，需企业... 阅读全文",
-      "isTranslated": false
-    },
-    {
       "title": "灵界 OS 6.0 稳定版 · 三处更新与一个崩溃修复",
       "titleZh": "灵界 OS 6.0 稳定版 · 三处更新与一个崩溃修复",
       "summary": "这次推到 Gitee master，提交号 b726a1d，共三处改动。1. 桌面体验 小组件支持按标题栏拖动，位置会记住，下次打开还在原地 点「窗口渲染优化」会先弹出确认，不再直接切换 24Hz 刷新率不再整页关掉 CSS 动画，动画保留，只是降帧 2。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
@@ -455,71 +496,6 @@
       "summaryLength": 200,
       "summaryQuality": "medium",
       "readerTextZh": "这次推到 Gitee master，提交号 b726a1d，共三处改动 1. 桌面体验 小组件支持按标题栏拖动，位置会记住，下次打开还在原地 点「窗口渲染优化」会先弹出确认，不再直接切换 24Hz 刷新率不再整页关掉 CSS 动画，动画保留，只是降帧 2 6.0 与停用动画 设置 → 其他，新增「停用动画」开关 全仓库版本号统一改为灵界 6.0 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
-      "isTranslated": false
-    },
-    {
-      "title": "本周看什么 | 最近值得一看的 6 部作品",
-      "titleZh": "本周看什么 | 最近值得一看的 6 部作品",
-      "summary": "影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ... 查看全文 📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。而影片后半段罗斯的思考与控诉，对比男人们脱下裤子的调笑与暴行，令人如万蚁噬心般痛苦，也为罗斯的平静和苏珊娜的反抗感到震颤 又名：パリに咲くエトワール / L'étoile de Paris en fleur / Samu...。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 近期佳作推荐： [美剧] 美国人质、[美剧] 侠女内莉、[电影] 罗斯、[电影] 绽...。",
-      "originalSummary": "影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ... 查看全文 📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。而影片后半段罗斯的思考与控诉，对比男人们脱下裤子的调笑与暴行，令人如万蚁噬心般痛苦，也为罗斯的平静和苏珊娜的反抗感到震颤 又名：パリに咲くエトワール / L'étoile de Paris en fleur / Samu...。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 近期佳作推荐： [美剧] 美国人质、[美剧] 侠女内莉、[电影] 罗斯、[电影] 绽...。",
-      "url": "https://sspai.com/post/114957",
-      "source": "少数派深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-25T09:30:00+00:00",
-      "tags": [
-        "工具",
-        "数字生活",
-        "中文深度"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 3747,
-      "summaryLength": 244,
-      "summaryQuality": "weak",
-      "readerTextZh": "📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映 影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ... 查看全文 📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映 影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映 影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 近期佳作推荐： [美剧] 美国人质、[美剧] 侠女内莉、[电影] 罗斯、[电影] 绽放于巴黎之星、[纪录片] 生命奇观 2、[真人秀] 思想验证区域 第二季 几则精彩预告： 《侦战》定档预告、《克里夫·布斯的惊险再冒险》正式预告、《野马九号》正式预告、《球状闪电》首支预告 几则影视资讯： 《敦煌英雄》定档 9 月 25 日、《哥斯拉 -0.0》新海报、《社交清算》新海报、《雨夜之徒》发布海报 往期推荐可 点此 或点击文末 tag #本周看什么，更多主题片单可 点此 查看 想要查看更多深度影视内容，可以关注我们的衍生栏目「 看什么 Café 」 如有其他建议也欢迎在评论区提出，感谢大家对「看什么」栏目的喜爱和支持 @潘誉晗：1977 年，一位名叫托尼的男子主动向警方打去了电话 电话中，他宣称挟持了一名男子，并在该男子的脖子上，套上了 12 号口径短管自动霰弹枪 霰弹枪的扳机上系着一根与之关联的绝命线",
-      "isTranslated": false
-    },
-    {
-      "title": "使用mitmweb查看windows上软件发出去 的网络请求 - 三国梦回",
-      "titleZh": "使用mitmweb查看windows上软件发出去 的网络请求 - 三国梦回",
-      "summary": "【摘要】背景 平时在windows是使用比较重的软件时，如idea，很想知道它到底背后在干啥，比如搜索插件的时候，感觉速度很慢，就想知道，是不是走了国外的服务器，在中国国内没有弄服务器吗？。这种时候就可以用mitmweb来查看idea发出去的网络流量到底是啥。步骤 安装mitmweb https://ww 阅读全文。",
-      "originalSummary": "【摘要】背景 平时在windows是使用比较重的软件时，如idea，很想知道它到底背后在干啥，比如搜索插件的时候，感觉速度很慢，就想知道，是不是走了国外的服务器，在中国国内没有弄服务器吗？。这种时候就可以用mitmweb来查看idea发出去的网络流量到底是啥。步骤 安装mitmweb https://ww 阅读全文。",
-      "url": "https://www.cnblogs.com/grey-wolf/p/23121156",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-25T07:59:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 139,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】背景 平时在windows是使用比较重的软件时，如idea，很想知道它到底背后在干啥，比如搜索插件的时候，感觉速度很慢，就想知道，是不是走了国外的服务器，在中国国内没有弄服务器吗？ 这种时候就可以用mitmweb来查看idea发出去的网络流量到底是啥 步骤 安装mitmweb https://ww 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "GitHub + Cloudflare + Picgo 搭建你的免费图床 - DominicKK",
-      "titleZh": "GitHub + Cloudflare + Picgo 搭建你的免费图床 - DominicKK",
-      "summary": "【摘要】教程简介 本教程会逐步指导你搭建一个稳定、私有、免费的图床方案。使用工具： GitHub私有仓库：提供免费存储空间 Cloudflare Workers：提供免费CDN加速和反代 PicGo（可选）：简化图片上传流程 Typora markdown编辑器（可选）：使用Typora内置...。",
-      "originalSummary": "【摘要】教程简介 本教程会逐步指导你搭建一个稳定、私有、免费的图床方案。使用工具： GitHub私有仓库：提供免费存储空间 Cloudflare Workers：提供免费CDN加速和反代 PicGo（可选）：简化图片上传流程 Typora markdown编辑器（可选）：使用Typora内置...。",
-      "url": "https://www.cnblogs.com/dominickk/p/23120855",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-25T06:39:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "云计算",
-        "开源"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 125,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】教程简介 本教程会逐步指导你搭建一个稳定、私有、免费的图床方案 使用工具： GitHub私有仓库：提供免费存储空间 Cloudflare Workers：提供免费CDN加速和反代 PicGo（可选）：简化图片上传流程 Typora markdown编辑器（可选）：使用Typora内置集成的PicG 阅读全文",
       "isTranslated": false
     },
     {
