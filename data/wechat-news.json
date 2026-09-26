@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-25T16:30:59.656218+00:00",
-  "nextUpdate": "2026-09-26T04:30:59.656218+00:00",
+  "updatedAt": "2026-09-26T03:26:31.851278+00:00",
+  "nextUpdate": "2026-09-26T15:26:31.851278+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,6 +76,29 @@
   "errors": [],
   "items": [
     {
+      "title": "AI 时代，技术人靠什么赢？｜QCon上海",
+      "titleZh": "AI 时代，技术人靠什么赢？｜QCon上海",
+      "summary": "本次大会将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、V...。QCon上海站聚焦AI系统化落地，覆盖Agent Runtime、AI Infra、安全可观测等关键实践方向 关键观点：AI Native时代核心挑战是系统级工程而非单点模型优化。本次分享将结合小红书技术团队在“产品工程师（PE）”实践中的探索，复盘 AI 时代技术人能力结构的变化：当 AI 不断降低技术实现的门槛，技术人的价值正在从“把技术做好”转向“把事情做成”——不仅要具...。",
+      "originalSummary": "本次大会将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、V...。QCon上海站聚焦AI系统化落地，覆盖Agent Runtime、AI Infra、安全可观测等关键实践方向 关键观点：AI Native时代核心挑战是系统级工程而非单点模型优化。本次分享将结合小红书技术团队在“产品工程师（PE）”实践中的探索，复盘 AI 时代技术人能力结构的变化：当 AI 不断降低技术实现的门槛，技术人的价值正在从“把技术做好”转向“把事情做成”——不仅要具...。",
+      "url": "https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-26T10:00:00+00:00",
+      "tags": [
+        "架构",
+        "软件工程",
+        "中文深度",
+        "AI",
+        "安全"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2338,
+      "summaryLength": 268,
+      "summaryQuality": "strong",
+      "readerTextZh": "本次分享将结合小红书技术团队在“产品工程师（PE）”实践中的探索，复盘 AI 时代技术人能力结构的变化：当 AI 不断降低技术实现的门槛，技术人的价值正在从“把技术做好”转向“把事情做成”——不仅要具备技术能力，还需要建立 Leader 思维，以及理解业务、判断价值的能力 本次分享将结合小红书技术团队在“产品工程师（PE）”实践中的探索，复盘 AI 时代技术人能力结构的变化：当 AI 不断降低技术实现的门槛，技术人的价值正在从“把技术做好”转向“把事情做成”——不仅要具备技术能力，还需要建立 Leader 思维，以及理解业务、判断价值的能力 从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 2026 年 QCon 全球软件开发大会大会 · 上海站 将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 在这一背景下， 2026 年 QCon 全球软件开发大会大会 · 上海站 正式启动 本次大会将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 小红书 & 电商交易终端负责人曹立成已确认出席 “ 技术人的下一站 ” 专题，并发表题为 《 AI 时代，技术人靠什么赢？...",
+      "isTranslated": false
+    },
+    {
       "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
       "titleZh": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
       "summary": "我们发现，多模态大模型能看懂图像、解析视频、在复杂场景里推理，然而一旦它们被丢进一个实时变化、需要持续探索的开放世界又会发生什么？。MineExplorer不是让模型看一张 Minecraft 截图做选择题，模型面对的是一个实时运行的3D沙盒世界。也就是说在这3分钟时间里，环境一直在变：模型每做一个动作，世界状态就更新一次，它必须根据最新的画面不断调整策略。",
@@ -83,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-25T16:30:13.261789+00:00",
+      "publishedAt": "2026-09-26T03:25:49.817967+00:00",
       "tags": [
         "后端",
         "工程",
@@ -105,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-25T16:30:12.621424+00:00",
+      "publishedAt": "2026-09-26T03:25:49.144440+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +151,7 @@
       "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-25T16:30:11.977948+00:00",
+      "publishedAt": "2026-09-26T03:25:48.402109+00:00",
       "tags": [
         "后端",
         "工程",
@@ -151,7 +174,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-25T16:30:11.320139+00:00",
+      "publishedAt": "2026-09-26T03:25:47.666426+00:00",
       "tags": [
         "后端",
         "工程",
@@ -173,7 +196,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-25T16:30:10.672572+00:00",
+      "publishedAt": "2026-09-26T03:25:46.924096+00:00",
       "tags": [
         "后端",
         "工程",
@@ -195,7 +218,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-25T16:30:09.881427+00:00",
+      "publishedAt": "2026-09-26T03:25:46.240935+00:00",
       "tags": [
         "后端",
         "工程",
@@ -217,7 +240,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-25T16:30:09.208777+00:00",
+      "publishedAt": "2026-09-26T03:25:45.565450+00:00",
       "tags": [
         "后端",
         "工程",
@@ -239,7 +262,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-09-25T16:30:08.568312+00:00",
+      "publishedAt": "2026-09-26T03:25:44.915208+00:00",
       "tags": [
         "后端",
         "工程",
@@ -254,25 +277,72 @@
       "isTranslated": false
     },
     {
-      "title": "面包板接线为什么这样接：从模块需求到芯片资源分配 - Zw-awa",
-      "titleZh": "面包板接线为什么这样接：从模块需求到芯片资源分配 - Zw-awa",
-      "summary": "可红色电源轨真的就是 3.3V 吗，为什么有的模块还非共地不可——接线到底在解决什么？。凹槽两侧的孔互不相通，每一侧通常是“五个孔横向相通”： 中间凹槽 a b c d e | f g h i j o--o--o--o--o | o--o--o--o--o 第 5 行 o--o--o--o--o | o--...。电压过高会让芯片发热、损坏，严重时还会把同一条电源网上的其他模块一起带走 有些电源模块的 12V 端子与输入端近似直通，同时提供 5V、3.3V 等降压输出。",
-      "originalSummary": "可红色电源轨真的就是 3.3V 吗，为什么有的模块还非共地不可——接线到底在解决什么？。凹槽两侧的孔互不相通，每一侧通常是“五个孔横向相通”： 中间凹槽 a b c d e | f g h i j o--o--o--o--o | o--o--o--o--o 第 5 行 o--o--o--o--o | o--...。电压过高会让芯片发热、损坏，严重时还会把同一条电源网上的其他模块一起带走 有些电源模块的 12V 端子与输入端近似直通，同时提供 5V、3.3V 等降压输出。",
-      "url": "https://www.cnblogs.com/zw-awa/p/23112397",
+      "title": "我如何让 AI 帮我写技术文档，而不制造废话",
+      "titleZh": "我如何让 AI 帮我写技术文档，而不制造废话",
+      "summary": "开篇 让 AI 写技术文档，最常见的提问是： 得到的结果通常很长，却不一定好用： 把代码注释改写一遍。没有写清楚参数、错误码和调用示例 技术文档的价值，不是字数多，而是让读者更快完成一个动作：调用接口、部署服务、排查故障，或者接手模块 读者是前端开发者。这一步能够明显减少无关内容，也能避免 AI 把文档写成技术说明书 POST /api/auth/login 用于校验邮箱和密码，成功后返回 24 小时有效的访问令牌。",
+      "originalSummary": "开篇 让 AI 写技术文档，最常见的提问是： 得到的结果通常很长，却不一定好用： 把代码注释改写一遍。没有写清楚参数、错误码和调用示例 技术文档的价值，不是字数多，而是让读者更快完成一个动作：调用接口、部署服务、排查故障，或者接手模块 读者是前端开发者。这一步能够明显减少无关内容，也能避免 AI 把文档写成技术说明书 POST /api/auth/login 用于校验邮箱和密码，成功后返回 24 小时有效的访问令牌。",
+      "url": "https://juejin.cn/post/7689045619357286409",
+      "source": "掘金技术社区",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-26T03:20:31+00:00",
+      "tags": [
+        "前端",
+        "后端",
+        "开发者",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1245,
+      "summaryLength": 177,
+      "summaryQuality": "weak",
+      "readerTextZh": "开篇 让 AI 写技术文档，最常见的提问是： 得到的结果通常很长，却不一定好用： 把代码注释改写一遍 没有写清楚参数、错误码和调用示例 技术文档的价值，不是字数多，而是让读者更快完成一个动作：调用接口、部署服务、排查故障，或者接手模块 读者是前端开发者 目标是让前端能够完成登录请求、处理成功响应和展示常见错误 范围只包含 HTTP 接口，不介绍数据库实现和登录算法 这一步能够明显减少无关内容，也能避免 AI 把文档写成技术说明书 POST /api/auth/login 用于校验邮箱和密码，成功后返回 24 小时有效的访问令牌 三、让 AI 先提取事实，再组织文字 我不会直接让 AI 根据一段代码生成最终文档，而是分两步进行 请阅读下面的接口代码，只提取代码中能够确认的事实，不要补充猜测 第二步，再组织文档： 请根据上一步确认过的事实，生成一份面向前端开发者的接口文档 要求： 1. 使用 Markdown",
+      "isTranslated": false
+    },
+    {
+      "title": "我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了 - 码哥字节",
+      "titleZh": "我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了 - 码哥字节",
+      "summary": "今天这篇就把这一年踩过的坑、想明白的事一次性讲清楚——尤其是当 OpenAI 这周也下场卷 Skill 的时候，事情就变得有点意思了 这周 GitHub Trending Python 榜上有个项目一周涨了 4290 星，叫 awesome-codex-ski...。Anthropic 在 2025 年 10 月 16 日上线 Skill,OpenAI 这边在 2026 年 4 月才被社区大规模搬运推广,中间差了半年。你把激活条件淹没在 1200 行细则里,模型自己都迷糊该不该用 官方建议是 SKILL.md 主体控制在 500 行以内,超出的拆到 references/ 子目录。",
+      "originalSummary": "今天这篇就把这一年踩过的坑、想明白的事一次性讲清楚——尤其是当 OpenAI 这周也下场卷 Skill 的时候，事情就变得有点意思了 这周 GitHub Trending Python 榜上有个项目一周涨了 4290 星，叫 awesome-codex-ski...。Anthropic 在 2025 年 10 月 16 日上线 Skill,OpenAI 这边在 2026 年 4 月才被社区大规模搬运推广,中间差了半年。你把激活条件淹没在 1200 行细则里,模型自己都迷糊该不该用 官方建议是 SKILL.md 主体控制在 500 行以内,超出的拆到 references/ 子目录。",
+      "url": "https://www.cnblogs.com/uniqueDong/p/23126169",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-25T15:43:00+00:00",
+      "publishedAt": "2026-09-26T02:21:00+00:00",
       "tags": [
         "开发者",
         "后端",
         "中文深度",
-        "芯片"
+        "AI",
+        "开源"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 3130,
-      "summaryLength": 160,
+      "sourceTextLength": 2855,
+      "summaryLength": 241,
+      "summaryQuality": "strong",
+      "readerTextZh": "【摘要】凌晨一点，我看着 Claude 又一次完美绕过了我精心写的那个 Skill，第三次了 prompt 关键词全对上了，描述里写得清清楚楚「用于 Spring Boot 项目的接口设计」，结果它愣是没触发 我开始怀疑自己——是不是 Claude Code 这个东西本身就不靠谱？ 第二天起来翻官方文档， 阅读全文 凌晨一点，我看着 Claude 又一次完美绕过了我精心写的那个 Skill，第三次了 第二天起来翻官方文档 凌晨一点，我看着 Claude 又一次完美绕过了我精心写的那个 Skill，第三次了 第二天起来翻官方文档 凌晨一点，我看着 Claude 又一次完美绕过了我精心写的那个 Skill，第三次了 prompt 关键词全对上了，描述里写得清清楚楚「用于 Spring Boot 项目的接口设计」，结果它愣是没触发 第二天起来翻官方文档，又翻了 Anthropic 工程师那篇被很多人转的 Medium 长文，才反应过来： 问题不在 Claude，问题在我自己 我以为 Skill 就是 prompt 模板的升级版，结果完全搞反了它的设计哲学 那是去年 11 月的事",
+      "isTranslated": false
+    },
+    {
+      "title": "【FHE】（十）：密文里的 attention——没有 max，softmax 怎么办 - haliu",
+      "titleZh": "【FHE】（十）：密文里的 attention——没有 max，softmax 怎么办 - haliu",
+      "summary": "【摘要】项目仓库 Gitee 主仓：https://gitee.com/pei-xiaoguang/kestrel-llm GitHub 镜像：https://github.com/m13253246268-ship-it/kestrel-llm 相关文档 术...。",
+      "originalSummary": "【摘要】项目仓库 Gitee 主仓：https://gitee.com/pei-xiaoguang/kestrel-llm GitHub 镜像：https://github.com/m13253246268-ship-it/kestrel-llm 相关文档 术...。",
+      "url": "https://www.cnblogs.com/haliuhome/p/23125666",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-26T00:41:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 103,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】拿到一堆模块时，最容易的做法是先拿杜邦线往面包板上插 可红色电源轨真的就是 3.3V 吗，为什么有的模块还非共地不可——接线到底在解决什么？ 阅读全文 拿到一堆模块时，最容易的做法是先拿杜邦线往面包板上插 拿到一堆模块时，最容易的做法是先拿杜邦线往面包板上插 我拿到一块 STM32、一个 OLED、两个按键和几颗 LED 时，也很容易先拿杜邦线开始插 灯也许能亮，屏幕也许能显示，但线一多，问题就开始出现：哪根线是电源？ 红色电源轨真的天然就是 3.3V 吗？ 接线是把一组有电压、有电流、有信号要求的模块，按照它们的资料接到一起",
+      "readerTextZh": "【摘要】项目仓库 Gitee 主仓：https://gitee.com/pei-xiaoguang/kestrel-llm GitHub 镜像：https://github.com/m13253246268-ship-it/kestrel-llm 相关文档 术语与数据口径 ｜ 性能与基准 ｜ 构建与复现 ｜ 阅读全文",
       "isTranslated": false
     },
     {
@@ -318,27 +388,6 @@
       "summaryLength": 98,
       "summaryQuality": "weak",
       "readerTextZh": "【摘要】上传一张叶片照片，AI 告诉你它得了什么病 大家好，我是码农刚子 前阵子回了趟老家，正赶上水稻抽穗，发现一件挺头疼的事 村里谁家田里叶子出了斑点，第一反应不是找农技员——镇上的农技站本来就没几个人，下一趟田得排好几天 大家习惯找村里种了一辈子地的老农民给看看",
-      "isTranslated": false
-    },
-    {
-      "title": "htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则",
-      "titleZh": "htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则",
-      "summary": "htmx 团队发布了 htmx 4.0.0。这是继 2024 年 htmx 2.0 发布以来，该超媒体库的首个主版本更新。另一位开发者也表达了类似看法，并表示其团队正准备迁回 React htmx 4.0 通过 npm 的 next 标签发布，而非 latest ，因此，使用未指定版本的 CDN 链接的用户不会被强制升级。",
-      "originalSummary": "htmx 团队发布了 htmx 4.0.0。这是继 2024 年 htmx 2.0 发布以来，该超媒体库的首个主版本更新。另一位开发者也表达了类似看法，并表示其团队正准备迁回 React htmx 4.0 通过 npm 的 next 标签发布，而非 latest ，因此，使用未指定版本的 CDN 链接的用户不会被强制升级。",
-      "url": "https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-25T14:18:00+00:00",
-      "tags": [
-        "架构",
-        "软件工程",
-        "中文深度"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2346,
-      "summaryLength": 130,
-      "summaryQuality": "weak",
-      "readerTextZh": "htmx 团队发布了 htmx 4.0.0 这是继 2024 年 htmx 2.0 发布以来，该超媒体库的首个主版本更新 新版本历经八个月开发，直接跳过了 3.0 版本 htmx 创始人 Carson Gross 曾承诺永远不会有 htmx 3.0 当 InfoWorld 问及此次版本跨越时，他用一个词概括了这一变化：“Oops”（哎呀） htmx 团队发布了 htmx 4.0.0 当 InfoWorld 问及此次版本跨越时，他用 一个词概括了这一变化 ：“Oops”（哎呀） htmx 已将长期使用的 XMLHttpRequest 传输机制替换为现代 fetch() API 这次重写支持原生流式传输，同时将脚本体积控制在约 14KB 对大多数开发者而言，熟悉的 hx-get 和 hx-post 属性仍然保持原有行为",
       "isTranslated": false
     },
     {
@@ -471,28 +520,6 @@
       "summaryLength": 125,
       "summaryQuality": "weak",
       "readerTextZh": "【摘要】教程简介 本教程会逐步指导你搭建一个稳定、私有、免费的图床方案 使用工具： GitHub私有仓库：提供免费存储空间 Cloudflare Workers：提供免费CDN加速和反代 PicGo（可选）：简化图片上传流程 Typora markdown编辑器（可选）：使用Typora内置集成的PicG 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "go语言中内存地址(指针) 与new和make的区别 - 何人陪我共长生",
-      "titleZh": "go语言中内存地址(指针) 与new和make的区别 - 何人陪我共长生",
-      "summary": "【摘要】golang中，每一个变量在内存中都有一个对应的内存地址。获取变量的内存地址 %p &变量名 package main import (\"fmt\") func main() { // 内存地址通过[&变量名]来获取。占位符使用[%p] var a int = 10 // 内存地址0x13443e4 阅读全文。",
-      "originalSummary": "【摘要】golang中，每一个变量在内存中都有一个对应的内存地址。获取变量的内存地址 %p &变量名 package main import (\"fmt\") func main() { // 内存地址通过[&变量名]来获取。占位符使用[%p] var a int = 10 // 内存地址0x13443e4 阅读全文。",
-      "url": "https://www.cnblogs.com/ishoulgodo/p/23120402",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-25T06:03:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 114,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】golang中，每一个变量在内存中都有一个对应的内存地址 获取变量的内存地址 %p &变量名 package main import (\"fmt\") func main() { // 内存地址通过[&变量名]来获取 占位符使用[%p] var a int = 10 // 内存地址0x13443e4 阅读全文",
       "isTranslated": false
     },
     {
