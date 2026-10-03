@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-02T17:26:33.853618+00:00",
-  "nextUpdate": "2026-10-03T05:26:33.853618+00:00",
+  "updatedAt": "2026-10-03T03:44:24.359777+00:00",
+  "nextUpdate": "2026-10-03T15:44:24.359777+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,6 +76,29 @@
   "errors": [],
   "items": [
     {
+      "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+      "titleZh": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+      "summary": "将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe...。从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！。Agent 时代，AI 应用正在从“生成内容”快速走向“自主执行”，可运行模型生成代码，操作浏览器，调用 MCP Tool 和内部业务系统 运行时隔离要求高。",
+      "originalSummary": "将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe...。从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！。Agent 时代，AI 应用正在从“生成内容”快速走向“自主执行”，可运行模型生成代码，操作浏览器，调用 MCP Tool 和内部业务系统 运行时隔离要求高。",
+      "url": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-03T10:00:00+00:00",
+      "tags": [
+        "架构",
+        "软件工程",
+        "中文深度",
+        "AI",
+        "安全"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1910,
+      "summaryLength": 202,
+      "summaryQuality": "strong",
+      "readerTextZh": "从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 在这一背景下， 2026 年 QCon 全球软件开发大会大会 · 上海站 正式启动 本次大会将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 上汽集团 & 云计算中心架构师方宇晨已确认出席 “ Agent as a Service ” 专题，并发表题为 《 企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理 》 的主题分享 Agent 时代，AI 应用正在从“生成内容”快速走向“自主执行”，可运行模型生成代码，操作浏览器，调用 MCP Tool 和内部业务系统 运行时隔离要求高 Agent 会运行模型生成的未知代码，需要同时保证文件系统和内核的隔离，传统容器隔离无法单独承担完整安全边界 网络环境复杂 Agent 既需要访问 Internet、模型 API 还有企业内部系统，需要同时提供独立的 L3/L4 网络隔离 权限控制严格 一个 Agent 可以调用的 API 权限必须经过严格授权和控制 凭证风险高 各类凭证一旦直接进入 Agent...",
+      "isTranslated": false
+    },
+    {
       "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
       "titleZh": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
       "summary": "我们发现，多模态大模型能看懂图像、解析视频、在复杂场景里推理，然而一旦它们被丢进一个实时变化、需要持续探索的开放世界又会发生什么？。MineExplorer不是让模型看一张 Minecraft 截图做选择题，模型面对的是一个实时运行的3D沙盒世界。也就是说在这3分钟时间里，环境一直在变：模型每做一个动作，世界状态就更新一次，它必须根据最新的画面不断调整策略。",
@@ -83,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-02T17:25:53.904995+00:00",
+      "publishedAt": "2026-10-03T03:43:40.340856+00:00",
       "tags": [
         "后端",
         "工程",
@@ -105,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-02T17:25:53.207741+00:00",
+      "publishedAt": "2026-10-03T03:43:39.653366+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +151,7 @@
       "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-02T17:25:52.613683+00:00",
+      "publishedAt": "2026-10-03T03:43:39.027627+00:00",
       "tags": [
         "后端",
         "工程",
@@ -151,7 +174,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-02T17:25:52.024267+00:00",
+      "publishedAt": "2026-10-03T03:43:38.324359+00:00",
       "tags": [
         "后端",
         "工程",
@@ -173,7 +196,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-02T17:25:51.434064+00:00",
+      "publishedAt": "2026-10-03T03:43:37.649096+00:00",
       "tags": [
         "后端",
         "工程",
@@ -195,7 +218,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-02T17:25:50.852875+00:00",
+      "publishedAt": "2026-10-03T03:43:36.886606+00:00",
       "tags": [
         "后端",
         "工程",
@@ -217,7 +240,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-02T17:25:50.244667+00:00",
+      "publishedAt": "2026-10-03T03:43:36.247582+00:00",
       "tags": [
         "后端",
         "工程",
@@ -239,7 +262,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-02T17:25:49.650677+00:00",
+      "publishedAt": "2026-10-03T03:43:35.584223+00:00",
       "tags": [
         "后端",
         "工程",
@@ -254,70 +277,91 @@
       "isTranslated": false
     },
     {
-      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
-      "titleZh": "《Agent 评测白皮书》系列01：Agent 评测全览",
-      "summary": "当 Agent Harness 的任何一个环节发生变化——模型升级、Prompt 调整、知识库更新、Skill 新增或下线——都可以通过离线评测验证效果，避免不成熟的变更导致 Agent 能力劣化。借用 Anthropic《 Demystifying evals for AI agents 》文中对长程 Agent 评测 Task 定义：为“具有明确输入和成功标准的单个测试”，这个概念同样可以泛化到短程 Agent...。如果 Skill 都正常，但“数据对比类”任务占比从 10% 涨到 35%，那结论是用户结构变了、Agent 在新场景上能力不足——这两种情况的应对完全不同。",
-      "originalSummary": "当 Agent Harness 的任何一个环节发生变化——模型升级、Prompt 调整、知识库更新、Skill 新增或下线——都可以通过离线评测验证效果，避免不成熟的变更导致 Agent 能力劣化。借用 Anthropic《 Demystifying evals for AI agents 》文中对长程 Agent 评测 Task 定义：为“具有明确输入和成功标准的单个测试”，这个概念同样可以泛化到短程 Agent...。如果 Skill 都正常，但“数据对比类”任务占比从 10% 涨到 35%，那结论是用户结构变了、Agent 在新场景上能力不足——这两种情况的应对完全不同。",
-      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
-      "source": "美团技术团队",
-      "region": "技术团队",
-      "publishedAt": "2026-10-02T17:25:49.055366+00:00",
-      "tags": [
-        "后端",
-        "工程",
-        "技术团队",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 11271,
-      "summaryLength": 238,
-      "summaryQuality": "medium",
-      "readerTextZh": "搭一个 Agent 正在变得越来越容易 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的要求在往下降 早期要让模型稳定地按格式输出、正确地选中一个工具，需要反复打磨 Prompt、设计各种兜底 现在这些能力越来越多地由模型本身承担，长上下文、原生工具调用、更强的指令遵循和多步推理，把大量原本需要工程去补的地方补上了 二是 Agent 框架的功能持续丰富 从早期需要自己实现规划、记忆、工具注册和状态管理，到现在框架和协议层把这些抽象成标准组件，接一个工具、加一个 Skill，工作量都在显著下降 两条曲线叠加，结论很直接：搭建 Agent 门槛正在逐年降低 这带来的直接变化是 Agent 落地场景越来越多，越来越发散",
-      "isTranslated": false
-    },
-    {
-      "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
-      "titleZh": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
-      "summary": "美团外卖多个业务订单量提升 2.06%~6.68% 不等，推理成本降低 24%，相关工作已被 KDD 2026 收录。MTGR 将样本组织成单用户（UV）粒度，MTFM 进一步升级为外卖全业务的统一用户粒度样本，同一用户的外卖多业务曝光聚合成 1 条样本，共享模型中最耗费算力的长序列 Attention 部分计算。序列长度（图7）：在 400~2000 范围内序列长度 Scaling 现象明显，随着入图序列长度增长，模型能够建模更长期的用户偏好，模型离线 GAUC 稳定提升。",
-      "originalSummary": "美团外卖多个业务订单量提升 2.06%~6.68% 不等，推理成本降低 24%，相关工作已被 KDD 2026 收录。MTGR 将样本组织成单用户（UV）粒度，MTFM 进一步升级为外卖全业务的统一用户粒度样本，同一用户的外卖多业务曝光聚合成 1 条样本，共享模型中最耗费算力的长序列 Attention 部分计算。序列长度（图7）：在 400~2000 范围内序列长度 Scaling 现象明显，随着入图序列长度增长，模型能够建模更长期的用户偏好，模型离线 GAUC 稳定提升。",
-      "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
-      "source": "美团技术团队",
-      "region": "技术团队",
-      "publishedAt": "2026-10-02T17:25:48.464321+00:00",
-      "tags": [
-        "后端",
-        "工程",
-        "技术团队",
-        "AI",
-        "芯片"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 20036,
-      "summaryLength": 199,
-      "summaryQuality": "weak",
-      "readerTextZh": "美团在 MTGR 基础上提出统一推荐基座大模型 MTFM，首次实现外卖多个主要业务的统一精排模型 围绕规模可扩展性、场景可延展性与架构高效性三大挑战，MTFM以异构 Tokenizer 与动态掩码实现多场景特征免对齐，通过混合注意力与 Target Scale-Up 提升模型 Scaling 能力，借鉴 LLM 优化实践提升深层网络训练效果，并以 User-Level 训练范式与定制算子保证系统开销可控 美团外卖多个业务订单量提升 2.06%~6.68% 不等，推理成本降低 24%，相关工作已被 KDD 2026 收录 我们去年提出了 MTGR [1] —— 一种新的生成式精排框架，在美团外卖推荐场景验证了 Scaling Law 的有效性，并取得显著业务收益 然而，推荐领域的 Scaling Law 探索往往局限于单场景内部，模型被限制在单场景孤岛中，跨场景的数据、算力和架构无法充分复用 在美团这一问题尤为突出，推荐覆盖外卖首页、拼好饭等多个业务场景，各场景长期独立建模 与此同时，大语言模型（LLM）已验证一条清晰路径：基座模型（Foundation Model）足以统一处理编程、数学、写作等多领域任务，也可以将文本、图像、语音等异构信息表示为 Token 序列并进行端到端学习，展现出了强泛化性与可扩展性 因此，我们认为美团推荐的下一个阶段关键在于打通跨场景的异构性，充分利用多场景数据提升 Scaling Law 的上限，即建设统一推荐基座大模型",
-      "isTranslated": false
-    },
-    {
-      "title": "电机家族：有的电机听“目标”，有的电机听“力气” - Zw-awa",
-      "titleZh": "电机家族：有的电机听“目标”，有的电机听“力气” - Zw-awa",
-      "summary": "把舵机的代码直接搬到直流电机上，转起来的现象会完全不同 把 SG90 的壳打开看，里面有四样东西：一只小直流电机、一组减速齿轮、一个电位器、一块小控制板 电位器装在输出轴上。你写 Servo_SetAngle(0) ，并不是在给它通电让它往 0 度转——是在告诉它“0 度到了没”，剩下的事它自己做 把电压加到直流电机两端，电流穿过线圈，轴就转。步进在工业里很常见：3D 打印机、数控、送料，凡是“按步数走”的位置活都有它，云台只是主线里用到它的地方 舵机（位置伺服的一种） ：前面拆过的那套：电机+减速+电位器+控制板。",
-      "originalSummary": "把舵机的代码直接搬到直流电机上，转起来的现象会完全不同 把 SG90 的壳打开看，里面有四样东西：一只小直流电机、一组减速齿轮、一个电位器、一块小控制板 电位器装在输出轴上。你写 Servo_SetAngle(0) ，并不是在给它通电让它往 0 度转——是在告诉它“0 度到了没”，剩下的事它自己做 把电压加到直流电机两端，电流穿过线圈，轴就转。步进在工业里很常见：3D 打印机、数控、送料，凡是“按步数走”的位置活都有它，云台只是主线里用到它的地方 舵机（位置伺服的一种） ：前面拆过的那套：电机+减速+电位器+控制板。",
-      "url": "https://www.cnblogs.com/zw-awa/p/23187442",
+      "title": "nav2官方的bringup文件阅读笔记-命名空间，composition - 凪风sama",
+      "titleZh": "nav2官方的bringup文件阅读笔记-命名空间，composition - 凪风sama",
+      "summary": "【摘要】nav2官方的bringup文件阅读笔记-命名空间，composition 最近开始学习nav2的源码，开始读了nav2自己提供的快速启动的bringup文件，本笔记用来记录从这个文件中学到了什么。并使用launch文件启动时的 namespace 参数来设置节点的命名空间 #include #include #include #include \"rclcpp/rclcpp.hpp\" #include \"std_m...。nav2的源码地址放在这里：GitHub链接 结构概述 nav2提供的bringup文件可以分为三个 最近开始学习nav2的源码，开始读了nav2自己提供的快速启动的bringup文件，本笔记用来记录...。",
+      "originalSummary": "【摘要】nav2官方的bringup文件阅读笔记-命名空间，composition 最近开始学习nav2的源码，开始读了nav2自己提供的快速启动的bringup文件，本笔记用来记录从这个文件中学到了什么。并使用launch文件启动时的 namespace 参数来设置节点的命名空间 #include #include #include #include \"rclcpp/rclcpp.hpp\" #include \"std_m...。nav2的源码地址放在这里：GitHub链接 结构概述 nav2提供的bringup文件可以分为三个 最近开始学习nav2的源码，开始读了nav2自己提供的快速启动的bringup文件，本笔记用来记录...。",
+      "url": "https://www.cnblogs.com/CrescentWind/p/23190474",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-02T15:44:00+00:00",
+      "publishedAt": "2026-10-03T03:29:00+00:00",
       "tags": [
         "开发者",
         "后端",
         "中文深度",
-        "云计算"
+        "开源"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2972,
-      "summaryLength": 214,
+      "sourceTextLength": 6446,
+      "summaryLength": 279,
       "summaryQuality": "strong",
-      "readerTextZh": "【摘要】两种电机都能接在同一路调速信号上，也都转得起来，看上去像是一回事 可写程序之前，为什么必须先弄清楚自己该给它力气，还是给它一个目标？ 阅读全文 两种电机都能接在同一路调速信号上，也都转得起来，看上去像是一回事 两种电机都能接在同一路调速信号上，也都转得起来，看上去像是一回事 A: 一段 PWM 里高电平脉宽代表的目标角度 舵机内部自己完成“读位置、算误差、转到位”的全过程，外界只给它目标值 Q: 舵机和普通直流电机差在哪？ A: 直流电机收到的是电压，电压就是驱动力 舵机内部有电机、减速、电位器和一块控制板，外界给的是“目标”，不是“力气” Q: 为什么要先认识电机家族？",
+      "readerTextZh": "【摘要】nav2官方的bringup文件阅读笔记-命名空间，composition 最近开始学习nav2的源码，开始读了nav2自己提供的快速启动的bringup文件，本笔记用来记录从这个文件中学到了什么 nav2的源码地址放在这里：GitHub链接 结构概述 nav2提供的bringup文件可以分为三个 阅读全文 nav2官方的bringup文件阅读笔记-命名空间，composition 最近开始学习nav2的源码，开始读了nav2自己提供的快速启动的bringup文件，本笔记用来记录从这个文件中学到了什么 nav2的源码地址放在这里：GitHub链接 结构概述 nav2提供的bringup文件可以分为三个 nav2官方的bringup文件阅读笔记-命名空间，composition 最近开始学习nav2的源码，开始读了nav2自己提供的快速启动的bringup文件，本笔记用来记录从这个文件中学到了什么 nav2的源码地址放在这里：GitHub链接 结构概述 nav2提供的bringup文件可以分为三个 最近开始学习nav2的源码，开始读了nav2自己提供的快速启动的bringup文件，本笔记用来记录从这个文件中学到了什么 namespace = LaunchConfiguration('namespace') use_namespace = LaunchConfiguration('use_namespace') slam = LaunchConfiguration('slam') map_yaml_file = LaunchConfiguration('map') use_sim_time = LaunchConfiguration('use_sim_time') params_file = LaunchConfiguration('params_file') autostart = LaunchConfiguration('autostart') use_composition = LaunchConfiguration('use_composition')...",
+      "isTranslated": false
+    },
+    {
+      "title": "世界历史时间线(可在线动态体验) - 李吉磊",
+      "titleZh": "世界历史时间线(可在线动态体验) - 李吉磊",
+      "summary": "【摘要】慈禧喝过可乐, 坐过汽车 阿基米德要翘起地球时, 秦始皇刚统一六国 孔子孟子和苏格拉底柏拉图亚里士多德一块讨论哲学 欧洲文艺复兴, 开始以人为本, 成吉思汗刚烧杀抢掠, 建立元朝 哥白尼的日心说发表时, 朱元璋的九子夺嫡刚有结果 伽利略牛顿在奠定物理基...。",
+      "originalSummary": "【摘要】慈禧喝过可乐, 坐过汽车 阿基米德要翘起地球时, 秦始皇刚统一六国 孔子孟子和苏格拉底柏拉图亚里士多德一块讨论哲学 欧洲文艺复兴, 开始以人为本, 成吉思汗刚烧杀抢掠, 建立元朝 哥白尼的日心说发表时, 朱元璋的九子夺嫡刚有结果 伽利略牛顿在奠定物理基...。",
+      "url": "https://www.cnblogs.com/LeoLeeTech/p/23190372",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-03T03:12:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 111,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】慈禧喝过可乐, 坐过汽车 阿基米德要翘起地球时, 秦始皇刚统一六国 孔子孟子和苏格拉底柏拉图亚里士多德一块讨论哲学 欧洲文艺复兴, 开始以人为本, 成吉思汗刚烧杀抢掠, 建立元朝 哥白尼的日心说发表时, 朱元璋的九子夺嫡刚有结果 伽利略牛顿在奠定物理基本规律时, 清朝入主中原 达尔文居里夫人马克思和 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "当 AI agent 群集出现时，银行能跟上吗？",
+      "titleZh": "当 AI agent 群集出现时，银行能跟上吗？",
+      "summary": "AI agent 正在改变的不只是金融 AI agent 正在改变的不只是金融 随着自主 AI 重塑网络风险，金融机构需要具备可视性和上下文，才能检测异常行为并以机器速度做出响应 AI agent 正在改变的不只是金融服务公司的运营方式，也在改变网络风险的速度...。身份和访问管理、多重身份验证、欺诈检测、终端安全、网络监控，以及日益复杂的安全运营体系，使金融服务业成为全球安全意识最强的行业之一 Agentic AI 引入了一个不同的变量：机器速度下的自主性 攻击者不再需要手动逐个探...。",
+      "originalSummary": "AI agent 正在改变的不只是金融 AI agent 正在改变的不只是金融 随着自主 AI 重塑网络风险，金融机构需要具备可视性和上下文，才能检测异常行为并以机器速度做出响应 AI agent 正在改变的不只是金融服务公司的运营方式，也在改变网络风险的速度...。身份和访问管理、多重身份验证、欺诈检测、终端安全、网络监控，以及日益复杂的安全运营体系，使金融服务业成为全球安全意识最强的行业之一 Agentic AI 引入了一个不同的变量：机器速度下的自主性 攻击者不再需要手动逐个探...。",
+      "url": "https://juejin.cn/post/7691717198449311782",
+      "source": "掘金技术社区",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-03T03:08:58+00:00",
+      "tags": [
+        "前端",
+        "后端",
+        "开发者",
+        "AI",
+        "安全"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2390,
+      "summaryLength": 215,
+      "summaryQuality": "strong",
+      "readerTextZh": "作者：来自 Elastic Karen Mcdermott 随着自主 AI 重塑网络风险，金融机构需要具备可视性和上下文，才能检测异常行为并以机器速度做出响应 AI agent 正在改变的不只是金融 AI agent 正在改变的不只是金融 随着自主 AI 重塑网络风险，金融机构需要具备可视性和上下文，才能检测异常行为并以机器速度做出响应 AI agent 正在改变的不只是金融服务公司的运营方式，也在改变网络风险的速度和规模 近期 American Banker 的一篇 文章 探讨了银行面临的一项新兴担忧：由 AI agent 组成的协同行动群体能够探测系统、共享信息、调整自身行为，并同时寻找漏洞 虽然 “失控的 AI agent 群集” 这一概念听起来很未来主义，但其背后的安全挑战已经开始显现 几十年来，银行一直在围绕关键系统和数据构建多层防护 身份和访问管理、多重身份验证、欺诈检测、终端安全、网络监控，以及日益复杂的安全运营体系，使金融服务业成为全球安全意识最强的行业之一 Agentic AI 引入了一个不同的变量：机器速度下的自主性 攻击者不再需要手动逐个探测系统，自主 agent 可以同时探索多条路径，从所遇到的情况中学习，并调整自身行为 对于防御方而言，挑战在于足够快速地识别数千甚至数百万个信号中的模式，从而了解正在发生什么，并判断这是否构成威胁 AI 驱动的活动可以在应用程序、API、身份、终端、网络、云环境、客户交互和第三方系统中产生信号 只有将这些活动关联起来，潜在的危险模式才会显现出来 这正是碎片化的安全数据和运营数据会成为负担的地方 安全团队需要汇集日志、指标、追踪、安全事件、威胁情报、身份信息和历史活动，以便识别那些原本可能隐藏不见的关联 搜索在实现这一目标的过程中发挥着重要作用 当活动分散在不同系统中，并以机器速度发生时，分析人员需要足够快速地搜索和关联海量异构数据，从而不仅了解是否发生了异常情况，还要了解其周围还发生了什么、涉及哪些系统，以及这些事件之间如何关联 Agentic AI 的发展也扩大了可观测性的作用",
+      "isTranslated": false
+    },
+    {
+      "title": "客户总改测试数据？用脚本一键重生成 SQL - AlfredZhao",
+      "titleZh": "客户总改测试数据？用脚本一键重生成 SQL - AlfredZhao",
+      "summary": "【摘要】客户频繁变更测试数据，是很多项目里绕不开的日常。每次拿到新的 .xlsx，如果还靠手工改 SQL，既慢又容易出错。需要先说明一点：这里说的生成器并不是一个开箱即用的通用工具，而是针对具体项目文件需求、借助 AI 生成出来的脚本。",
+      "originalSummary": "【摘要】客户频繁变更测试数据，是很多项目里绕不开的日常。每次拿到新的 .xlsx，如果还靠手工改 SQL，既慢又容易出错。需要先说明一点：这里说的生成器并不是一个开箱即用的通用工具，而是针对具体项目文件需求、借助 AI 生成出来的脚本。",
+      "url": "https://www.cnblogs.com/jyzhao/p/23189291",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-02T23:41:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 158,
+      "summaryLength": 102,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】客户频繁变更测试数据，是很多项目里绕不开的日常 每次拿到新的 .xlsx，如果还靠手工改 SQL，既慢又容易出错 需要先说明一点：这里说的生成器并不是一个开箱即用的通用工具，而是针对具体项目文件需求、借助 AI 生成出来的脚本 它的定位是——把“根据客户文件生成 SQL”这件事，从每次都用 AI 阅读全文",
       "isTranslated": false
     },
     {
@@ -361,29 +405,6 @@
       "summaryLength": 121,
       "summaryQuality": "weak",
       "readerTextZh": "【摘要】如果只看一件事：微软这次解决的不是\"AI 能不能做界面\"，而是\"Agent 的界面该由谁说了算\" 答案是：协议层由 AG-UI 统一，呈现层由你的应用决定 这两篇博客分别从传输和呈现两端给出了官方答案，而且都不强制你上全栈——一个标准抽象（IChatClient）打通了所有环节",
-      "isTranslated": false
-    },
-    {
-      "title": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
-      "titleZh": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
-      "summary": "GitHub 持续出现的故障以及彼此之间的激励机制存在错位，导致该项目将代码库迁移至 Codeberg Kelley 提到了 Zig 项目决定 彻底拒绝 AI 贡献 的两个因素：固定的人力资源无法随代码量的增长而扩展，以及对软件质量的负面影响： 第一个原因很简...。而非营利组织只是致力于坚持做他们正在做的事，而这种稳定性正是我所追求的 部分开发者也认同这一观点，即 GitHub 性能的下降恰好与 AI 工作负载的指数级增长同时发生 Kelley 在采访中 回忆道 ，他是在尝试构建一...。",
-      "originalSummary": "GitHub 持续出现的故障以及彼此之间的激励机制存在错位，导致该项目将代码库迁移至 Codeberg Kelley 提到了 Zig 项目决定 彻底拒绝 AI 贡献 的两个因素：固定的人力资源无法随代码量的增长而扩展，以及对软件质量的负面影响： 第一个原因很简...。而非营利组织只是致力于坚持做他们正在做的事，而这种稳定性正是我所追求的 部分开发者也认同这一观点，即 GitHub 性能的下降恰好与 AI 工作负载的指数级增长同时发生 Kelley 在采访中 回忆道 ，他是在尝试构建一...。",
-      "url": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-02T13:00:00+00:00",
-      "tags": [
-        "架构",
-        "软件工程",
-        "中文深度",
-        "AI",
-        "开源"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2103,
-      "summaryLength": 213,
-      "summaryQuality": "strong",
-      "readerTextZh": "在接受 JetBrains 采访时，Zig 项目创建者 Andrew Kelley 详细阐述了该项目正式禁止 AI 贡献的决定，以及从 GitHub 迁移至 Codeberg 的动机 在接受 JetBrains 采访时，Zig 项目创建者 Andrew Kelley 详细阐述了该项目正式禁止 AI 贡献的决定，以及从 GitHub 迁移至 Codeberg 的动机 在接受 JetBrains 采访时，Zig 项目创建者 Andrew Kelley 详细阐述 了该项目正式禁止 AI 贡献的决定，以及从 GitHub 迁移至 Codeberg 的动机 Kelley 指出，自动提交代码最终会降低代码库的质量，并且会削弱开源参与者之间的社交纽带 GitHub 持续出现的故障以及彼此之间的激励机制存在错位，导致该项目将代码库迁移至 Codeberg Kelley 提到了 Zig 项目决定 彻底拒绝 AI 贡献 的两个因素：固定的人力资源无法随代码量的增长而扩展，以及对软件质量的负面影响： 第一个原因很简单，那就是这类贡献无一例外都是垃圾 […] 不仅如此，它们甚至带来了负价值 […] 当我们收到这些垃圾贡献时，它们会占用我们的审查时间 经过几次审查后，我们才意识到，贡献者根本不知道自己在做什么 他们只是把我们说的话复制粘贴到聊天窗口，然后把聊天记录“洗白”后发回来，假装自己没有跟 AI 聊天，但我们依然能看穿 后来我们终于意识到，这样做永远不可能产出高质量的代码，因为他们根本不知道自己在做什么 到头来，所有人的时间都被白白浪费了 同样重要的是，Kelley 强调了 Zig 的核心教育使命",
       "isTranslated": false
     },
     {
@@ -498,94 +519,6 @@
       "isTranslated": false
     },
     {
-      "title": "Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏 - 张善友",
-      "titleZh": "Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏 - 张善友",
-      "summary": "【摘要】GameDev-MCP-Server 这个仓库最有意思的设计是：它一份代码同时服务三个引擎——Unity-MCP、Godot-MCP、Unreal-MCP 共用它。仓库里没有任何引擎特定的代码，真正干活的工具是由连上来的引擎插件动态提供的。",
-      "originalSummary": "【摘要】GameDev-MCP-Server 这个仓库最有意思的设计是：它一份代码同时服务三个引擎——Unity-MCP、Godot-MCP、Unreal-MCP 共用它。仓库里没有任何引擎特定的代码，真正干活的工具是由连上来的引擎插件动态提供的。",
-      "url": "https://www.cnblogs.com/shanyou/p/23181231",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-01T13:54:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 129,
-      "summaryLength": 107,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】GameDev-MCP-Server 这个仓库最有意思的设计是：它一份代码同时服务三个引擎——Unity-MCP、Godot-MCP、Unreal-MCP 共用它 仓库里没有任何引擎特定的代码，真正干活的工具是由连上来的引擎插件动态提供的",
-      "isTranslated": false
-    },
-    {
-      "title": "第二章：Details 重点数据细读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐ - _nibel",
-      "titleZh": "第二章：Details 重点数据细读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐ - _nibel",
-      "summary": "【摘要】第二章：Details 重点数据细读 本章正式进入 Details 页，这可是全部指标的大合集，被切成 14 个 section，从上往下排开，信息量比 Summary 大一个量级，本章着重讲透其中最值得细读的三个重点 section，剩下的 sect...。",
-      "originalSummary": "【摘要】第二章：Details 重点数据细读 本章正式进入 Details 页，这可是全部指标的大合集，被切成 14 个 section，从上往下排开，信息量比 Summary 大一个量级，本章着重讲透其中最值得细读的三个重点 section，剩下的 sect...。",
-      "url": "https://www.cnblogs.com/nibel/p/23179607",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-01T06:25:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 110,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】第二章：Details 重点数据细读 本章正式进入 Details 页，这可是全部指标的大合集，被切成 14 个 section，从上往下排开，信息量比 Summary 大一个量级，本章着重讲透其中最值得细读的三个重点 section，剩下的 section 留到下一章按页面顺序补齐",
-      "isTranslated": false
-    },
-    {
-      "title": "一行命令，解锁 Claude Code 全部权限-ClawGod - 绝不原创的飞龙",
-      "titleZh": "一行命令，解锁 Claude Code 全部权限-ClawGod - 绝不原创的飞龙",
-      "summary": "【摘要】ClawGod，把官方藏起来的功能全部打开 你有没有这种感觉：明明Claude Code是最强的AI编程工具，但总有些地方“差点意思”？。用最强的Opus模型，告诉你“订阅等级不够”。让多个AI同时协作，发现功能根本没开。",
-      "originalSummary": "【摘要】ClawGod，把官方藏起来的功能全部打开 你有没有这种感觉：明明Claude Code是最强的AI编程工具，但总有些地方“差点意思”？。用最强的Opus模型，告诉你“订阅等级不够”。让多个AI同时协作，发现功能根本没开。",
-      "url": "https://www.cnblogs.com/apachecn/p/23178662",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-01T02:17:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 98,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】ClawGod，把官方藏起来的功能全部打开 你有没有这种感觉：明明Claude Code是最强的AI编程工具，但总有些地方“差点意思”？ 用最强的Opus模型，告诉你“订阅等级不够” 让多个AI同时协作，发现功能根本没开 想问个安全相关的问题，直接被拒绝回答 这些限制不是技术上做不到的，是官方关掉 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "【FHE 同态加密】我们如何实现同态加密推理（十五）：实测账本——一跳 1.8 小时，钱花在哪（同态加密推理性能剖析） - haliu",
-      "titleZh": "【FHE 同态加密】我们如何实现同态加密推理（十五）：实测账本——一跳 1.8 小时，钱花在哪（同态加密推理性能剖析） - haliu",
-      "summary": "【摘要】关键词：同态加密 ｜ FHE ｜ 性能剖析 ｜ 实测账本 ｜ 自举 ｜ 域变换 ｜ CPU 推理 ｜ 大模型密文推理 ｜ 耗时分析 导读：一次同态加密推理的一跳（lay + boot）在 8 核 CPU 上约 1.8 小时，而这个时间绝大部分不在多项式...。",
-      "originalSummary": "【摘要】关键词：同态加密 ｜ FHE ｜ 性能剖析 ｜ 实测账本 ｜ 自举 ｜ 域变换 ｜ CPU 推理 ｜ 大模型密文推理 ｜ 耗时分析 导读：一次同态加密推理的一跳（lay + boot）在 8 核 CPU 上约 1.8 小时，而这个时间绝大部分不在多项式...。",
-      "url": "https://www.cnblogs.com/haliuhome/p/23178401",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-01T01:04:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 87,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】关键词：同态加密 ｜ FHE ｜ 性能剖析 ｜ 实测账本 ｜ 自举 ｜ 域变换 ｜ CPU 推理 ｜ 大模型密文推理 ｜ 耗时分析 导读：一次同态加密推理的一跳（lay + boot）在 8 核 CPU 上约 1.8 小时，而这个时间绝大部分不在多项式乘法上——自举的两段域变换单独就占了约 80%",
-      "isTranslated": false
-    },
-    {
       "title": "Anthropic 红队盯上 GLM-5.3：能力追平 Mythos，却连拒绝护栏都是摆设",
       "titleZh": "Anthropic 红队盯上 GLM-5.3：能力追平 Mythos，却连拒绝护栏都是摆设",
       "summary": "Anthropic 的前沿红色团队（Frontier Red Team）盯上了智谱的 GLM-5.3，结论有点重：这是第一个能像五个月前的 Claude Mythos Preview 那样自主构建端到端漏洞利用、却几乎光着身子就被放出来的模型。五个月前，Anthropic 发布 Claude Mythos Preview，自称是第一个能自主构建复杂端到端漏洞利用的 AI 模型。",
@@ -675,6 +608,27 @@
       "isTranslated": false
     },
     {
+      "title": "滴滴、哈啰单车类似的免密支付的业务怎么实现的？",
+      "titleZh": "滴滴、哈啰单车类似的免密支付的业务怎么实现的？",
+      "summary": "希望使用支付宝，实现滴滴、哈啰单车类似的免密支付的业务。支付宝官方只提供了【商家扣款】这样一个支付产品，都是围绕着周期性的业务，先签约再自动付款的。https://opendocs.alipay.com/open/0izsmy?。",
+      "originalSummary": "希望使用支付宝，实现滴滴、哈啰单车类似的免密支付的业务。支付宝官方只提供了【商家扣款】这样一个支付产品，都是围绕着周期性的业务，先签约再自动付款的。https://opendocs.alipay.com/open/0izsmy?。",
+      "url": "https://segmentfault.com/q/1010000048327538",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-30T08:46:03+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 232,
+      "summaryLength": 98,
+      "summaryQuality": "weak",
+      "readerTextZh": "希望使用支付宝，实现滴滴、哈啰单车类似的免密支付的业务 支付宝官方只提供了【商家扣款】这样一个支付产品，都是围绕着周期性的业务，先签约再自动付款的 到底支不支持非周期性的免密支付业务呢？ 所以滴滴、哈啰单车类似的免密支付的业务，到底是怎么实现的？ https://opendocs.alipay.com/open/0izsmy?",
+      "isTranslated": false
+    },
+    {
       "title": "谷歌将提前两年终止对 ChromeOS 的支持",
       "titleZh": "谷歌将提前两年终止对 ChromeOS 的支持",
       "summary": "Google 用一份支持文档，悄悄把 Chromebook 们的寿命砍了两年。文档标题很客气——「What the Googlebook announcement means for your ChromeOS devices」，但内容很直接：现在买入的 Chromebook，更新支持在 2034...。Chromebook 2011 年发布。",
@@ -739,48 +693,153 @@
       "isTranslated": false
     },
     {
-      "title": "【AI 智能运维平台】本周更新：智能体问答现可展示知识库中的图片",
-      "titleZh": "【AI 智能运维平台】本周更新：智能体问答现可展示知识库中的图片",
-      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。📢 【平台 · 本周更新速递】 🛠 系统管理 • 支持查看API调用日志 🗂 CMDB • 新增物理服务器 Redfish 采集 🛠 作业平台 • 脚本库支持 ZIP 批量导入导出 • Ansi。",
-      "originalSummary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。📢 【平台 · 本周更新速递】 🛠 系统管理 • 支持查看API调用日志 🗂 CMDB • 新增物理服务器 Redfish 采集 🛠 作业平台 • 脚本库支持 ZIP 批量导入导出 • Ansi。",
-      "url": "https://www.oschina.net/news/502823",
-      "source": "开源中国资讯",
+      "title": "怎么加密打包python程序？",
+      "titleZh": "怎么加密打包python程序？",
+      "summary": "哈喽，大家好，这是我第一天接触这个论坛，也是第一次提问！。我想问问各位技术大师开发的python程序怎么加密打包，不会让别人轻易解包？。我现在只会在终端用pyinstaller命令打包，但这个方法很容易就能解包！。",
+      "originalSummary": "哈喽，大家好，这是我第一天接触这个论坛，也是第一次提问！。我想问问各位技术大师开发的python程序怎么加密打包，不会让别人轻易解包？。我现在只会在终端用pyinstaller命令打包，但这个方法很容易就能解包！。",
+      "url": "https://segmentfault.com/q/1010000048320497",
+      "source": "SegmentFault 思否",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-30T07:01:20+00:00",
+      "publishedAt": "2026-09-27T11:49:41+00:00",
       "tags": [
-        "开源",
         "开发者",
-        "中文深度",
-        "AI"
+        "前端",
+        "后端"
       ],
       "analysisMethod": "feed-text",
-      "sourceTextLength": 181,
-      "summaryLength": 135,
+      "sourceTextLength": 147,
+      "summaryLength": 96,
       "summaryQuality": "weak",
-      "readerTextZh": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具 📢 【平台 · 本周更新速递】 🛠 系统管理 • 支持查看API调用日志 🗂 CMDB • 新增物理服务器 Redfish 采集 🛠 作业平台 • 脚本库支持 ZIP 批量导入导出 • Ansi",
+      "readerTextZh": "哈喽，大家好，这是我第一天接触这个论坛，也是第一次提问！ 我想问问各位技术大师开发的python程序怎么加密打包，不会让别人轻易解包？ 我现在只会在终端用pyinstaller命令打包，但这个方法很容易就能解包！ 希望能在这里获得详细的“加密打包python程序”的方法！",
       "isTranslated": false
     },
     {
-      "title": "OpenAI 发布全天候运行 AI Agent \"dots\"，由 GPT‑6 Astra 驱动、拥有独立的云端电脑",
-      "titleZh": "OpenAI 发布全天候运行 AI Agent \"dots\"，由 GPT‑6 Astra 驱动、拥有独立的云端电脑",
-      "summary": "周二旧金山的 OpenAI DevDay 2026 开发者大会上，Sam Altman 热情洋溢地揭开了 dots 的面纱——一个由 GPT-6 Astra 驱动的个人智能体助理。dots 长着一张人畜无害的脸：戴贝雷帽、架眼镜的彩色小圆点，出现在手机和笔记本屏幕上，可以集成进第三方应用。Altman 在发布会上的形容一个比一个用力，「比 ChatGPT 更有野心」。",
-      "originalSummary": "周二旧金山的 OpenAI DevDay 2026 开发者大会上，Sam Altman 热情洋溢地揭开了 dots 的面纱——一个由 GPT-6 Astra 驱动的个人智能体助理。dots 长着一张人畜无害的脸：戴贝雷帽、架眼镜的彩色小圆点，出现在手机和笔记本屏幕上，可以集成进第三方应用。Altman 在发布会上的形容一个比一个用力，「比 ChatGPT 更有野心」。",
-      "url": "https://www.oschina.net/news/502820/openai-dots",
-      "source": "开源中国资讯",
+      "title": "本地跑大模型做 Agent，内存占用为什么会比模型文件大十倍？",
+      "titleZh": "本地跑大模型做 Agent，内存占用为什么会比模型文件大十倍？",
+      "summary": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档。为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行。中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB。",
+      "originalSummary": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档。为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行。中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB。",
+      "url": "https://segmentfault.com/q/1010000048317158",
+      "source": "SegmentFault 思否",
       "region": "中文技术深度",
-      "publishedAt": "2026-09-30T06:25:01+00:00",
+      "publishedAt": "2026-09-24T10:20:33+00:00",
       "tags": [
-        "开源",
         "开发者",
-        "中文深度",
+        "前端",
+        "后端",
         "AI",
-        "云计算"
+        "开源"
       ],
       "analysisMethod": "feed-text",
-      "sourceTextLength": 188,
-      "summaryLength": 156,
+      "sourceTextLength": 687,
+      "summaryLength": 209,
+      "summaryQuality": "medium",
+      "readerTextZh": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档 为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行 中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB 最难受的不是占得多，是日志里看不出来 你只会看到一次没跑完的运行，和“模型超时”长得一模一样，没有 OOM，没有明确报错 我们早期有一批评测结果就是这么废掉的 我们已经做的：把 num_ctx 固定到 32,768 之后，同一个模型掉到 5.1 GB，而且有一个 3B 模型的某类任务直接从 0/5 变成 5/5 也就是说，我们之前以为“这个模型不行”，其实是内存被上下文吃光了",
+      "isTranslated": false
+    },
+    {
+      "title": "项目使用vue2+antdvue 1.7.8 在2013的赛扬cpu设备上表现不佳，应该说是很慢，有针对这种处理器比较差的处理方案吗？",
+      "titleZh": "项目使用vue2+antdvue 1.7.8 在2013的赛扬cpu设备上表现不佳，应该说是很慢，有针对这种处理器比较差的处理方案吗？",
+      "summary": "我们已经对项目内的各种计算、虚拟列表、懒加载之类的优化都做过了，但是实际上组件的卡顿问题并没有解决。还使用html进行vue和antd的导入，实现个简单html页面，即使是这种的a-input输入也会卡顿。和原生的差距很大，请问有什么处理方法吗?。",
+      "originalSummary": "我们已经对项目内的各种计算、虚拟列表、懒加载之类的优化都做过了，但是实际上组件的卡顿问题并没有解决。还使用html进行vue和antd的导入，实现个简单html页面，即使是这种的a-input输入也会卡顿。和原生的差距很大，请问有什么处理方法吗?。",
+      "url": "https://segmentfault.com/q/1010000048316474",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-24T06:48:20+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 193,
+      "summaryLength": 113,
       "summaryQuality": "weak",
-      "readerTextZh": "周二旧金山的 OpenAI DevDay 2026 开发者大会上，Sam Altman 热情洋溢地揭开了 dots 的面纱——一个由 GPT-6 Astra 驱动的个人智能体助理 dots 长着一张人畜无害的脸：戴贝雷帽、架眼镜的彩色小圆点，出现在手机和笔记本屏幕上，可以集成进第三方应用 Altman 在发布会上的形容一个比一个用力，「比 ChatGPT 更有野心」",
+      "readerTextZh": "项目使用vue2+antdvue 1.7.8 在2013的赛扬cpu设备上表现不佳，应该说是很慢，有针对这种处理器比较差的处理方案吗？ 我们已经对项目内的各种计算、虚拟列表、懒加载之类的优化都做过了，但是实际上组件的卡顿问题并没有解决 还使用html进行vue和antd的导入，实现个简单html页面，即使是这种的a-input输入也会卡顿 和原生的差距很大，请问有什么处理方法吗?",
+      "isTranslated": false
+    },
+    {
+      "title": "网页护眼倒计时，切到其他界面后不弹提醒，如何修复？",
+      "titleZh": "网页护眼倒计时，切到其他界面后不弹提醒，如何修复？",
+      "summary": "我是一个完全不懂代码的新手，正在用低代码工具（秒搭）做一款叫「眨眼森林」的网页护眼产品。功能很简单：用户选工作时间（比如25分钟）→ 开始倒计时 → 切到自己的文档/网页工作 → 时间到了弹出提醒休息。打开链接，点“开始工作”（比如设1分钟测试）。",
+      "originalSummary": "我是一个完全不懂代码的新手，正在用低代码工具（秒搭）做一款叫「眨眼森林」的网页护眼产品。功能很简单：用户选工作时间（比如25分钟）→ 开始倒计时 → 切到自己的文档/网页工作 → 时间到了弹出提醒休息。打开链接，点“开始工作”（比如设1分钟测试）。",
+      "url": "https://segmentfault.com/q/1010000048315623",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-24T01:33:10+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 602,
+      "summaryLength": 99,
+      "summaryQuality": "weak",
+      "readerTextZh": "我是一个完全不懂代码的新手，正在用低代码工具（秒搭）做一款叫「眨眼森林」的网页护眼产品 功能很简单：用户选工作时间（比如25分钟）→ 开始倒计时 → 切到自己的文档/网页工作 → 时间到了弹出提醒休息 但现在遇到了一个卡了很久的问题，低代码工具怎么改都解决不了，来向各位大佬求助 打开链接，点“开始工作”（比如设1分钟测试） 立刻切到 Word、浏览器其他标签页等任何别的界面 1分钟到了，右下角没有任何系统通知弹出,只能听到微弱的“叮”的一声 只有当我手动切回「眨眼森林」页面时，才看到弹窗让我选择是“开始休息”、“五分钟以后”、还是“暂不提示” 网页版体验： https://app-eg18xhtrg5q9.miaoda.online",
+      "isTranslated": false
+    },
+    {
+      "title": "只会html，如何学Vue？",
+      "titleZh": "只会html，如何学Vue？",
+      "summary": "我现在大三，在实习中，但是我只学了html，css会一点，js不会但是我现在就是要用vue，但是我对vue的根本不知道要怎么做，我连如何插入图片都不知道，我在git上面下载了项目到D盘，但是我的图片在桌面的文件夹里面，请问有啥办法可以快速学习vue把基础的知识...。",
+      "originalSummary": "我现在大三，在实习中，但是我只学了html，css会一点，js不会但是我现在就是要用vue，但是我对vue的根本不知道要怎么做，我连如何插入图片都不知道，我在git上面下载了项目到D盘，但是我的图片在桌面的文件夹里面，请问有啥办法可以快速学习vue把基础的知识...。",
+      "url": "https://segmentfault.com/q/1010000048312560",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-22T10:55:04+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 136,
+      "summaryLength": 121,
+      "summaryQuality": "weak",
+      "readerTextZh": "我现在大三，在实习中，但是我只学了html，css会一点，js不会但是我现在就是要用vue，但是我对vue的根本不知道要怎么做，我连如何插入图片都不知道，我在git上面下载了项目到D盘，但是我的图片在桌面的文件夹里面，请问有啥办法可以快速学习vue把基础的知识学习一下",
+      "isTranslated": false
+    },
+    {
+      "title": "小程序界面问题：分页下拉不了，如何解决？",
+      "titleZh": "小程序界面问题：分页下拉不了，如何解决？",
+      "summary": "我在学习怎么写小程序，学到分页之后，我发现可以下拉，但是上拉不了，在右侧页面里面，我在console里面写了触底提升，但是没有显示，不知道原因，问AI也解决不了。list:[], page:1, pageSize:20, hasMore:true, loadingTip:\"加载中\" }。'加载中':'没有更多数据了' }) }, fail:()=>{ wx.showToast({title:'网络错误',icon:'none'}) } }) }。",
+      "originalSummary": "我在学习怎么写小程序，学到分页之后，我发现可以下拉，但是上拉不了，在右侧页面里面，我在console里面写了触底提升，但是没有显示，不知道原因，问AI也解决不了。list:[], page:1, pageSize:20, hasMore:true, loadingTip:\"加载中\" }。'加载中':'没有更多数据了' }) }, fail:()=>{ wx.showToast({title:'网络错误',icon:'none'}) } }) }。",
+      "url": "https://segmentfault.com/q/1010000048312494",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-22T10:30:23+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 1225,
+      "summaryLength": 157,
+      "summaryQuality": "weak",
+      "readerTextZh": "我在学习怎么写小程序，学到分页之后，我发现可以下拉，但是上拉不了，在右侧页面里面，我在console里面写了触底提升，但是没有显示，不知道原因，问AI也解决不了 list:[], page:1, pageSize:20, hasMore:true, loadingTip:\"加载中\" } this.data.hasMore) return wx.request({ url:'https://jsonplaceholder.typicode.com/posts', method:'GET', data:{ _page:this.data.page, _limit:this.data.pageSize }, success:(res)=>{ const newData=res.data const oldList=this.data.list this.setData({ list:oldList.concat(newData), hasMore:newData.length>=this.data.pageSize, page:this.data.page+1, loadingTip:newData.length>=this.data.pageSize? '加载中':'没有更多数据了' }) }, fail:()=>{ wx.showToast({title:'网络错误',icon:'none'}) } }) } console.log(\"触底了\") this.getList() } onPullDownRefresh(){ this.setData({ page:1, hasMore:true, list:[], loadingTip:'加载中' }) this.getList() wx.stopPullDownRefresh() } padding: 40rpx 30rpx",
+      "isTranslated": false
+    },
+    {
+      "title": "在AMH上直接安装imagick此模块失败，如何解决这个问题？",
+      "titleZh": "在AMH上直接安装imagick此模块失败，如何解决这个问题？",
+      "summary": "在WordPress中提示“可选的模块 imagick 未被安装或已被禁用”。到软件商店先安装image_magick软件。按步骤试过了，还是提示安装失败，我下载的是PHP8.5最新版，Nginx-1.30，MySQL-8.0，是不是还没适配？。",
+      "originalSummary": "在WordPress中提示“可选的模块 imagick 未被安装或已被禁用”。到软件商店先安装image_magick软件。按步骤试过了，还是提示安装失败，我下载的是PHP8.5最新版，Nginx-1.30，MySQL-8.0，是不是还没适配？。",
+      "url": "https://segmentfault.com/q/1010000048311618",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-22T05:45:19+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 201,
+      "summaryLength": 104,
+      "summaryQuality": "weak",
+      "readerTextZh": "在WordPress中提示“可选的模块 imagick 未被安装或已被禁用” 在AMH上直接安装imagick此模块失败，如何解决这个问题？ 到软件商店先安装image_magick软件 再在『网站』扩展安装pecl_imagick模块 按步骤试过了，还是提示安装失败，我下载的是PHP8.5最新版，Nginx-1.30，MySQL-8.0，是不是还没适配？",
       "isTranslated": false
     },
     {
