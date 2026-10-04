@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T04:13:53.951052+00:00",
-  "nextUpdate": "2026-10-04T16:13:53.951052+00:00",
+  "updatedAt": "2026-10-04T16:26:24.920840+00:00",
+  "nextUpdate": "2026-10-05T04:26:24.920840+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,26 +76,25 @@
   "errors": [],
   "items": [
     {
-      "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
-      "titleZh": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
-      "summary": "将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe...。从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！。Agent 记忆的业界主线是对话与个性化：主流框架记住”用户说过什么”。",
-      "originalSummary": "将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe...。从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！。Agent 记忆的业界主线是对话与个性化：主流框架记住”用户说过什么”。",
-      "url": "https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH?utm_source=rss&utm_medium=article",
+      "title": "Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin",
+      "titleZh": "Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin",
+      "summary": "该 JEP 计划在 HotSpot JVM 启动时通过优化后的原生代码提升应用的启动与预热时间，使应用能更快达到并维持峰值性能 JEP 543， 结构化并发（Structured Concurrency） ，已经从 JEP Draft 8389757 提升为...。更多细节见 发行说明 对于 JDK 28 和 JDK 27 ，鼓励开发者通过 Java Bug Database 报告漏洞 在 6.0 版本发布约一周后， TornadoVM 的 6.1.0 版本发布，带来缺陷修复以及对...。本期Java新闻汇总主要包括：关于预编译（ahead-of-time compilation）与结构化并发（structured concurrency）的新JEP，Jakarta CDI 5.0与A...。",
+      "originalSummary": "该 JEP 计划在 HotSpot JVM 启动时通过优化后的原生代码提升应用的启动与预热时间，使应用能更快达到并维持峰值性能 JEP 543， 结构化并发（Structured Concurrency） ，已经从 JEP Draft 8389757 提升为...。更多细节见 发行说明 对于 JDK 28 和 JDK 27 ，鼓励开发者通过 Java Bug Database 报告漏洞 在 6.0 版本发布约一周后， TornadoVM 的 6.1.0 版本发布，带来缺陷修复以及对...。本期Java新闻汇总主要包括：关于预编译（ahead-of-time compilation）与结构化并发（structured concurrency）的新JEP，Jakarta CDI 5.0与A...。",
+      "url": "https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-04T10:00:00+00:00",
+      "publishedAt": "2026-10-04T18:39:00+00:00",
       "tags": [
         "架构",
         "软件工程",
         "中文深度",
-        "AI",
         "安全"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2504,
-      "summaryLength": 169,
-      "summaryQuality": "weak",
-      "readerTextZh": "从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 在这一背景下， 2026 年 QCon 全球软件开发大会大会 · 上海站 正式启动 本次大会将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 卡奥斯 COSMOPlat & 工业智能首席科学家余锦泽博士已确认出席 “ Agent 自主进化：从记忆到持续学习 ” 专题，并发表题为 《 Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆 》 的主题分享 Agent 记忆的业界主线是对话与个性化：主流框架记住”用户说过什么” 但工业多智能体更缺的记忆是”这家企业的数据语义”——指标的分子分母、同一工单号在不同表里的多种写法——它们不在对话流里，在数仓、代码与文档里 而且写错的记忆比遗忘更危险：我们实测只注入一半语义，正确率反而低于不注入 余锦泽博士本次演讲分享把企业数仓沉淀为多智能体共享语义记忆的工程路径：写入侧大模型只提议、真实数据裁决、证据分级入库 冲突用时间轴校验、双源融合与对抗评审消解 教训沉淀为可插拔提示词组件与回归断言",
+      "sourceTextLength": 3842,
+      "summaryLength": 282,
+      "summaryQuality": "strong",
+      "readerTextZh": "本期Java新闻汇总主要包括：关于预编译（ahead-of-time compilation）与结构化并发（structured concurrency）的新JEP，Jakarta CDI 5.0与ADK for Kotlin 1.0的GA发布，2026年9月版Open Liberty，TornadoVM与RefactorFirst的小版本发布，Micronaut的维护性发布，以及Groovy 6.0与Gradle 9.8的首个发布候选版本 本期Java新闻汇总主要包括：关于预编译（ahead-of-time compilation）与结构化并发（structured concurrency）的新JEP，Jakarta CDI 5.0与ADK for Kotlin 1.0的GA发布，2026年9月版Open Liberty，TornadoVM与RefactorFirst的小版本发布，Micronaut的维护性发布，以及Groovy 6.0与Gradle 9.8的首个发布候选版本 本期 Java 新闻汇总主要包括：关于预编译（ahead-of-time compilation）与结构化并发（structured concurrency）的新 JEP，Jakarta CDI 5.0 与 ADK for Kotlin 1.0 的 GA 发布，2026 年 9 月版 Open Liberty，TornadoVM 与 RefactorFirst 的小版本发布，Micronaut 的维护性发布，以及 Groovy 6.0 与 Gradle 9.8 的首个发布候选版本 JEP 544， 预先代码编译（Ahead-of-Time Code Compilation） ，已经从 JEP Draft 8335368 状态提升为 Candidate 状态 该 JEP 计划在 HotSpot JVM 启动时通过优化后的原生代码提升应用的启动与预热时间，使应用能更快达到并维持峰值性能 JEP 543， 结构化并发（Structured Concurrency） ，已经从 JEP Draft...",
       "isTranslated": false
     },
     {
@@ -106,7 +105,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T04:13:15.417771+00:00",
+      "publishedAt": "2026-10-04T16:25:34.463745+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +127,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T04:13:14.817490+00:00",
+      "publishedAt": "2026-10-04T16:25:33.837509+00:00",
       "tags": [
         "后端",
         "工程",
@@ -151,7 +150,7 @@
       "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T04:13:14.209223+00:00",
+      "publishedAt": "2026-10-04T16:25:33.215537+00:00",
       "tags": [
         "后端",
         "工程",
@@ -174,7 +173,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T04:13:13.588126+00:00",
+      "publishedAt": "2026-10-04T16:25:32.580724+00:00",
       "tags": [
         "后端",
         "工程",
@@ -196,7 +195,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T04:13:12.953081+00:00",
+      "publishedAt": "2026-10-04T16:25:31.956043+00:00",
       "tags": [
         "后端",
         "工程",
@@ -218,7 +217,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T04:13:12.340997+00:00",
+      "publishedAt": "2026-10-04T16:25:31.303202+00:00",
       "tags": [
         "后端",
         "工程",
@@ -240,7 +239,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T04:13:11.705848+00:00",
+      "publishedAt": "2026-10-04T16:25:30.586557+00:00",
       "tags": [
         "后端",
         "工程",
@@ -262,7 +261,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T04:13:11.098883+00:00",
+      "publishedAt": "2026-10-04T16:25:29.962446+00:00",
       "tags": [
         "后端",
         "工程",
@@ -277,33 +276,207 @@
       "isTranslated": false
     },
     {
-      "title": "LangGraph 实战入门：用状态图写出分支、重试与人工确认",
-      "titleZh": "LangGraph 实战入门：用状态图写出分支、重试与人工确认",
-      "summary": "通过五个递进示例讲清状态、节点、条件边、循环、Checkpointer 和人工中断，并标注 `eval` 与持久化边界 LangGraph 实战入门：用状态图写出分支、重试与人工确认 我第一次把一段 Agent 逻辑写长以后，代码很快变成了这种形态：先判断问题...。真正的服务要换成数据库或 Redis 一类持久化后端，并考虑线程 ID 的鉴权，不能让用户随便猜到另一个会话的 ID 5. interrupt：高风险动作前暂停，而不是“问完继续猜” 自动化流程最危险的情况之一，是模型把...。",
-      "originalSummary": "通过五个递进示例讲清状态、节点、条件边、循环、Checkpointer 和人工中断，并标注 `eval` 与持久化边界 LangGraph 实战入门：用状态图写出分支、重试与人工确认 我第一次把一段 Agent 逻辑写长以后，代码很快变成了这种形态：先判断问题...。真正的服务要换成数据库或 Redis 一类持久化后端，并考虑线程 ID 的鉴权，不能让用户随便猜到另一个会话的 ID 5. interrupt：高风险动作前暂停，而不是“问完继续猜” 自动化流程最危险的情况之一，是模型把...。",
-      "url": "https://juejin.cn/post/7692143474695897138",
+      "title": "ABP x Vue：介绍 ABP Vue UI - liangshiwei",
+      "titleZh": "ABP x Vue：介绍 ABP Vue UI - liangshiwei",
+      "summary": "【摘要】Lsw.Abp.VueUI 是一个由社区开发、基于 Vue 3 的完整 ABP Framework 前端实现。它遵循 ABP 的模块化架构，将框架服务、模块界面、扩展点和主题整合在一起，让你可以使用 Vue 构建 ABP 应用。实现采用 Vue Composition API、Vue Router 和单文件组件，让你在沿用熟悉的 ABP 开发约定的同时，使用 Vue 的工具和开发方式 项目内置账户、用户、角色、权限、租户、功能管理和设置管理等模...。",
+      "originalSummary": "【摘要】Lsw.Abp.VueUI 是一个由社区开发、基于 Vue 3 的完整 ABP Framework 前端实现。它遵循 ABP 的模块化架构，将框架服务、模块界面、扩展点和主题整合在一起，让你可以使用 Vue 构建 ABP 应用。实现采用 Vue Composition API、Vue Router 和单文件组件，让你在沿用熟悉的 ABP 开发约定的同时，使用 Vue 的工具和开发方式 项目内置账户、用户、角色、权限、租户、功能管理和设置管理等模...。",
+      "url": "https://www.cnblogs.com/LiangSW/p/23199106/ABPxVue-Introduce",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-04T15:49:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1447,
+      "summaryLength": 186,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】Lsw.Abp.VueUI 是一个由社区开发、基于 Vue 3 的完整 ABP Framework 前端实现 它遵循 ABP 的模块化架构，将框架服务、模块界面、扩展点和主题整合在一起，让你可以使用 Vue 构建 ABP 应用 身份认证、权限、多租户、本地化和模块开发，都提供与 ABP Angul 阅读全文 Lsw.Abp.VueUI 是一个由社区开发、基于 Vue 3 的完整 ABP Framework 前端实现 身份认证、权限、多租户、本地化和模块开发，都提供与 ABP Angul Lsw.Abp.VueUI 是一个由社区开发、基于 Vue 3 的完整 ABP Framework 前端实现 它遵循 ABP 的模块化架构，将框架服务、模块界面、扩展点和主题整合在一起，让你可以使用 Vue 构建 ABP 应用 身份认证、权限、多租户、本地化和模块开发，都提供与 ABP Angular UI 保持一致的开发体验 实现采用 Vue Composition API、Vue Router 和单文件组件，让你在沿用熟悉的 ABP 开发约定的同时，使用 Vue 的工具和开发方式 项目内置账户、用户、角色、权限、租户、功能管理和设置管理等模块，提供 ABP 应用常用的管理页面，让你可以更专注于自己的业务功能 模块页面支持扩展 你可以通过应用配置添加表格列、表单字段、行操作和工具栏按钮 例如，在用户列表中添加一个自定义操作，无需修改模块包的代码 UI 采用支持多主题的设计",
+      "isTranslated": false
+    },
+    {
+      "title": "Aleph Alpha 开源 78B 参数 MoE 模型 Kolibri",
+      "titleZh": "Aleph Alpha 开源 78B 参数 MoE 模型 Kolibri",
+      "summary": "德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布开源模型 Kolibri，总参数 78B，每次推理仅激活 3.46B 参数，采用 Apache 2.0 许可证，支持百万 token 德国 AI 实验室 Aleph Alpha 在 10 月...。这是一个混合专家架构（MoE）模型，每次推理仅激活 3.46B 参数，在英文数学和代码测试中达到 90 分以上，同时对德语提供了较强支持 Kolibri 采用 50 层结构，全部使用 MoE，共 384 个专家。预训练使用 768 块 B200 GPU，历时 21 天完成，于 9 月 11 日结束。",
+      "originalSummary": "德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布开源模型 Kolibri，总参数 78B，每次推理仅激活 3.46B 参数，采用 Apache 2.0 许可证，支持百万 token 德国 AI 实验室 Aleph Alpha 在 10 月...。这是一个混合专家架构（MoE）模型，每次推理仅激活 3.46B 参数，在英文数学和代码测试中达到 90 分以上，同时对德语提供了较强支持 Kolibri 采用 50 层结构，全部使用 MoE，共 384 个专家。预训练使用 768 块 B200 GPU，历时 21 天完成，于 9 月 11 日结束。",
+      "url": "https://juejin.cn/post/7692612898275754010",
       "source": "掘金技术社区",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-04T04:04:30+00:00",
+      "publishedAt": "2026-10-04T15:32:13+00:00",
       "tags": [
         "前端",
         "后端",
         "开发者",
         "AI",
-        "软件工程"
+        "芯片"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 5299,
-      "summaryLength": 205,
+      "sourceTextLength": 1011,
+      "summaryLength": 215,
       "summaryQuality": "strong",
-      "readerTextZh": "通过五个递进示例讲清状态、节点、条件边、循环、Checkpointer 和人工中断，并标注 `eval` 与持久化边界 通过五个递进示例讲清状态、节点、条件边、循环、Checkpointer 和人工中断，并标注 `eval` 与持久化边界 LangGraph 实战入门：用状态图写出分支、重试与人工确认 我第一次把一段 Agent 逻辑写长以后，代码很快变成了这种形态：先判断问题类型，再调用不同工具 碰到转账一类高风险操作，还要暂停等用户确认 继续用一串 if/else 和函数调用当然能写，但流程藏在代码里，状态散落在局部变量中，出错后也很难从中间恢复 这正是我学习 LangGraph 的原因 LangGraph 的核心不是“再封装一次大模型调用”，而是把流程显式建模为状态图（State Graph）：节点负责工作，边负责决定下一步，状态负责在节点间传递数据 我用五个小例子按“直线流程 → 条件分支 → 循环重试 → 状态持久化 → 人工确认”的顺序逐步实现 人工确认示例需要终端输入，这里重点解释控制流程 先从一个只有 text 字段的基础示例开始，两个节点依次向它追加文本： import { Annotation , START , END , StateGraph , } from \"@langchain/langgraph\" const State = Annotation Root ({ text : Annotation ({ reducer : ( _previous, next ) => next, default : () => \"\" , }), })",
+      "readerTextZh": "德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布开源模型 Kolibri，总参数 78B，每次推理仅激活 3.46B 参数，采用 Apache 2.0 许可证，支持百万 token 德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布开源模型 Kolibri，总参数 78B，每次推理仅激活 3.46B 参数，采用 Apache 2.0 许可证，支持百万 token 德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布了开源权重模型 Kolibri，总参数量 78B，采用 Apache 2.0 许可证 这是一个混合专家架构（MoE）模型，每次推理仅激活 3.46B 参数，在英文数学和代码测试中达到 90 分以上，同时对德语提供了较强支持 Kolibri 采用 50 层结构，全部使用 MoE，共 384 个专家 预训练使用 768 块 B200 GPU，历时 21 天完成，于 9 月 11 日结束 模型处理了超过 200T token 的原始数据，知识截止日期为 6 月 18 日 训练数据中英语占比约 62%，代码占比 14%，德语 token 约 4.3T，占总训练数据约 21.3% 预训练期间遇到 38 次非计划中断 预训练后，模型经过 3.44T token 的中训阶段和 200B token 的长上下文适配 Kolibri 支持最长 1M token 的上下文，通过混合注意力机制实现:10 层处理完整上下文，其余 40 层使用 512 token 的滑动窗口 这些分数显示 Kolibri 在数学推理和代码生成任务上有较好表现 德语测试分数略低于英语，但仍在 87.5 到 90.0 之间 Aleph Alpha 同时发布了 Kolibri Origin，这是一个更小的前序版本，总参数 30.6B，激活参数 3.27B，于 6 月 11 日完成预训练 Origin 使用 7.5T 训练 token，支持 65k token 上下文窗口 Kolibri 通过 MoE 架构降低了推理成本，激活参数仅占总参数的约 4.4%",
+      "isTranslated": false
+    },
+    {
+      "title": "Qwen-Image2.1-本地AI漫画工作室 - 又过二十",
+      "titleZh": "Qwen-Image2.1-本地AI漫画工作室 - 又过二十",
+      "summary": "【摘要】我在 6GB 显存的游戏本上，做了一个完全离线的 AI 漫画工作室 一段剧本进去，一本带气泡、能导出 PDF 的漫画出来。起因 事情的开始很简单：我想让自己写的小故事变成漫画，但又不想把东西交给任何在线服务。市面上的方案基本是两条路：要么用在线 AI 绘画平台 阅读全文。",
+      "originalSummary": "【摘要】我在 6GB 显存的游戏本上，做了一个完全离线的 AI 漫画工作室 一段剧本进去，一本带气泡、能导出 PDF 的漫画出来。起因 事情的开始很简单：我想让自己写的小故事变成漫画，但又不想把东西交给任何在线服务。市面上的方案基本是两条路：要么用在线 AI 绘画平台 阅读全文。",
+      "url": "https://www.cnblogs.com/wyang/p/23198892",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-04T14:24:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 118,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】我在 6GB 显存的游戏本上，做了一个完全离线的 AI 漫画工作室 一段剧本进去，一本带气泡、能导出 PDF 的漫画出来 起因 事情的开始很简单：我想让自己写的小故事变成漫画，但又不想把东西交给任何在线服务 市面上的方案基本是两条路：要么用在线 AI 绘画平台 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "登录日志 题解 - lvwangshu",
+      "titleZh": "登录日志 题解 - lvwangshu",
+      "summary": "【摘要】登录日志 题解 一、题意 n 条日志，第 i 条为 \\((t_i, b_i)\\)：\\(t_i = 1\\) 表示登录，\\(t_i = 2\\) 表示退出。对已在线者登录、对已离线者退出，均不改变账号状态。\\(q\\) 个询问 \\((l, r)\\)：从全离线状态开始重放第 \\(l\\) 到第 \\(r\\) 条 阅读全文。",
+      "originalSummary": "【摘要】登录日志 题解 一、题意 n 条日志，第 i 条为 \\((t_i, b_i)\\)：\\(t_i = 1\\) 表示登录，\\(t_i = 2\\) 表示退出。对已在线者登录、对已离线者退出，均不改变账号状态。\\(q\\) 个询问 \\((l, r)\\)：从全离线状态开始重放第 \\(l\\) 到第 \\(r\\) 条 阅读全文。",
+      "url": "https://www.cnblogs.com/lvwangshuOI/p/23198663",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-04T12:19:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 85,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】登录日志 题解 一、题意 n 条日志，第 i 条为 \\((t_i, b_i)\\)：\\(t_i = 1\\) 表示登录，\\(t_i = 2\\) 表示退出 对已在线者登录、对已离线者退出，均不改变账号状态 \\(q\\) 个询问 \\((l, r)\\)：从全离线状态开始重放第 \\(l\\) 到第 \\(r\\) 条 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+      "titleZh": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+      "summary": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。不夸张地说，上手的那一刻，我就能感觉到 iPhone 18 Pro 比上一代更沉了一些 目光放到 iPhone 18 Pro Max 上，这一数字就变得更加夸张了：它的重量从上一代的 231 克一口气增加到了 249 克...。现在，iPhone 18 Pro 的主摄镜头能够在 ƒ/1.48、ƒ/1.8、ƒ/2.8 和 ƒ/4 四档光圈之间切换，这也是 iPhone 首次能够通过光圈的物理变化，真正地改变镜头进光量和景深 从数字来看，ƒ/1.4...。",
+      "originalSummary": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。不夸张地说，上手的那一刻，我就能感觉到 iPhone 18 Pro 比上一代更沉了一些 目光放到 iPhone 18 Pro Max 上，这一数字就变得更加夸张了：它的重量从上一代的 231 克一口气增加到了 249 克...。现在，iPhone 18 Pro 的主摄镜头能够在 ƒ/1.48、ƒ/1.8、ƒ/2.8 和 ƒ/4 四档光圈之间切换，这也是 iPhone 首次能够通过光圈的物理变化，真正地改变镜头进光量和景深 从数字来看，ƒ/1.4...。",
+      "url": "https://sspai.com/post/115308",
+      "source": "少数派深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-04T07:58:39+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度",
+        "硬件"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3219,
+      "summaryLength": 209,
+      "summaryQuality": "strong",
+      "readerTextZh": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了 查看全文 iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了 iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了 iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了 经历了去年 iPhone 17 Pro 的全面改款之后，今年的 iPhone 18 Pro 毫不意外地转向「查缺补漏」：既把已有体验打磨得更为扎实，也弥补了上一代产品留下的一些遗憾 如果只看外观，iPhone 18 Pro 的诸多变化并不容易在第一时间被察觉，只有更小的灵动岛和全新的配色提醒着我们，这确实是一台新的 iPhone 但与我们熟悉的「小改款」似乎又有所不同，这一代产品更像是对 iPhone 的 Pro 级体验做了一次重新梳理：更大的可变主摄光圈、更强的首款 2nm 制程 A 系列芯片、甚至还有面积增大到此前三倍的新一代 VC 均热板 因此，iPhone 18 Pro 也许不会让你有像前代产品一样焕然一新的感觉，却在许多地方都变得更加完整了 外观方面，iPhone 18 Pro 与 iPhone 17 Pro 并无二致：熟悉的铝金属一体成型机身、横贯背部的扩展平台，以及嵌入机身背面的超瓷晶面板，都延续了前一代的设计 虽说如此，iPhone 18 Pro 依然有一个完全无法忽视的变化：重量 iPhone 18 Pro 的重量从上一代的 204 克增加到了 211 克 7 克听起来不算夸张，但对于一台尺寸完全没有变化、原本就称不上轻巧的手机来说，依然不是一个可以忽略的数字 不夸张地说，上手的那一刻，我就能感觉到 iPhone 18 Pro 比上一代更沉了一些 目光放到 iPhone 18 Pro Max 上，这一数字就变得更加夸张了：它的重量从上一代的 231 克一口气增加到了 249 克，足足多了 18 克，在不戴保护壳的情况下就已经重达半斤 好在，付出重量上的代价，换来的是 iPhone 迄今容量最大的一块电池 虽...",
+      "isTranslated": false
+    },
+    {
+      "title": "大语言模型的 Scaling：扩展方向、收益规律与训练配置 - 石头开会",
+      "titleZh": "大语言模型的 Scaling：扩展方向、收益规律与训练配置 - 石头开会",
+      "summary": "【摘要】大语言模型的 Scaling：扩展方向、收益规律与训练配置 Scaling laws 的核心价值，是估计扩大模型与训练量的收益，并在计算预算内找到更好的配比。它把“投入更多资源通常能降低损失”的经验，变成可以测量、拟合和检验的关系。具体任务是否改善，还要单独评估 阅读全文。",
+      "originalSummary": "【摘要】大语言模型的 Scaling：扩展方向、收益规律与训练配置 Scaling laws 的核心价值，是估计扩大模型与训练量的收益，并在计算预算内找到更好的配比。它把“投入更多资源通常能降低损失”的经验，变成可以测量、拟合和检验的关系。具体任务是否改善，还要单独评估 阅读全文。",
+      "url": "https://www.cnblogs.com/GlenTt/p/23197545",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-04T07:50:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 122,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】大语言模型的 Scaling：扩展方向、收益规律与训练配置 Scaling laws 的核心价值，是估计扩大模型与训练量的收益，并在计算预算内找到更好的配比 它把“投入更多资源通常能降低损失”的经验，变成可以测量、拟合和检验的关系 具体任务是否改善，还要单独评估 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "数论小结 - Emumumu",
+      "titleZh": "数论小结 - Emumumu",
+      "summary": "【摘要】第一次写数学专题的笔记有点小激动欸~跪求LeTax不要炸 我的废话可能有点多 \\bx 求原谅 \\bx 数论真的我搁了好久没碰，因为长官这真的太抽象了！。于是搁到了现在终于鼓起勇气写了一篇学习笔记以此加深印象。（不然我肯定一秒钟后又要全部忘完） part1 容斥 公式推导 首先我们的目标是推出以下这个看 阅读全文。",
+      "originalSummary": "【摘要】第一次写数学专题的笔记有点小激动欸~跪求LeTax不要炸 我的废话可能有点多 \\bx 求原谅 \\bx 数论真的我搁了好久没碰，因为长官这真的太抽象了！。于是搁到了现在终于鼓起勇气写了一篇学习笔记以此加深印象。（不然我肯定一秒钟后又要全部忘完） part1 容斥 公式推导 首先我们的目标是推出以下这个看 阅读全文。",
+      "url": "https://www.cnblogs.com/MadeByEmu/p/23189934",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-04T07:32:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 139,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】第一次写数学专题的笔记有点小激动欸~跪求LeTax不要炸 我的废话可能有点多 \\bx 求原谅 \\bx 数论真的我搁了好久没碰，因为长官这真的太抽象了！ 于是搁到了现在终于鼓起勇气写了一篇学习笔记以此加深印象 （不然我肯定一秒钟后又要全部忘完） part1 容斥 公式推导 首先我们的目标是推出以下这个看 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "开源：一稿多投工具（仅4M，支持9大平台） - liulun",
+      "titleZh": "开源：一稿多投工具（仅4M，支持9大平台） - liulun",
+      "summary": "【摘要】功能说明 DraftDepot 稿仓是一个一稿多投工具。使用此工具写的文章可以一键发布到9大平台： 微信公众号 知乎 CSDN 开源中国 博客园 掘金 51CTO InfoQ 阿里云开发者社区 （目前多为技术平台，后续将增加更多平台） 本工具仅负责把文章灌注到目标平台，不直接...。",
+      "originalSummary": "【摘要】功能说明 DraftDepot 稿仓是一个一稿多投工具。使用此工具写的文章可以一键发布到9大平台： 微信公众号 知乎 CSDN 开源中国 博客园 掘金 51CTO InfoQ 阿里云开发者社区 （目前多为技术平台，后续将增加更多平台） 本工具仅负责把文章灌注到目标平台，不直接...。",
+      "url": "https://www.cnblogs.com/liulun/p/23197056",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-04T06:13:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "云计算",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 121,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】功能说明 DraftDepot 稿仓是一个一稿多投工具 使用此工具写的文章可以一键发布到9大平台： 微信公众号 知乎 CSDN 开源中国 博客园 掘金 51CTO InfoQ 阿里云开发者社区 （目前多为技术平台，后续将增加更多平台） 本工具仅负责把文章灌注到目标平台，不直接发布文章（想发布文章需 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "源码共享：C# 在mac OS里 控制播放mp3 - 鑫_源",
+      "titleZh": "源码共享：C# 在mac OS里 控制播放mp3 - 鑫_源",
+      "summary": "条件是macOS，而不是windows平台。使用VS 2019 for Mac 和 xcode . 你只要使用的这两个开发工具版本配对 就可以顺利编译运行C# 开发mac应用 using System。using AVFoundation。",
+      "originalSummary": "条件是macOS，而不是windows平台。使用VS 2019 for Mac 和 xcode . 你只要使用的这两个开发工具版本配对 就可以顺利编译运行C# 开发mac应用 using System。using AVFoundation。",
+      "url": "https://www.cnblogs.com/canbloom/p/23196928",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-04T05:45:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 102,
+      "summaryQuality": "weak",
+      "readerTextZh": "条件是macOS，而不是windows平台 使用VS 2019 for Mac 和 xcode . 你只要使用的这两个开发工具版本配对 就可以顺利编译运行C# 开发mac应用 using System using AVFoundation using Foundati 阅读全文",
       "isTranslated": false
     },
     {
       "title": "时间序列分解：从噪声中提取有效信号 - wang_yb",
       "titleZh": "时间序列分解：从噪声中提取有效信号 - wang_yb",
-      "summary": "直接看原始曲线，很容易被短期波动带偏，比如把一次促销当成长期增长，或者把季节性回落当成业务衰退。时间序列分解要解决的就是这个问题，把一条看起来乱七八糟的曲线拆成几个更有解释性的部分，让我们分别看： 长期方向 重复周期 剩下的随机噪声。它假设季节性波动的幅度基本稳定，不随趋势水平变化 比如不管销售额是 500 还是 1000，季节性上下波动的绝对值都差不多，那就适合加法分解 乘法模型假设各部分是相互影响的，季节性波动的幅度会随着趋势水平成比例变化 比如...。",
-      "originalSummary": "直接看原始曲线，很容易被短期波动带偏，比如把一次促销当成长期增长，或者把季节性回落当成业务衰退。时间序列分解要解决的就是这个问题，把一条看起来乱七八糟的曲线拆成几个更有解释性的部分，让我们分别看： 长期方向 重复周期 剩下的随机噪声。它假设季节性波动的幅度基本稳定，不随趋势水平变化 比如不管销售额是 500 还是 1000，季节性上下波动的绝对值都差不多，那就适合加法分解 乘法模型假设各部分是相互影响的，季节性波动的幅度会随着趋势水平成比例变化 比如...。",
+      "summary": "【摘要】时间序列数据里，趋势、周期和随机波动经常是混在一起的。直接看原始曲线，很容易被短期波动带偏，比如把一次促销当成长期增长，或者把季节性回落当成业务衰退。时间序列分解要解决的就是这个问题，把一条看起来乱七八糟的曲线拆成几个更有解释性的部分，让我们分别看： 长期方向 重复周期 剩下的随机噪声。",
+      "originalSummary": "【摘要】时间序列数据里，趋势、周期和随机波动经常是混在一起的。直接看原始曲线，很容易被短期波动带偏，比如把一次促销当成长期增长，或者把季节性回落当成业务衰退。时间序列分解要解决的就是这个问题，把一条看起来乱七八糟的曲线拆成几个更有解释性的部分，让我们分别看： 长期方向 重复周期 剩下的随机噪声。",
       "url": "https://www.cnblogs.com/wang_yb/p/23196477",
       "source": "博客园技术文章",
       "region": "中文技术深度",
@@ -311,100 +484,13 @@
       "tags": [
         "开发者",
         "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 1592,
-      "summaryLength": 206,
-      "summaryQuality": "strong",
-      "readerTextZh": "【摘要】时间序列数据里，趋势、周期和随机波动经常是混在一起的 直接看原始曲线，很容易被短期波动带偏，比如把一次促销当成长期增长，或者把季节性回落当成业务衰退 时间序列分解要解决的就是这个问题，把一条看起来乱七八糟的曲线拆成几个更有解释性的部分，让我们分别看： 长期方向 重复周期 剩下的随机噪声 本文的 阅读全文 时间序列数据里，趋势、周期和随机波动经常是混在一起的 本文的 时间序列数据里，趋势、周期和随机波动经常是混在一起的 本文的 直接看原始曲线，很容易被短期波动带偏，比如把一次促销当成长期增长，或者把季节性回落当成业务衰退 时间序列分解要解决的就是这个问题，把一条看起来乱七八糟的曲线拆成几个更有解释性的部分，让我们分别看： 本文的目的不是讲一堆公式，而是把时间序列分解这件事讲清楚，并用 Python 和 matplotlib 一步一步演示怎么把有效信号从噪声里拆出来 希望能讲清楚 趋势 、 季节性 、 残差 分别是什么，知道加法分解和乘法分解怎么选，也能自己跑一遍 seasonal_decompose 并看懂输出图 时间序列和普通表格数据不太一样，它有时间顺序，当前值往往和过去值有关系 很多时间序列还会同时受到几种力量影响：整体在缓慢上升或下降，某些月份或星期有固定规律，另外还有一堆随机因素在干扰 如果直接拿原始序列去建模，模型很可能把季节性波动当成趋势的一部分，或者把噪声当成真实信号 分解的核心思路很直接：假设原始序列由几个部分叠加或相乘而成，那我们就把它们拆出来 拆开之后，趋势可以看长期方向，季节性可以看周期规律，残差可以看异常和随机波动 下面这个图，我构建了一个测试数据，直观的演示拆开看与不拆开看的区别 最常见的时间序列分解会把序列拆成三部分： 趋势 、 季节性 和 残差 这里的 $ Y_t $ 是原始时间序列，$ T_t $ 是趋势项，$ S_t $ 是季节项，$ R_t $ 是残差项 趋势 项代表长期方向 它不关心某个月突然涨了还是跌了，而是看整体是在上升、下降还是基本平稳 季节性 代表固定周期内重复出现的模式 比如月度数据里，每年夏天或每年年底都有...",
-      "isTranslated": false
-    },
-    {
-      "title": "彻底清理 codex-universal-proxy：从杀不掉到干净卸载 - AlfredZhao",
-      "titleZh": "彻底清理 codex-universal-proxy：从杀不掉到干净卸载 - AlfredZhao",
-      "summary": "【摘要】笔者在服务器上遇到过一个奇怪现象：codex-universal-proxy 进程用 kill -9 杀不掉，杀掉后立刻又冒出一个新的。排查后发现，它其实是被 systemd 用户服务托管着，只要服务还在运行，进程就会被自动拉起。01 | 现象：kill -9 杀不掉 阅读全文。",
-      "originalSummary": "【摘要】笔者在服务器上遇到过一个奇怪现象：codex-universal-proxy 进程用 kill -9 杀不掉，杀掉后立刻又冒出一个新的。排查后发现，它其实是被 systemd 用户服务托管着，只要服务还在运行，进程就会被自动拉起。01 | 现象：kill -9 杀不掉 阅读全文。",
-      "url": "https://www.cnblogs.com/jyzhao/p/23195255",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-03T23:18:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
         "中文深度"
       ],
       "analysisMethod": "feed-text",
-      "sourceTextLength": 158,
-      "summaryLength": 117,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】笔者在服务器上遇到过一个奇怪现象：codex-universal-proxy 进程用 kill -9 杀不掉，杀掉后立刻又冒出一个新的 排查后发现，它其实是被 systemd 用户服务托管着，只要服务还在运行，进程就会被自动拉起 01 | 现象：kill -9 杀不掉 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "半夜校园网断网，为什么流量也用不了？ - 粉紫系超人气月兔铃仙",
-      "titleZh": "半夜校园网断网，为什么流量也用不了？ - 粉紫系超人气月兔铃仙",
-      "summary": "【摘要】半夜校园网断网，为什么流量也用不了？。大学这四年饱受折磨，半夜断网之后，手机开热点给电脑用，但是往往有一些网站，不管怎么刷新都进不去，浏览器上显示的是白屏。但是奇怪的是，手机却可以进去，明明电脑上没有任何的网络问题。",
-      "originalSummary": "【摘要】半夜校园网断网，为什么流量也用不了？。大学这四年饱受折磨，半夜断网之后，手机开热点给电脑用，但是往往有一些网站，不管怎么刷新都进不去，浏览器上显示的是白屏。但是奇怪的是，手机却可以进去，明明电脑上没有任何的网络问题。",
-      "url": "https://www.cnblogs.com/Reisentyan/p/23193616",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-03T16:51:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "硬件"
-      ],
-      "analysisMethod": "feed-text",
       "sourceTextLength": 159,
-      "summaryLength": 98,
+      "summaryLength": 132,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】半夜校园网断网，为什么流量也用不了？ 大学这四年饱受折磨，半夜断网之后，手机开热点给电脑用，但是往往有一些网站，不管怎么刷新都进不去，浏览器上显示的是白屏 但是奇怪的是，手机却可以进去，明明电脑上没有任何的网络问题 因为不是很紧急的待解决的问题，所以每次都忘记去处理这件事",
-      "isTranslated": false
-    },
-    {
-      "title": "洛谷-P8162 让我们赢得选举 题解 - xiaoniu142857",
-      "titleZh": "洛谷-P8162 让我们赢得选举 题解 - xiaoniu142857",
-      "summary": "【摘要】Solution \\(N\\le 500\\)，我们需要 \\(O(N^3)\\) 的算法。直接状压 dp 至少 \\(O(2^N)\\)，我们一定有大量最优解的性质没有找到。为了方便，约定一个州有三种状态： B 类点：演讲至 \\(B_i\\) 小时，同时获得选票和协作者。",
-      "originalSummary": "【摘要】Solution \\(N\\le 500\\)，我们需要 \\(O(N^3)\\) 的算法。直接状压 dp 至少 \\(O(2^N)\\)，我们一定有大量最优解的性质没有找到。为了方便，约定一个州有三种状态： B 类点：演讲至 \\(B_i\\) 小时，同时获得选票和协作者。",
-      "url": "https://www.cnblogs.com/xiaoniu142857/p/23193101",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-03T13:47:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 158,
-      "summaryLength": 88,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】Solution \\(N\\le 500\\)，我们需要 \\(O(N^3)\\) 的算法 直接状压 dp 至少 \\(O(2^N)\\)，我们一定有大量最优解的性质没有找到 为了方便，约定一个州有三种状态： B 类点：演讲至 \\(B_i\\) 小时，同时获得选票和协作者 A 类点：演讲至 \\(A_i\\) 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "JT/T 808 部标车辆监控平台实战（第 1 篇 · 业务与架构） - Sam Xiao",
-      "titleZh": "JT/T 808 部标车辆监控平台实战（第 1 篇 · 业务与架构） - Sam Xiao",
-      "summary": "【摘要】1、实时监控 2、轨迹查询 3、告警管理 4、围栏设置 5、看板与报表 JT/T 808 部标车辆监控平台实战 （第 1 篇 · 业务与架构） 做车联网，绕不开三个国标：JT/T 808（终端怎么跟平台说话）、JT/T 1078（车载视频怎么传）、JT...。",
-      "originalSummary": "【摘要】1、实时监控 2、轨迹查询 3、告警管理 4、围栏设置 5、看板与报表 JT/T 808 部标车辆监控平台实战 （第 1 篇 · 业务与架构） 做车联网，绕不开三个国标：JT/T 808（终端怎么跟平台说话）、JT/T 1078（车载视频怎么传）、JT...。",
-      "url": "https://www.cnblogs.com/xcj26/p/23192965",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-03T13:21:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 94,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】1、实时监控 2、轨迹查询 3、告警管理 4、围栏设置 5、看板与报表 JT/T 808 部标车辆监控平台实战 （第 1 篇 · 业务与架构） 做车联网，绕不开三个国标：JT/T 808（终端怎么跟平台说话）、JT/T 1078（车载视频怎么传）、JT/T 809（平台怎么向上级监管平台汇报）",
+      "readerTextZh": "【摘要】时间序列数据里，趋势、周期和随机波动经常是混在一起的 直接看原始曲线，很容易被短期波动带偏，比如把一次促销当成长期增长，或者把季节性回落当成业务衰退 时间序列分解要解决的就是这个问题，把一条看起来乱七八糟的曲线拆成几个更有解释性的部分，让我们分别看： 长期方向 重复周期 剩下的随机噪声",
       "isTranslated": false
     },
     {
@@ -428,92 +514,6 @@
       "summaryLength": 153,
       "summaryQuality": "weak",
       "readerTextZh": "汇总一周产品更新日志，最新发布可前往我们的博客查看 NocoBase 目前更新包括三个分支： main、next 和 develop ** main： 截至目前最稳定的版本，推荐安装此版本 next： 包含即将发布的新功能，经过初步测试的版本，可能存在部分已知或未知问题 主要面向测试用户，用于收集反馈和进一步优化功能 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
-      "isTranslated": false
-    },
-    {
-      "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
-      "titleZh": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
-      "summary": "查看全文 不知道以后 CMF 的设计还会不会像现在一样出彩 不知道以后 CMF 的设计还会不会像现在一样出彩 不知道以后 CMF 的设计还会不会像现在一样出彩 这篇文章是 TDS Studio 在少数派上的第 31 篇文章，依然是全平台首发 Nothing 大...。三个方向的风源都不会产生明显的影响，硬要说的来自后方的风源会有更明显的介入痕迹，但总体上通话抗风噪的效果还是不错的 作为少有支持 LDAC 的耳夹，我们自然是要依然对于它在两种模式下的信号进行主观测试 信号优先/最佳效果...。",
-      "originalSummary": "查看全文 不知道以后 CMF 的设计还会不会像现在一样出彩 不知道以后 CMF 的设计还会不会像现在一样出彩 不知道以后 CMF 的设计还会不会像现在一样出彩 这篇文章是 TDS Studio 在少数派上的第 31 篇文章，依然是全平台首发 Nothing 大...。三个方向的风源都不会产生明显的影响，硬要说的来自后方的风源会有更明显的介入痕迹，但总体上通话抗风噪的效果还是不错的 作为少有支持 LDAC 的耳夹，我们自然是要依然对于它在两种模式下的信号进行主观测试 信号优先/最佳效果...。",
-      "url": "https://sspai.com/post/114922",
-      "source": "少数派深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-03T07:00:00+00:00",
-      "tags": [
-        "工具",
-        "数字生活",
-        "中文深度"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 3117,
-      "summaryLength": 214,
-      "summaryQuality": "weak",
-      "readerTextZh": "不知道以后 CMF 的设计还会不会像现在一样出彩 查看全文 不知道以后 CMF 的设计还会不会像现在一样出彩 不知道以后 CMF 的设计还会不会像现在一样出彩 不知道以后 CMF 的设计还会不会像现在一样出彩 这篇文章是 TDS Studio 在少数派上的第 31 篇文章，依然是全平台首发 Nothing 大体系下的第一个 OWS 产品其实是 Nothing Ear (Open)，我们其实也是首发期就入手了的，至少从精致程度以及调音的平衡性考虑，那还是个不错的产品，只是声音素质会跟千元价位当时的优秀档次状态有些差距而已 Clip Pro 则是他们的第一款耳夹，既然是 CMF 子品牌负责，显然设计语言和定位都会与主品牌有明显不同 考虑到它的售价，我们会以审视中档耳夹的角度来体验它 CMF Clip Pro 的包装还是非常小巧的，也没有什么其他配件，开箱处有一如既往的胶贴，可以帮助你判断它是否是第一次启封 设计、佩戴表现与声学结构 | Design, Fit & Acoustic Structure Clip Pro 共有三种配色可选，似乎是去掉了在其他款式中常见的那个浅薄荷绿，耳夹这边保留了标志性的珊瑚橙色以及两种不同灰度的灰色 我们自然是挑了最具品牌气息的橙色款入手，它其实还是基于两种不同饱和度的橙色实现的 亮面部分比如充电盒内腔、耳机本体的前后模块都是饱和度更高的状态，盒外侧以及耳夹 C 桥部分是细磨砂处理或者亲肤硅胶层，相对会浅一点 这种珊瑚橙在大多数灯光下都有点三文鱼的感觉，并不会特别扎眼但还是足够鲜艳的 充电盒整体非常小巧，不会比常规的 TWS 耳塞更大，顶盖上仍然保留了 CMF 耳塞产品的那个大旋钮，这也是通体唯一不是橙色的部分 这个旋钮正是耳机配对按键，以前 CMF 部分产品这个旋钮还可以实现其他功能，但目前在 Clip Pro 上默认是把旋转操作禁用的，在 app 端开启它之前，旋钮只是一个有段落感的解压玩具而已",
-      "isTranslated": false
-    },
-    {
-      "title": "势能分析（摊还分析） - lvwangshu",
-      "titleZh": "势能分析（摊还分析） - lvwangshu",
-      "summary": "【摘要】势能分析（摊还分析） 基本概念 1.1 摊还分析的引入 在算法分析中，我们通常关注单次操作的最坏时间复杂度。然而，对于某些数据结构，虽然单次操作的最坏情况代价很高，但在一系列操作中，高代价操作的总次数是受限的，因此平均到每次操作的代价并不高。定义 1.1（摊还分析）：摊还分析（Amortized 阅读全文。",
-      "originalSummary": "【摘要】势能分析（摊还分析） 基本概念 1.1 摊还分析的引入 在算法分析中，我们通常关注单次操作的最坏时间复杂度。然而，对于某些数据结构，虽然单次操作的最坏情况代价很高，但在一系列操作中，高代价操作的总次数是受限的，因此平均到每次操作的代价并不高。定义 1.1（摊还分析）：摊还分析（Amortized 阅读全文。",
-      "url": "https://www.cnblogs.com/lvwangshuOI/p/23191542",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-03T06:30:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 158,
-      "summaryLength": 133,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】势能分析（摊还分析） 基本概念 1.1 摊还分析的引入 在算法分析中，我们通常关注单次操作的最坏时间复杂度 然而，对于某些数据结构，虽然单次操作的最坏情况代价很高，但在一系列操作中，高代价操作的总次数是受限的，因此平均到每次操作的代价并不高 定义 1.1（摊还分析）：摊还分析（Amortized 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "博客配置 - 新皮肤 - 周永恒",
-      "titleZh": "博客配置 - 新皮肤 - 周永恒",
-      "summary": "【摘要】概述 做了一款新皮肤，支持深浅色一键切换，浅色、深色各带 8 套主题色。现在的博客就是这个皮肤，需要的可以拿去用。特性 深/浅色切换：页头月亮按钮切换深浅色 16 套主题色： 浅色：石板蓝、云白蓝、靛紫、蚂蚁蓝、支付紫、说文、中国红、天青 深色：午夜蓝、德古拉、摩卡、紫夜、东京夜、深海青、北欧蓝、 阅读全文。",
-      "originalSummary": "【摘要】概述 做了一款新皮肤，支持深浅色一键切换，浅色、深色各带 8 套主题色。现在的博客就是这个皮肤，需要的可以拿去用。特性 深/浅色切换：页头月亮按钮切换深浅色 16 套主题色： 浅色：石板蓝、云白蓝、靛紫、蚂蚁蓝、支付紫、说文、中国红、天青 深色：午夜蓝、德古拉、摩卡、紫夜、东京夜、深海青、北欧蓝、 阅读全文。",
-      "url": "https://www.cnblogs.com/Zhouyongh/p/23190905",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-03T05:08:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "云计算"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 122,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】概述 做了一款新皮肤，支持深浅色一键切换，浅色、深色各带 8 套主题色 现在的博客就是这个皮肤，需要的可以拿去用 特性 深/浅色切换：页头月亮按钮切换深浅色 16 套主题色： 浅色：石板蓝、云白蓝、靛紫、蚂蚁蓝、支付紫、说文、中国红、天青 深色：午夜蓝、德古拉、摩卡、紫夜、东京夜、深海青、北欧蓝、 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "如何理解简单随机游走的事件域不能是样本空间的幂集 - ChillmanLee",
-      "titleZh": "如何理解简单随机游走的事件域不能是样本空间的幂集 - ChillmanLee",
-      "summary": "【摘要】如何理解简单随机游走的事件域不能是样本空间的幂集 前言 事情的起因有两个。一个是前几天班里的大佬问我如何给掷无穷次硬币这个过程给一个样本空间。另一个则是国庆前一天晚课读 Probability with Martingales 时看到的一句话： We certainly wish to speak 阅读全文。",
-      "originalSummary": "【摘要】如何理解简单随机游走的事件域不能是样本空间的幂集 前言 事情的起因有两个。一个是前几天班里的大佬问我如何给掷无穷次硬币这个过程给一个样本空间。另一个则是国庆前一天晚课读 Probability with Martingales 时看到的一句话： We certainly wish to speak 阅读全文。",
-      "url": "https://www.cnblogs.com/ChillmanLee/p/23190913",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-03T04:35:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 158,
-      "summaryLength": 141,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】如何理解简单随机游走的事件域不能是样本空间的幂集 前言 事情的起因有两个 一个是前几天班里的大佬问我如何给掷无穷次硬币这个过程给一个样本空间 另一个则是国庆前一天晚课读 Probability with Martingales 时看到的一句话： We certainly wish to speak 阅读全文",
       "isTranslated": false
     },
     {
@@ -666,177 +666,6 @@
       "summaryLength": 149,
       "summaryQuality": "weak",
       "readerTextZh": "9月22日至26日，2026明日城市・上海（Tomorrow.City Shanghai 2026，TCS 2026）于上海张江科学会堂举办 大会以 “共济山海，和而不同” 为主题，是全球智慧城市大会立足中国、辐射 “一带一路” 的区域盛会，旨在搭建国际城市数字化政企合作平台，对接全球城市真实需求，推动中国数字技术方案与国际城市发展需求双向赋能",
-      "isTranslated": false
-    },
-    {
-      "title": "滴滴、哈啰单车类似的免密支付的业务怎么实现的？",
-      "titleZh": "滴滴、哈啰单车类似的免密支付的业务怎么实现的？",
-      "summary": "希望使用支付宝，实现滴滴、哈啰单车类似的免密支付的业务。支付宝官方只提供了【商家扣款】这样一个支付产品，都是围绕着周期性的业务，先签约再自动付款的。https://opendocs.alipay.com/open/0izsmy?。",
-      "originalSummary": "希望使用支付宝，实现滴滴、哈啰单车类似的免密支付的业务。支付宝官方只提供了【商家扣款】这样一个支付产品，都是围绕着周期性的业务，先签约再自动付款的。https://opendocs.alipay.com/open/0izsmy?。",
-      "url": "https://segmentfault.com/q/1010000048327538",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-30T08:46:03+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 232,
-      "summaryLength": 98,
-      "summaryQuality": "weak",
-      "readerTextZh": "希望使用支付宝，实现滴滴、哈啰单车类似的免密支付的业务 支付宝官方只提供了【商家扣款】这样一个支付产品，都是围绕着周期性的业务，先签约再自动付款的 到底支不支持非周期性的免密支付业务呢？ 所以滴滴、哈啰单车类似的免密支付的业务，到底是怎么实现的？ https://opendocs.alipay.com/open/0izsmy?",
-      "isTranslated": false
-    },
-    {
-      "title": "怎么加密打包python程序？",
-      "titleZh": "怎么加密打包python程序？",
-      "summary": "哈喽，大家好，这是我第一天接触这个论坛，也是第一次提问！。我想问问各位技术大师开发的python程序怎么加密打包，不会让别人轻易解包？。我现在只会在终端用pyinstaller命令打包，但这个方法很容易就能解包！。",
-      "originalSummary": "哈喽，大家好，这是我第一天接触这个论坛，也是第一次提问！。我想问问各位技术大师开发的python程序怎么加密打包，不会让别人轻易解包？。我现在只会在终端用pyinstaller命令打包，但这个方法很容易就能解包！。",
-      "url": "https://segmentfault.com/q/1010000048320497",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-27T11:49:41+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 147,
-      "summaryLength": 96,
-      "summaryQuality": "weak",
-      "readerTextZh": "哈喽，大家好，这是我第一天接触这个论坛，也是第一次提问！ 我想问问各位技术大师开发的python程序怎么加密打包，不会让别人轻易解包？ 我现在只会在终端用pyinstaller命令打包，但这个方法很容易就能解包！ 希望能在这里获得详细的“加密打包python程序”的方法！",
-      "isTranslated": false
-    },
-    {
-      "title": "本地跑大模型做 Agent，内存占用为什么会比模型文件大十倍？",
-      "titleZh": "本地跑大模型做 Agent，内存占用为什么会比模型文件大十倍？",
-      "summary": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档。为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行。中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB。",
-      "originalSummary": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档。为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行。中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB。",
-      "url": "https://segmentfault.com/q/1010000048317158",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-24T10:20:33+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI",
-        "开源"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 687,
-      "summaryLength": 209,
-      "summaryQuality": "medium",
-      "readerTextZh": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档 为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行 中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB 最难受的不是占得多，是日志里看不出来 你只会看到一次没跑完的运行，和“模型超时”长得一模一样，没有 OOM，没有明确报错 我们早期有一批评测结果就是这么废掉的 我们已经做的：把 num_ctx 固定到 32,768 之后，同一个模型掉到 5.1 GB，而且有一个 3B 模型的某类任务直接从 0/5 变成 5/5 也就是说，我们之前以为“这个模型不行”，其实是内存被上下文吃光了",
-      "isTranslated": false
-    },
-    {
-      "title": "项目使用vue2+antdvue 1.7.8 在2013的赛扬cpu设备上表现不佳，应该说是很慢，有针对这种处理器比较差的处理方案吗？",
-      "titleZh": "项目使用vue2+antdvue 1.7.8 在2013的赛扬cpu设备上表现不佳，应该说是很慢，有针对这种处理器比较差的处理方案吗？",
-      "summary": "我们已经对项目内的各种计算、虚拟列表、懒加载之类的优化都做过了，但是实际上组件的卡顿问题并没有解决。还使用html进行vue和antd的导入，实现个简单html页面，即使是这种的a-input输入也会卡顿。和原生的差距很大，请问有什么处理方法吗?。",
-      "originalSummary": "我们已经对项目内的各种计算、虚拟列表、懒加载之类的优化都做过了，但是实际上组件的卡顿问题并没有解决。还使用html进行vue和antd的导入，实现个简单html页面，即使是这种的a-input输入也会卡顿。和原生的差距很大，请问有什么处理方法吗?。",
-      "url": "https://segmentfault.com/q/1010000048316474",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-24T06:48:20+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 193,
-      "summaryLength": 113,
-      "summaryQuality": "weak",
-      "readerTextZh": "项目使用vue2+antdvue 1.7.8 在2013的赛扬cpu设备上表现不佳，应该说是很慢，有针对这种处理器比较差的处理方案吗？ 我们已经对项目内的各种计算、虚拟列表、懒加载之类的优化都做过了，但是实际上组件的卡顿问题并没有解决 还使用html进行vue和antd的导入，实现个简单html页面，即使是这种的a-input输入也会卡顿 和原生的差距很大，请问有什么处理方法吗?",
-      "isTranslated": false
-    },
-    {
-      "title": "网页护眼倒计时，切到其他界面后不弹提醒，如何修复？",
-      "titleZh": "网页护眼倒计时，切到其他界面后不弹提醒，如何修复？",
-      "summary": "我是一个完全不懂代码的新手，正在用低代码工具（秒搭）做一款叫「眨眼森林」的网页护眼产品。功能很简单：用户选工作时间（比如25分钟）→ 开始倒计时 → 切到自己的文档/网页工作 → 时间到了弹出提醒休息。打开链接，点“开始工作”（比如设1分钟测试）。",
-      "originalSummary": "我是一个完全不懂代码的新手，正在用低代码工具（秒搭）做一款叫「眨眼森林」的网页护眼产品。功能很简单：用户选工作时间（比如25分钟）→ 开始倒计时 → 切到自己的文档/网页工作 → 时间到了弹出提醒休息。打开链接，点“开始工作”（比如设1分钟测试）。",
-      "url": "https://segmentfault.com/q/1010000048315623",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-24T01:33:10+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 602,
-      "summaryLength": 99,
-      "summaryQuality": "weak",
-      "readerTextZh": "我是一个完全不懂代码的新手，正在用低代码工具（秒搭）做一款叫「眨眼森林」的网页护眼产品 功能很简单：用户选工作时间（比如25分钟）→ 开始倒计时 → 切到自己的文档/网页工作 → 时间到了弹出提醒休息 但现在遇到了一个卡了很久的问题，低代码工具怎么改都解决不了，来向各位大佬求助 打开链接，点“开始工作”（比如设1分钟测试） 立刻切到 Word、浏览器其他标签页等任何别的界面 1分钟到了，右下角没有任何系统通知弹出,只能听到微弱的“叮”的一声 只有当我手动切回「眨眼森林」页面时，才看到弹窗让我选择是“开始休息”、“五分钟以后”、还是“暂不提示” 网页版体验： https://app-eg18xhtrg5q9.miaoda.online",
-      "isTranslated": false
-    },
-    {
-      "title": "只会html，如何学Vue？",
-      "titleZh": "只会html，如何学Vue？",
-      "summary": "我现在大三，在实习中，但是我只学了html，css会一点，js不会但是我现在就是要用vue，但是我对vue的根本不知道要怎么做，我连如何插入图片都不知道，我在git上面下载了项目到D盘，但是我的图片在桌面的文件夹里面，请问有啥办法可以快速学习vue把基础的知识...。",
-      "originalSummary": "我现在大三，在实习中，但是我只学了html，css会一点，js不会但是我现在就是要用vue，但是我对vue的根本不知道要怎么做，我连如何插入图片都不知道，我在git上面下载了项目到D盘，但是我的图片在桌面的文件夹里面，请问有啥办法可以快速学习vue把基础的知识...。",
-      "url": "https://segmentfault.com/q/1010000048312560",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-22T10:55:04+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 136,
-      "summaryLength": 121,
-      "summaryQuality": "weak",
-      "readerTextZh": "我现在大三，在实习中，但是我只学了html，css会一点，js不会但是我现在就是要用vue，但是我对vue的根本不知道要怎么做，我连如何插入图片都不知道，我在git上面下载了项目到D盘，但是我的图片在桌面的文件夹里面，请问有啥办法可以快速学习vue把基础的知识学习一下",
-      "isTranslated": false
-    },
-    {
-      "title": "小程序界面问题：分页下拉不了，如何解决？",
-      "titleZh": "小程序界面问题：分页下拉不了，如何解决？",
-      "summary": "我在学习怎么写小程序，学到分页之后，我发现可以下拉，但是上拉不了，在右侧页面里面，我在console里面写了触底提升，但是没有显示，不知道原因，问AI也解决不了。list:[], page:1, pageSize:20, hasMore:true, loadingTip:\"加载中\" }。'加载中':'没有更多数据了' }) }, fail:()=>{ wx.showToast({title:'网络错误',icon:'none'}) } }) }。",
-      "originalSummary": "我在学习怎么写小程序，学到分页之后，我发现可以下拉，但是上拉不了，在右侧页面里面，我在console里面写了触底提升，但是没有显示，不知道原因，问AI也解决不了。list:[], page:1, pageSize:20, hasMore:true, loadingTip:\"加载中\" }。'加载中':'没有更多数据了' }) }, fail:()=>{ wx.showToast({title:'网络错误',icon:'none'}) } }) }。",
-      "url": "https://segmentfault.com/q/1010000048312494",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-22T10:30:23+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 1225,
-      "summaryLength": 157,
-      "summaryQuality": "weak",
-      "readerTextZh": "我在学习怎么写小程序，学到分页之后，我发现可以下拉，但是上拉不了，在右侧页面里面，我在console里面写了触底提升，但是没有显示，不知道原因，问AI也解决不了 list:[], page:1, pageSize:20, hasMore:true, loadingTip:\"加载中\" } this.data.hasMore) return wx.request({ url:'https://jsonplaceholder.typicode.com/posts', method:'GET', data:{ _page:this.data.page, _limit:this.data.pageSize }, success:(res)=>{ const newData=res.data const oldList=this.data.list this.setData({ list:oldList.concat(newData), hasMore:newData.length>=this.data.pageSize, page:this.data.page+1, loadingTip:newData.length>=this.data.pageSize? '加载中':'没有更多数据了' }) }, fail:()=>{ wx.showToast({title:'网络错误',icon:'none'}) } }) } console.log(\"触底了\") this.getList() } onPullDownRefresh(){ this.setData({ page:1, hasMore:true, list:[], loadingTip:'加载中' }) this.getList() wx.stopPullDownRefresh() } padding: 40rpx 30rpx",
-      "isTranslated": false
-    },
-    {
-      "title": "在AMH上直接安装imagick此模块失败，如何解决这个问题？",
-      "titleZh": "在AMH上直接安装imagick此模块失败，如何解决这个问题？",
-      "summary": "在WordPress中提示“可选的模块 imagick 未被安装或已被禁用”。到软件商店先安装image_magick软件。按步骤试过了，还是提示安装失败，我下载的是PHP8.5最新版，Nginx-1.30，MySQL-8.0，是不是还没适配？。",
-      "originalSummary": "在WordPress中提示“可选的模块 imagick 未被安装或已被禁用”。到软件商店先安装image_magick软件。按步骤试过了，还是提示安装失败，我下载的是PHP8.5最新版，Nginx-1.30，MySQL-8.0，是不是还没适配？。",
-      "url": "https://segmentfault.com/q/1010000048311618",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-22T05:45:19+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 201,
-      "summaryLength": 104,
-      "summaryQuality": "weak",
-      "readerTextZh": "在WordPress中提示“可选的模块 imagick 未被安装或已被禁用” 在AMH上直接安装imagick此模块失败，如何解决这个问题？ 到软件商店先安装image_magick软件 再在『网站』扩展安装pecl_imagick模块 按步骤试过了，还是提示安装失败，我下载的是PHP8.5最新版，Nginx-1.30，MySQL-8.0，是不是还没适配？",
       "isTranslated": false
     },
     {
