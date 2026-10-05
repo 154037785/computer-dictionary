@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T16:26:24.920840+00:00",
-  "nextUpdate": "2026-10-05T04:26:24.920840+00:00",
+  "updatedAt": "2026-10-05T03:58:16.231374+00:00",
+  "nextUpdate": "2026-10-05T15:58:16.231374+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,25 +76,25 @@
   "errors": [],
   "items": [
     {
-      "title": "Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin",
-      "titleZh": "Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin",
-      "summary": "该 JEP 计划在 HotSpot JVM 启动时通过优化后的原生代码提升应用的启动与预热时间，使应用能更快达到并维持峰值性能 JEP 543， 结构化并发（Structured Concurrency） ，已经从 JEP Draft 8389757 提升为...。更多细节见 发行说明 对于 JDK 28 和 JDK 27 ，鼓励开发者通过 Java Bug Database 报告漏洞 在 6.0 版本发布约一周后， TornadoVM 的 6.1.0 版本发布，带来缺陷修复以及对...。本期Java新闻汇总主要包括：关于预编译（ahead-of-time compilation）与结构化并发（structured concurrency）的新JEP，Jakarta CDI 5.0与A...。",
-      "originalSummary": "该 JEP 计划在 HotSpot JVM 启动时通过优化后的原生代码提升应用的启动与预热时间，使应用能更快达到并维持峰值性能 JEP 543， 结构化并发（Structured Concurrency） ，已经从 JEP Draft 8389757 提升为...。更多细节见 发行说明 对于 JDK 28 和 JDK 27 ，鼓励开发者通过 Java Bug Database 报告漏洞 在 6.0 版本发布约一周后， TornadoVM 的 6.1.0 版本发布，带来缺陷修复以及对...。本期Java新闻汇总主要包括：关于预编译（ahead-of-time compilation）与结构化并发（structured concurrency）的新JEP，Jakarta CDI 5.0与A...。",
-      "url": "https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&utm_medium=article",
+      "title": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+      "titleZh": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+      "summary": "Cloudflare 对 DNS 平台 Big Pineapple 做的这些改动，使缓存插入吞吐量提高了 43%，并将查询延迟降低了 19% 在任何时刻， Big Pineapple 都存储着超过 2500 亿个 DNS 缓存条目。Cloudflare 系统工程师 Sebastiaan Neuteboom 在 LinkedIn 上这样描述了这一成果： 这项工作对 Rust 的缓存表示形式连续进行了五次迭代优化。Cloudflare 首先将插入后固定不变的数据类型从 Vec 和 String 替换为 Box 和 Box ，使得每个条目节省了 64 个字节，而整个集群累计节省了超过 15 TB 内存。",
+      "originalSummary": "Cloudflare 对 DNS 平台 Big Pineapple 做的这些改动，使缓存插入吞吐量提高了 43%，并将查询延迟降低了 19% 在任何时刻， Big Pineapple 都存储着超过 2500 亿个 DNS 缓存条目。Cloudflare 系统工程师 Sebastiaan Neuteboom 在 LinkedIn 上这样描述了这一成果： 这项工作对 Rust 的缓存表示形式连续进行了五次迭代优化。Cloudflare 首先将插入后固定不变的数据类型从 Vec 和 String 替换为 Box 和 Box ，使得每个条目节省了 64 个字节，而整个集群累计节省了超过 15 TB 内存。",
+      "url": "https://www.infoq.cn/article/XWJ8G6GaFmNL74xpSgjU?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-04T18:39:00+00:00",
+      "publishedAt": "2026-10-05T10:00:00+00:00",
       "tags": [
         "架构",
         "软件工程",
         "中文深度",
-        "安全"
+        "云计算"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 3842,
-      "summaryLength": 282,
+      "sourceTextLength": 1685,
+      "summaryLength": 252,
       "summaryQuality": "strong",
-      "readerTextZh": "本期Java新闻汇总主要包括：关于预编译（ahead-of-time compilation）与结构化并发（structured concurrency）的新JEP，Jakarta CDI 5.0与ADK for Kotlin 1.0的GA发布，2026年9月版Open Liberty，TornadoVM与RefactorFirst的小版本发布，Micronaut的维护性发布，以及Groovy 6.0与Gradle 9.8的首个发布候选版本 本期Java新闻汇总主要包括：关于预编译（ahead-of-time compilation）与结构化并发（structured concurrency）的新JEP，Jakarta CDI 5.0与ADK for Kotlin 1.0的GA发布，2026年9月版Open Liberty，TornadoVM与RefactorFirst的小版本发布，Micronaut的维护性发布，以及Groovy 6.0与Gradle 9.8的首个发布候选版本 本期 Java 新闻汇总主要包括：关于预编译（ahead-of-time compilation）与结构化并发（structured concurrency）的新 JEP，Jakarta CDI 5.0 与 ADK for Kotlin 1.0 的 GA 发布，2026 年 9 月版 Open Liberty，TornadoVM 与 RefactorFirst 的小版本发布，Micronaut 的维护性发布，以及 Groovy 6.0 与 Gradle 9.8 的首个发布候选版本 JEP 544， 预先代码编译（Ahead-of-Time Code Compilation） ，已经从 JEP Draft 8335368 状态提升为 Candidate 状态 该 JEP 计划在 HotSpot JVM 启动时通过优化后的原生代码提升应用的启动与预热时间，使应用能更快达到并维持峰值性能 JEP 543， 结构化并发（Structured Concurrency） ，已经从 JEP Draft...",
+      "readerTextZh": "Cloudflare 重新设计了其 1.1.1.1 解析器所使用的 DNS 缓存的内存表示，将每个条目的基准占用空间减少了 56%，并在整个服务器集群中释放了约 100 TB 的工作集内存 Cloudflare 重新设计了其 1.1.1.1 解析器所使用的 DNS 缓存的内存表示，将每个条目的基准占用空间减少了 56%，并在整个服务器集群中释放了约 100 TB 的工作集内存 Cloudflare 重新设计 了其 1.1.1.1 解析器所使用的 DNS 缓存的内存表示，将每个条目的基准空间占用减少了 56%，并在整个服务器集群中释放了约 100 TB 的工作集内存 Cloudflare 对 DNS 平台 Big Pineapple 做的这些改动，使缓存插入吞吐量提高了 43%，并将查询延迟降低了 19% 在任何时刻， Big Pineapple 都存储着超过 2500 亿个 DNS 缓存条目 Cloudflare 系统工程师 Sebastiaan Neuteboom 在 LinkedIn 上这样描述了这一成果： 这项工作对 Rust 的缓存表示形式连续进行了五次迭代优化 Cloudflare 首先将插入后固定不变的数据类型从 Vec 和 String 替换为 Box 和 Box ，使得每个条目节省了 64 个字节，而整个集群累计节省了超过 15 TB 内存 随后，他们将应答（answer）、权限（authority）及其他记录合并为一个带有紧凑偏移量的列表，将布尔值打包成位标志，并省略了与查询域名匹配的所有者名称，转而通过缓存键进行重建 最大的挑战在于 Rust 枚举：Cloudflare 最初尝试对较大的枚举变体进行装箱（boxing），但独立的内存分配不仅增加了开销还降低了内存局部性 许多这种类型的内存优化技巧只有在达到 Cloudflare 的请求量级别时才能发挥作用 在规模比较小的情况下，将变体进行装箱所造成的额外间接访问，对缓存局部性的损害可能大于其实际益处 Cloudflare 的最终设计采用 DNS 有线格式，将记录数据存储在连续的字节缓冲区中 这既...",
       "isTranslated": false
     },
     {
@@ -105,7 +105,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T16:25:34.463745+00:00",
+      "publishedAt": "2026-10-05T03:57:33.287143+00:00",
       "tags": [
         "后端",
         "工程",
@@ -127,7 +127,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T16:25:33.837509+00:00",
+      "publishedAt": "2026-10-05T03:57:32.567884+00:00",
       "tags": [
         "后端",
         "工程",
@@ -150,7 +150,7 @@
       "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T16:25:33.215537+00:00",
+      "publishedAt": "2026-10-05T03:57:31.937044+00:00",
       "tags": [
         "后端",
         "工程",
@@ -173,7 +173,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T16:25:32.580724+00:00",
+      "publishedAt": "2026-10-05T03:57:31.259888+00:00",
       "tags": [
         "后端",
         "工程",
@@ -195,7 +195,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T16:25:31.956043+00:00",
+      "publishedAt": "2026-10-05T03:57:30.627227+00:00",
       "tags": [
         "后端",
         "工程",
@@ -217,7 +217,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T16:25:31.303202+00:00",
+      "publishedAt": "2026-10-05T03:57:29.990181+00:00",
       "tags": [
         "后端",
         "工程",
@@ -239,7 +239,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T16:25:30.586557+00:00",
+      "publishedAt": "2026-10-05T03:57:29.291178+00:00",
       "tags": [
         "后端",
         "工程",
@@ -261,7 +261,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-04T16:25:29.962446+00:00",
+      "publishedAt": "2026-10-05T03:57:28.460622+00:00",
       "tags": [
         "后端",
         "工程",
@@ -276,48 +276,92 @@
       "isTranslated": false
     },
     {
-      "title": "ABP x Vue：介绍 ABP Vue UI - liangshiwei",
-      "titleZh": "ABP x Vue：介绍 ABP Vue UI - liangshiwei",
-      "summary": "【摘要】Lsw.Abp.VueUI 是一个由社区开发、基于 Vue 3 的完整 ABP Framework 前端实现。它遵循 ABP 的模块化架构，将框架服务、模块界面、扩展点和主题整合在一起，让你可以使用 Vue 构建 ABP 应用。实现采用 Vue Composition API、Vue Router 和单文件组件，让你在沿用熟悉的 ABP 开发约定的同时，使用 Vue 的工具和开发方式 项目内置账户、用户、角色、权限、租户、功能管理和设置管理等模...。",
-      "originalSummary": "【摘要】Lsw.Abp.VueUI 是一个由社区开发、基于 Vue 3 的完整 ABP Framework 前端实现。它遵循 ABP 的模块化架构，将框架服务、模块界面、扩展点和主题整合在一起，让你可以使用 Vue 构建 ABP 应用。实现采用 Vue Composition API、Vue Router 和单文件组件，让你在沿用熟悉的 ABP 开发约定的同时，使用 Vue 的工具和开发方式 项目内置账户、用户、角色、权限、租户、功能管理和设置管理等模...。",
-      "url": "https://www.cnblogs.com/LiangSW/p/23199106/ABPxVue-Introduce",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-04T15:49:00+00:00",
+      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "titleZh": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "summary": "当 Agent Harness 的任何一个环节发生变化——模型升级、Prompt 调整、知识库更新、Skill 新增或下线——都可以通过离线评测验证效果，避免不成熟的变更导致 Agent 能力劣化。借用 Anthropic《 Demystifying evals for AI agents 》文中对长程 Agent 评测 Task 定义：为“具有明确输入和成功标准的单个测试”，这个概念同样可以泛化到短程 Agent...。如果 Skill 都正常，但“数据对比类”任务占比从 10% 涨到 35%，那结论是用户结构变了、Agent 在新场景上能力不足——这两种情况的应对完全不同。",
+      "originalSummary": "当 Agent Harness 的任何一个环节发生变化——模型升级、Prompt 调整、知识库更新、Skill 新增或下线——都可以通过离线评测验证效果，避免不成熟的变更导致 Agent 能力劣化。借用 Anthropic《 Demystifying evals for AI agents 》文中对长程 Agent 评测 Task 定义：为“具有明确输入和成功标准的单个测试”，这个概念同样可以泛化到短程 Agent...。如果 Skill 都正常，但“数据对比类”任务占比从 10% 涨到 35%，那结论是用户结构变了、Agent 在新场景上能力不足——这两种情况的应对完全不同。",
+      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+      "source": "美团技术团队",
+      "region": "技术团队",
+      "publishedAt": "2026-10-05T03:57:27.792819+00:00",
       "tags": [
-        "开发者",
         "后端",
-        "中文深度",
-        "软件工程"
+        "工程",
+        "技术团队",
+        "AI"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 1447,
-      "summaryLength": 186,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】Lsw.Abp.VueUI 是一个由社区开发、基于 Vue 3 的完整 ABP Framework 前端实现 它遵循 ABP 的模块化架构，将框架服务、模块界面、扩展点和主题整合在一起，让你可以使用 Vue 构建 ABP 应用 身份认证、权限、多租户、本地化和模块开发，都提供与 ABP Angul 阅读全文 Lsw.Abp.VueUI 是一个由社区开发、基于 Vue 3 的完整 ABP Framework 前端实现 身份认证、权限、多租户、本地化和模块开发，都提供与 ABP Angul Lsw.Abp.VueUI 是一个由社区开发、基于 Vue 3 的完整 ABP Framework 前端实现 它遵循 ABP 的模块化架构，将框架服务、模块界面、扩展点和主题整合在一起，让你可以使用 Vue 构建 ABP 应用 身份认证、权限、多租户、本地化和模块开发，都提供与 ABP Angular UI 保持一致的开发体验 实现采用 Vue Composition API、Vue Router 和单文件组件，让你在沿用熟悉的 ABP 开发约定的同时，使用 Vue 的工具和开发方式 项目内置账户、用户、角色、权限、租户、功能管理和设置管理等模块，提供 ABP 应用常用的管理页面，让你可以更专注于自己的业务功能 模块页面支持扩展 你可以通过应用配置添加表格列、表单字段、行操作和工具栏按钮 例如，在用户列表中添加一个自定义操作，无需修改模块包的代码 UI 采用支持多主题的设计",
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 11271,
+      "summaryLength": 238,
+      "summaryQuality": "medium",
+      "readerTextZh": "搭一个 Agent 正在变得越来越容易 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的要求在往下降 早期要让模型稳定地按格式输出、正确地选中一个工具，需要反复打磨 Prompt、设计各种兜底 现在这些能力越来越多地由模型本身承担，长上下文、原生工具调用、更强的指令遵循和多步推理，把大量原本需要工程去补的地方补上了 二是 Agent 框架的功能持续丰富 从早期需要自己实现规划、记忆、工具注册和状态管理，到现在框架和协议层把这些抽象成标准组件，接一个工具、加一个 Skill，工作量都在显著下降 两条曲线叠加，结论很直接：搭建 Agent 门槛正在逐年降低 这带来的直接变化是 Agent 落地场景越来越多，越来越发散",
       "isTranslated": false
     },
     {
-      "title": "Aleph Alpha 开源 78B 参数 MoE 模型 Kolibri",
-      "titleZh": "Aleph Alpha 开源 78B 参数 MoE 模型 Kolibri",
-      "summary": "德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布开源模型 Kolibri，总参数 78B，每次推理仅激活 3.46B 参数，采用 Apache 2.0 许可证，支持百万 token 德国 AI 实验室 Aleph Alpha 在 10 月...。这是一个混合专家架构（MoE）模型，每次推理仅激活 3.46B 参数，在英文数学和代码测试中达到 90 分以上，同时对德语提供了较强支持 Kolibri 采用 50 层结构，全部使用 MoE，共 384 个专家。预训练使用 768 块 B200 GPU，历时 21 天完成，于 9 月 11 日结束。",
-      "originalSummary": "德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布开源模型 Kolibri，总参数 78B，每次推理仅激活 3.46B 参数，采用 Apache 2.0 许可证，支持百万 token 德国 AI 实验室 Aleph Alpha 在 10 月...。这是一个混合专家架构（MoE）模型，每次推理仅激活 3.46B 参数，在英文数学和代码测试中达到 90 分以上，同时对德语提供了较强支持 Kolibri 采用 50 层结构，全部使用 MoE，共 384 个专家。预训练使用 768 块 B200 GPU，历时 21 天完成，于 9 月 11 日结束。",
-      "url": "https://juejin.cn/post/7692612898275754010",
-      "source": "掘金技术社区",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-04T15:32:13+00:00",
+      "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
+      "titleZh": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
+      "summary": "美团外卖多个业务订单量提升 2.06%~6.68% 不等，推理成本降低 24%，相关工作已被 KDD 2026 收录。MTGR 将样本组织成单用户（UV）粒度，MTFM 进一步升级为外卖全业务的统一用户粒度样本，同一用户的外卖多业务曝光聚合成 1 条样本，共享模型中最耗费算力的长序列 Attention 部分计算。序列长度（图7）：在 400~2000 范围内序列长度 Scaling 现象明显，随着入图序列长度增长，模型能够建模更长期的用户偏好，模型离线 GAUC 稳定提升。",
+      "originalSummary": "美团外卖多个业务订单量提升 2.06%~6.68% 不等，推理成本降低 24%，相关工作已被 KDD 2026 收录。MTGR 将样本组织成单用户（UV）粒度，MTFM 进一步升级为外卖全业务的统一用户粒度样本，同一用户的外卖多业务曝光聚合成 1 条样本，共享模型中最耗费算力的长序列 Attention 部分计算。序列长度（图7）：在 400~2000 范围内序列长度 Scaling 现象明显，随着入图序列长度增长，模型能够建模更长期的用户偏好，模型离线 GAUC 稳定提升。",
+      "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
+      "source": "美团技术团队",
+      "region": "技术团队",
+      "publishedAt": "2026-10-05T03:57:26.984658+00:00",
       "tags": [
-        "前端",
         "后端",
-        "开发者",
+        "工程",
+        "技术团队",
         "AI",
         "芯片"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 1011,
-      "summaryLength": 215,
+      "sourceTextLength": 20036,
+      "summaryLength": 199,
+      "summaryQuality": "weak",
+      "readerTextZh": "美团在 MTGR 基础上提出统一推荐基座大模型 MTFM，首次实现外卖多个主要业务的统一精排模型 围绕规模可扩展性、场景可延展性与架构高效性三大挑战，MTFM以异构 Tokenizer 与动态掩码实现多场景特征免对齐，通过混合注意力与 Target Scale-Up 提升模型 Scaling 能力，借鉴 LLM 优化实践提升深层网络训练效果，并以 User-Level 训练范式与定制算子保证系统开销可控 美团外卖多个业务订单量提升 2.06%~6.68% 不等，推理成本降低 24%，相关工作已被 KDD 2026 收录 我们去年提出了 MTGR [1] —— 一种新的生成式精排框架，在美团外卖推荐场景验证了 Scaling Law 的有效性，并取得显著业务收益 然而，推荐领域的 Scaling Law 探索往往局限于单场景内部，模型被限制在单场景孤岛中，跨场景的数据、算力和架构无法充分复用 在美团这一问题尤为突出，推荐覆盖外卖首页、拼好饭等多个业务场景，各场景长期独立建模 与此同时，大语言模型（LLM）已验证一条清晰路径：基座模型（Foundation Model）足以统一处理编程、数学、写作等多领域任务，也可以将文本、图像、语音等异构信息表示为 Token 序列并进行端到端学习，展现出了强泛化性与可扩展性 因此，我们认为美团推荐的下一个阶段关键在于打通跨场景的异构性，充分利用多场景数据提升 Scaling Law 的上限，即建设统一推荐基座大模型",
+      "isTranslated": false
+    },
+    {
+      "title": "别再 rm 日志了：Linux 下安全清空日志文件的正确姿势 - AlfredZhao",
+      "titleZh": "别再 rm 日志了：Linux 下安全清空日志文件的正确姿势 - AlfredZhao",
+      "summary": "这个操作看起来干净利落，实际上埋着两个大坑。01 | 为什么 rm 加 touch 是危险操作 后台服务（比如 FastAPI、Nginx、MySQL）启动 别再 rm 日志了：Linux 下安全清空日志文件的正确姿势 日志文件越滚越大，磁盘告警一响，很多人的第一...。笔者在本文里把底层原因和两种安全做法讲清楚 后台服务（比如 FastAPI、Nginx、MySQL）启动时就已经打开了日志文件，并在内存中持有该文件的 inode 和文件句柄（FD） 执行 rm 只是删除了文件名与 in...。",
+      "originalSummary": "这个操作看起来干净利落，实际上埋着两个大坑。01 | 为什么 rm 加 touch 是危险操作 后台服务（比如 FastAPI、Nginx、MySQL）启动 别再 rm 日志了：Linux 下安全清空日志文件的正确姿势 日志文件越滚越大，磁盘告警一响，很多人的第一...。笔者在本文里把底层原因和两种安全做法讲清楚 后台服务（比如 FastAPI、Nginx、MySQL）启动时就已经打开了日志文件，并在内存中持有该文件的 inode 和文件句柄（FD） 执行 rm 只是删除了文件名与 in...。",
+      "url": "https://www.cnblogs.com/jyzhao/p/23200588",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-05T00:03:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "安全",
+        "开源"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 876,
+      "summaryLength": 204,
       "summaryQuality": "strong",
-      "readerTextZh": "德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布开源模型 Kolibri，总参数 78B，每次推理仅激活 3.46B 参数，采用 Apache 2.0 许可证，支持百万 token 德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布开源模型 Kolibri，总参数 78B，每次推理仅激活 3.46B 参数，采用 Apache 2.0 许可证，支持百万 token 德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布了开源权重模型 Kolibri，总参数量 78B，采用 Apache 2.0 许可证 这是一个混合专家架构（MoE）模型，每次推理仅激活 3.46B 参数，在英文数学和代码测试中达到 90 分以上，同时对德语提供了较强支持 Kolibri 采用 50 层结构，全部使用 MoE，共 384 个专家 预训练使用 768 块 B200 GPU，历时 21 天完成，于 9 月 11 日结束 模型处理了超过 200T token 的原始数据，知识截止日期为 6 月 18 日 训练数据中英语占比约 62%，代码占比 14%，德语 token 约 4.3T，占总训练数据约 21.3% 预训练期间遇到 38 次非计划中断 预训练后，模型经过 3.44T token 的中训阶段和 200B token 的长上下文适配 Kolibri 支持最长 1M token 的上下文，通过混合注意力机制实现:10 层处理完整上下文，其余 40 层使用 512 token 的滑动窗口 这些分数显示 Kolibri 在数学推理和代码生成任务上有较好表现 德语测试分数略低于英语，但仍在 87.5 到 90.0 之间 Aleph Alpha 同时发布了 Kolibri Origin，这是一个更小的前序版本，总参数 30.6B，激活参数 3.27B，于 6 月 11 日完成预训练 Origin 使用 7.5T 训练 token，支持 65k token 上下文窗口 Kolibri 通过 MoE 架构降低了推理成本，激活参数仅占总参数的约 4.4%",
+      "readerTextZh": "【摘要】日志文件越滚越大，磁盘告警一响，很多人的第一反应是 rm *.log 再 touch *.log 这个操作看起来干净利落，实际上埋着两个大坑 笔者在本文里把底层原因和两种安全做法讲清楚 01 | 为什么 rm 加 touch 是危险操作 后台服务（比如 FastAPI、Nginx、MySQL）启动 阅读全文 日志文件越滚越大，磁盘告警一响，很多人的第一反应是 rm *.log 再 touch *.log 01 | 为什么 rm 加 touch 是危险操作 后台服务（比如 FastAPI、Nginx、MySQL）启动 日志文件越滚越大，磁盘告警一响，很多人的第一反应是 rm *.log 再 touch *.log 01 | 为什么 rm 加 touch 是危险操作 后台服务（比如 FastAPI、Nginx、MySQL）启动 别再 rm 日志了：Linux 下安全清空日志文件的正确姿势 日志文件越滚越大，磁盘告警一响，很多人的第一反应是 rm *.log 再 touch *.log 笔者在本文里把底层原因和两种安全做法讲清楚 后台服务（比如 FastAPI、Nginx、MySQL）启动时就已经打开了日志文件，并在内存中持有该文件的 inode 和文件句柄（FD） 执行 rm 只是删除了文件名与 inode 之间的映射链接 由于后台程序仍然持有这个 FD，操作系统不会真正释放磁盘空间，磁盘占用依旧居高不下 紧接着执行 touch ，会创建一个拥有全新 inode 的同名文件",
+      "isTranslated": false
+    },
+    {
+      "title": "JT/T 808 协议网关的设计与实现（第 2 篇 · 后端技术） - Sam Xiao",
+      "titleZh": "JT/T 808 协议网关的设计与实现（第 2 篇 · 后端技术） - Sam Xiao",
+      "summary": "【摘要】1、实时定位 2、轨迹查询 3、告警管理 4、 围栏设置 5、看板与报表 Netty + RocketMQ + PostgreSQL：JT/T 808 协议网关的设计与实现（第 2 篇 · 后端技术） 上篇讲了平台的五层骨架和业务闭环。这篇钻进后端核心：我们自研的两个模块——jt-gateway（8 阅读全文。",
+      "originalSummary": "【摘要】1、实时定位 2、轨迹查询 3、告警管理 4、 围栏设置 5、看板与报表 Netty + RocketMQ + PostgreSQL：JT/T 808 协议网关的设计与实现（第 2 篇 · 后端技术） 上篇讲了平台的五层骨架和业务闭环。这篇钻进后端核心：我们自研的两个模块——jt-gateway（8 阅读全文。",
+      "url": "https://www.cnblogs.com/xcj26/p/23200517",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-04T23:05:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 121,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】1、实时定位 2、轨迹查询 3、告警管理 4、 围栏设置 5、看板与报表 Netty + RocketMQ + PostgreSQL：JT/T 808 协议网关的设计与实现（第 2 篇 · 后端技术） 上篇讲了平台的五层骨架和业务闭环 这篇钻进后端核心：我们自研的两个模块——jt-gateway（8 阅读全文",
       "isTranslated": false
     },
     {
@@ -494,6 +538,27 @@
       "isTranslated": false
     },
     {
+      "title": "彻底清理 codex-universal-proxy：从杀不掉到干净卸载 - AlfredZhao",
+      "titleZh": "彻底清理 codex-universal-proxy：从杀不掉到干净卸载 - AlfredZhao",
+      "summary": "【摘要】笔者在服务器上遇到过一个奇怪现象：codex-universal-proxy 进程用 kill -9 杀不掉，杀掉后立刻又冒出一个新的。排查后发现，它其实是被 systemd 用户服务托管着，只要服务还在运行，进程就会被自动拉起。01 | 现象：kill -9 杀不掉 阅读全文。",
+      "originalSummary": "【摘要】笔者在服务器上遇到过一个奇怪现象：codex-universal-proxy 进程用 kill -9 杀不掉，杀掉后立刻又冒出一个新的。排查后发现，它其实是被 systemd 用户服务托管着，只要服务还在运行，进程就会被自动拉起。01 | 现象：kill -9 杀不掉 阅读全文。",
+      "url": "https://www.cnblogs.com/jyzhao/p/23195255",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-03T23:18:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 158,
+      "summaryLength": 117,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】笔者在服务器上遇到过一个奇怪现象：codex-universal-proxy 进程用 kill -9 杀不掉，杀掉后立刻又冒出一个新的 排查后发现，它其实是被 systemd 用户服务托管着，只要服务还在运行，进程就会被自动拉起 01 | 现象：kill -9 杀不掉 阅读全文",
+      "isTranslated": false
+    },
+    {
       "title": "🔥 AI 员工支持知识库文档引用：开源 AI 无代码平台 NocoBase",
       "titleZh": "🔥 AI 员工支持知识库文档引用：开源 AI 无代码平台 NocoBase",
       "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。NocoBase 目前更新包括三个分支： main、next 和 develop。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
@@ -666,6 +731,51 @@
       "summaryLength": 149,
       "summaryQuality": "weak",
       "readerTextZh": "9月22日至26日，2026明日城市・上海（Tomorrow.City Shanghai 2026，TCS 2026）于上海张江科学会堂举办 大会以 “共济山海，和而不同” 为主题，是全球智慧城市大会立足中国、辐射 “一带一路” 的区域盛会，旨在搭建国际城市数字化政企合作平台，对接全球城市真实需求，推动中国数字技术方案与国际城市发展需求双向赋能",
+      "isTranslated": false
+    },
+    {
+      "title": "OpenAI 发布 GPT‑6.1 Sol：智能水平接近 Astra、价格仅为其五分之一",
+      "titleZh": "OpenAI 发布 GPT‑6.1 Sol：智能水平接近 Astra、价格仅为其五分之一",
+      "summary": "OpenAI 上周才推出 GPT-6 Sol，这周就把 6.1 Sol 端上了桌。官方称之为一次「重大升级」，覆盖专业办公、操控电脑、agentic 编程等任务。放在别家这可能只是常规迭代，但放在此刻的 OpenAI 身上，最刺眼的参照系是隔壁：6.1 代号的 Astra 迭代，前两天刚因为没通过安全标准被按下暂停。",
+      "originalSummary": "OpenAI 上周才推出 GPT-6 Sol，这周就把 6.1 Sol 端上了桌。官方称之为一次「重大升级」，覆盖专业办公、操控电脑、agentic 编程等任务。放在别家这可能只是常规迭代，但放在此刻的 OpenAI 身上，最刺眼的参照系是隔壁：6.1 代号的 Astra 迭代，前两天刚因为没通过安全标准被按下暂停。",
+      "url": "https://www.oschina.net/news/502831/openai-gpt-6-1-sol",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-30T09:10:28+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI",
+        "安全"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 181,
+      "summaryLength": 131,
+      "summaryQuality": "weak",
+      "readerTextZh": "OpenAI 上周才推出 GPT-6 Sol，这周就把 6.1 Sol 端上了桌 官方称之为一次「重大升级」，覆盖专业办公、操控电脑、agentic 编程等任务 放在别家这可能只是常规迭代，但放在此刻的 OpenAI 身上，最刺眼的参照系是隔壁：6.1 代号的 Astra 迭代，前两天刚因为没通过安全标准被按下暂停 Sol 打市场的方式是「错位」——现",
+      "isTranslated": false
+    },
+    {
+      "title": "谷歌将提前两年终止对 ChromeOS 的支持",
+      "titleZh": "谷歌将提前两年终止对 ChromeOS 的支持",
+      "summary": "Google 用一份支持文档，悄悄把 Chromebook 们的寿命砍了两年。文档标题很客气——「What the Googlebook announcement means for your ChromeOS devices」，但内容很直接：现在买入的 Chromebook，更新支持在 2034...。Chromebook 2011 年发布。",
+      "originalSummary": "Google 用一份支持文档，悄悄把 Chromebook 们的寿命砍了两年。文档标题很客气——「What the Googlebook announcement means for your ChromeOS devices」，但内容很直接：现在买入的 Chromebook，更新支持在 2034...。Chromebook 2011 年发布。",
+      "url": "https://www.oschina.net/news/502827/google-ending-chromeos-support-two-years-early",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-30T08:09:49+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "硬件"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 222,
+      "summaryLength": 144,
+      "summaryQuality": "weak",
+      "readerTextZh": "Google 用一份支持文档，悄悄把 Chromebook 们的寿命砍了两年 文档标题很客气——「What the Googlebook announcement means for your ChromeOS devices」，但内容很直接：现在买入的 Chromebook，更新支持在 2034 年就画上句号，而不是原来说好的十年 Googlebook 是 Chromebook 的接班产品线 Chromebook 2011 年发布",
       "isTranslated": false
     },
     {
