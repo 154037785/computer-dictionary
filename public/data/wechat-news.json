@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T04:47:02.622570+00:00",
-  "nextUpdate": "2026-10-06T16:47:02.622570+00:00",
+  "updatedAt": "2026-10-06T17:55:04.538797+00:00",
+  "nextUpdate": "2026-10-07T05:55:04.538797+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,29 +76,6 @@
   "errors": [],
   "items": [
     {
-      "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
-      "titleZh": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
-      "summary": "将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe...。从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！。AI 正快速进入研发、测试与运维场景，但“给 SRE 加一个 AI”并不等于真正的 AISRE。",
-      "originalSummary": "将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe...。从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！。AI 正快速进入研发、测试与运维场景，但“给 SRE 加一个 AI”并不等于真正的 AISRE。",
-      "url": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-06T10:00:00+00:00",
-      "tags": [
-        "架构",
-        "软件工程",
-        "中文深度",
-        "AI",
-        "安全"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2046,
-      "summaryLength": 176,
-      "summaryQuality": "weak",
-      "readerTextZh": "从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 在这一背景下， 2026 年 QCon 全球软件开发大会大会 · 上海站 正式启动 本次大会将于 10 月 22 日—24 日 举办，聚焦 Harness AI 时代的工程实践，围绕 AI Native 架构、Agent Runtime、AI Infra、Data Systems、Agent 安全与可观测、Loop Engineering、Vibe Coding、具身智能与世界模型、端云协同等前沿技术方向，邀请全球技术社区与产业一线的实践者，系统性分享前沿洞察与实战经验，共同探索 AI 从能力到系统、从实验到生产的真实路径 携程 & 大数据平台 SRE 总监周昕毅已确认出席 “ 理性驾驭 AI 的 SRE 可靠性工程 ” 专题，并发表题为 《 AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环 》 的主题分享 AI 正快速进入研发、测试与运维场景，但“给 SRE 加一个 AI”并不等于真正的 AISRE 尤其在大数据平台中，故障链路复杂、组件依赖繁多、运维知识高度依赖专家经验，AI 从“辅助分析”走向“生产执行”仍面临信任、知识与闭环等问题 本次分享将结合携程大数据平台的实践，围绕稳定性、运维效率与成本治理三个典型场景，分享 AI 如何真正进入 SRE 的生产闭环 周昕毅，携程大数据平台 SRE 总监 毕业于同济大学软件学院，在云计算、大数据、基础设施运维及 SRE 等领域有 20 年工作经验 目前负责携程大数据基础平台建设...",
-      "isTranslated": false
-    },
-    {
       "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
       "titleZh": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
       "summary": "我们发现，多模态大模型能看懂图像、解析视频、在复杂场景里推理，然而一旦它们被丢进一个实时变化、需要持续探索的开放世界又会发生什么？。MineExplorer不是让模型看一张 Minecraft 截图做选择题，模型面对的是一个实时运行的3D沙盒世界。也就是说在这3分钟时间里，环境一直在变：模型每做一个动作，世界状态就更新一次，它必须根据最新的画面不断调整策略。",
@@ -106,7 +83,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-06T04:46:25.775482+00:00",
+      "publishedAt": "2026-10-06T17:54:26.322592+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +105,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-06T04:46:25.190312+00:00",
+      "publishedAt": "2026-10-06T17:54:25.725285+00:00",
       "tags": [
         "后端",
         "工程",
@@ -151,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-06T04:46:24.585505+00:00",
+      "publishedAt": "2026-10-06T17:54:25.064660+00:00",
       "tags": [
         "后端",
         "工程",
@@ -174,7 +151,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-06T04:46:23.999178+00:00",
+      "publishedAt": "2026-10-06T17:54:24.474588+00:00",
       "tags": [
         "后端",
         "工程",
@@ -196,7 +173,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-06T04:46:23.376928+00:00",
+      "publishedAt": "2026-10-06T17:54:23.819342+00:00",
       "tags": [
         "后端",
         "工程",
@@ -218,7 +195,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-06T04:46:22.794671+00:00",
+      "publishedAt": "2026-10-06T17:54:23.191667+00:00",
       "tags": [
         "后端",
         "工程",
@@ -240,7 +217,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-06T04:46:22.195002+00:00",
+      "publishedAt": "2026-10-06T17:54:22.540637+00:00",
       "tags": [
         "后端",
         "工程",
@@ -262,7 +239,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-06T04:46:21.506387+00:00",
+      "publishedAt": "2026-10-06T17:54:21.948461+00:00",
       "tags": [
         "后端",
         "工程",
@@ -284,7 +261,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-06T04:46:20.926940+00:00",
+      "publishedAt": "2026-10-06T17:54:21.354624+00:00",
       "tags": [
         "后端",
         "工程",
@@ -306,7 +283,7 @@
       "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-06T04:46:20.323898+00:00",
+      "publishedAt": "2026-10-06T17:54:20.720182+00:00",
       "tags": [
         "后端",
         "工程",
@@ -322,10 +299,164 @@
       "isTranslated": false
     },
     {
+      "title": "Bun 1.4 的 bun test --parallel 将 4 秒的测试套件缩短到约 1 秒 - panxianren",
+      "titleZh": "Bun 1.4 的 bun test --parallel 将 4 秒的测试套件缩短到约 1 秒 - panxianren",
+      "summary": "接着我尝试进一步压榨性能，并找到了这个参数停止生效的临界点——事实证明，这取决于测试实际执行的工作类型，而不是文件的数量 Bun 1.4 于 2026 年 8 月 20 日发布，带来了 bun test --parallel ，它会将测试文件分发到多个 wor...。这在 CI 中能节省大量时间（这里从 1.53s 降到 0.32s），但这也意味着在 --parallel 下使用 --bail ，你无法得知那 16 个未触碰的文件中是否还有其他失败——包括那些与导致首次失败的问题毫无...。【摘要】我有一个由 20 个测试文件组成的测试套件，运行一次需要 4 秒多。",
+      "originalSummary": "接着我尝试进一步压榨性能，并找到了这个参数停止生效的临界点——事实证明，这取决于测试实际执行的工作类型，而不是文件的数量 Bun 1.4 于 2026 年 8 月 20 日发布，带来了 bun test --parallel ，它会将测试文件分发到多个 wor...。这在 CI 中能节省大量时间（这里从 1.53s 降到 0.32s），但这也意味着在 --parallel 下使用 --bail ，你无法得知那 16 个未触碰的文件中是否还有其他失败——包括那些与导致首次失败的问题毫无...。【摘要】我有一个由 20 个测试文件组成的测试套件，运行一次需要 4 秒多。",
+      "url": "https://www.cnblogs.com/wangju5170/p/23211194",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-06T16:24:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3797,
+      "summaryLength": 223,
+      "summaryQuality": "strong",
+      "readerTextZh": "【摘要】我有一个由 20 个测试文件组成的测试套件，运行一次需要 4 秒多 我只加了一个参数 --parallel，耗时就降到了 1 秒 接着我尝试进一步压榨性能，并找到了这个参数停止生效的临界点——事实证明，这取决于测试实际执行的工作类型，而不是文件的数量 Bun 1.4 于 2026 年 8 月 20 阅读全文 我有一个由 20 个测试文件组成的测试套件，运行一次需要 4 秒多 Bun 1.4 于 2026 年 8 月 20 我有一个由 20 个测试文件组成的测试套件，运行一次需要 4 秒多 接着我尝试进一步压榨性能，并找到了这个参数停止生效的临界点——事实证明，这取决于测试实际执行的工作类型，而不是文件的数量 Bun 1.4 于 2026 年 8 月 20 日发布，带来了 bun test --parallel ，它会将测试文件分发到多个 worker 进程中并行执行，而不是在单个进程里逐个运行 我在一台 4 核 Intel Xeon 虚拟机上（KVM，4 个逻辑 CPU，无 cgroup 限制）运行 Bun 1.4.2，我想弄清楚这个参数到底能带来多少收益、它的上限在哪里，以及文档中\"隐含 --isolate \"这句话在实际中意味着什么 我写了 20 个测试文件，每个文件两个测试，其中每个测试都会先 await 一个 100ms 的 setTimeout 再执行断言——用来模拟拖慢大量真实集成测试的 API 调用和防抖逻辑 每组运行三次，最快与最慢之间的差距在 15ms 以内： 不带参数时， --parallel 默认使用 CPU 核心数，在这台机器上是 4",
+      "isTranslated": false
+    },
+    {
+      "title": "从依赖专家到开发者自助：一家银行的平台文化转型",
+      "titleZh": "从依赖专家到开发者自助：一家银行的平台文化转型",
+      "summary": "文化源于结构：平台团队可以开设开放支持会，为作出贡献的开发者设立超级用户奖，并建立开放的共享标准，以培养工程思维。Marcy Paramonova 和 Stéphane Cusin 在 KubeCon & CloudNativeCon Europe 的演讲《 在银行中构建云原生文化 》中解释道 Paramonova 表示，开发者和产...。为此，他们需要共享标准 Paramonova 和 Cusin 在《 开源如何促进平台创建中的协作 》中解释说，平台并不是一块基础设施，而是一套承载大量沟通的协作系统 Paramonova 认为，云原生是一种文化转变，而不...。",
+      "originalSummary": "文化源于结构：平台团队可以开设开放支持会，为作出贡献的开发者设立超级用户奖，并建立开放的共享标准，以培养工程思维。Marcy Paramonova 和 Stéphane Cusin 在 KubeCon & CloudNativeCon Europe 的演讲《 在银行中构建云原生文化 》中解释道 Paramonova 表示，开发者和产...。为此，他们需要共享标准 Paramonova 和 Cusin 在《 开源如何促进平台创建中的协作 》中解释说，平台并不是一块基础设施，而是一套承载大量沟通的协作系统 Paramonova 认为，云原生是一种文化转变，而不...。",
+      "url": "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-06T15:00:00+00:00",
+      "tags": [
+        "架构",
+        "软件工程",
+        "中文深度",
+        "云计算",
+        "开源"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1956,
+      "summaryLength": 238,
+      "summaryQuality": "strong",
+      "readerTextZh": "在银行中构建协作式平台文化 在银行中构建协作式平台文化 平台是一套协作系统，而不是基础设施 文化源于结构：平台团队可以开设开放支持会，为作出贡献的开发者设立超级用户奖，并建立开放的共享标准，以培养工程思维 Marcy Paramonova 和 Stéphane Cusin 在 KubeCon & CloudNativeCon Europe 的演讲《 在银行中构建云原生文化 》中解释道 Paramonova 表示，开发者和产品团队依赖平台团队 平台团队也依赖应用团队，双方都需要向前发展 为此，他们需要共享标准 Paramonova 和 Cusin 在《 开源如何促进平台创建中的协作 》中解释说，平台并不是一块基础设施，而是一套承载大量沟通的协作系统 Paramonova 认为，云原生是一种文化转变，而不仅仅是技术转变 平台团队开始提供开放支持会，开发者可以前来，与他们一起解决问题： 我们希望摆脱通常围绕工单开展的支持方式，为用户提供一些新鲜的东西 许多人对此产生了兴趣，包括基础设施、网络安全、网络、身份和云团队的人员 我们坐在一起、分享解决方案，并通过协作帮助解决问题 Cusin 表示，如果每个操作都需要提交工单、人工干预或平台工程师的直接支持，我们就会无意中形成一种依赖文化",
+      "isTranslated": false
+    },
+    {
+      "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+      "titleZh": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+      "summary": "查看全文 密码管理服务的数据，当然要掌握在自己手里 密码管理服务的数据，当然要掌握在自己手里 密码管理服务的数据，当然要掌握在自己手里 几年来我一直在市面上的主流密码管理方案间游走，上一个让我暂时安顿下来的是 Enpass。我需要给手里这三四百个密码再次搬个家 此时环顾一圈各家产品，可选项依然各有各的堵心：1Password 虽好，错过拼车好价就只能支付高昂的订阅费用。另一方面是在做好目录映射后，可以使用 NAS 本身的文件同步或备份功能保障数据安全 Vaultwarden 的 Docker 部署过程不需要折腾太多参数，社区提供的 Docker Compose 模板 也简单明了。",
+      "originalSummary": "查看全文 密码管理服务的数据，当然要掌握在自己手里 密码管理服务的数据，当然要掌握在自己手里 密码管理服务的数据，当然要掌握在自己手里 几年来我一直在市面上的主流密码管理方案间游走，上一个让我暂时安顿下来的是 Enpass。我需要给手里这三四百个密码再次搬个家 此时环顾一圈各家产品，可选项依然各有各的堵心：1Password 虽好，错过拼车好价就只能支付高昂的订阅费用。另一方面是在做好目录映射后，可以使用 NAS 本身的文件同步或备份功能保障数据安全 Vaultwarden 的 Docker 部署过程不需要折腾太多参数，社区提供的 Docker Compose 模板 也简单明了。",
+      "url": "https://sspai.com/post/115416",
+      "source": "少数派深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-06T10:00:00+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度",
+        "安全"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2738,
+      "summaryLength": 264,
+      "summaryQuality": "weak",
+      "readerTextZh": "密码管理服务的数据，当然要掌握在自己手里 查看全文 密码管理服务的数据，当然要掌握在自己手里 密码管理服务的数据，当然要掌握在自己手里 密码管理服务的数据，当然要掌握在自己手里 几年来我一直在市面上的主流密码管理方案间游走，上一个让我暂时安顿下来的是 Enpass 倒不是它体验有多出色，纯粹是因为「家人们」订阅了 Google Play Pass 能直接解锁高级版 直到前段时间订阅涨价，我们一致决定不再续费 我需要给手里这三四百个密码再次搬个家 此时环顾一圈各家产品，可选项依然各有各的堵心：1Password 虽好，错过拼车好价就只能支付高昂的订阅费用 LastPass 安全丑闻频出，让人多少有些望而却步 KeePass 硬核且开放，但跨平台体验碎片化严重——最终选择回到 Bitwarden 算不上是最优解，但使用 TOTP 无需多装一个 2FA 应用这事儿也得额外付费，并且一直以来它们的客户端体验在上述产品中也并不算拔尖 但 Bitwarden 另有所长——碰巧家里有一台 24 小时开机的 NAS，自托管一个 Vaultwarden 自然而然提上了日程 Vaultwarden 是一个由社区维护的非官方开源 Bitwarden 后端服务 与官方那套基于 .NET 和笨重数据库的自托管后端相比，Vaultwarden 镜像极其轻巧，常驻内存通常不过百兆",
+      "isTranslated": false
+    },
+    {
+      "title": "行为树与Nav2中的行为树 - 凪风sama",
+      "titleZh": "行为树与Nav2中的行为树 - 凪风sama",
+      "summary": "【摘要】上面是标题～-～ 行为树 行为树是一种形式化的图形建模语言，由Dromey于2001年首次提出，通过树结构和形式语义将自然语言需求转化为可执行系统模型，用于解决大规模系统中需求的模糊性、冗余性及短期记忆过载问题。行为树，顾名思义，就是通过树形结构去描述和控制系统的行为流程。",
+      "originalSummary": "【摘要】上面是标题～-～ 行为树 行为树是一种形式化的图形建模语言，由Dromey于2001年首次提出，通过树结构和形式语义将自然语言需求转化为可执行系统模型，用于解决大规模系统中需求的模糊性、冗余性及短期记忆过载问题。行为树，顾名思义，就是通过树形结构去描述和控制系统的行为流程。",
+      "url": "https://www.cnblogs.com/CrescentWind/p/23209541",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-06T09:25:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 126,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】上面是标题～-～ 行为树 行为树是一种形式化的图形建模语言，由Dromey于2001年首次提出，通过树结构和形式语义将自然语言需求转化为可执行系统模型，用于解决大规模系统中需求的模糊性、冗余性及短期记忆过载问题 行为树，顾名思义，就是通过树形结构去描述和控制系统的行为流程",
+      "isTranslated": false
+    },
+    {
+      "title": "OctaFuse Gateway 2.13.0：供应商折扣计价、路由快速测试与用量分析升级 - 程序猿DD",
+      "titleZh": "OctaFuse Gateway 2.13.0：供应商折扣计价、路由快速测试与用量分析升级 - 程序猿DD",
+      "summary": "【摘要】供应商推出限时折扣，要调整价格，还得记住活动什么时候结束。路由改了模型名或请求头，想先试通再保存。OctaFuse Gateway 2.13.0 围绕这些日常操作做了三项升级：供应商折扣可以按有效期和时段生效，路由可以在保存前直接测试，用量分析也更 阅读全文。",
+      "originalSummary": "【摘要】供应商推出限时折扣，要调整价格，还得记住活动什么时候结束。路由改了模型名或请求头，想先试通再保存。OctaFuse Gateway 2.13.0 围绕这些日常操作做了三项升级：供应商折扣可以按有效期和时段生效，路由可以在保存前直接测试，用量分析也更 阅读全文。",
+      "url": "https://www.cnblogs.com/didispace/p/23209517",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-06T09:13:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 117,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】供应商推出限时折扣，要调整价格，还得记住活动什么时候结束 路由改了模型名或请求头，想先试通再保存 费用涨了、响应慢了，又需要找到具体的模型或供应商 OctaFuse Gateway 2.13.0 围绕这些日常操作做了三项升级：供应商折扣可以按有效期和时段生效，路由可以在保存前直接测试，用量分析也更 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "用餐厅和盘子理解栈和堆 - leikooo",
+      "titleZh": "用餐厅和盘子理解栈和堆 - leikooo",
+      "summary": "其实之前就学过一段时间，但学到所有权这里就卡住了，概念一多加上当时在专升本，后面就放弃了。趁着国庆假期有整块时间，决定重新捡起来，这次争取把它啃下来。本文的内容来源于 Rust 官方教程 What Is Ownership?。",
+      "originalSummary": "其实之前就学过一段时间，但学到所有权这里就卡住了，概念一多加上当时在专升本，后面就放弃了。趁着国庆假期有整块时间，决定重新捡起来，这次争取把它啃下来。本文的内容来源于 Rust 官方教程 What Is Ownership?。",
+      "url": "https://www.cnblogs.com/leikooo/p/23208624",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-06T06:31:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 157,
+      "summaryLength": 99,
+      "summaryQuality": "weak",
+      "readerTextZh": "其实之前就学过一段时间，但学到所有权这里就卡住了，概念一多加上当时在专升本，后面就放弃了 趁着国庆假期有整块时间，决定重新捡起来，这次争取把它啃下来 本文的内容来源于 Rust 官方教程 What Is Ownership? 在学习所有权（Rust 独有的机制）之前，官方先 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "Codex解决新模型无法使用/model选择的问题 - xuhe2",
+      "titleZh": "Codex解决新模型无法使用/model选择的问题 - xuhe2",
+      "summary": "【摘要】TLDR codex debug models --bundled > /root/.codex/model-catalog.json python -m json.tool /root/.codex/model-catalog.json > /dev...。",
+      "originalSummary": "【摘要】TLDR codex debug models --bundled > /root/.codex/model-catalog.json python -m json.tool /root/.codex/model-catalog.json > /dev...。",
+      "url": "https://www.cnblogs.com/xuhe2/p/23207730",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-06T05:48:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 97,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】TLDR codex debug models --bundled > /root/.codex/model-catalog.json python -m json.tool /root/.codex/model-catalog.json > /dev/null 然后在 /root/.codex/c 阅读全文",
+      "isTranslated": false
+    },
+    {
       "title": "数学笔记：泊松求和公式 - GeoFXR",
       "titleZh": "数学笔记：泊松求和公式 - GeoFXR",
-      "summary": "【摘要】**泊松求和公式（Poisson Summation Formulation）** 由法国科学家泊松发现，是调和分析中非常重要的一个公式，在诸多数学分支中有着广泛的应用。它建立了函数在时域（或实数域）上的无限求和与其连续傅里叶变换之间的对应建立对应关系，其核心思想是 将函数 \\(f\\) 沿整数平移叠加，得到一个周期为 \\(1\\) 的函数。其解释了如下的数值现象： 时域、空间域离散采样 \\(\\Leftrightarrow\\) 频域、波数域周期延拓 对连续函数 \\(f(x)\\) 以间距 \\(\\Delta{x}\\) 采样，其离散序列的频谱等于原连续频谱以 \\(...。",
-      "originalSummary": "【摘要】**泊松求和公式（Poisson Summation Formulation）** 由法国科学家泊松发现，是调和分析中非常重要的一个公式，在诸多数学分支中有着广泛的应用。它建立了函数在时域（或实数域）上的无限求和与其连续傅里叶变换之间的对应建立对应关系，其核心思想是 将函数 \\(f\\) 沿整数平移叠加，得到一个周期为 \\(1\\) 的函数。其解释了如下的数值现象： 时域、空间域离散采样 \\(\\Leftrightarrow\\) 频域、波数域周期延拓 对连续函数 \\(f(x)\\) 以间距 \\(\\Delta{x}\\) 采样，其离散序列的频谱等于原连续频谱以 \\(...。",
+      "summary": "【摘要】**泊松求和公式（Poisson Summation Formulation）** 由法国科学家泊松发现，是调和分析中非常重要的一个公式，在诸多数学分支中有着广泛的应用。它建立了函数在时域（或实数域）上的无限求和与其连续傅里叶变换之间的对应建立对应关系，其核心思想是**将函数$f$沿整数平移叠加，得... 阅读全文。",
+      "originalSummary": "【摘要】**泊松求和公式（Poisson Summation Formulation）** 由法国科学家泊松发现，是调和分析中非常重要的一个公式，在诸多数学分支中有着广泛的应用。它建立了函数在时域（或实数域）上的无限求和与其连续傅里叶变换之间的对应建立对应关系，其核心思想是**将函数$f$沿整数平移叠加，得... 阅读全文。",
       "url": "https://www.cnblogs.com/GeophysicsWorker/p/23207887",
       "source": "博客园技术文章",
       "region": "中文技术深度",
@@ -335,11 +466,11 @@
         "后端",
         "中文深度"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 1005,
-      "summaryLength": 219,
-      "summaryQuality": "strong",
-      "readerTextZh": "【摘要】**泊松求和公式（Poisson Summation Formulation）** 由法国科学家泊松发现，是调和分析中非常重要的一个公式，在诸多数学分支中有着广泛的应用 它建立了函数在时域（或实数域）上的无限求和与其连续傅里叶变换之间的对应建立对应关系，其核心思想是**将函数$f$沿整数平移叠加，得... 阅读全文 **泊松求和公式（Poisson Summation Formulation）** 由法国科学家泊松发现，是调和分析中非常重要的一个公式，在诸多数学分支中有着广泛的应用 它建立了函数在时域（或实数域）上的无限求和与其连续傅里叶变换之间的对应建立对应关系，其核心思想是**将函数$f$沿整数平移叠加，得 **泊松求和公式（Poisson Summation Formulation）** 由法国科学家泊松发现，是调和分析中非常重要的一个公式，在诸多数学分支中有着广泛的应用 它建立了函数在时域（或实数域）上的无限求和与其连续傅里叶变换之间的对应建立对应关系，其核心思想是 将函数 \\(f\\) 沿整数平移叠加，得到一个周期为 \\(1\\) 的函数 这个周期函数的傅里叶级数系数，恰好是 \\(f\\) 的傅里叶变换在整数点的值 ​ 泊松求和公式建立了 离散点求和 与 连续傅里叶变换在等间距频率点求和 之间的恒等关系，是分析采样、混叠与数值频散的核心数学工具 其解释了如下的数值现象： 时域、空间域离散采样 \\(\\Leftrightarrow\\) 频域、波数域周期延拓 对连续函数 \\(f(x)\\) 以间距 \\(\\Delta{x}\\) 采样，其离散序列的频谱等于原连续频谱以 \\(2\\pi/{\\Delta{x}}\\) 为周期的重复叠加 若原信号带限且最高频率低于 \\(Nyquist\\) 频率，则无混叠 否则高频成分会折叠到低频，产生数值频散 ​ 为了后续的推导简洁清晰避免符号混乱，本笔记采用如下的符号约定：设 \\(f(\\xi)\\) 为定义在实数轴上足够光滑且衰减足够快的函数，其傅里叶变换为：",
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 162,
+      "summaryLength": 136,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】**泊松求和公式（Poisson Summation Formulation）** 由法国科学家泊松发现，是调和分析中非常重要的一个公式，在诸多数学分支中有着广泛的应用 它建立了函数在时域（或实数域）上的无限求和与其连续傅里叶变换之间的对应建立对应关系，其核心思想是**将函数$f$沿整数平移叠加，得... 阅读全文",
       "isTranslated": false
     },
     {
@@ -382,49 +513,6 @@
       "summaryLength": 94,
       "summaryQuality": "weak",
       "readerTextZh": "创建 channel 声明的管道后,需要使用make函数初始化之后才能使用 创建 channel 的格式如下 ch := make(chan元素类型, 容量) 管道有发送（send）、接收(receive) 和关闭（close）三种操作",
-      "isTranslated": false
-    },
-    {
-      "title": "洛谷 P4822 题解（分层图） - Elaina123",
-      "titleZh": "洛谷 P4822 题解（分层图） - Elaina123",
-      "summary": "【摘要】洛谷 P4822 题解 蒟蒻的第一篇题解 有问题和不足欢迎指出 [原题](P4822 [BJWC2012] 冻结 - 洛谷) 简化题目 大路上有 N 个城市（编号为 1 ~ N），M 条双向的道路。有 K 张卡片可以使通过一条道路的时间减少到原先的一半（题目保证每条道路的原始花费为偶数）。",
-      "originalSummary": "【摘要】洛谷 P4822 题解 蒟蒻的第一篇题解 有问题和不足欢迎指出 [原题](P4822 [BJWC2012] 冻结 - 洛谷) 简化题目 大路上有 N 个城市（编号为 1 ~ N），M 条双向的道路。有 K 张卡片可以使通过一条道路的时间减少到原先的一半（题目保证每条道路的原始花费为偶数）。",
-      "url": "https://www.cnblogs.com/Elaina-blog/p/23207600",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-06T03:30:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 113,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】洛谷 P4822 题解 蒟蒻的第一篇题解 有问题和不足欢迎指出 [原题](P4822 [BJWC2012] 冻结 - 洛谷) 简化题目 大路上有 N 个城市（编号为 1 ~ N），M 条双向的道路 有 K 张卡片可以使通过一条道路的时间减少到原先的一半（题目保证每条道路的原始花费为偶数）",
-      "isTranslated": false
-    },
-    {
-      "title": "你的记忆系统可能在删「从未被检索过的金子」：因果干预让记忆效用可识别 - buddyme智能助手",
-      "titleZh": "你的记忆系统可能在删「从未被检索过的金子」：因果干预让记忆效用可识别 - buddyme智能助手",
-      "summary": "【摘要】记忆增强智能体按「对任务的效果」决定留哪条记忆——但效果估计完全依赖「被检索到」。从未被检索的记忆，删了和留着结果一模一样，它的真实效用永远无法被现有方法识别。arXiv · 2026-10-0 阅读全文。",
-      "originalSummary": "【摘要】记忆增强智能体按「对任务的效果」决定留哪条记忆——但效果估计完全依赖「被检索到」。从未被检索的记忆，删了和留着结果一模一样，它的真实效用永远无法被现有方法识别。arXiv · 2026-10-0 阅读全文。",
-      "url": "https://www.cnblogs.com/buddyme/p/23207592",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-06T03:29:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 88,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】记忆增强智能体按「对任务的效果」决定留哪条记忆——但效果估计完全依赖「被检索到」 从未被检索的记忆，删了和留着结果一模一样，它的真实效用永远无法被现有方法识别 这篇论文用因果干预框架解决这个「检索层正性违反」：对检索动手而非对存储动手，让每条记忆的效用变得可识别 arXiv · 2026-10-0 阅读全文",
       "isTranslated": false
     },
     {
@@ -473,49 +561,6 @@
       "isTranslated": false
     },
     {
-      "title": "万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试） - Sam Xiao",
-      "titleZh": "万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试） - Sam Xiao",
-      "summary": "【摘要】1、实时监控 2、轨迹查询 3、告警管理 4、围栏设置 5、看板与报表 万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试） 前两篇讲了业务架构和后端链路。这篇讲数据到达前端之后的故事——也是整个系列里\"工程密度\"最高的一篇。车联网的前端不是\"一个后台 + 一个小 阅读全文。",
-      "originalSummary": "【摘要】1、实时监控 2、轨迹查询 3、告警管理 4、围栏设置 5、看板与报表 万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试） 前两篇讲了业务架构和后端链路。这篇讲数据到达前端之后的故事——也是整个系列里\"工程密度\"最高的一篇。车联网的前端不是\"一个后台 + 一个小 阅读全文。",
-      "url": "https://www.cnblogs.com/xcj26/p/23206402",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-06T00:25:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 123,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】1、实时监控 2、轨迹查询 3、告警管理 4、围栏设置 5、看板与报表 万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试） 前两篇讲了业务架构和后端链路 这篇讲数据到达前端之后的故事——也是整个系列里\"工程密度\"最高的一篇 车联网的前端不是\"一个后台 + 一个小 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "CF813D Two Melodies 题解 - lvwangshu",
-      "titleZh": "CF813D Two Melodies 题解 - lvwangshu",
-      "summary": "【摘要】CF813D Two Melodies 题解 选两个非空、互不相交的子序列，各自满足\"相邻音符相差 \\(1\\) 或模 \\(7\\) 同余\"，求长度和的最大值。\\(n \\le 5000\\)，\\(a_i \\le 10^5\\)。1. 朴素 DP：\\(f[i][x][y]\\) 扫描到第 \\(i\\) 个音符， 阅读全文。",
-      "originalSummary": "【摘要】CF813D Two Melodies 题解 选两个非空、互不相交的子序列，各自满足\"相邻音符相差 \\(1\\) 或模 \\(7\\) 同余\"，求长度和的最大值。\\(n \\le 5000\\)，\\(a_i \\le 10^5\\)。1. 朴素 DP：\\(f[i][x][y]\\) 扫描到第 \\(i\\) 个音符， 阅读全文。",
-      "url": "https://www.cnblogs.com/lvwangshuOI/p/23206388",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-06T00:21:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 93,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】CF813D Two Melodies 题解 选两个非空、互不相交的子序列，各自满足\"相邻音符相差 \\(1\\) 或模 \\(7\\) 同余\"，求长度和的最大值 \\(n \\le 5000\\)，\\(a_i \\le 10^5\\) 1. 朴素 DP：\\(f[i][x][y]\\) 扫描到第 \\(i\\) 个音符， 阅读全文",
-      "isTranslated": false
-    },
-    {
       "title": "Termexo v0.10.10 发布：19 个本地 MCP 工具，五种编程 Agent 自动接入",
       "titleZh": "Termexo v0.10.10 发布：19 个本地 MCP 工具，五种编程 Agent 自动接入",
       "summary": "MIT 开源的 Windows AI 编程工作台 Termexo 发布 v0.10.10。新版把终端、任务和部分设置开放为 19 个本地 MCP 工具，并支持在 Termexo 新启动的 Claude Code、Codex、OpenCode、Grok Build 和 Antigravity 终端中自动添加连接。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
@@ -536,48 +581,6 @@
       "summaryLength": 223,
       "summaryQuality": "medium",
       "readerTextZh": "MIT 开源的 Windows AI 编程工作台 Termexo 发布 v0.10.10 新版把终端、任务和部分设置开放为 19 个本地 MCP 工具，并支持在 Termexo 新启动的 Claude Code、Codex、OpenCode、Grok Build 和 Antigravity 终端中自动添加连接 工作台能力作为工具开放 Agent 可以查询工作区和终端，读取指 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
-      "isTranslated": false
-    },
-    {
-      "title": "Rust 1.99 更新了什么？一个新手视角的升级前后对比 - 付威的网络博客",
-      "titleZh": "Rust 1.99 更新了什么？一个新手视角的升级前后对比 - 付威的网络博客",
-      "summary": "【摘要】照着教程写 Rust，最容易卡住的地方不是语法，是这一行： error[E0658]: use of unstable library feature `fs_set_times` 代码抄得没错，教程也没错，只是那个 API 在当时的稳定版里还没开放。新手很难判断这是自己写错了，还是版本不对，只能一 阅读全文。",
-      "originalSummary": "【摘要】照着教程写 Rust，最容易卡住的地方不是语法，是这一行： error[E0658]: use of unstable library feature `fs_set_times` 代码抄得没错，教程也没错，只是那个 API 在当时的稳定版里还没开放。新手很难判断这是自己写错了，还是版本不对，只能一 阅读全文。",
-      "url": "https://www.cnblogs.com/OceanHeaven/p/23204262",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-05T13:16:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 130,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】照着教程写 Rust，最容易卡住的地方不是语法，是这一行： error[E0658]: use of unstable library feature `fs_set_times` 代码抄得没错，教程也没错，只是那个 API 在当时的稳定版里还没开放 新手很难判断这是自己写错了，还是版本不对，只能一 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "十个案例助你轻松上手 iOS 27 通知自动化",
-      "titleZh": "十个案例助你轻松上手 iOS 27 通知自动化",
-      "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。更重要的是，通知和信息邮件一样，本身还携带了可以参与筛选和处理的自定义内容，可以根据 App 传递过来的不同内容执行不同的操作 不同 App 可以有不同的提醒方式。所以可以利用通知自动化进行修补 当指定 App 收到通知后，通过通知自动化获取通知对应的 App 信息，再根据 App 的位置，在当前墙纸上动态叠放一个角标 这样虽然没有真正改变 App 图标，但可以在视觉上把「未读数量...。",
-      "originalSummary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。更重要的是，通知和信息邮件一样，本身还携带了可以参与筛选和处理的自定义内容，可以根据 App 传递过来的不同内容执行不同的操作 不同 App 可以有不同的提醒方式。所以可以利用通知自动化进行修补 当指定 App 收到通知后，通过通知自动化获取通知对应的 App 信息，再根据 App 的位置，在当前墙纸上动态叠放一个角标 这样虽然没有真正改变 App 图标，但可以在视觉上把「未读数量...。",
-      "url": "https://sspai.com/post/114536",
-      "source": "少数派深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-05T02:59:24+00:00",
-      "tags": [
-        "工具",
-        "数字生活",
-        "中文深度"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 1901,
-      "summaryLength": 202,
-      "summaryQuality": "strong",
-      "readerTextZh": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法 查看全文 iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法 iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法 iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法 正值 iOS 27 发布之际，聊聊这次新增加的「通知自动化」 当初 Mac 上快捷指令新增文件的自动化时，很自然地联想到 Mac 上「自动操作」中的文件夹操作，当时希望其中的日程提醒也能整合到快捷指令自动化中，根据日程或者提醒事项自动执行快捷指令 没想到苹果直接一步到位，增加了通知自动化，不再局限于日历、提醒事项、邮件、信息等系统内容，任何能发送通知的 App 都能够作为快捷指令的触发器 这意味着除了信息和邮件之外，甚至可以使用微信这样的高频 App 通知作为自动化入口 更重要的是，通知和信息邮件一样，本身还携带了可以参与筛选和处理的自定义内容，可以根据 App 传递过来的不同内容执行不同的操作 不同 App 可以有不同的提醒方式 不同通知内容也可以执行完全不同的操作 所以通知自动化本身，看起来只是增加了一个触发条件，实际上多了一整层可以利用的「输入」 要使用通知自动化，必须开启 App 的系统通知并在「锁屏」或「通知中心」中至少选择一种通知显示位置，单独选择横幅无法运行通知自动化 通知自动化的基本逻辑非常简单：收到指定 App 通知时运行快捷指令 目前主要可以通过三个字段筛选通知： 通过添加筛选条件，能更精确地定位指定的通知 添加多个筛选条件时，通知需要同时满足所有条件，而不是满足任意一个即可执行指令 例如微信通知的标题为联系人备注，信息为消息内容",
       "isTranslated": false
     },
     {
