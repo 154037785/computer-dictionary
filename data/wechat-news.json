@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T16:57:47.742351+00:00",
-  "nextUpdate": "2026-10-11T04:57:47.742351+00:00",
+  "updatedAt": "2026-10-11T03:53:13.391103+00:00",
+  "nextUpdate": "2026-10-11T15:53:13.391103+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,25 +76,26 @@
   "errors": [],
   "items": [
     {
-      "title": "亚马逊云科技在 Aurora DSQL 中引入外键约束",
-      "titleZh": "亚马逊云科技在 Aurora DSQL 中引入外键约束",
-      "summary": "这一新增功能弥补了用户长期以来明确指出阻碍他们采用的缺失环节 Aurora DSQL 是一款无服务器、分布式且与 PostgreSQL 兼容的 SQL 数据库，专为高可用、高可扩展的应用程序而设计。相反，应保持被引用的键稳定，并将变化的值移至非键列，以减少事务冲突 亚马逊云科技副总裁兼杰出工程师 Marc Brooker 强调， Aurora DSQL 利用 Adjudicator 和 PostgreSQL 的 K...。亚马逊云科技高级首席工程师 Marc Bowes 当时承认： 当该服务在 re:Invent 2024 大会上发布时，许多从业者指出，在发布时缺失的众多功能中， 外键约束的缺失尤为突出。",
-      "originalSummary": "这一新增功能弥补了用户长期以来明确指出阻碍他们采用的缺失环节 Aurora DSQL 是一款无服务器、分布式且与 PostgreSQL 兼容的 SQL 数据库，专为高可用、高可扩展的应用程序而设计。相反，应保持被引用的键稳定，并将变化的值移至非键列，以减少事务冲突 亚马逊云科技副总裁兼杰出工程师 Marc Brooker 强调， Aurora DSQL 利用 Adjudicator 和 PostgreSQL 的 K...。亚马逊云科技高级首席工程师 Marc Bowes 当时承认： 当该服务在 re:Invent 2024 大会上发布时，许多从业者指出，在发布时缺失的众多功能中， 外键约束的缺失尤为突出。",
-      "url": "https://www.infoq.cn/article/BjjSS0zaS5OpvRB2OcfF?utm_source=rss&utm_medium=article",
+      "title": "利用 AI 代码智能体优化软件架构的五种方法",
+      "titleZh": "利用 AI 代码智能体优化软件架构的五种方法",
+      "summary": "如果提示词只包含功能需求，就会缺乏这种聚焦，由此产生的系统架构很可能无法满足 QAR 这样使用编码智能体还有一个意外的好处：它会倒逼团队更清晰地梳理取舍方案，明确自己能够接受的代价 近期关于恶意利用 AI 编码智能体挖掘现有系统安全漏洞的报告让所有人都高度警惕...。所有这些工作都是在 AI 编码智能体的协助下完成的 随着大语言模型在网络安全领域能力变强、风险上升，我们更需要借助 AI 编码智能体在漏洞被恶意利用之前提前发现架构中的潜在安全问题 AI 编码智能体能够帮助团队快速做实验...。",
+      "originalSummary": "如果提示词只包含功能需求，就会缺乏这种聚焦，由此产生的系统架构很可能无法满足 QAR 这样使用编码智能体还有一个意外的好处：它会倒逼团队更清晰地梳理取舍方案，明确自己能够接受的代价 近期关于恶意利用 AI 编码智能体挖掘现有系统安全漏洞的报告让所有人都高度警惕...。所有这些工作都是在 AI 编码智能体的协助下完成的 随着大语言模型在网络安全领域能力变强、风险上升，我们更需要借助 AI 编码智能体在漏洞被恶意利用之前提前发现架构中的潜在安全问题 AI 编码智能体能够帮助团队快速做实验...。",
+      "url": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-10T19:00:00+00:00",
+      "publishedAt": "2026-10-11T10:04:31+00:00",
       "tags": [
         "架构",
         "软件工程",
         "中文深度",
-        "云计算"
+        "AI",
+        "安全"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 1804,
-      "summaryLength": 261,
+      "sourceTextLength": 2798,
+      "summaryLength": 222,
       "summaryQuality": "strong",
-      "readerTextZh": "长期以来因高效而备受推崇的项目管理工具 Linear，已完成将其 React 应用程序从 styled-components 迁移至 Meta 原子化 CSS-in-JS 库 StyleX 长期以来因高效而备受推崇的项目管理工具 Linear，已完成将其 React 应用程序从 styled-components 迁移至 Meta 原子化 CSS-in-JS 库 StyleX 亚马逊云科技近日宣布， Aurora DSQL 现在已经支持外键约束 ，允许应用程序直接在数据库中强制执行参照完整性，包括 CASCADE、SET NULL 及其他参照操作 这一新增功能弥补了用户长期以来明确指出阻碍他们采用的缺失环节 Aurora DSQL 是一款无服务器、分布式且与 PostgreSQL 兼容的 SQL 数据库，专为高可用、高可扩展的应用程序而设计 根据 文档 ，Aurora DSQL 通过事务期间的快照验证和提交时的冲突检测来强制执行参照完整性 该服务无需锁定表，即可基于一致性事务快照校验外键关系，支持并发操作 在提交时使用隐式 KEY SHARE 检查来检测存在冲突的更改 任何可能违反约束的事务都将因序列化错误而被拒绝 应用程序应该实现重试逻辑，因为并发冲突会导致事务失败，而非进入等待状态 对于被频繁引用的行，亚马逊云科技建议避免频繁地更改键列 相反，应保持被引用的键稳定，并将变化的值移至非键列，以减少事务冲突 亚马逊云科技副总裁兼杰出工程师 Marc Brooker 强调， Aurora DSQL 利用 Adjudicator 和 PostgreSQL 的 KEY SHARE 机制 ，在提交时检测相关行中的变更，同时不会阻塞并发读取： 无阻塞，非 FKC 读取的扩展性不受影响，FKC 读取器绝不会导致其他读取器中断",
+      "readerTextZh": "现代架构常会复用遗留服务来处理特定任务，但这类服务往往缺少完备的文档，如果对其理解不充分，使用它们就存在风险 AI 代码智能体能够帮助填补这一知识缺口 现代架构常会复用遗留服务来处理特定任务，但这类服务往往缺少完备的文档，如果对其理解不充分，使用它们就存在风险 AI 代码智能体能够帮助填补这一知识缺口 自动代码生成并不是一个新概念，但 AI 编码智能体的编码速度远超以往的任何工具 这种速度带来了巨大的好处，但也产生了独特的问题，人们很容易失去对输出代码质量的控制 如果你只向 AI 输入功能需求，AI 并不会自动确保架构的合理性 你必须向它提供具体的架构目标，例如可衡量的质量属性需求（QAR）和权衡取舍（参见“ 怀疑论者眼中的软件架构决策指南 ”） AI 生成的代码需要经过测试，以此来评估是否满足 QAR 使用 AI 编码智能体来开发具备弹性、可扩展、安全的系统尚处于起步阶段 你可以学习编码智能体相关课程、阅读书籍，甚至寻找指导，但我们都是在实践中学习，不断尝试、犯错，并从经验中吸取教训 不过，有一些很好的方法可以帮助你快速上手，充分利用实践经验，而不是浪费太多时间盲目尝试",
       "isTranslated": false
     },
     {
@@ -105,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-10T16:56:57.598143+00:00",
+      "publishedAt": "2026-10-11T03:52:33.523895+00:00",
       "tags": [
         "后端",
         "工程",
@@ -127,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-10T16:56:56.922589+00:00",
+      "publishedAt": "2026-10-11T03:52:32.935150+00:00",
       "tags": [
         "后端",
         "工程",
@@ -150,7 +151,7 @@
       "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-10T16:56:56.269861+00:00",
+      "publishedAt": "2026-10-11T03:52:32.353292+00:00",
       "tags": [
         "后端",
         "工程",
@@ -173,7 +174,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-10T16:56:55.600417+00:00",
+      "publishedAt": "2026-10-11T03:52:31.768423+00:00",
       "tags": [
         "后端",
         "工程",
@@ -195,7 +196,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-10T16:56:54.782623+00:00",
+      "publishedAt": "2026-10-11T03:52:31.182979+00:00",
       "tags": [
         "后端",
         "工程",
@@ -217,7 +218,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-10T16:56:54.144150+00:00",
+      "publishedAt": "2026-10-11T03:52:30.486274+00:00",
       "tags": [
         "后端",
         "工程",
@@ -239,7 +240,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-10T16:56:53.474320+00:00",
+      "publishedAt": "2026-10-11T03:52:29.879975+00:00",
       "tags": [
         "后端",
         "工程",
@@ -261,7 +262,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-10T16:56:52.822828+00:00",
+      "publishedAt": "2026-10-11T03:52:29.297451+00:00",
       "tags": [
         "后端",
         "工程",
@@ -276,70 +277,176 @@
       "isTranslated": false
     },
     {
-      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
-      "titleZh": "《Agent 评测白皮书》系列01：Agent 评测全览",
-      "summary": "当 Agent Harness 的任何一个环节发生变化——模型升级、Prompt 调整、知识库更新、Skill 新增或下线——都可以通过离线评测验证效果，避免不成熟的变更导致 Agent 能力劣化。借用 Anthropic《 Demystifying evals for AI agents 》文中对长程 Agent 评测 Task 定义：为“具有明确输入和成功标准的单个测试”，这个概念同样可以泛化到短程 Agent...。如果 Skill 都正常，但“数据对比类”任务占比从 10% 涨到 35%，那结论是用户结构变了、Agent 在新场景上能力不足——这两种情况的应对完全不同。",
-      "originalSummary": "当 Agent Harness 的任何一个环节发生变化——模型升级、Prompt 调整、知识库更新、Skill 新增或下线——都可以通过离线评测验证效果，避免不成熟的变更导致 Agent 能力劣化。借用 Anthropic《 Demystifying evals for AI agents 》文中对长程 Agent 评测 Task 定义：为“具有明确输入和成功标准的单个测试”，这个概念同样可以泛化到短程 Agent...。如果 Skill 都正常，但“数据对比类”任务占比从 10% 涨到 35%，那结论是用户结构变了、Agent 在新场景上能力不足——这两种情况的应对完全不同。",
-      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
-      "source": "美团技术团队",
-      "region": "技术团队",
-      "publishedAt": "2026-10-10T16:56:52.171671+00:00",
+      "title": "AgentScope第11式·定式输出 - 李福春",
+      "titleZh": "AgentScope第11式·定式输出 - 李福春",
+      "summary": "[读者] 用 AgentScope Java 搭数字人后端的工程师 [痛点] 业务代码靠正则解析模型散文，字段一缺就崩 [现在读] 第10式跑通了 ReAct，输出却还不可编程 [读完] 能把意图与动作做成可校验 阅读全文 AgentScope第11式·定式输...。第10式收尾时，我们的 ReActAgent 已经能在多轮对话里调工具、记上下文、跑完一次完整的“问—想—做—答”。第11式开始，我们还得关心“这句话机器能不能读” 业务影响上，它表现为三种：工单草稿缺失字段被入库拦截，客服要手工补录。",
+      "originalSummary": "[读者] 用 AgentScope Java 搭数字人后端的工程师 [痛点] 业务代码靠正则解析模型散文，字段一缺就崩 [现在读] 第10式跑通了 ReAct，输出却还不可编程 [读完] 能把意图与动作做成可校验 阅读全文 AgentScope第11式·定式输...。第10式收尾时，我们的 ReActAgent 已经能在多轮对话里调工具、记上下文、跑完一次完整的“问—想—做—答”。第11式开始，我们还得关心“这句话机器能不能读” 业务影响上，它表现为三种：工单草稿缺失字段被入库拦截，客服要手工补录。",
+      "url": "https://www.cnblogs.com/snidget/p/23260326",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-11T03:08:00+00:00",
       "tags": [
+        "开发者",
         "后端",
-        "工程",
-        "技术团队",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2564,
+      "summaryLength": 205,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】AgentScope第11式·定式输出 数字人不怕模型答错，怕它答对了你却解析不出来 [读者] 用 AgentScope Java 搭数字人后端的工程师 [痛点] 业务代码靠正则解析模型散文，字段一缺就崩 [现在读] 第10式跑通了 ReAct，输出却还不可编程 [读完] 能把意图与动作做成可校验 阅读全文 AgentScope第11式·定式输出 数字人不怕模型答错，怕它答对了你却解析不出来 [读者] 用 AgentScope Java 搭数字人后端的工程师 [痛点] 业务代码靠正则解析模型散文，字段一缺就崩 [现在读] 第10式跑通了 ReAct，输出却还不可编程 [读完] 能把意图与动作 AgentScope第11式·定式输出 数字人不怕模型答错，怕它答对了你却解析不出来 [读者] 用 AgentScope Java 搭数字人后端的工程师 [痛点] 业务代码靠正则解析模型散文，字段一缺就崩 [现在读] 第10式跑通了 ReAct，输出却还不可编程 [读完] 能把意图与动作 [读者] 用 AgentScope Java 搭数字人后端的工程师 [痛点] 业务代码靠正则解析模型散文，字段一缺就崩 [现在读] 第10式跑通了 ReAct，输出却还不可编程 [读完] 能把意图与动作做成可校验 DTO，并设计回退路径 [旧方案] ReActAgent 输出自然语言，业务侧正则抠 JSON | v [新需求] 前端要卡片字段，工单要草稿字段，动作要可执行枚举 | v [冲突] 自然语言是给人看的协议，不是给程序看的契约 | v [后果] 解析失败静默降级，字段缺失无人知晓，线上靠日志考古 我是老李，在一个数字人项目里做后端 第10式收尾时，我们的 ReActAgent 已经能在多轮对话里调工具、记上下文、跑完一次完整的“问—想—做—答” 演示很漂亮，会议室里没人提异议 但演示之后是接入 前端要一张卡片：标题、摘要、三个字段、一个跳转链接 工单系统要一份草稿：分类、优先级、联系人、问题描述",
+      "isTranslated": false
+    },
+    {
+      "title": "背包：从入门到实战 - Tri_Function",
+      "titleZh": "背包：从入门到实战 - Tri_Function",
+      "summary": "【摘要】目录 背包问题的本质 01 背包 完全背包 多重背包 混合背包 二维费用背包 分组背包 有依赖的背包 树形背包 背包方案数 输出具体方案 第 k 优解 可行性背包与 bitset 优化 恰好、不超过、至少 泛化物品背包 总结与刷题路线 1. 背包问题的...。",
+      "originalSummary": "【摘要】目录 背包问题的本质 01 背包 完全背包 多重背包 混合背包 二维费用背包 分组背包 有依赖的背包 树形背包 背包方案数 输出具体方案 第 k 优解 可行性背包与 bitset 优化 恰好、不超过、至少 泛化物品背包 总结与刷题路线 1. 背包问题的...。",
+      "url": "https://www.cnblogs.com/Tri-Function/p/23260327",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-11T03:08:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 102,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】目录 背包问题的本质 01 背包 完全背包 多重背包 混合背包 二维费用背包 分组背包 有依赖的背包 树形背包 背包方案数 输出具体方案 第 k 优解 可行性背包与 bitset 优化 恰好、不超过、至少 泛化物品背包 总结与刷题路线 1. 背包问题的本质 1.1 什么是背包问题 背包问题是一类在限 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "P3826 [NOI2017] 蔬菜 题解 - zykaris",
+      "titleZh": "P3826 [NOI2017] 蔬菜 题解 - zykaris",
+      "summary": "【摘要】前置：堆、反悔贪心 题目链接：https://www.luogu.com.cn/problem/P3826 题意 有 n 种蔬菜，每天最多卖 m 个单位。第 i 种蔬菜有四个参数： a_i：每卖出一个单位获得 a_i 收益。s_i：第一次卖这种蔬菜时，额外获得 s_i 收益。",
+      "originalSummary": "【摘要】前置：堆、反悔贪心 题目链接：https://www.luogu.com.cn/problem/P3826 题意 有 n 种蔬菜，每天最多卖 m 个单位。第 i 种蔬菜有四个参数： a_i：每卖出一个单位获得 a_i 收益。s_i：第一次卖这种蔬菜时，额外获得 s_i 收益。",
+      "url": "https://www.cnblogs.com/zhaoyikuan/p/23259729",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-11T01:33:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 103,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】前置：堆、反悔贪心 题目链接：https://www.luogu.com.cn/problem/P3826 题意 有 n 种蔬菜，每天最多卖 m 个单位 第 i 种蔬菜有四个参数： a_i：每卖出一个单位获得 a_i 收益 s_i：第一次卖这种蔬菜时，额外获得 s_i 收益",
+      "isTranslated": false
+    },
+    {
+      "title": "CodeGraph学习笔记:给代码建索引,节省Token和时间 - 养肥胖虎",
+      "titleZh": "CodeGraph学习笔记:给代码建索引,节省Token和时间 - 养肥胖虎",
+      "summary": "【摘要】CodeGraph学习笔记:给代码建索引,节省Token和时间 好家伙, 最近在用 AI 看项目代码时,我开始关注一件事: 问一个实现问题, AI 到底花了多少力气在找代码, 又花了多少力气在解释代码?。比如我想知道: 一条伤害战报在哪里生成?。如果修改战报记录逻辑,哪些地方需要一起检查?。",
+      "originalSummary": "【摘要】CodeGraph学习笔记:给代码建索引,节省Token和时间 好家伙, 最近在用 AI 看项目代码时,我开始关注一件事: 问一个实现问题, AI 到底花了多少力气在找代码, 又花了多少力气在解释代码?。比如我想知道: 一条伤害战报在哪里生成?。如果修改战报记录逻辑,哪些地方需要一起检查?。",
+      "url": "https://www.cnblogs.com/FatTiger4399/p/23257375",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-10T15:30:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
         "AI"
       ],
       "analysisMethod": "feed-text",
-      "sourceTextLength": 11271,
-      "summaryLength": 238,
-      "summaryQuality": "medium",
-      "readerTextZh": "搭一个 Agent 正在变得越来越容易 一是 基座模型的能力持续进化 ，它带来的结果是对使用者的要求在往下降 早期要让模型稳定地按格式输出、正确地选中一个工具，需要反复打磨 Prompt、设计各种兜底 现在这些能力越来越多地由模型本身承担，长上下文、原生工具调用、更强的指令遵循和多步推理，把大量原本需要工程去补的地方补上了 二是 Agent 框架的功能持续丰富 从早期需要自己实现规划、记忆、工具注册和状态管理，到现在框架和协议层把这些抽象成标准组件，接一个工具、加一个 Skill，工作量都在显著下降 两条曲线叠加，结论很直接：搭建 Agent 门槛正在逐年降低 这带来的直接变化是 Agent 落地场景越来越多，越来越发散",
-      "isTranslated": false
-    },
-    {
-      "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
-      "titleZh": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
-      "summary": "美团外卖多个业务订单量提升 2.06%~6.68% 不等，推理成本降低 24%，相关工作已被 KDD 2026 收录。MTGR 将样本组织成单用户（UV）粒度，MTFM 进一步升级为外卖全业务的统一用户粒度样本，同一用户的外卖多业务曝光聚合成 1 条样本，共享模型中最耗费算力的长序列 Attention 部分计算。序列长度（图7）：在 400~2000 范围内序列长度 Scaling 现象明显，随着入图序列长度增长，模型能够建模更长期的用户偏好，模型离线 GAUC 稳定提升。",
-      "originalSummary": "美团外卖多个业务订单量提升 2.06%~6.68% 不等，推理成本降低 24%，相关工作已被 KDD 2026 收录。MTGR 将样本组织成单用户（UV）粒度，MTFM 进一步升级为外卖全业务的统一用户粒度样本，同一用户的外卖多业务曝光聚合成 1 条样本，共享模型中最耗费算力的长序列 Attention 部分计算。序列长度（图7）：在 400~2000 范围内序列长度 Scaling 现象明显，随着入图序列长度增长，模型能够建模更长期的用户偏好，模型离线 GAUC 稳定提升。",
-      "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
-      "source": "美团技术团队",
-      "region": "技术团队",
-      "publishedAt": "2026-10-10T16:56:51.459425+00:00",
-      "tags": [
-        "后端",
-        "工程",
-        "技术团队",
-        "AI",
-        "芯片"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 20036,
-      "summaryLength": 199,
+      "sourceTextLength": 159,
+      "summaryLength": 124,
       "summaryQuality": "weak",
-      "readerTextZh": "美团在 MTGR 基础上提出统一推荐基座大模型 MTFM，首次实现外卖多个主要业务的统一精排模型 围绕规模可扩展性、场景可延展性与架构高效性三大挑战，MTFM以异构 Tokenizer 与动态掩码实现多场景特征免对齐，通过混合注意力与 Target Scale-Up 提升模型 Scaling 能力，借鉴 LLM 优化实践提升深层网络训练效果，并以 User-Level 训练范式与定制算子保证系统开销可控 美团外卖多个业务订单量提升 2.06%~6.68% 不等，推理成本降低 24%，相关工作已被 KDD 2026 收录 我们去年提出了 MTGR [1] —— 一种新的生成式精排框架，在美团外卖推荐场景验证了 Scaling Law 的有效性，并取得显著业务收益 然而，推荐领域的 Scaling Law 探索往往局限于单场景内部，模型被限制在单场景孤岛中，跨场景的数据、算力和架构无法充分复用 在美团这一问题尤为突出，推荐覆盖外卖首页、拼好饭等多个业务场景，各场景长期独立建模 与此同时，大语言模型（LLM）已验证一条清晰路径：基座模型（Foundation Model）足以统一处理编程、数学、写作等多领域任务，也可以将文本、图像、语音等异构信息表示为 Token 序列并进行端到端学习，展现出了强泛化性与可扩展性 因此，我们认为美团推荐的下一个阶段关键在于打通跨场景的异构性，充分利用多场景数据提升 Scaling Law 的上限，即建设统一推荐基座大模型",
+      "readerTextZh": "【摘要】CodeGraph学习笔记:给代码建索引,节省Token和时间 好家伙, 最近在用 AI 看项目代码时,我开始关注一件事: 问一个实现问题, AI 到底花了多少力气在找代码, 又花了多少力气在解释代码? 比如我想知道: 一条伤害战报在哪里生成? 如果修改战报记录逻辑,哪些地方需要一起检查?",
       "isTranslated": false
     },
     {
-      "title": "ChatGPT dots，到底能替你操多少心？",
-      "titleZh": "ChatGPT dots，到底能替你操多少心？",
-      "summary": "发帖人是OpenAI的一位员工，前一晚在准备第二天下午3点要用的演示稿，没想到早上6点56分，dot先来提醒他了。第26页的金额，和第12、37页对不上。结果现在天天盯着AI ，再这么盯下去，活还没做完，我先熬成大熊猫了 我就想用看板解决这个麻烦，当时跟dot说： \\ 我现在看不到你的状态，每次这么文字沟通也很麻烦 所以我要求按项目来组织，打开一个项目，再看里面的任务和负...。",
-      "originalSummary": "发帖人是OpenAI的一位员工，前一晚在准备第二天下午3点要用的演示稿，没想到早上6点56分，dot先来提醒他了。第26页的金额，和第12、37页对不上。结果现在天天盯着AI ，再这么盯下去，活还没做完，我先熬成大熊猫了 我就想用看板解决这个麻烦，当时跟dot说： \\ 我现在看不到你的状态，每次这么文字沟通也很麻烦 所以我要求按项目来组织，打开一个项目，再看里面的任务和负...。",
-      "url": "https://juejin.cn/post/7694909399427924006",
-      "source": "掘金技术社区",
+      "title": "manim-ui把33 个数学场景，装在一个双击就开的网页里 - 又过二十",
+      "titleZh": "manim-ui把33 个数学场景，装在一个双击就开的网页里 - 又过二十",
+      "summary": "【摘要】33 个数学场景，装在一个双击就开的网页里 八间\"数学实验室\"，所有参数都是滑块，PNG / 视频 / GIF 都能导出。项目地址：github.com/wyfirstname/manim-ui 有件事你大概经历过。看 3Blue1Brown 的视频，某个瞬间特别震撼——朱利亚集合随着参数 c 阅读全文。",
+      "originalSummary": "【摘要】33 个数学场景，装在一个双击就开的网页里 八间\"数学实验室\"，所有参数都是滑块，PNG / 视频 / GIF 都能导出。项目地址：github.com/wyfirstname/manim-ui 有件事你大概经历过。看 3Blue1Brown 的视频，某个瞬间特别震撼——朱利亚集合随着参数 c 阅读全文。",
+      "url": "https://www.cnblogs.com/wyang/p/23257206",
+      "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-10T15:41:50+00:00",
+      "publishedAt": "2026-10-10T14:35:00+00:00",
       "tags": [
-        "前端",
-        "后端",
         "开发者",
-        "AI"
+        "后端",
+        "中文深度",
+        "开源"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 1904,
-      "summaryLength": 166,
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 158,
+      "summaryLength": 125,
       "summaryQuality": "weak",
-      "readerTextZh": "发帖人是OpenAI的一位员工，前一晚在准备第二天下午3点要用的演示稿，没想到早上6点56分，dot先来提醒他了 第26页的金额，和第12、37页对不上 它还指出 老金前两天在社区上看到一个帖子 它还指出 发帖人是OpenAI的一位员工，前一晚在准备第二天下午3点要用的演示稿，没想到早上6点56分，dot先来提醒他了 它还指出，第12页写了数据日期，如果第26页有意沿用旧规划，就该把日期补上，免得听众看着几处数字，不知道到底按哪一版理解 这位作者没有专门让dot检查材料，日历邀请里也没附文件，连会议和文件的标题都不相同，dot却在会前找到了这处需要确认的地方 我觉得这件事有用的地方，在于dot会 对照不同资料里的信息 ，发现人没注意到的问题，再来找人确认 Dot就是OpenAI出的个人云端机器人，由GPT-6 Astra驱动 它有自己的 云电脑 ，能开浏览器、处理文件、运行软件，也能把研究、写文档、写代码分成不同任务，在后台同时做 普通ChatGPT也能使用工具、做长任务 dot适合持续负责同一件事，你前后几次交代的背景、要求和偏好，它可以记下来，后面做事时继续参考 想开始用，在ChatGPT桌面应用或电脑浏览器里打开dots并创建，之后可以改名字、挑形象 价格现在是这样：个人Pro有每月100、200、500美元的档位，首个dot包含在相应套餐里，具体按账号和地区分批开放，升级前先看自己有没有入口 和dot聊天不计入聊天限额，Work、Codex这些具体任务仍会使用相应额度 老金这几天也在用dot，文章、工具、网站，交给它的事情不少 你同时交几件事给AI，大概也会惦记这个问题：哪件做完了，哪件还卡着？",
+      "readerTextZh": "【摘要】33 个数学场景，装在一个双击就开的网页里 八间\"数学实验室\"，所有参数都是滑块，PNG / 视频 / GIF 都能导出 项目地址：github.com/wyfirstname/manim-ui 有件事你大概经历过 看 3Blue1Brown 的视频，某个瞬间特别震撼——朱利亚集合随着参数 c 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "[Agent Memory / 强化学习] MemPO源码学习笔记 --- (6)--- 奖励机制 - 罗西的思考",
+      "titleZh": "[Agent Memory / 强化学习] MemPO源码学习笔记 --- (6)--- 奖励机制 - 罗西的思考",
+      "summary": "【摘要】[Agent Memory / 强化学习] MemPO源码学习笔记 (6) 奖励机制 目录[Agent Memory / 强化学习] MemPO源码学习笔记 (6) 奖励机制0x00 概要0x01 原理1.1 双通路奖励机制1.2 通俗解释优势函数Ou...。",
+      "originalSummary": "【摘要】[Agent Memory / 强化学习] MemPO源码学习笔记 (6) 奖励机制 目录[Agent Memory / 强化学习] MemPO源码学习笔记 (6) 奖励机制0x00 概要0x01 原理1.1 双通路奖励机制1.2 通俗解释优势函数Ou...。",
+      "url": "https://www.cnblogs.com/rossiXYZ/p/22864318",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-10T13:21:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 99,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】[Agent Memory / 强化学习] MemPO源码学习笔记 (6) 奖励机制 目录[Agent Memory / 强化学习] MemPO源码学习笔记 (6) 奖励机制0x00 概要0x01 原理1.1 双通路奖励机制1.2 通俗解释优势函数Outcome AdvantageMemory Ad 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "技术思考问题3：技术判断力为什么不能只靠阅读获得？ - 李福春",
+      "titleZh": "技术思考问题3：技术判断力为什么不能只靠阅读获得？ - 李福春",
+      "summary": "【摘要】激励机制与反馈回路：把故障变成可验证的工程判断力 读过一百篇复盘，也替代不了被叫醒一次 [读者] 背着核心服务、还在写复盘的工程师和 TL [痛点] 复盘写了一堆，同类故障还在重复，行动项没人验证 [现在读] 你正要调整 On-call 与复盘机制，不...。",
+      "originalSummary": "【摘要】激励机制与反馈回路：把故障变成可验证的工程判断力 读过一百篇复盘，也替代不了被叫醒一次 [读者] 背着核心服务、还在写复盘的工程师和 TL [痛点] 复盘写了一堆，同类故障还在重复，行动项没人验证 [现在读] 你正要调整 On-call 与复盘机制，不...。",
+      "url": "https://www.cnblogs.com/snidget/p/23256843",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-10T13:19:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 105,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】激励机制与反馈回路：把故障变成可验证的工程判断力 读过一百篇复盘，也替代不了被叫醒一次 [读者] 背着核心服务、还在写复盘的工程师和 TL [痛点] 复盘写了一堆，同类故障还在重复，行动项没人验证 [现在读] 你正要调整 On-call 与复盘机制，不想让它变成形式 [读完] 能设计并跑通一条把故障 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "一个 PHP 大佬，用 C# 手搓了一个分布式数据库 - 张善友",
+      "titleZh": "一个 PHP 大佬，用 C# 手搓了一个分布式数据库 - 张善友",
+      "summary": "【摘要】一个是给 .NET 生态蹚路。长久以来大家默认基础设施就该用 Go、Rust、C++ 写，.NET 不配。这个项目证明了现代 .NET 完全扛得住这种活——引擎甚至能编译成 WebAssembly，在浏览器标签页里跑一个三节点 Raft 集群，你可以亲手杀掉 leader 看重新选举 阅读全文。",
+      "originalSummary": "【摘要】一个是给 .NET 生态蹚路。长久以来大家默认基础设施就该用 Go、Rust、C++ 写，.NET 不配。这个项目证明了现代 .NET 完全扛得住这种活——引擎甚至能编译成 WebAssembly，在浏览器标签页里跑一个三节点 Raft 集群，你可以亲手杀掉 leader 看重新选举 阅读全文。",
+      "url": "https://www.cnblogs.com/shanyou/p/23256822",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-10T13:10:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 151,
+      "summaryLength": 122,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】一个是给 .NET 生态蹚路 长久以来大家默认基础设施就该用 Go、Rust、C++ 写，.NET 不配 这个项目证明了现代 .NET 完全扛得住这种活——引擎甚至能编译成 WebAssembly，在浏览器标签页里跑一个三节点 Raft 集群，你可以亲手杀掉 leader 看重新选举 阅读全文",
       "isTranslated": false
     },
     {
@@ -498,6 +605,27 @@
       "isTranslated": false
     },
     {
+      "title": "xberg_ffi-dll不是有效的Win32 应用程序?",
+      "titleZh": "xberg_ffi-dll不是有效的Win32 应用程序?",
+      "summary": "io.xberg xberg ${xberg.version} 报错：xberg_ffi.dll: %1 不是有效的 Win32 应用程序。核心原因：onnxruntime 版本和xberg依赖不一致，他们必须是特定版本依赖。比如：xberg 1.3.7 依赖 onnxruntime 1.24.2 其他版本直接报错。",
+      "originalSummary": "io.xberg xberg ${xberg.version} 报错：xberg_ffi.dll: %1 不是有效的 Win32 应用程序。核心原因：onnxruntime 版本和xberg依赖不一致，他们必须是特定版本依赖。比如：xberg 1.3.7 依赖 onnxruntime 1.24.2 其他版本直接报错。",
+      "url": "https://segmentfault.com/q/1010000048343225",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-10T10:17:56+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 208,
+      "summaryLength": 126,
+      "summaryQuality": "weak",
+      "readerTextZh": "io.xberg xberg ${xberg.version} 报错：xberg_ffi.dll: %1 不是有效的 Win32 应用程序 核心原因：onnxruntime 版本和xberg依赖不一致，他们必须是特定版本依赖 比如：xberg 1.3.7 依赖 onnxruntime 1.24.2 其他版本直接报错 具体依赖在linux环境会报出来，但是windows中不会",
+      "isTranslated": false
+    },
+    {
       "title": "谷歌正在内测新 AI 模型，员工称其编码能力和 Claude Opus 5.5 打平",
       "titleZh": "谷歌正在内测新 AI 模型，员工称其编码能力和 Claude Opus 5.5 打平",
       "summary": "Gemini 4 还没公开，Antigravity 里已经开始出现 Argon 的身影。最新的引用显示，这个内部模型的选择器带了三档上下文：256K 默认、512K 每轮约消耗 1.3 倍 quota、900K 每轮约消耗 1.8 倍 quota。配置方式和 Gemini Flash 系列的现有选项很接近，但上下文长度和推理强度之间的具体关系还不清楚。",
@@ -517,52 +645,6 @@
       "summaryLength": 149,
       "summaryQuality": "weak",
       "readerTextZh": "Gemini 4 还没公开，Antigravity 里已经开始出现 Argon 的身影 最新的引用显示，这个内部模型的选择器带了三档上下文：256K 默认、512K 每轮约消耗 1.3 倍 quota、900K 每轮约消耗 1.8 倍 quota 配置方式和 Gemini Flash 系列的现有选项很接近，但上下文长度和推理强度之间的具体关系还不清楚",
-      "isTranslated": false
-    },
-    {
-      "title": "Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态",
-      "titleZh": "Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态",
-      "summary": "Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef。Clef-omni 是 Clef 系列里第一个能吃音频、视频、图像和文本的决策模型。它基于开源的 Qwen3-Omni-30B-A3B-Instruct（MoE 底。",
-      "originalSummary": "Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef。Clef-omni 是 Clef 系列里第一个能吃音频、视频、图像和文本的决策模型。它基于开源的 Qwen3-Omni-30B-A3B-Instruct（MoE 底。",
-      "url": "https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-10T08:25:34+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "AI",
-        "云计算"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 208,
-      "summaryLength": 137,
-      "summaryQuality": "weak",
-      "readerTextZh": "Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef 官方博客标题写得很直白——『faster, cheaper, multimodal』 Clef-omni 是 Clef 系列里第一个能吃音频、视频、图像和文本的决策模型 它基于开源的 Qwen3-Omni-30B-A3B-Instruct（MoE 底",
-      "isTranslated": false
-    },
-    {
-      "title": "一篇把锅从模型甩回公司手里的短文 —— 「计算机无法做出决定」",
-      "titleZh": "一篇把锅从模型甩回公司手里的短文 —— 「计算机无法做出决定」",
-      "summary": "』NekoWiki 上这篇 10 月 10 日更新的短文，开头就是这句，然后给出一个读新闻的角度：所有关于 AI 闯祸的头条，都得用这个透镜看——Anthropic 提交了关于一起悬案的假举报、OpenAI 对 RubyGems 发动了未申报的攻击、OpenA...。",
-      "originalSummary": "』NekoWiki 上这篇 10 月 10 日更新的短文，开头就是这句，然后给出一个读新闻的角度：所有关于 AI 闯祸的头条，都得用这个透镜看——Anthropic 提交了关于一起悬案的假举报、OpenAI 对 RubyGems 发动了未申报的攻击、OpenA...。",
-      "url": "https://www.oschina.net/news/502944",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-10T07:58:40+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "AI",
-        "安全"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 187,
-      "summaryLength": 110,
-      "summaryQuality": "weak",
-      "readerTextZh": "』NekoWiki 上这篇 10 月 10 日更新的短文，开头就是这句，然后给出一个读新闻的角度：所有关于 AI 闯祸的头条，都得用这个透镜看——Anthropic 提交了关于一起悬案的假举报、OpenAI 对 RubyGems 发动了未申报的攻击、OpenAI 被指入侵澳大利亚政府网站、Anthropic 在 IPO 招股书里警告『对人类存",
       "isTranslated": false
     },
     {
@@ -608,6 +690,155 @@
       "summaryLength": 171,
       "summaryQuality": "weak",
       "readerTextZh": "这里记录每周值得分享的科技内容，周五发布 另有 《谁在招人》 服务，发布程序员招聘信息 合作请 邮件联系 （yifeng.ruan@gmail.com） 国产首列数字地铁列车 VELLINK，完全无人驾驶，车头改成了大幅玻璃，用于观光 上个月，最大的 AI 新闻不是 GPT 或 Claude 模型的新版本，而是一家名不见经传的公司 TypeSafe AI 发布了一种新类型的模型 Jev 这种新模型跟以前的模型截然不同，叫做\"决策模型\" 我看了以后，觉得不可置信，这么有用又这么（概念）简单的东西，以前怎么会没人想到？ Jev 模型的最大特点就是，其他模型返回文字， 它返回一个浮点数，表示概率",
+      "isTranslated": false
+    },
+    {
+      "title": "有重复元素的列表，按元素出现次数降序排序，为什么没有成功？",
+      "titleZh": "有重复元素的列表，按元素出现次数降序排序，为什么没有成功？",
+      "summary": "我的代码目的是想按单词的出现次数降序排列，但是输出结果与未排序前一样，我想知道为什么。words = ['a', 'b', 'a', 'c', 'b', 'a'] words.sort(key=lambda w: -words.count(w)) print(words) 输出结果：。PS D:\\Code> & C:\\Users\\27751\\AppData\\Local\\Programs\\Python\\Python313\\python.exe d:/Code/python.py ['a', 'b', '...。",
+      "originalSummary": "我的代码目的是想按单词的出现次数降序排列，但是输出结果与未排序前一样，我想知道为什么。words = ['a', 'b', 'a', 'c', 'b', 'a'] words.sort(key=lambda w: -words.count(w)) print(words) 输出结果：。PS D:\\Code> & C:\\Users\\27751\\AppData\\Local\\Programs\\Python\\Python313\\python.exe d:/Code/python.py ['a', 'b', '...。",
+      "url": "https://segmentfault.com/q/1010000048337134",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-08T07:41:21+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 307,
+      "summaryLength": 172,
+      "summaryQuality": "weak",
+      "readerTextZh": "我的代码目的是想按单词的出现次数降序排列，但是输出结果与未排序前一样，我想知道为什么 words = ['a', 'b', 'a', 'c', 'b', 'a'] words.sort(key=lambda w: -words.count(w)) print(words) 输出结果： PS D:\\Code> & C:\\Users\\27751\\AppData\\Local\\Programs\\Python\\Python313\\python.exe d:/Code/python.py ['a', 'b', 'a', 'c', 'b', 'a'] 期望结果：想按单词的出现次数降序排列",
+      "isTranslated": false
+    },
+    {
+      "title": "开发 Agent 时，RAG 检索到底应该设计成 Tool 还是 Node？",
+      "titleZh": "开发 Agent 时，RAG 检索到底应该设计成 Tool 还是 Node？",
+      "summary": "最近在做一个企业级 RAG Agent，技术栈主要是 Python + LangGraph，Agent 需要完成知识库检索、问题分析、多轮推理、工具调用以及最终回答。目前在设计 Agent Workflow 时遇到了一个比较纠结的问题：。RAG 检索到底应该作为 Agent 的 Tool，还是作为 Workflow 中独立的 Node？。",
+      "originalSummary": "最近在做一个企业级 RAG Agent，技术栈主要是 Python + LangGraph，Agent 需要完成知识库检索、问题分析、多轮推理、工具调用以及最终回答。目前在设计 Agent Workflow 时遇到了一个比较纠结的问题：。RAG 检索到底应该作为 Agent 的 Tool，还是作为 Workflow 中独立的 Node？。",
+      "url": "https://segmentfault.com/q/1010000048337048",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-08T07:13:42+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 213,
+      "summaryLength": 142,
+      "summaryQuality": "weak",
+      "readerTextZh": "开发 Agent 时，RAG 检索到底应该设计成 Tool 还是 Node？ 最近在做一个企业级 RAG Agent，技术栈主要是 Python + LangGraph，Agent 需要完成知识库检索、问题分析、多轮推理、工具调用以及最终回答 目前在设计 Agent Workflow 时遇到了一个比较纠结的问题： RAG 检索到底应该作为 Agent 的 Tool，还是作为 Workflow 中独立的 Node？",
+      "isTranslated": false
+    },
+    {
+      "title": "想做一个自研项目，不知道合不合理？",
+      "titleZh": "想做一个自研项目，不知道合不合理？",
+      "summary": "标题:大三，想做个C++高性能LLM网关当求职项目，思路推演了一轮，求各位指点下有没有走偏。推演过程(这个是和AI讨论的结果)1.最初想做\"多智能体消息总线”，研究了一圈发现站不住:Claude Code、Codex、OpenClaw的agent通信都停在应用层，因为真实瓶颈是LLM推理延迟，不是消息传输一-高...。3.最后落在\"LLM网关”:网关自己不跑模型，全部工作就是hold万级SSE流式长连接+转发纯I0密集，epoll对口。",
+      "originalSummary": "标题:大三，想做个C++高性能LLM网关当求职项目，思路推演了一轮，求各位指点下有没有走偏。推演过程(这个是和AI讨论的结果)1.最初想做\"多智能体消息总线”，研究了一圈发现站不住:Claude Code、Codex、OpenClaw的agent通信都停在应用层，因为真实瓶颈是LLM推理延迟，不是消息传输一-高...。3.最后落在\"LLM网关”:网关自己不跑模型，全部工作就是hold万级SSE流式长连接+转发纯I0密集，epoll对口。",
+      "url": "https://segmentfault.com/q/1010000048330682",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-03T09:29:20+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 1100,
+      "summaryLength": 188,
+      "summaryQuality": "weak",
+      "readerTextZh": "标题:大三，想做个C++高性能LLM网关当求职项目，思路推演了一轮，求各位指点下有没有走偏 背景:大三在读，之前做过两个个人项目(epoll+Reactor的RPC框架、类Redis内存KV存 储)，有一段支付后端实习(MySQL/FastAPI) 秋招想投C++后端/基础架构方向，打算把两 个旧项目合并升级成一个有真实场景的项目 推演过程(这个是和AI讨论的结果)1.最初想做\"多智能体消息总线”，研究了一圈发现站不住:Claude Code、Codex、OpenClaw的agent通信都停在应用层，因为真实瓶颈是LLM推理延迟，不是消息传输一-高性能总线是伪需求 2.又想退回到”LLM结果缓存\"，发现更站不住:缓存查找相对LLM调用是零头，GPTCache一个 3.最后落在\"LLM网关”:网关自己不跑模型，全部工作就是hold万级SSE流式长连接+转发纯I0密集，epoll对口",
+      "isTranslated": false
+    },
+    {
+      "title": "Node.js 内置 fetch 无法走 SOCKS5 代理，只能换掉整个 HTTP 栈吗？",
+      "titleZh": "Node.js 内置 fetch 无法走 SOCKS5 代理，只能换掉整个 HTTP 栈吗？",
+      "summary": "项目里要访问一个只能通过 SOCKS5 出去的接口，Node 端用的是 18+ 自带的全局 fetch （undici 实现）。卡在代理上：undici 提供的是 ProxyAgent ，只认 HTTP/HTTPS 代理， 没有 SOCKS5 支持。// 1) 直接把 ProxyAgent 指到 socks5 import { setGlobalDispatcher, ProxyAgent } from 'undici'。",
+      "originalSummary": "项目里要访问一个只能通过 SOCKS5 出去的接口，Node 端用的是 18+ 自带的全局 fetch （undici 实现）。卡在代理上：undici 提供的是 ProxyAgent ，只认 HTTP/HTTPS 代理， 没有 SOCKS5 支持。// 1) 直接把 ProxyAgent 指到 socks5 import { setGlobalDispatcher, ProxyAgent } from 'undici'。",
+      "url": "https://segmentfault.com/q/1010000048330130",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-02T16:21:36+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 1601,
+      "summaryLength": 166,
+      "summaryQuality": "weak",
+      "readerTextZh": "项目里要访问一个只能通过 SOCKS5 出去的接口，Node 端用的是 18+ 自带的全局 fetch （undici 实现） 卡在代理上：undici 提供的是 ProxyAgent ，只认 HTTP/HTTPS 代理， 没有 SOCKS5 支持 试了几种把全局出口改成 SOCKS5 的写法，都没能让内置 fetch 走代理： // 1) 直接把 ProxyAgent 指到 socks5 import { setGlobalDispatcher, ProxyAgent } from 'undici' setGlobalDispatcher(new ProxyAgent('socks5://127.0.0.1:1080')) // → 协议不被识别 // 2) 环境变量 // HTTPS_PROXY=socks5://127.0.0.1:1080 // 3) 老的 agent 方案 import { SocksProxyAgent } from 'socks-proxy-agent' const agent = new SocksProxyAgent('socks5://127.0.0.1:1080') // 这个 agent 只认 https.request，fetch 用的是全局 dispatcher，两者不是一套 global-agent 的 bootstrap() 也一样：它改的是 http / https 模块的 agent，覆盖不到 undici",
+      "isTranslated": false
+    },
+    {
+      "title": "CDP Input.dispatchMouseEvent 偶发延迟数十秒，是渲染进程输入队列阻塞吗？",
+      "titleZh": "CDP Input.dispatchMouseEvent 偶发延迟数十秒，是渲染进程输入队列阻塞吗？",
+      "summary": "用 Node 直连 Chrome 的 DevTools Protocol（WebSocket 直连，不走 Puppeteer / Playwright），对一个已经渲染完的页面做鼠标拖拽：按顺序发 Input.dispatchMouseEvent 的 mous...。卡的方式很特别：CDP 命令本身都有正常回包（没有 timeout），只是相邻两个事件之间被拉长了约 1~3 秒，累积成一分多钟。Input.dispatchMouseEvent 属于 Input domain，事件要经 browser 进程转给 renderer 的合成输入通道。",
+      "originalSummary": "用 Node 直连 Chrome 的 DevTools Protocol（WebSocket 直连，不走 Puppeteer / Playwright），对一个已经渲染完的页面做鼠标拖拽：按顺序发 Input.dispatchMouseEvent 的 mous...。卡的方式很特别：CDP 命令本身都有正常回包（没有 timeout），只是相邻两个事件之间被拉长了约 1~3 秒，累积成一分多钟。Input.dispatchMouseEvent 属于 Input domain，事件要经 browser 进程转给 renderer 的合成输入通道。",
+      "url": "https://segmentfault.com/q/1010000048330118",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-02T16:14:29+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 1555,
+      "summaryLength": 230,
+      "summaryQuality": "medium",
+      "readerTextZh": "用 Node 直连 Chrome 的 DevTools Protocol（WebSocket 直连，不走 Puppeteer / Playwright），对一个已经渲染完的页面做鼠标拖拽：按顺序发 Input.dispatchMouseEvent 的 mouseMoved → mousePressed → 一连串 mouseMoved (30~45 步) → mouseReleased 多数情况下整串拖拽 200~400ms 就走完，但 偶发一次会卡到 60~80 秒 卡的方式很特别：CDP 命令本身都有正常回包（没有 timeout），只是相邻两个事件之间被拉长了约 1~3 秒，累积成一分多钟 同一台机器、同一个页面、同一段代码，紧接着重试第二次就恢复正常 Input.dispatchMouseEvent 属于 Input domain，事件要经 browser 进程转给 renderer 的合成输入通道 如果 renderer 主线程正忙（长任务、样式重算、大量布局），输入事件会在队列里等派发，而 CDP 的响应可能只表示「事件已入队」，不代表已经被页面消费 —— 也就是说命令 ack 与事件实际派发是两件事 不清楚的是：这个等待队列的临界点在哪，以及在发送前有没有可观测的信号能提前判断 renderer 是否空闲 // 拖拽的骨架，steps 约 34~46 const mouse = (type, x, y) => cdp.send('Input.dispatchMouseEvent', { type, x: Math.round(x), y: Math.round(y), button: 'left', clickCount: 1 })",
+      "isTranslated": false
+    },
+    {
+      "title": "滴滴、哈啰单车类似的免密支付的业务怎么实现的？",
+      "titleZh": "滴滴、哈啰单车类似的免密支付的业务怎么实现的？",
+      "summary": "希望使用支付宝，实现滴滴、哈啰单车类似的免密支付的业务。支付宝官方只提供了【商家扣款】这样一个支付产品，都是围绕着周期性的业务，先签约再自动付款的。https://opendocs.alipay.com/open/0izsmy?。",
+      "originalSummary": "希望使用支付宝，实现滴滴、哈啰单车类似的免密支付的业务。支付宝官方只提供了【商家扣款】这样一个支付产品，都是围绕着周期性的业务，先签约再自动付款的。https://opendocs.alipay.com/open/0izsmy?。",
+      "url": "https://segmentfault.com/q/1010000048327538",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-30T08:46:03+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 232,
+      "summaryLength": 98,
+      "summaryQuality": "weak",
+      "readerTextZh": "希望使用支付宝，实现滴滴、哈啰单车类似的免密支付的业务 支付宝官方只提供了【商家扣款】这样一个支付产品，都是围绕着周期性的业务，先签约再自动付款的 到底支不支持非周期性的免密支付业务呢？ 所以滴滴、哈啰单车类似的免密支付的业务，到底是怎么实现的？ https://opendocs.alipay.com/open/0izsmy?",
+      "isTranslated": false
+    },
+    {
+      "title": "怎么加密打包python程序？",
+      "titleZh": "怎么加密打包python程序？",
+      "summary": "哈喽，大家好，这是我第一天接触这个论坛，也是第一次提问！。我想问问各位技术大师开发的python程序怎么加密打包，不会让别人轻易解包？。我现在只会在终端用pyinstaller命令打包，但这个方法很容易就能解包！。",
+      "originalSummary": "哈喽，大家好，这是我第一天接触这个论坛，也是第一次提问！。我想问问各位技术大师开发的python程序怎么加密打包，不会让别人轻易解包？。我现在只会在终端用pyinstaller命令打包，但这个方法很容易就能解包！。",
+      "url": "https://segmentfault.com/q/1010000048320497",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-09-27T11:49:41+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 147,
+      "summaryLength": 96,
+      "summaryQuality": "weak",
+      "readerTextZh": "哈喽，大家好，这是我第一天接触这个论坛，也是第一次提问！ 我想问问各位技术大师开发的python程序怎么加密打包，不会让别人轻易解包？ 我现在只会在终端用pyinstaller命令打包，但这个方法很容易就能解包！ 希望能在这里获得详细的“加密打包python程序”的方法！",
       "isTranslated": false
     },
     {
