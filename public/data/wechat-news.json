@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T16:03:57.426333+00:00",
-  "nextUpdate": "2026-10-17T04:03:57.426333+00:00",
+  "updatedAt": "2026-10-17T02:56:17.367574+00:00",
+  "nextUpdate": "2026-10-17T14:56:17.367574+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,14 +76,14 @@
   "errors": [],
   "items": [
     {
-      "title": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
-      "titleZh": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
-      "summary": "2026 人工智能产业大会专项活动“ AI 场景落地与 FDE 创新发展交流对接活动”在济南举行，并同步启动 2027 人工智能产业大赛、共智方舟社区，发布《 2026—2027 AI 场景落地与 FDE 创新发展行动计划》 2026 人工智能产业大会专项活动...。社区将依托社会组织及会员网络连接企业需求、AI 实践者和生态伙伴，通过案例分享、场景共创和持续协作，沉淀 AI 落地过程中的可复用方法，并为后续场景验证和项目落地提供持续支持 活动最后，共智方舟发起人明宗钊介绍《2026...。",
-      "originalSummary": "2026 人工智能产业大会专项活动“ AI 场景落地与 FDE 创新发展交流对接活动”在济南举行，并同步启动 2027 人工智能产业大赛、共智方舟社区，发布《 2026—2027 AI 场景落地与 FDE 创新发展行动计划》 2026 人工智能产业大会专项活动...。社区将依托社会组织及会员网络连接企业需求、AI 实践者和生态伙伴，通过案例分享、场景共创和持续协作，沉淀 AI 落地过程中的可复用方法，并为后续场景验证和项目落地提供持续支持 活动最后，共智方舟发起人明宗钊介绍《2026...。",
-      "url": "https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&utm_medium=article",
+      "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "titleZh": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QC",
+      "summary": "2026 年 QCon 全球软件开发大会大会 · 上海站 将于 10 月 22 日-24 日 举办，来自阿里巴巴、腾讯、字节跳动、美团、小红书、蚂蚁集团、无问芯穹、阶跃星辰、快手、百度、网易、微软、华为、携程、平安等企业的一线技术实践者，将从 AI 应用、Ag...。从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！。今天的 AI 越来越强调持续学习、自我改进和闭环迭代，但真实世界并不是一份预先准备好的数据集。",
+      "originalSummary": "2026 年 QCon 全球软件开发大会大会 · 上海站 将于 10 月 22 日-24 日 举办，来自阿里巴巴、腾讯、字节跳动、美团、小红书、蚂蚁集团、无问芯穹、阶跃星辰、快手、百度、网易、微软、华为、携程、平安等企业的一线技术实践者，将从 AI 应用、Ag...。从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！。今天的 AI 越来越强调持续学习、自我改进和闭环迭代，但真实世界并不是一份预先准备好的数据集。",
+      "url": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-16T17:45:51+00:00",
+      "publishedAt": "2026-10-17T10:00:00+00:00",
       "tags": [
         "架构",
         "软件工程",
@@ -91,10 +91,10 @@
         "AI"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2645,
-      "summaryLength": 207,
-      "summaryQuality": "strong",
-      "readerTextZh": "2026 人工智能产业大会专项活动“ AI 场景落地与 FDE 创新发展交流对接活动”在济南举行，并同步启动 2027 人工智能产业大赛、共智方舟社区，发布《 2026—2027 AI 场景落地与 FDE 创新发展行动计划》 2026 人工智能产业大会专项活动“ AI 场景落地与 FDE 创新发展交流对接活动”在济南举行，并同步启动 2027 人工智能产业大赛、共智方舟社区，发布《 2026—2027 AI 场景落地与 FDE 创新发展行动计划》 随着大模型和智能体加快进入企业生产经营环节，AI 应用正在从“能力可用”进一步走向“业务可交付” 围绕真实场景、工程交付和产业协同，2026 人工智能产业大会专项活动“ AI 场景落地与 FDE 创新发展交流对接活动”在济南举行，并同步启动 2027 人工智能产业大赛、共智方舟社区，发布《 2026—2027 AI 场景落地与 FDE 创新发展行动计划》 10 月 16 日，2026 人工智能产业大会专项活动——“ AI 场景落地与 FDE 创新发展交流对接活动”在济南黄河国际会展中心举行 随着大模型、智能体能力持续演进，企业推进 AI 应用的关注点，正从“技术能不能实现”进一步转向“场景是否值得做、如何进入业务流程、如何完成交付并持续产生价值” 围绕这些现实问题，本次活动从企业真实需求出发，通过场景征集、案例分享、FDE 实践交流和供需对接，探索 AI 从技术能力走向业务落地的具体路径，并同步启动 2027 人工智能产业大赛、共智方舟社区，发布《 2026—2027 AI 场景落地与 FDE 创新发展行动计划》 山东省工业和信息化厅数据产业推进处副处长、三级调研员王俊人，山东省社会组织总会党委书记、会长王安忠出席活动并致辞 本次活动由山东省大数据协会、极客邦科技、积木网等单位举办，山东省社会组织总会支持 来自人工智能、大数据产业链企业，企业数字化转型部门、高校科研院所、社会组织及 FDE 相关领域的代表参与现场交流 企业获得大模型和 AI 工具的门槛正在降低，但真正将 AI 嵌入生产经营流程，仍需要解决场景价值、数据基...",
+      "sourceTextLength": 1749,
+      "summaryLength": 174,
+      "summaryQuality": "weak",
+      "readerTextZh": "从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 2026 年 QCon 全球软件开发大会大会 · 上海站 将于 10 月 22 日-24 日 举办，来自阿里巴巴、腾讯、字节跳动、美团、小红书、蚂蚁集团、无问芯穹、阶跃星辰、快手、百度、网易、微软、华为、携程、平安等企业的一线技术实践者，将从 AI 应用、Agent 工程、AI Coding、基础设施、数据系统、质量、安全、SRE 以及具身智能等方向，分享 AI 进入真实生产环境之后正在发生的变化 蚂蚁灵波科技首席数据科学家黄用韬博士已确认出席 “ 数据驱动的具身智能：迈向规模化之路 ” 专题，并发表题为 《 The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality 》 的主题分享 今天的 AI 越来越强调持续学习、自我改进和闭环迭代，但真实世界并不是一份预先准备好的数据集 对机器人而言，真正重要的不只是“拿什么数据训练”，而是如何理解数据产生时的任务、环境、硬件、模型版本与人工介入，如何从真实执行中识别能力缺口，并进一步决定下一轮该采什么、在哪里采、由谁执行，以及如何验证一次改进是否真正有效 黄用韬博士本次分享将介绍一种面向真实世界学习的系统视角：把任务、事件、状态、数据和资源组织在持续演化的时间轴上，通过端、边、云协同，把问题发现、数据产生、模型学习、评测验证和下一次行动连接成闭环 最终，数据集不再是系统的起点和终点，而是持续学习过程中动态形成的一种结果 黄用韬博士，本科毕业于清华大学数理基础科学班，博士毕业于德州大学达拉斯分校，长期从事 AI 基础设施与分布式系统研究与实践，在自动驾驶领域拥有多年产业经验，曾任元戎启行技术合伙人，主导构建了大规模数据与训练基础设施体系，现任蚂蚁灵波科技首席数据科学家 他在本次会议的详细演讲内容如下： 为什么机器人学习不能只围绕静态数据集展开，以及数据集视角天然会丢失哪些关键上下文 从数据走向事件与上下文：任务创建、机...",
       "isTranslated": false
     },
     {
@@ -105,7 +105,7 @@
       "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-16T16:03:14.219164+00:00",
+      "publishedAt": "2026-10-17T02:55:33.390773+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-16T16:03:13.557975+00:00",
+      "publishedAt": "2026-10-17T02:55:32.699471+00:00",
       "tags": [
         "后端",
         "工程",
@@ -151,7 +151,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-16T16:03:12.869952+00:00",
+      "publishedAt": "2026-10-17T02:55:32.034543+00:00",
       "tags": [
         "后端",
         "工程",
@@ -173,7 +173,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-16T16:03:12.181013+00:00",
+      "publishedAt": "2026-10-17T02:55:31.389539+00:00",
       "tags": [
         "后端",
         "工程",
@@ -195,7 +195,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-16T16:03:11.503899+00:00",
+      "publishedAt": "2026-10-17T02:55:30.721447+00:00",
       "tags": [
         "后端",
         "工程",
@@ -217,7 +217,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-16T16:03:10.779901+00:00",
+      "publishedAt": "2026-10-17T02:55:30.051420+00:00",
       "tags": [
         "后端",
         "工程",
@@ -239,7 +239,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-16T16:03:10.078506+00:00",
+      "publishedAt": "2026-10-17T02:55:29.330314+00:00",
       "tags": [
         "后端",
         "工程",
@@ -261,7 +261,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-16T16:03:09.119654+00:00",
+      "publishedAt": "2026-10-17T02:55:28.670566+00:00",
       "tags": [
         "后端",
         "工程",
@@ -283,7 +283,7 @@
       "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-16T16:03:08.452894+00:00",
+      "publishedAt": "2026-10-17T02:55:28.012664+00:00",
       "tags": [
         "后端",
         "工程",
@@ -306,7 +306,7 @@
       "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-16T16:03:07.743663+00:00",
+      "publishedAt": "2026-10-17T02:55:27.317982+00:00",
       "tags": [
         "后端",
         "工程",
@@ -318,6 +318,27 @@
       "summaryLength": 209,
       "summaryQuality": "strong",
       "readerTextZh": "搜索和推荐场景中想要使用语言模型提高在线效果，往往面临着在线极低延迟的约束，现有通用大模型推理引擎并非在这一延迟约束下设计，因此本文从「具有确定 decode 次数上界的请求」这一工作负载出发，重新设计在线执行路径：以静态 DAG 组织完整业务请求，结合 AOTInductor 编译、Packed Prefill、请求内 K/V 共享及选择性 FP8，系统性压缩调度与计算开销 在平均端到端时延低于 20ms 的约束下，Prefill-only 有效 MFU 达到 67%，吞吐较 SGLang 提升 10 倍，为 SLM 在搜推场景的大规模落地提供了一套高性能、可复用的工程实践 搜推场景下业界逐渐使用 SLM（Small Language Model， 小参数量语言模型0.5~1B），用于意图理解，相关性判断，生成式推荐等任务，这些模型保留 Decoder-only Transformer 和 Next-Token Prediction 的基本结构，但在线执行形态与开放式文本生成存在明显差异： Prefill-Only 模式 ：仅执行一次 prefill，根据每条序列最后一个有效 Token 位置的 logits 得到类别或分值，或基于 prefill 产出的 Embedding 接入 MLP 模块做分类任务 Beam Search 模式 ：执行一次 prefill 和固定次数 decode，在固定 beam 宽度下返回少量候选序列 两类请求的输入规模、运行状态和最大迭代次数均具有可预先确定的上界 本文将这类控制流结构、状态容量和执行资源能够在部署前界定，输出 decode 的次数具有固定上界的请求，统称为有界生成负载 其中Prefill-Only 可以看作为 decode 次数为 0 的特殊情况",
+      "isTranslated": false
+    },
+    {
+      "title": "WorkBuddy白送500积分，大家快来领 - 程序员晓凡",
+      "titleZh": "WorkBuddy白送500积分，大家快来领 - 程序员晓凡",
+      "summary": "就在10月15早上8点左右，DeepSeek崩了。DeepSeek 网页和App都显示“服务器暂时不可用”大概持续了5小时左右。一开始我以为是我自己网络问题，一搜原来大家都一样。",
+      "originalSummary": "就在10月15早上8点左右，DeepSeek崩了。DeepSeek 网页和App都显示“服务器暂时不可用”大概持续了5小时左右。一开始我以为是我自己网络问题，一搜原来大家都一样。",
+      "url": "https://www.cnblogs.com/xiezhr/p/23336924",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-17T00:33:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 649,
+      "summaryLength": 81,
+      "summaryQuality": "weak",
+      "readerTextZh": "就在10月15早上8点左右，DeepSeek崩了 DeepSeek 网页和App都显示“服务器暂时不可用”大概持续了5小时左右 一开始我以为是我自己网络问题，一搜原来大家都一样 然后DeepSeek 崩了就冲上了热搜，今天各种补偿政策就出来了 下面是DeepSeek官方 阅读全文 大家好,我是晓凡 下面是DeepSeek官方 大家好,我是晓凡 下面是DeepSeek官方 DeepSeek 网页和App都显示“服务器暂时不可用”大概持续了5小时左右 然后DeepSeek 崩了就冲上了热搜，今天各种补偿政策就出来了 小伙伴们如果最近在用着DeepSeek Api的，赶紧去看看补偿有么有到账了 有点可惜了，晓凡最近都没怎么单独调用DeepSeek官方API 而是一直用的WorkBuddy ，当然了WorkBuddy也很大方，直接补偿500积分",
       "isTranslated": false
     },
     {
@@ -625,28 +646,6 @@
       "summaryLength": 131,
       "summaryQuality": "weak",
       "readerTextZh": "【摘要】背景 从事 Linux 内核开发的人，大概都知道从 Linux 5.7 开始，为了防止第三方模块绕过 EXPORT_SYMBOL 的限制访问内部函数， kallsyms_lookup_name() 不再被导出了 与此同时，eBPF 也在不断发展壮大，但它目前依旧不能取代传统内核模块，例如开发硬件驱 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "千万三角面工业模型网页轻量化手动减面与AI智能减面实操 - StarTechnology",
-      "titleZh": "千万三角面工业模型网页轻量化手动减面与AI智能减面实操 - StarTechnology",
-      "summary": "【摘要】千万三角面工业模型网页轻量化：手动减面与 AI 智能减面实操记录 关键词：模型减面、网格抽稀、大装配优化、GLB 一、为什么必须做轻量化 做过 Web 三维的朋友都知道，直接把 CAD 导出的原始装配塞进浏览器，结果通常是： 首次加载时间很长。",
-      "originalSummary": "【摘要】千万三角面工业模型网页轻量化：手动减面与 AI 智能减面实操记录 关键词：模型减面、网格抽稀、大装配优化、GLB 一、为什么必须做轻量化 做过 Web 三维的朋友都知道，直接把 CAD 导出的原始装配塞进浏览器，结果通常是： 首次加载时间很长。",
-      "url": "https://www.cnblogs.com/startechnology/p/23327684",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-16T06:30:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 158,
-      "summaryLength": 104,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】千万三角面工业模型网页轻量化：手动减面与 AI 智能减面实操记录 关键词：模型减面、网格抽稀、大装配优化、GLB 一、为什么必须做轻量化 做过 Web 三维的朋友都知道，直接把 CAD 导出的原始装配塞进浏览器，结果通常是： 首次加载时间很长",
       "isTranslated": false
     },
     {
