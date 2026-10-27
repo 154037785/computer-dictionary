@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-26T18:13:37.576927+00:00",
-  "nextUpdate": "2026-10-27T06:13:37.576927+00:00",
+  "updatedAt": "2026-10-27T03:39:14.551688+00:00",
+  "nextUpdate": "2026-10-27T15:39:14.551688+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,26 +76,24 @@
   "errors": [],
   "items": [
     {
-      "title": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
-      "titleZh": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
-      "summary": "2025年6月，中科慧灵曾完成由精密制造企业蓝思科技领投的近亿元A轮融资 2025年6月，中科慧灵曾完成由精密制造企业蓝思科技领投的近亿元A轮融资 近日，聚焦人形机器人与具身智能核心技术研发及产业化应用的北京中科慧灵机器人技术有限公司（以下简称“中科慧灵”）...。目前，公司已与相关场景运营企业签订框架合作及采购协议，探索产品销售、租赁运营和场景服务等商业模式 下一阶段，公司计划围绕工业具身、商业具身、特种具身及具身基座推进产品与模型迭代，提升轻工工位工程化交付能力，拓展矿山、电力...。",
-      "originalSummary": "2025年6月，中科慧灵曾完成由精密制造企业蓝思科技领投的近亿元A轮融资 2025年6月，中科慧灵曾完成由精密制造企业蓝思科技领投的近亿元A轮融资 近日，聚焦人形机器人与具身智能核心技术研发及产业化应用的北京中科慧灵机器人技术有限公司（以下简称“中科慧灵”）...。目前，公司已与相关场景运营企业签订框架合作及采购协议，探索产品销售、租赁运营和场景服务等商业模式 下一阶段，公司计划围绕工业具身、商业具身、特种具身及具身基座推进产品与模型迭代，提升轻工工位工程化交付能力，拓展矿山、电力...。",
-      "url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article",
+      "title": "Grafana将Cypress测试结果转化为持久化的可观测性数据",
+      "titleZh": "Grafana将Cypress测试结果转化为持久化的可观测性数据",
+      "summary": "这种方法使团队能够跨多次运行追踪测试失败、执行时间和不稳定测试（flaky tests），而不再仅仅依赖单次执行的终端输出或 CI 日志 该方法利用 Cypress 生命周期钩子捕获测试结果，使用 Prometheus Pushgateway 临时保存来自短暂...。随后，这些数据可以被可视化并用于告警，从而提供对测试套件行为的长期视角 Cypress 已经通过其插件生命周期暴露了有用的信息。before:run 钩子（hook）可以为整个测试套件的执行建立一个通用标识符，而 after:spec 则提供每个规范（specification）的结果，包括通过和失败的计数、测试状态及持续时间。",
+      "originalSummary": "这种方法使团队能够跨多次运行追踪测试失败、执行时间和不稳定测试（flaky tests），而不再仅仅依赖单次执行的终端输出或 CI 日志 该方法利用 Cypress 生命周期钩子捕获测试结果，使用 Prometheus Pushgateway 临时保存来自短暂...。随后，这些数据可以被可视化并用于告警，从而提供对测试套件行为的长期视角 Cypress 已经通过其插件生命周期暴露了有用的信息。before:run 钩子（hook）可以为整个测试套件的执行建立一个通用标识符，而 after:spec 则提供每个规范（specification）的结果，包括通过和失败的计数、测试状态及持续时间。",
+      "url": "https://www.infoq.cn/article/tcY6W55WowheH1SklVJK?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-26T18:30:50+00:00",
+      "publishedAt": "2026-10-27T11:27:00+00:00",
       "tags": [
         "架构",
         "软件工程",
-        "中文深度",
-        "AI",
-        "机器人"
+        "中文深度"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 1876,
-      "summaryLength": 220,
+      "sourceTextLength": 2089,
+      "summaryLength": 263,
       "summaryQuality": "strong",
-      "readerTextZh": "2025年6月，中科慧灵曾完成由精密制造企业蓝思科技领投的近亿元A轮融资 2025年6月，中科慧灵曾完成由精密制造企业蓝思科技领投的近亿元A轮融资 近日，聚焦人形机器人与具身智能核心技术研发及产业化应用的北京中科慧灵机器人技术有限公司（以下简称“中科慧灵”），完成数亿元人民币 A++轮融资 本轮融资由知来投资、涌铧投资、茂天投资、元禾辰坤、国科科智、鲁宁投资等机构联合投资 投资方涵盖市场化股权投资机构、专业母基金及产业投资平台，投资布局涉及人工智能、硬科技、先进制造等领域 2025 年 6 月，中科慧灵曾完成由精密制造企业蓝思科技领投的近亿元 A 轮融资 随着本轮多元投资机构加入，公司在产业资本与专业投资机构方面的合作进一步拓展 本轮融资资金将主要用于产品量产交付、关键场景具身大脑技术研发迭代及市场拓展 成立于 2023 年的中科慧灵建立“本体+具身大脑+灵巧手”全栈自研体系，已推出了全尺寸人形机器人 CASBOT 02、轮臂式机器人 CASBOT W2、半尺寸人形机器人 CASBOT Mini 及 CASBOT BAND 机器人乐队等产品，围绕工业制造中的柔性操作、矿山能源领域的高风险作业，以及商业服务、文娱展演和教育科研等应用需求，持续推进机器人产品的技术迭代、场景验证与产业化应用 对于本轮融资及公司的发展方向，中科慧灵创始人兼董事长张正涛表示：“具身智能的价值，最终要在真实世界中得到检验 技术方面，中科慧灵具备从末端执行器到机器人整机的自主研发设计能力，基于自研 XR 遥操系统和真机/真人数采平台，以视觉语言多模态大模型（VLM）结合具身 Agents、具身 RSI、世界模型、强化学习开展研发 自研具身大模型 CAS-brain 连接机器人硬件、真实交互数据、模型训练推理与递归自主进化，推动软硬件迭代 鞋服制造是中科慧灵较早布局的工业具身智能重点场景，公司从真实生产工序切入，持续推进机器人技术验证与产业化应用 2025 年，中科慧灵在鞋服制造领域取得多项进展 8 月，首台制鞋机器人进驻莆田一家鞋服龙头企业的制鞋工厂，针对鞋垫盖章工序启动产线 POC（概念验证...",
+      "readerTextZh": "Grafana Labs发布了一种实用方法，用于通过将Cypress测试结果转换为Prometheus指标，并将其发送到Grafana Cloud来监控Cypress测试套件 Grafana Labs发布了一种实用方法，用于通过将Cypress测试结果转换为Prometheus指标，并将其发送到Grafana Cloud来监控Cypress测试套件 Grafana Labs 发布了 一种实用的方法 ，用于监控 Cypress 测试套件，该方法通过将测试结果转换为 Prometheus 指标并发送至 Grafana Cloud 来实现 这种方法使团队能够跨多次运行追踪测试失败、执行时间和不稳定测试（flaky tests），而不再仅仅依赖单次执行的终端输出或 CI 日志 该方法利用 Cypress 生命周期钩子捕获测试结果，使用 Prometheus Pushgateway 临时保存来自短暂运行的测试任务的指标，并通过 Grafana Alloy 抓取这些指标并将其转发至 Grafana Cloud 随后，这些数据可以被可视化并用于告警，从而提供对测试套件行为的长期视角 Cypress 已经通过其插件生命周期暴露了有用的信息 before:run 钩子（hook）可以为整个测试套件的执行建立一个通用标识符，而 after:spec 则提供每个规范（specification）的结果，包括通过和失败的计数、测试状态及持续时间 Grafana 的示例将这些信息转化为一组精简的 Prometheus 指标，涵盖单个测试、规范和完整的运行 这使得团队能够回答仅从单次 CI 执行中难以解答的问题 仪表盘可以展示某个特定规范是否正在变慢、某个测试是否开始出现间歇性失败，或者整体套件性能是否在恶化 还可以将 GitHub Actions 的运行标识符附加到指标上，从而将指标的变化追溯回产生它的 CI 执行过程 Pushgateway 至关重要，因为 Cypress 的执行是短暂运行的任务 常规的 Prometheus 抓取可能在测试进程退出前都无法触及它，因此结果会被推送到一个中...",
       "isTranslated": false
     },
     {
@@ -106,7 +104,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-26T18:12:54.880295+00:00",
+      "publishedAt": "2026-10-27T03:38:23.585657+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +126,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-26T18:12:54.265933+00:00",
+      "publishedAt": "2026-10-27T03:38:22.871156+00:00",
       "tags": [
         "后端",
         "工程",
@@ -150,7 +148,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-26T18:12:53.622777+00:00",
+      "publishedAt": "2026-10-27T03:38:22.143753+00:00",
       "tags": [
         "后端",
         "工程",
@@ -172,7 +170,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-26T18:12:52.991084+00:00",
+      "publishedAt": "2026-10-27T03:38:21.430360+00:00",
       "tags": [
         "后端",
         "工程",
@@ -194,7 +192,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-26T18:12:52.350534+00:00",
+      "publishedAt": "2026-10-27T03:38:20.725504+00:00",
       "tags": [
         "后端",
         "工程",
@@ -216,7 +214,7 @@
       "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-26T18:12:51.069979+00:00",
+      "publishedAt": "2026-10-27T03:38:19.261585+00:00",
       "tags": [
         "后端",
         "工程",
@@ -238,7 +236,7 @@
       "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-26T18:12:50.396356+00:00",
+      "publishedAt": "2026-10-27T03:38:18.508661+00:00",
       "tags": [
         "后端",
         "工程",
@@ -254,14 +252,14 @@
       "isTranslated": false
     },
     {
-      "title": "Qwen-Image2.1游戏素材工坊：把整套素材拼成\"模拟游戏画面\"逐张体检 （二） - 又过二十",
-      "titleZh": "Qwen-Image2.1游戏素材工坊：把整套素材拼成\"模拟游戏画面\"逐张体检 （二） - 又过二十",
-      "summary": "【摘要】2026-10-26 · 项目地址 https://github.com/wyfirstname/qwenimage-comic 分类页签 画幅有据可查 仿真测试 运行时实测 之前写过后半句——\"AI 批量出游戏素材\"的流水线（提示词方案 → 生成 →...。今天这一轮改造解决的是更前面的问题： 图生得再好看，没放回游戏里跑过，就不知道它能不能用 上午的 6.0/7.0 是\"排版升级\"：面板更细、每个决策有依据。这个数字很难看，但正是仿真测试的价值：问题第一次被系统地暴露出来，而不是靠人眼一张张瞪 之前的透明底用的是白底色键（chroma）——对深色素材够用，但主角偏偏是 白袍白底 ：白色像素本身就是主体，色键一抹全没（实测 a...。",
-      "originalSummary": "【摘要】2026-10-26 · 项目地址 https://github.com/wyfirstname/qwenimage-comic 分类页签 画幅有据可查 仿真测试 运行时实测 之前写过后半句——\"AI 批量出游戏素材\"的流水线（提示词方案 → 生成 →...。今天这一轮改造解决的是更前面的问题： 图生得再好看，没放回游戏里跑过，就不知道它能不能用 上午的 6.0/7.0 是\"排版升级\"：面板更细、每个决策有依据。这个数字很难看，但正是仿真测试的价值：问题第一次被系统地暴露出来，而不是靠人眼一张张瞪 之前的透明底用的是白底色键（chroma）——对深色素材够用，但主角偏偏是 白袍白底 ：白色像素本身就是主体，色键一抹全没（实测 a...。",
-      "url": "https://www.cnblogs.com/wyang/p/23446801",
+      "title": "AI 编程助手为什么跑偏？用开源 ccglass 看清 Prompt、工具调用和 Token 消耗 - 侯垒",
+      "titleZh": "AI 编程助手为什么跑偏？用开源 ccglass 看清 Prompt、工具调用和 Token 消耗 - 侯垒",
+      "summary": "用开源 ccglass 看清 Prompt、工具调用和 Token 消耗 让 AI 编程助手修一个 bug，它读了文件、调用了工具、修改了代码，最后却改错了地方。但在修改提示词之前，还有一 让 AI 编程助手修一个 bug，它读了文件、调用了工具、修改了代码，最后却改错了地方 遇到这种情况，我们很容易继续补一句：“请仔细检查”“不要忽略上下文”“重新分析” 但在修改提示词之前，还...。只看最终回答，很难判断问题发生在哪个环节 这篇文章介绍一个开源工具 ccglass ：通过本地代理和 Web 面板，观察 AI 编程助手与模型之间的请求，给排查问题提供更直接的依据 用户提出任务 ↓ 客户端组织提示词、历...。",
+      "originalSummary": "用开源 ccglass 看清 Prompt、工具调用和 Token 消耗 让 AI 编程助手修一个 bug，它读了文件、调用了工具、修改了代码，最后却改错了地方。但在修改提示词之前，还有一 让 AI 编程助手修一个 bug，它读了文件、调用了工具、修改了代码，最后却改错了地方 遇到这种情况，我们很容易继续补一句：“请仔细检查”“不要忽略上下文”“重新分析” 但在修改提示词之前，还...。只看最终回答，很难判断问题发生在哪个环节 这篇文章介绍一个开源工具 ccglass ：通过本地代理和 Web 面板，观察 AI 编程助手与模型之间的请求，给排查问题提供更直接的依据 用户提出任务 ↓ 客户端组织提示词、历...。",
+      "url": "https://www.cnblogs.com/houleixx/p/23451682",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-26T15:28:00+00:00",
+      "publishedAt": "2026-10-27T03:07:00+00:00",
       "tags": [
         "开发者",
         "后端",
@@ -270,21 +268,21 @@
         "开源"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2497,
-      "summaryLength": 257,
+      "sourceTextLength": 1815,
+      "summaryLength": 250,
       "summaryQuality": "strong",
-      "readerTextZh": "【摘要】2026-10-26 · 项目地址 https://github.com/wyfirstname/qwenimage-comic 分类页签 画幅有据可查 仿真测试 运行时实测 之前写过后半句——\"AI 批量出游戏素材\"的流水线（提示词方案 → 生成 → 透明底 → 色调校验 → 导出） 今天这一轮改 阅读全文 2026-10-26 · 项目地址 https://github.com/wyfirstname/qwenimage-comic 分类页签 画幅有据可查 仿真测试 运行时实测 之前写过后半句——\"AI 批量出游戏素材\"的流水线（提示词方案 → 生成 → 透明底 → 色调 2026-10-26 · 项目地址 https://github.com/wyfirstname/qwenimage-comic 分类页签 画幅有据可查 仿真测试 运行时实测 之前写过后半句——\"AI 批量出游戏素材\"的流水线（提示词方案 → 生成 → 透明底 → 色调 2026-10-26 · 项目地址 https://github.com/wyfirstname/qwenimage-comic 分类页签 画幅有据可查 仿真测试 运行时实测 之前写过后半句——\"AI 批量出游戏素材\"的流水线（提示词方案 → 生成 → 透明底 → 色调校验 → 导出） 今天这一轮改造解决的是更前面的问题： 图生得再好看，没放回游戏里跑过，就不知道它能不能用 上午的 6.0/7.0 是\"排版升级\"：面板更细、每个决策有依据 真正的转折在下午收到一句反馈—— 就目前来说质量太差了 主角图片非透明图片，场景图片中道路如何识别，哪些位置可以行走……建议结合之前破解游戏的经验把素材放进去实测，把整个流水线打通 这句话把三个此前\"假装解决了\"的问题全部点破 9.0 就是冲着它去的 原来的验收方式是逐张看大图——单张都还行，凑到一起才发现比例失调、色调漂移、白底没抠",
+      "readerTextZh": "用开源 ccglass 看清 Prompt、工具调用和 Token 消耗 让 AI 编程助手修一个 bug，它读了文件、调用了工具、修改了代码，最后却改错了地方 遇到这种情况，我们很容易继续补一句：“请仔细检查”“不要忽略上下文”“重新分析” 但在修改提示词之前，还有一 阅读全文 AI 编程助手为什么跑偏？ 但在修改提示词之前，还有一 AI 编程助手为什么跑偏？ 但在修改提示词之前，还有一 让 AI 编程助手修一个 bug，它读了文件、调用了工具、修改了代码，最后却改错了地方 遇到这种情况，我们很容易继续补一句：“请仔细检查”“不要忽略上下文”“重新分析” 但在修改提示词之前，还有一个更值得确认的问题： 模型这一轮到底收到了什么？ 你在聊天框里输入的要求，只是请求的一部分 系统提示词、历史消息、工具定义、文件内容和工具执行结果，都可能影响下一步行为 只看最终回答，很难判断问题发生在哪个环节 这篇文章介绍一个开源工具 ccglass ：通过本地代理和 Web 面板，观察 AI 编程助手与模型之间的请求，给排查问题提供更直接的依据 用户提出任务 ↓ 客户端组织提示词、历史消息和工具定义 ↓ 模型返回工具调用 ↓ 本地执行搜索、读文件等操作 ↓ 工具结果进入后续请求 ↓ 模型继续分析、修改和验证 如果最终结果不对，可以沿着这条链路逐步检查： 这些检查不能替你判断所有代码逻辑，却能帮助你缩小排查范围",
       "isTranslated": false
     },
     {
-      "title": "Kimi K3.1 Pro 发布：代码超 GPT-6 Astra、开放权重版主动移除网络攻防能力",
-      "titleZh": "Kimi K3.1 Pro 发布：代码超 GPT-6 Astra、开放权重版主动移除网络攻防能力",
-      "summary": "月之暗面发布了 Kimi K3.1 Pro，3 万亿级参数、100 万上下文，K3 系列第一个正式版本。官方给它的定位是\"迄今能力最强的模型\"，代码、3D 创作、金融研究和长程 Agent 能力提得最狠，还同步出了个 K3.1 Pro Highspeed——同样智能，输出速度约 2~3 倍，价格 2 倍。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "originalSummary": "月之暗面发布了 Kimi K3.1 Pro，3 万亿级参数、100 万上下文，K3 系列第一个正式版本。官方给它的定位是\"迄今能力最强的模型\"，代码、3D 创作、金融研究和长程 Agent 能力提得最狠，还同步出了个 K3.1 Pro Highspeed——同样智能，输出速度约 2~3 倍，价格 2 倍。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "url": "https://www.oschina.net/news/503221",
+      "title": "OpenAI 发布 GPT-6.1 Terra：中端模型主打 Computer Use、API 价格下调 50%",
+      "titleZh": "OpenAI 发布 GPT-6.1 Terra：中端模型主打 Computer Use、API 价格下调 50%",
+      "summary": "OpenAI 正式发布了 GPT-6.1 Terra，定位中端模型，主打视觉推理和 Computer Use —— AI 看着屏幕上的内容，自己点鼠标、打字、在软件之间切换，把活干完。官方对它的定位说得很清楚：介于更贵的 Sol/Astra 和更便宜的 Luna 之间，面向日常工作中的高频场景。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "originalSummary": "OpenAI 正式发布了 GPT-6.1 Terra，定位中端模型，主打视觉推理和 Computer Use —— AI 看着屏幕上的内容，自己点鼠标、打字、在软件之间切换，把活干完。官方对它的定位说得很清楚：介于更贵的 Sol/Astra 和更便宜的 Luna 之间，面向日常工作中的高频场景。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "url": "https://www.oschina.net/news/503232/openai-gpt-6-1-terra",
       "source": "开源中国资讯",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-26T11:44:28+00:00",
+      "publishedAt": "2026-10-27T02:49:37+00:00",
       "tags": [
         "开源",
         "开发者",
@@ -293,31 +291,32 @@
         "软件工程"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 412,
-      "summaryLength": 214,
+      "sourceTextLength": 405,
+      "summaryLength": 216,
       "summaryQuality": "medium",
-      "readerTextZh": "月之暗面发布了 Kimi K3.1 Pro，3 万亿级参数、100 万上下文，K3 系列第一个正式版本 官方给它的定位是\"迄今能力最强的模型\"，代码、3D 创作、金融研究和长程 Agent 能力提得最狠，还同步出了个 K3.1 Pro Highspeed——同样智能，输出速度约 2~3 倍，价格 2 倍 Terminal-Bench 4.0 上它得 65 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
+      "readerTextZh": "OpenAI 正式发布了 GPT-6.1 Terra，定位中端模型，主打视觉推理和 Computer Use —— AI 看着屏幕上的内容，自己点鼠标、打字、在软件之间切换，把活干完 官方对它的定位说得很清楚：介于更贵的 Sol/Astra 和更便宜的 Luna 之间，面向日常工作中的高频场景 API 定价每百万 token 输入 1 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
       "isTranslated": false
     },
     {
-      "title": "派评 | 近期值得关注的 App",
-      "titleZh": "派评 | 近期值得关注的 App",
-      "summary": "如果我们只想给不愿花时间研究配置的家人准备一页常用开关，这个功能就很实用 需要注意的是，Controller 中家庭共享的是 Controller 内的配置，设备和房间的访问权限仍然由 Apple「家庭」管理，因此还需要在家庭 App 中邀请对方 最后，本次更...。此前需要独立订阅的 Plus 计划的所有功能，都在本次更新中响买断版本直接开放，不再需要额外订阅 关联阅读： 补上家庭 app 短板，让智能家居更懂你：Controller for HomeKit。",
-      "originalSummary": "如果我们只想给不愿花时间研究配置的家人准备一页常用开关，这个功能就很实用 需要注意的是，Controller 中家庭共享的是 Controller 内的配置，设备和房间的访问权限仍然由 Apple「家庭」管理，因此还需要在家庭 App 中邀请对方 最后，本次更...。此前需要独立订阅的 Plus 计划的所有功能，都在本次更新中响买断版本直接开放，不再需要额外订阅 关联阅读： 补上家庭 app 短板，让智能家居更懂你：Controller for HomeKit。",
-      "url": "https://sspai.com/post/117529",
+      "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+      "titleZh": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+      "summary": "欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 CHERRY 推出 MX EMERALD REEF 机械轴体 1 10 月 26 日，Apple 发布 iPad mini (A20 Pro)。来源 OpenAI 发布 GPT-6.1 Terra，主打视觉推理、计算机操作及写作能力，现已向 ChatGPT Work 和 Codex 的 Plus、Pro、Enterprise、Edu 用户开放，并通过 API 提...。据 OpenAI 公布的测试，在衡量专业计算机任务的 Agents’ Last Exam 中，GPT-6.1 Terra 在中等推理强度下较 GPT-5.6 Terra 提高 15 个百分点，任务成本约为三分之一。",
+      "originalSummary": "欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 CHERRY 推出 MX EMERALD REEF 机械轴体 1 10 月 26 日，Apple 发布 iPad mini (A20 Pro)。来源 OpenAI 发布 GPT-6.1 Terra，主打视觉推理、计算机操作及写作能力，现已向 ChatGPT Work 和 Codex 的 Plus、Pro、Enterprise、Edu 用户开放，并通过 API 提...。据 OpenAI 公布的测试，在衡量专业计算机任务的 Agents’ Last Exam 中，GPT-6.1 Terra 在中等推理强度下较 GPT-5.6 Terra 提高 15 个百分点，任务成本约为三分之一。",
+      "url": "https://sspai.com/post/117600",
       "source": "少数派深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-26T10:17:46+00:00",
+      "publishedAt": "2026-10-27T00:27:58+00:00",
       "tags": [
         "工具",
         "数字生活",
-        "中文深度"
+        "中文深度",
+        "AI"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2875,
-      "summaryLength": 200,
+      "sourceTextLength": 3437,
+      "summaryLength": 254,
       "summaryQuality": "strong",
-      "readerTextZh": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文 >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 欢迎收看本期《派评》 你可以通过文章目录快速跳转到你感兴趣的内容 如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们讨论 Very Good Camera：把iPhone 变成一台胶片相机 @ElijahLee ：Very Good Camera 是一款主打模拟胶片相机质感和色彩的相机应用，它以 Very Good Co. 的经典色彩预设为基础，将胶片风格的色彩处理、拍摄控制等功能整合到一个相机界面中，让用户在按下快门时就能获得理想的照片效果，减少后期调整的步骤 应用背后的 Very Good Co. 是一个专注于摄影色彩与影像创作工具的品牌，主要提供 Lightroom、Capture One 摄影预设和视频 LUT，如今 Very Good Camera 则将色彩处理理念带到了 iPhone 相机上 Very Good Camera 的核心是三种色彩预设：VG400、VG800 和 VGTX VG400 面向日常摄影，适合街头漫步、旅行记录和生活随拍 VG800 针对低光环境，适合室内与夜间拍摄 VGTX 则专注于黑白摄影，通过明暗、线条和纹理表现画面细节 三种预设提供了不同的视觉效果 我们可以根据环境与拍摄对象切换风格，也能在拍摄前实时预览效果，减少照片拍完后再导入修图软件反复调整的步骤 除了色彩风格，Very Good Camera 还提供了较为完整的拍摄控制功能 应用支持多种画幅比例，包括 4:3、2:3 等常规尺寸以及适合宽幅摄影的 XPAN 比例 在成像参数上，我们可以点击左侧来调出控制盘，在这里滑动滑块调整曝光、饱和度、对比度、色温等色彩参数",
+      "readerTextZh": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换 前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合 欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ... 查看全文 少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换 欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换 欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 CHERRY 推出 MX EMERALD REEF 机械轴体 1 10 月 26 日，Apple 发布 iPad mini (A20 Pro) 新款 iPad mini 有午夜色与星光色两色可选，存储空间 128GB 起步，机身厚度缩至 5.4mm，重量减至 255g（Wi-Fi 款） 采用 A20 Pro 芯片，128GB 与 256GB 机型为 5 核 CPU + 16 核神经网络引擎，512GB 为 6 核 CPU + 双 16 核神经网络引擎 采用 8.5 英寸 OLED 超视网膜 XDR 显示屏，全屏亮度 600nits，峰值亮度 1200nits，其中 256GB 与 512GB 机型可选配纳米纹理显示屏玻璃 前置摄像头移至长边，为横向 1200 万像素 Center Stage 摄像头，光圈增大至 f/2.0",
       "isTranslated": false
     },
     {
@@ -341,51 +340,6 @@
       "summaryLength": 227,
       "summaryQuality": "strong",
       "readerTextZh": "这里记录每周值得分享的科技内容，周五发布 另有 《谁在招人》 服务，发布程序员招聘信息 合作请 邮件联系 （yifeng.ruan@gmail.com） 大多数人只看到，AI 改变了程序员这个职业 AI 推翻了传统的软件开发，编程现在已经面目全非 即使将来泡沫破灭，AI 也不可能从编程工具链中消失，已经永久成为软件开发的一部分，再也无法移除 一个国外的资深程序员 总结 了，AI 改变了编程的哪些方面 他的观点非常激进，有很多大胆的断言，我觉得一定要分享给更多人看",
-      "isTranslated": false
-    },
-    {
-      "title": "CDP Input.dispatchMouseEvent 偶发延迟数十秒，是渲染进程输入队列阻塞吗？",
-      "titleZh": "CDP Input.dispatchMouseEvent 偶发延迟数十秒，是渲染进程输入队列阻塞吗？",
-      "summary": "用 Node 直连 Chrome 的 DevTools Protocol（WebSocket 直连，不走 Puppeteer / Playwright），对一个已经渲染完的页面做鼠标拖拽：按顺序发 Input.dispatchMouseEvent 的 mous...。卡的方式很特别：CDP 命令本身都有正常回包（没有 timeout），只是相邻两个事件之间被拉长了约 1~3 秒，累积成一分多钟。Input.dispatchMouseEvent 属于 Input domain，事件要经 browser 进程转给 renderer 的合成输入通道。",
-      "originalSummary": "用 Node 直连 Chrome 的 DevTools Protocol（WebSocket 直连，不走 Puppeteer / Playwright），对一个已经渲染完的页面做鼠标拖拽：按顺序发 Input.dispatchMouseEvent 的 mous...。卡的方式很特别：CDP 命令本身都有正常回包（没有 timeout），只是相邻两个事件之间被拉长了约 1~3 秒，累积成一分多钟。Input.dispatchMouseEvent 属于 Input domain，事件要经 browser 进程转给 renderer 的合成输入通道。",
-      "url": "https://segmentfault.com/q/1010000048330118",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-02T16:14:29+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 1555,
-      "summaryLength": 230,
-      "summaryQuality": "medium",
-      "readerTextZh": "用 Node 直连 Chrome 的 DevTools Protocol（WebSocket 直连，不走 Puppeteer / Playwright），对一个已经渲染完的页面做鼠标拖拽：按顺序发 Input.dispatchMouseEvent 的 mouseMoved → mousePressed → 一连串 mouseMoved (30~45 步) → mouseReleased 多数情况下整串拖拽 200~400ms 就走完，但 偶发一次会卡到 60~80 秒 卡的方式很特别：CDP 命令本身都有正常回包（没有 timeout），只是相邻两个事件之间被拉长了约 1~3 秒，累积成一分多钟 同一台机器、同一个页面、同一段代码，紧接着重试第二次就恢复正常 Input.dispatchMouseEvent 属于 Input domain，事件要经 browser 进程转给 renderer 的合成输入通道 如果 renderer 主线程正忙（长任务、样式重算、大量布局），输入事件会在队列里等派发，而 CDP 的响应可能只表示「事件已入队」，不代表已经被页面消费 —— 也就是说命令 ack 与事件实际派发是两件事 不清楚的是：这个等待队列的临界点在哪，以及在发送前有没有可观测的信号能提前判断 renderer 是否空闲 // 拖拽的骨架，steps 约 34~46 const mouse = (type, x, y) => cdp.send('Input.dispatchMouseEvent', { type, x: Math.round(x), y: Math.round(y), button: 'left', clickCount: 1 })",
-      "isTranslated": false
-    },
-    {
-      "title": "本地跑大模型做 Agent，内存占用为什么会比模型文件大十倍？",
-      "titleZh": "本地跑大模型做 Agent，内存占用为什么会比模型文件大十倍？",
-      "summary": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档。为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行。中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB。",
-      "originalSummary": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档。为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行。中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB。",
-      "url": "https://segmentfault.com/q/1010000048317158",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-24T10:20:33+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI",
-        "开源"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 687,
-      "summaryLength": 209,
-      "summaryQuality": "medium",
-      "readerTextZh": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档 为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行 中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB 最难受的不是占得多，是日志里看不出来 你只会看到一次没跑完的运行，和“模型超时”长得一模一样，没有 OOM，没有明确报错 我们早期有一批评测结果就是这么废掉的 我们已经做的：把 num_ctx 固定到 32,768 之后，同一个模型掉到 5.1 GB，而且有一个 3B 模型的某类任务直接从 0/5 变成 5/5 也就是说，我们之前以为“这个模型不行”，其实是内存被上下文吃光了",
       "isTranslated": false
     }
   ],
