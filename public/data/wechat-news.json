@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T03:59:13.115085+00:00",
-  "nextUpdate": "2026-10-31T15:59:13.115085+00:00",
+  "updatedAt": "2026-10-31T16:48:51.922245+00:00",
+  "nextUpdate": "2026-11-01T04:48:51.922245+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,26 +76,26 @@
   "errors": [],
   "items": [
     {
-      "title": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
-      "titleZh": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
-      "summary": "GitHub 发布 Actions Runner Controller (ARC) 0.15.0 版本，为在 Kubernetes 上运行自托管 GitHub Actions 运行器的组织带来了可靠性、可扩展性和可观测性方面的改进 GitHub 发布 Acti...。该版本于 10 月 1 日发布，重点在于减少不必要的 Kubernetes API 请求、提升控制器吞吐量，并使升级和关机操作更具可预测性，对于管理大量运行器扩展集的环境而言尤其如此 ARC 是一个 Kubernetes...。如果企业需要控制构建环境、网络访问、计算资源或工作负载隔离，但又不想维护永久预配置的运行器池，这一点会非常有用 0.15.0 版本的主要改进之一是减少了控制器为保持运行器资源同步所需的工作量。",
-      "originalSummary": "GitHub 发布 Actions Runner Controller (ARC) 0.15.0 版本，为在 Kubernetes 上运行自托管 GitHub Actions 运行器的组织带来了可靠性、可扩展性和可观测性方面的改进 GitHub 发布 Acti...。该版本于 10 月 1 日发布，重点在于减少不必要的 Kubernetes API 请求、提升控制器吞吐量，并使升级和关机操作更具可预测性，对于管理大量运行器扩展集的环境而言尤其如此 ARC 是一个 Kubernetes...。如果企业需要控制构建环境、网络访问、计算资源或工作负载隔离，但又不想维护永久预配置的运行器池，这一点会非常有用 0.15.0 版本的主要改进之一是减少了控制器为保持运行器资源同步所需的工作量。",
-      "url": "https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article",
+      "title": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
+      "titleZh": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
+      "summary": "为低端 Android 手机打造一款离线优先的 AI 编程导师 为低端 Android 手机打造一款离线优先的 AI 编程导师 我花了一年时间，看着学生一个接一个地消失。在一批报名的 80 名学生中，最终只有 6 人毕业 这段经历让我意识到，大多数编程教育平台都建立在四个默认前提之上。在那些用户为了节省流量而推迟更新应用的市场中，可能有相当一部分用户仍在运行几个月前就已经修复过问题的旧代码 第三，Web 平台让我们可以用一套运行时解决代码执行问题。",
+      "originalSummary": "为低端 Android 手机打造一款离线优先的 AI 编程导师 为低端 Android 手机打造一款离线优先的 AI 编程导师 我花了一年时间，看着学生一个接一个地消失。在一批报名的 80 名学生中，最终只有 6 人毕业 这段经历让我意识到，大多数编程教育平台都建立在四个默认前提之上。在那些用户为了节省流量而推迟更新应用的市场中，可能有相当一部分用户仍在运行几个月前就已经修复过问题的旧代码 第三，Web 平台让我们可以用一套运行时解决代码执行问题。",
+      "url": "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-31T10:00:00+00:00",
+      "publishedAt": "2026-10-31T20:43:05+00:00",
       "tags": [
         "架构",
         "软件工程",
         "中文深度",
-        "云计算",
-        "开源"
+        "AI",
+        "硬件"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2601,
-      "summaryLength": 292,
+      "sourceTextLength": 4870,
+      "summaryLength": 201,
       "summaryQuality": "strong",
-      "readerTextZh": "GitHub 发布 Actions Runner Controller (ARC) 0.15.0 版本，为在 Kubernetes 上运行自托管 GitHub Actions 运行器的组织带来了可靠性、可扩展性和可观测性方面的改进 GitHub 发布 Actions Runner Controller (ARC) 0.15.0 版本，为在 Kubernetes 上运行自托管 GitHub Actions 运行器的组织带来了可靠性、可扩展性和可观测性方面的改进 GitHub 发布 Actions Runner Controller (ARC) 0.15.0 版本，为在 Kubernetes 上运行自托管 GitHub Actions 运行器的组织带来了可靠性、可扩展性和可观测性方面的改进 该版本于 10 月 1 日发布，重点在于减少不必要的 Kubernetes API 请求、提升控制器吞吐量，并使升级和关机操作更具可预测性，对于管理大量运行器扩展集的环境而言尤其如此 ARC 是一个 Kubernetes 操作符，可以根据工作流需求自动扩展自托管的运行器 它允许组织运行自己的执行基础设施，并在任务到达和完成时动态地创建和删除运行器实例 如果企业需要控制构建环境、网络访问、计算资源或工作负载隔离，但又不想维护永久预配置的运行器池，这一点会非常有用 0.15.0 版本的主要改进之一是减少了控制器为保持运行器资源同步所需的工作量 控制器更新现在采用 Kubernetes 补丁请求（patch requests），而不是完整的更新请求（full update requests），这可以减少 API 有效载荷的大小 此外，运行器状态聚合已经转移至 EphemeralRunnerSet 和 AutoscalingRunnerSet 指标中，这减少了发送到 Kubernetes API 的状态更新的数量 控制器现在会过滤传入的事件，避免不必要的对账操作 同时，可以通过每秒查询次数和突发设置来配置监听器 API 客户端的速率限制 团队还可以使用 max-concurrent-rec...",
+      "readerTextZh": "为低端 Android 手机打造一款离线优先的 AI 编程导师 为低端 Android 手机打造一款离线优先的 AI 编程导师 我花了一年时间，看着学生一个接一个地消失 当时我经营着一家编程培训机构，学生们会进入直播课堂，积极参与，然后突然在上课途中掉线 后来我逐个跟进才发现，几乎没有人是主动退出的 在一批报名的 80 名学生中，最终只有 6 人毕业 这段经历让我意识到，大多数编程教育平台都建立在四个默认前提之上 这些前提太过普遍，以至于人们几乎忘了它们只是一些假设：学习者有笔记本电脑、有宽带网络、能够轻松阅读英语，而且付得起订阅费，或者所在机构已经替他们付了费 我开发的 Efiwe 平台，就是要打破所有这些假设 它可以直接在智能手机浏览器中运行，只需完成一次初始设置，之后就能离线使用 学生提交的代码也在本地执行，首次加载完成后，不再需要消耗移动数据流量 目前，Efiwe 已被 160 个国家的 22,000 多名学习者使用，并在尼日利亚的拉各斯州、奥贡州，以及印度北阿坎德邦的学校开展了有组织的试点 这篇文章不讨论教学方法，而是讨论工程实践，尤其是那些曾经出过问题的地方",
       "isTranslated": false
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-31T03:58:30.820244+00:00",
+      "publishedAt": "2026-10-31T16:48:12.874190+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-31T03:58:30.146846+00:00",
+      "publishedAt": "2026-10-31T16:48:12.261357+00:00",
       "tags": [
         "后端",
         "工程",
@@ -150,7 +150,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-31T03:58:29.474195+00:00",
+      "publishedAt": "2026-10-31T16:48:11.638155+00:00",
       "tags": [
         "后端",
         "工程",
@@ -172,7 +172,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-31T03:58:28.717621+00:00",
+      "publishedAt": "2026-10-31T16:48:10.992188+00:00",
       "tags": [
         "后端",
         "工程",
@@ -194,7 +194,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-31T03:58:28.091179+00:00",
+      "publishedAt": "2026-10-31T16:48:10.389108+00:00",
       "tags": [
         "后端",
         "工程",
@@ -216,7 +216,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-31T03:58:27.409492+00:00",
+      "publishedAt": "2026-10-31T16:48:09.788587+00:00",
       "tags": [
         "后端",
         "工程",
@@ -238,7 +238,7 @@
       "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-31T03:58:26.718755+00:00",
+      "publishedAt": "2026-10-31T16:48:09.155925+00:00",
       "tags": [
         "后端",
         "工程",
@@ -261,7 +261,7 @@
       "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-31T03:58:26.036493+00:00",
+      "publishedAt": "2026-10-31T16:48:08.555493+00:00",
       "tags": [
         "后端",
         "工程",
@@ -283,7 +283,7 @@
       "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-31T03:58:25.380153+00:00",
+      "publishedAt": "2026-10-31T16:48:07.914323+00:00",
       "tags": [
         "后端",
         "工程",
@@ -306,7 +306,7 @@
       "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-31T03:58:24.629526+00:00",
+      "publishedAt": "2026-10-31T16:48:07.288421+00:00",
       "tags": [
         "后端",
         "工程",
@@ -321,37 +321,36 @@
       "isTranslated": false
     },
     {
-      "title": "微软官方开源：不用一行 XAML，WinUI 也能像 React 那样写 - chingho",
-      "titleZh": "微软官方开源：不用一行 XAML，WinUI 也能像 React 那样写 - chingho",
-      "summary": "WinUI 3 那套 XAML + MVVM，是能干活，但憋屈。React 里一个组件装得整整齐齐，到了 WinUI 要拆成 ViewModel、XAML、code-behind 三份，改个小功能得动三个地方 所以 最近官方在 GitHub 开源 Microsoft.UI.React...。} } 没有 App.xaml ，没有 MainWindow.xaml ，没有 code-behind，也没有 ViewModel。",
-      "originalSummary": "WinUI 3 那套 XAML + MVVM，是能干活，但憋屈。React 里一个组件装得整整齐齐，到了 WinUI 要拆成 ViewModel、XAML、code-behind 三份，改个小功能得动三个地方 所以 最近官方在 GitHub 开源 Microsoft.UI.React...。} } 没有 App.xaml ，没有 MainWindow.xaml ，没有 code-behind，也没有 ViewModel。",
-      "url": "https://www.cnblogs.com/chingho/p/23505002",
+      "title": "MQTT协议 - 我会替风去",
+      "titleZh": "MQTT协议 - 我会替风去",
+      "summary": "MQTT协议的特点： 轻量级：协议开销小，适合资源受限的嵌入式设备。安全可靠：MQTT协议是建立在TCP/I 阅读全文 什么是MQTT协议？。如果这是对之前发送的 PUBLISH 报文的重发，则 DUP 可以设置为 1 注意：DUP = 1 不代表接收方一定已经收到过这条消息，它表示发送方正在重发该报文 Bit 2～1：QoS（服务质量等级）,QoS 占 2...。",
+      "originalSummary": "MQTT协议的特点： 轻量级：协议开销小，适合资源受限的嵌入式设备。安全可靠：MQTT协议是建立在TCP/I 阅读全文 什么是MQTT协议？。如果这是对之前发送的 PUBLISH 报文的重发，则 DUP 可以设置为 1 注意：DUP = 1 不代表接收方一定已经收到过这条消息，它表示发送方正在重发该报文 Bit 2～1：QoS（服务质量等级）,QoS 占 2...。",
+      "url": "https://www.cnblogs.com/xi-yongqi/p/23508911",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-31T03:35:00+00:00",
+      "publishedAt": "2026-10-31T15:08:00+00:00",
       "tags": [
         "开发者",
         "后端",
         "中文深度",
-        "AI",
-        "开源"
+        "安全"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 3510,
-      "summaryLength": 165,
+      "sourceTextLength": 1283,
+      "summaryLength": 147,
       "summaryQuality": "weak",
-      "readerTextZh": "WinUI 3 那套 XAML + MVVM，是能干活，但憋屈 少写一个 x:Name，编译一点事没有，跑起来白屏 ViewModel 里一层又一层 INotifyPropertyChanged 样板，写多了自己都烦 改个绑定路径，得在 XAML 和 C# 之间来回瞅 最难 阅读全文 有没有和我一样的感受 改个绑定路径，得在 XAML 有没有和我一样的感受 改个绑定路径，得在 XAML WinUI 3 那套 XAML + MVVM，是能干活，但憋屈 改个绑定路径，得在 XAML 和 C# 之间来回瞅 最难受的是状态和界面被硬拆成两半",
+      "readerTextZh": "介绍： MQTT协议是一种轻量级的消息传输协议，采用发布/订阅(Publish/Subscribe)的通信模式，适用于网络带宽有限、网络不稳定以及设备资源受限的场景 MQTT协议的特点： 轻量级：协议开销小，适合资源受限的嵌入式设备 安全可靠：MQTT协议是建立在TCP/I 阅读全文 什么是MQTT协议？ 介绍： MQTT协议是一种轻量级的消息传输协议，采用发布/订阅(Publish/ 什么是MQTT协议？ 介绍： MQTT协议是一种轻量级的消息传输协议，采用发布/订阅(Publish/ MQTT协议是一种轻量级的消息传输协议，采用发布/订阅(Publish/ 安全可靠：MQTT协议是建立在TCP/IP协议之上，所以安全可靠 心跳保活：由于网络问题可能造成连接陷于假死状态,为了判断客户端和代理是否出现异常，MQTT定义自己的心跳机制，定期向代理发送报文，以便于快速识别出异常连接，让客户端快速与代理断开连接 持久会话: 代理保留客户端发送过来的消息，以便于消息订阅端上线立刻获取消息 固定报头（Fixed header）：所有的数据包都包含这部分，用来表示数据的类型 可变报头（Variable header）：存在于部分数据包中，决定了可变头是否存在及其具体内容 有效载荷（Payload）：存在于部分数据包中，表示客户端收到的内容 byte 1的高四位取值范围：0000~1111，转化为十进制：0~15 byte 1的低四位大多数是保留位，只有当高四位为Publish(0011)的时候，低四位的值才有意义 二进制（4 bit） 十进制 控制报文类型 中文名称 作用说明 0000 0 Reserved 保留 不允许作为有效控制报文类型使用 0001 1 CONNECT 连接请求 客户端向 Broker 发起连接请求，提供协议版本、客户端标识、认证信息等 0010 2 CONNACK 连接确认 Broker 向客户端返回连接结果，表示连接是否被接受 0011 3 PUBLISH 发布消息 发布者向 Broker 发送业务消息，或 Broker 向订阅者转发消息 0100...",
       "isTranslated": false
     },
     {
-      "title": "AI编程让鸿蒙开发电子书APP更加快捷 - aqi00",
-      "titleZh": "AI编程让鸿蒙开发电子书APP更加快捷 - aqi00",
-      "summary": "【摘要】​虽然图片、音频、视频等多媒体文件拥有众多格式，但开发它们的APP应用并不难，因为常见的多媒体格式都被纳入系统底层支持，开发者只要使用原生组件即可加载多媒体文件，比如鸿蒙系统加载图片的Image组件，加载视频的Video组件，以及播放音频的MediaP...。然而文档不同于这些多媒体格式 阅读全文。",
-      "originalSummary": "【摘要】​虽然图片、音频、视频等多媒体文件拥有众多格式，但开发它们的APP应用并不难，因为常见的多媒体格式都被纳入系统底层支持，开发者只要使用原生组件即可加载多媒体文件，比如鸿蒙系统加载图片的Image组件，加载视频的Video组件，以及播放音频的MediaP...。然而文档不同于这些多媒体格式 阅读全文。",
-      "url": "https://www.cnblogs.com/aqi00/p/23410103",
+      "title": "企业级三层 RBAC 权限治理：跨层级隔离与“版本号”缓存失效机制深度实践 - JasonCode编程",
+      "titleZh": "企业级三层 RBAC 权限治理：跨层级隔离与“版本号”缓存失效机制深度实践 - JasonCode编程",
+      "summary": "【摘要】摘要： 在复杂的 B2B/SaaS 系统中，传统的基于角色（RBAC）的访问控制往往面临“权限粒度粗、越权操作多、高频校验拖垮数据库”等致命问题。本文基于 FastAPI + SQLAlchemy (Async) + Redis 技术栈，深度复盘一套“系统-组织-项目”三层 RBAC 权限模型的架 阅读全文。",
+      "originalSummary": "【摘要】摘要： 在复杂的 B2B/SaaS 系统中，传统的基于角色（RBAC）的访问控制往往面临“权限粒度粗、越权操作多、高频校验拖垮数据库”等致命问题。本文基于 FastAPI + SQLAlchemy (Async) + Redis 技术栈，深度复盘一套“系统-组织-项目”三层 RBAC 权限模型的架 阅读全文。",
+      "url": "https://www.cnblogs.com/yinjia/p/23508815",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-31T03:00:00+00:00",
+      "publishedAt": "2026-10-31T14:32:00+00:00",
       "tags": [
         "开发者",
         "后端",
@@ -361,20 +360,107 @@
       ],
       "analysisMethod": "feed-text",
       "sourceTextLength": 159,
-      "summaryLength": 137,
+      "summaryLength": 124,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】​虽然图片、音频、视频等多媒体文件拥有众多格式，但开发它们的APP应用并不难，因为常见的多媒体格式都被纳入系统底层支持，开发者只要使用原生组件即可加载多媒体文件，比如鸿蒙系统加载图片的Image组件，加载视频的Video组件，以及播放音频的MediaPlayer组件等 然而文档不同于这些多媒体格式 阅读全文",
+      "readerTextZh": "【摘要】摘要： 在复杂的 B2B/SaaS 系统中，传统的基于角色（RBAC）的访问控制往往面临“权限粒度粗、越权操作多、高频校验拖垮数据库”等致命问题 本文基于 FastAPI + SQLAlchemy (Async) + Redis 技术栈，深度复盘一套“系统-组织-项目”三层 RBAC 权限模型的架 阅读全文",
       "isTranslated": false
     },
     {
-      "title": "TikTok视频去水印保存到本地：一个免安装网页工具的实际使用记录（附地址） - brilliance_dad",
-      "titleZh": "TikTok视频去水印保存到本地：一个免安装网页工具的实际使用记录（附地址） - brilliance_dad",
-      "summary": "【摘要】平时刷TikTok看到做菜教程、剪辑参考或者旅行片段，想存下来慢慢看，但直接下载总带着角标和片尾水印，裁掉又损画质。试过几个App，要么收费弹窗多，要么装完用两次就扔了。后来固定用的只有一个网页工具：下载兔（xiazaitu.com） ，浏览器打开就能用，不占空间。",
-      "originalSummary": "【摘要】平时刷TikTok看到做菜教程、剪辑参考或者旅行片段，想存下来慢慢看，但直接下载总带着角标和片尾水印，裁掉又损画质。试过几个App，要么收费弹窗多，要么装完用两次就扔了。后来固定用的只有一个网页工具：下载兔（xiazaitu.com） ，浏览器打开就能用，不占空间。",
-      "url": "https://www.cnblogs.com/brilliancedad/p/23504741",
+      "title": "在 C# 中使用 DeploySharp 部署 YOLO26：从 NuGet 安装到检测结果 - 椒颜皮皮虾",
+      "titleZh": "在 C# 中使用 DeploySharp 部署 YOLO26：从 NuGet 安装到检测结果 - 椒颜皮皮虾",
+      "summary": "【摘要】DeploySharp 2.0.0 是面向 C#/.NET 的开源模型部署框架，支持 YOLO 等目标检测及 OCR、文档处理等任务。通过 NuGet 安装 JYPPX.DeploySharp 组件，可快速在 Windows 上使用 ONNX Runtime、OpenVINO 等后端进行本地模型推理... 阅读全文。",
+      "originalSummary": "【摘要】DeploySharp 2.0.0 是面向 C#/.NET 的开源模型部署框架，支持 YOLO 等目标检测及 OCR、文档处理等任务。通过 NuGet 安装 JYPPX.DeploySharp 组件，可快速在 Windows 上使用 ONNX Runtime、OpenVINO 等后端进行本地模型推理... 阅读全文。",
+      "url": "https://www.cnblogs.com/guojin-blogs/p/23508468",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-31T02:58:00+00:00",
+      "publishedAt": "2026-10-31T12:54:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 162,
+      "summaryLength": 129,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】DeploySharp 2.0.0 是面向 C#/.NET 的开源模型部署框架，支持 YOLO 等目标检测及 OCR、文档处理等任务 通过 NuGet 安装 JYPPX.DeploySharp 组件，可快速在 Windows 上使用 ONNX Runtime、OpenVINO 等后端进行本地模型推理... 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "MySQL进阶教程（五）—— SQL调优（下） - _梦影",
+      "titleZh": "MySQL进阶教程（五）—— SQL调优（下） - _梦影",
+      "summary": "【摘要】本文聚焦 MySQL 的 SQL 调优，系统梳理 SELECT 语句的优化思路，涵盖 WHERE 子句、范围查询、索引合并、索引下推、外连接、IS NULL、ORDER BY 与 GROUP BY 等场景，并总结常见的索引失效原因与索引使用原则，帮助你...。",
+      "originalSummary": "【摘要】本文聚焦 MySQL 的 SQL 调优，系统梳理 SELECT 语句的优化思路，涵盖 WHERE 子句、范围查询、索引合并、索引下推、外连接、IS NULL、ORDER BY 与 GROUP BY 等场景，并总结常见的索引失效原因与索引使用原则，帮助你...。",
+      "url": "https://www.cnblogs.com/mengyingblog/p/23508364",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-31T12:15:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 145,
+      "summaryLength": 104,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】本文聚焦 MySQL 的 SQL 调优，系统梳理 SELECT 语句的优化思路，涵盖 WHERE 子句、范围查询、索引合并、索引下推、外连接、IS NULL、ORDER BY 与 GROUP BY 等场景，并总结常见的索引失效原因与索引使用原则，帮助你写出高性能 SQL",
+      "isTranslated": false
+    },
+    {
+      "title": "让 Agent 可靠运行：幂等、持久化与失败恢复 - 哥不是小萝莉",
+      "titleZh": "让 Agent 可靠运行：幂等、持久化与失败恢复 - 哥不是小萝莉",
+      "summary": "【摘要】1. 概述 1.1 一个看似简单、却很容易出错的任务 假设我们正在开发一个运维 Agent。用户提出要求：“如果订单服务最近五分钟的错误率超过阈值，就创建一张排障工单，并告诉我工单编号。” Agent 查到了监控数据，也判断出应该创建工单。",
+      "originalSummary": "【摘要】1. 概述 1.1 一个看似简单、却很容易出错的任务 假设我们正在开发一个运维 Agent。用户提出要求：“如果订单服务最近五分钟的错误率超过阈值，就创建一张排障工单，并告诉我工单编号。” Agent 查到了监控数据，也判断出应该创建工单。",
+      "url": "https://www.cnblogs.com/smartloli/p/23507748",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-31T10:02:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 103,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】1. 概述 1.1 一个看似简单、却很容易出错的任务 假设我们正在开发一个运维 Agent 用户提出要求：“如果订单服务最近五分钟的错误率超过阈值，就创建一张排障工单，并告诉我工单编号 ” Agent 查到了监控数据，也判断出应该创建工单",
+      "isTranslated": false
+    },
+    {
+      "title": "Redis 数据类型全解 - String 不只是 get set：90% 开发者忽略的 8 个高阶用法与内存陷阱（一） - IT规划师",
+      "titleZh": "Redis 数据类型全解 - String 不只是 get set：90% 开发者忽略的 8 个高阶用法与内存陷阱（一） - IT规划师",
+      "summary": "【摘要】本文聚焦Redis String类型，从开发视角深度解析其核心特性与实战应用。不涉底层源码，专注“怎么用、为何这样设计、如何避坑”。涵盖命令全集、三种编码（int/embstr/raw）边界、内存计算、与Hash对比、七类生产场景及序列化选型。",
+      "originalSummary": "【摘要】本文聚焦Redis String类型，从开发视角深度解析其核心特性与实战应用。不涉底层源码，专注“怎么用、为何这样设计、如何避坑”。涵盖命令全集、三种编码（int/embstr/raw）边界、内存计算、与Hash对比、七类生产场景及序列化选型。",
+      "url": "https://www.cnblogs.com/hugogoos/p/23505853",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-31T09:56:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 162,
+      "summaryLength": 106,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】本文聚焦Redis String类型，从开发视角深度解析其核心特性与实战应用 不涉底层源码，专注“怎么用、为何这样设计、如何避坑” 涵盖命令全集、三种编码（int/embstr/raw）边界、内存计算、与Hash对比、七类生产场景及序列化选型 揭示常见误区：误用导致内存翻倍、大Key卡主实例、计数器... 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "【轻量化复刻大模型】线性注意力（Linear Attention） - 罗西的思考",
+      "titleZh": "【轻量化复刻大模型】线性注意力（Linear Attention） - 罗西的思考",
+      "summary": "【摘要】【轻量化复刻大模型】线性注意力（Linear Attention） 目录【轻量化复刻大模型】线性注意力（Linear Attention）0x00 概要0x01 演进脉络与定位1.1 前身与痛点1.2 同期竞品对比1.3 定位一句话1.4 演进总结0x...。",
+      "originalSummary": "【摘要】【轻量化复刻大模型】线性注意力（Linear Attention） 目录【轻量化复刻大模型】线性注意力（Linear Attention）0x00 概要0x01 演进脉络与定位1.1 前身与痛点1.2 同期竞品对比1.3 定位一句话1.4 演进总结0x...。",
+      "url": "https://www.cnblogs.com/rossiXYZ/p/23504703",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-31T07:45:00+00:00",
       "tags": [
         "开发者",
         "后端",
@@ -383,14 +469,35 @@
       ],
       "analysisMethod": "feed-text",
       "sourceTextLength": 159,
-      "summaryLength": 119,
+      "summaryLength": 107,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】平时刷TikTok看到做菜教程、剪辑参考或者旅行片段，想存下来慢慢看，但直接下载总带着角标和片尾水印，裁掉又损画质 试过几个App，要么收费弹窗多，要么装完用两次就扔了 后来固定用的只有一个网页工具：下载兔（xiazaitu.com） ，浏览器打开就能用，不占空间 操作就三步，没有学习成本 在Ti 阅读全文",
+      "readerTextZh": "【摘要】【轻量化复刻大模型】线性注意力（Linear Attention） 目录【轻量化复刻大模型】线性注意力（Linear Attention）0x00 概要0x01 演进脉络与定位1.1 前身与痛点1.2 同期竞品对比1.3 定位一句话1.4 演进总结0x02. 原理讲解2.1 直觉类比视角2.2 专业 阅读全文",
       "isTranslated": false
     },
     {
-      "title": "KNX 照明系统原理与 基于 KNX.net 的开发示例：从组地址到开关灯 - Y00",
-      "titleZh": "KNX 照明系统原理与 基于 KNX.net 的开发示例：从组地址到开关灯 - Y00",
+      "title": "本月玩什么｜影之刃零、战争机器：事变日等",
+      "titleZh": "本月玩什么｜影之刃零、战争机器：事变日等",
+      "summary": "查看全文 欢迎你在评论区分享 10 月新作的游玩体验 欢迎你在评论区分享 10 月新作的游玩体验 欢迎你在评论区分享 10 月新作的游玩体验 欢迎来到 「本月玩什么」 ，本栏目将从作者个人角度出发，独立挑选一些本月新发售的游戏作品/内容做简要介绍、评论，不保证...。第二部就是最近新出的《恶魔城》了，只可惜看评价新版恶魔城没有那味了，只剩下了跳跳乐，那我就有点不想要了 希望推出的新作：接上文，既然《恶魔城》不行了，那我只能又掏出2024年才玩过的《密特罗德生存恐惧》又爽通了一遍，然后...。",
+      "originalSummary": "查看全文 欢迎你在评论区分享 10 月新作的游玩体验 欢迎你在评论区分享 10 月新作的游玩体验 欢迎你在评论区分享 10 月新作的游玩体验 欢迎来到 「本月玩什么」 ，本栏目将从作者个人角度出发，独立挑选一些本月新发售的游戏作品/内容做简要介绍、评论，不保证...。第二部就是最近新出的《恶魔城》了，只可惜看评价新版恶魔城没有那味了，只剩下了跳跳乐，那我就有点不想要了 希望推出的新作：接上文，既然《恶魔城》不行了，那我只能又掏出2024年才玩过的《密特罗德生存恐惧》又爽通了一遍，然后...。",
+      "url": "https://sspai.com/post/117960",
+      "source": "少数派深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-31T05:29:19+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 4613,
+      "summaryLength": 207,
+      "summaryQuality": "weak",
+      "readerTextZh": "欢迎你在评论区分享 10 月新作的游玩体验 查看全文 欢迎你在评论区分享 10 月新作的游玩体验 欢迎你在评论区分享 10 月新作的游玩体验 欢迎你在评论区分享 10 月新作的游玩体验 欢迎来到 「本月玩什么」 ，本栏目将从作者个人角度出发，独立挑选一些本月新发售的游戏作品/内容做简要介绍、评论，不保证收录覆盖面，且并非每一款都是笔者推荐游玩的，主要涵盖 PlayStation、Xbox、Nintendo、PC 和 iOS/Android 等主流平台 请注意，本文的探讨仅限于游戏刚发售时点的表现，游戏未来可能通过迭代变得更好或更差 期待这里能有勾起你兴趣的内容或探讨，也真诚感谢所有喜欢本栏目的朋友 本栏目设有有奖互动环节 ，上一期中奖的幸运读者是 @endertw ： 希望复活的 IP：第一部是《失落星球》，也是号称「显卡危机第二」了，当年在网吧电脑上玩过一段时间的（家里电脑带不动），感觉很震撼，科幻感十足，只可惜再没有玩到类似感觉的游戏了，整个系列也没有出过新作了，Capcom 可能也放弃了 第二部就是最近新出的《恶魔城》了，只可惜看评价新版恶魔城没有那味了，只剩下了跳跳乐，那我就有点不想要了 希望推出的新作：接上文，既然《恶魔城》不行了，那我只能又掏出2024年才玩过的《密特罗德生存恐惧》又爽通了一遍，然后也知道密特罗德新作明年 1 月又要出了，要不要这么爽，自从 GBA 开始玩密特罗德，基本上后面出的都要爽玩，老任还是牛逼，萨姐也继续牛逼就对了！ 由北京灵游坊（S-GAME）开发并自行发行，团队创始人梁其伟担任了本作制作人、总监，他向这个 IP 倾注了快 20 年的心血：2008 年左右，学生时代的梁其伟就用 RPG Maker 独立制作了《雨血：死镇》，后来拉起了队伍推出《雨血 2：烨城》《雨血前传：蜃楼》等 《蜃楼》虽取得约 30 万套的销量成绩，但还不足以支撑公司，最终网易入股结束了灵游坊的关门危机，双方开始合作经营脱胎于《雨血》的手游《影之刃》 一晃就是十年，直到今天《影之刃零》面世，灵游坊在这个 IP 上孵化出了 3A 级单机作品 《影之刃零》采用...",
+      "isTranslated": false
+    },
+    {
+      "title": "KNX 照明系统原理与基于 KNX.net 的开发示例：从组地址到开关灯 - Y00",
+      "titleZh": "KNX 照明系统原理与基于 KNX.net 的开发示例：从组地址到开关灯 - Y00",
       "summary": "【摘要】前段时间接了个小项目，需要把一套 KNX 照明系统接进 .NET 后台做集中控制。原本以为跟普通 IoT 差不多，发个 HTTP 请求就完事，结果发现 KNX 的逻辑跟消费级智能家居完全不是一回事。折腾了几天，把原理和代码都跑通了，顺手记下来，给后面要踩坑的人省点时间。",
       "originalSummary": "【摘要】前段时间接了个小项目，需要把一套 KNX 照明系统接进 .NET 后台做集中控制。原本以为跟普通 IoT 差不多，发个 HTTP 请求就完事，结果发现 KNX 的逻辑跟消费级智能家居完全不是一回事。折腾了几天，把原理和代码都跑通了，顺手记下来，给后面要踩坑的人省点时间。",
       "url": "https://www.cnblogs.com/ayic/p/23472866",
@@ -450,48 +557,6 @@
       "summaryLength": 117,
       "summaryQuality": "weak",
       "readerTextZh": "【摘要】笔者在机器上已经配置好 GitHub 的 SSH 密钥，新项目也带了提交脚本，但第一次执行时却直接报错： $ scripts/commit-to-github.sh --version 0.1.0 -m \"init\" 错误：未配置远端 origin 请先手工配置，或使用 --no-push / -- 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "铲雪 16 炸！ - yuyancheng",
-      "titleZh": "铲雪 16 炸！ - yuyancheng",
-      "summary": "【摘要】写这篇文章的原因是在做 P7246 时被题解深深地恶心到了。形状 \\ 品种 连续 跳跃 循环 跳跃循环 链 连续链铲雪 跳跃链铲雪 循环链铲雪 跳跃循环链铲雪 环 连续环铲雪 跳跃环铲雪 循环环铲雪 跳跃循环环铲雪 树 连续树铲雪 跳跃树铲雪 循环树铲雪 跳跃循环 阅读全文。",
-      "originalSummary": "【摘要】写这篇文章的原因是在做 P7246 时被题解深深地恶心到了。形状 \\ 品种 连续 跳跃 循环 跳跃循环 链 连续链铲雪 跳跃链铲雪 循环链铲雪 跳跃循环链铲雪 环 连续环铲雪 跳跃环铲雪 循环环铲雪 跳跃循环环铲雪 树 连续树铲雪 跳跃树铲雪 循环树铲雪 跳跃循环 阅读全文。",
-      "url": "https://www.cnblogs.com/yuyancheng/p/23499830/chanxue",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-30T14:14:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 113,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】写这篇文章的原因是在做 P7246 时被题解深深地恶心到了 形状 \\ 品种 连续 跳跃 循环 跳跃循环 链 连续链铲雪 跳跃链铲雪 循环链铲雪 跳跃循环链铲雪 环 连续环铲雪 跳跃环铲雪 循环环铲雪 跳跃循环环铲雪 树 连续树铲雪 跳跃树铲雪 循环树铲雪 跳跃循环 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "办公妙招：技术作者的顽疾-中英混合输入场景如何更高效 - tyysoft",
-      "titleZh": "办公妙招：技术作者的顽疾-中英混合输入场景如何更高效 - tyysoft",
-      "summary": "【摘要】1. 办公妙招：技术作者的顽疾-中英混合输入场景如何更高效 1.1 业务场景 对于广大IT等行业的技术人员，写作包含英文变量名、参数、界面文字等的中文技术文档是家常便饭 软件技术文档 需求说明 产品规格说明书 测试方案 测试用例 … 产品手册等 技术笔...。",
-      "originalSummary": "【摘要】1. 办公妙招：技术作者的顽疾-中英混合输入场景如何更高效 1.1 业务场景 对于广大IT等行业的技术人员，写作包含英文变量名、参数、界面文字等的中文技术文档是家常便饭 软件技术文档 需求说明 产品规格说明书 测试方案 测试用例 … 产品手册等 技术笔...。",
-      "url": "https://www.cnblogs.com/tyysoft/p/23499385",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-30T12:34:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 108,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】1. 办公妙招：技术作者的顽疾-中英混合输入场景如何更高效 1.1 业务场景 对于广大IT等行业的技术人员，写作包含英文变量名、参数、界面文字等的中文技术文档是家常便饭 软件技术文档 需求说明 产品规格说明书 测试方案 测试用例 … 产品手册等 技术笔记 … 1.2 用户痛点 反复切换输入法：中文输 阅读全文",
       "isTranslated": false
     },
     {
@@ -561,50 +626,6 @@
       "isTranslated": false
     },
     {
-      "title": "AI 编码工具默认给 Agent 多大权限？三家差在这三处 - 码哥字节",
-      "titleZh": "AI 编码工具默认给 Agent 多大权限？三家差在这三处 - 码哥字节",
-      "summary": "【摘要】有个技术负责人在群里问：Claude Code、Google Antigravity、OpenAI Codex，团队该统一用哪个？。他贴的判断依据是一篇「10 天写 2.5 万行代码、提效 36%」的文章。那个 36% 我没法帮他复核——没有场景、没有基线、没有失败案例，也无法重跑。",
-      "originalSummary": "【摘要】有个技术负责人在群里问：Claude Code、Google Antigravity、OpenAI Codex，团队该统一用哪个？。他贴的判断依据是一篇「10 天写 2.5 万行代码、提效 36%」的文章。那个 36% 我没法帮他复核——没有场景、没有基线、没有失败案例，也无法重跑。",
-      "url": "https://www.cnblogs.com/uniqueDong/p/23498661",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-30T10:13:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 116,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】有个技术负责人在群里问：Claude Code、Google Antigravity、OpenAI Codex，团队该统一用哪个？ 他贴的判断依据是一篇「10 天写 2.5 万行代码、提效 36%」的文章 那个 36% 我没法帮他复核——没有场景、没有基线、没有失败案例，也无法重跑",
-      "isTranslated": false
-    },
-    {
-      "title": "本周看什么 | 最近值得一看的 9 部作品",
-      "titleZh": "本周看什么 | 最近值得一看的 9 部作品",
-      "summary": "丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ... 查看全文 📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 近期佳作推荐： [电影] 小羊肖恩 3：怪兽来袭、[电影] 突如其来、[电影] 害群之马、[日剧] 有人刚好提起我吗？。对高深的主题说不，只想让观众看得开心，这部没有对白的定格动画电影，是放松身心的最佳万圣节礼物 又名：急に具合が悪くなる / Soudain / All of a Sudden @SHY：身为巴黎市郊一家养老院院长的玛丽-...。",
-      "originalSummary": "丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ... 查看全文 📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 近期佳作推荐： [电影] 小羊肖恩 3：怪兽来袭、[电影] 突如其来、[电影] 害群之马、[日剧] 有人刚好提起我吗？。对高深的主题说不，只想让观众看得开心，这部没有对白的定格动画电影，是放松身心的最佳万圣节礼物 又名：急に具合が悪くなる / Soudain / All of a Sudden @SHY：身为巴黎市郊一家养老院院长的玛丽-...。",
-      "url": "https://sspai.com/post/117867",
-      "source": "少数派深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-30T09:57:11+00:00",
-      "tags": [
-        "工具",
-        "数字生活",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 3447,
-      "summaryLength": 248,
-      "summaryQuality": "weak",
-      "readerTextZh": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映 丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ... 查看全文 📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映 丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映 丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 近期佳作推荐： [电影] 小羊肖恩 3：怪兽来袭、[电影] 突如其来、[电影] 害群之马、[日剧] 有人刚好提起我吗？ 、[韩剧] 心动制造所、[美剧] 梅格雷探案 第二季、[法剧] 亚瑟·罗宾 第四季、[动画] 罗小黑战记·学前篇、[纪录片] 人生七年 10（最终季） 几则精彩预告： 《沙丘 3》终极预告、《复仇者联盟 5》新预告、《傲慢与偏见》正式预告、《死亡搁浅 ISOLATIONS》首支预告 几则影视资讯： 《魔法秘境》内地定档 11 月 27 日、《哈利·波特》剧集首张海报、《银翼杀手 2099》新海报、《绝地求生》将改编为真人剧集 往期推荐可 点此 或点击文末 tag #本周看什么，更多主题片单可 点此 查看 想要查看更多深度影视内容，可以关注我们的衍生栏目「 看什么 Café 」 如有其他建议也欢迎在评论区提出，感谢大家对「看什么」栏目的喜爱和支持 又名：Shaun the Sheep: The Beast of Mossy Bottom @SHY：万圣节前夕，青苔农场的原住民们各有打算，肖恩和其它小羊秘密栽培了一片南瓜地，却被农夫意外糟蹋 总有鬼点子的肖恩，配制了能让南瓜苗一夜成熟的生长药水，不料被准备约心上人的农夫当成了生发剂",
-      "isTranslated": false
-    },
-    {
       "title": "这个 Agent 宿主把界面做成了纯文本，你想要什么形状自己让 Agent 改",
       "titleZh": "这个 Agent 宿主把界面做成了纯文本，你想要什么形状自己让 Agent 改",
       "summary": "Herdr 的自我介绍里有一句话很吸睛：\"每一处界面都是你 agent 能改的文件。\" 它是一个给 coding agent 用的原生宿主——Claude Code、Codex、以及任何在终端里跑的 agent 都能住进去。想法是反过来的：不是让你去学一套新的 IDE 布局，而是把整个界面做成纯文本文件，你要什么形状，让 agent 自己改。",
@@ -645,29 +666,6 @@
       "summaryLength": 109,
       "summaryQuality": "weak",
       "readerTextZh": "随着数据平台应用场景不断丰富，数据库适配范围与部署后的使用体验，逐渐成为开发者关注的两个方面 既要让已有数据源能够参与更多平台功能，也需要考虑产品体验完成后如何整理演示环境 qData 数据中台开源版 v1.6.5 正式发布 本次更新主要围绕 Apache Doris 数据源适配增强和演示数据清理脚本新增展开，分别完善数据",
-      "isTranslated": false
-    },
-    {
-      "title": "如何使用RDS Supabase后端BaaS能力：文件存储（File Storage） - 华为云开发者联盟",
-      "titleZh": "如何使用RDS Supabase后端BaaS能力：文件存储（File Storage） - 华为云开发者联盟",
-      "summary": "【摘要】无论图片、视频还是文档，其存储与权限管控都是后端绕不开的负担——自建存储、接口与鉴权，周期长、成本高。RDS Supabase文件存储（File Storage）把这一切收敛为一项开箱即用的能力：底层对接华为云OBS对象存储，几行代码完成上传下载，权限管控一并到位，无需自建文件服务器。",
-      "originalSummary": "【摘要】无论图片、视频还是文档，其存储与权限管控都是后端绕不开的负担——自建存储、接口与鉴权，周期长、成本高。RDS Supabase文件存储（File Storage）把这一切收敛为一项开箱即用的能力：底层对接华为云OBS对象存储，几行代码完成上传下载，权限管控一并到位，无需自建文件服务器。",
-      "url": "https://www.cnblogs.com/huaweiyun/p/23497491",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-30T09:01:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "云计算",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 128,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】无论图片、视频还是文档，其存储与权限管控都是后端绕不开的负担——自建存储、接口与鉴权，周期长、成本高 RDS Supabase文件存储（File Storage）把这一切收敛为一项开箱即用的能力：底层对接华为云OBS对象存储，几行代码完成上传下载，权限管控一并到位，无需自建文件服务器",
       "isTranslated": false
     },
     {
