@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T17:43:09.955483+00:00",
-  "nextUpdate": "2026-10-31T05:43:09.955483+00:00",
+  "updatedAt": "2026-10-31T03:59:13.115085+00:00",
+  "nextUpdate": "2026-10-31T15:59:13.115085+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,25 +76,26 @@
   "errors": [],
   "items": [
     {
-      "title": "27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码",
-      "titleZh": "27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码",
-      "summary": "更让人意外的是，这位年轻人提出，自己只需要两个人，就有机会完成一项惊人的任务：在 24 个月内，重写 Cisco 98% 的遗留代码 Jeetu Patel 不仅没有否决这个想法，还给了他近乎无限的 AI Token 预算 “我给了他无限量的 Token，因为...。Jeetu Patel 则为他提供了不受常规 Token 配额约束的资源支持 Jeetu Patel 的做法之所以引发关注，还因为这发生在一个年轻科技从业者就业压力不断增加的时期 《财富》在报道开头提到，一项针对雇主的调...。",
-      "originalSummary": "更让人意外的是，这位年轻人提出，自己只需要两个人，就有机会完成一项惊人的任务：在 24 个月内，重写 Cisco 98% 的遗留代码 Jeetu Patel 不仅没有否决这个想法，还给了他近乎无限的 AI Token 预算 “我给了他无限量的 Token，因为...。Jeetu Patel 则为他提供了不受常规 Token 配额约束的资源支持 Jeetu Patel 的做法之所以引发关注，还因为这发生在一个年轻科技从业者就业压力不断增加的时期 《财富》在报道开头提到，一项针对雇主的调...。",
-      "url": "https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ?utm_source=rss&utm_medium=article",
+      "title": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+      "titleZh": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+      "summary": "GitHub 发布 Actions Runner Controller (ARC) 0.15.0 版本，为在 Kubernetes 上运行自托管 GitHub Actions 运行器的组织带来了可靠性、可扩展性和可观测性方面的改进 GitHub 发布 Acti...。该版本于 10 月 1 日发布，重点在于减少不必要的 Kubernetes API 请求、提升控制器吞吐量，并使升级和关机操作更具可预测性，对于管理大量运行器扩展集的环境而言尤其如此 ARC 是一个 Kubernetes...。如果企业需要控制构建环境、网络访问、计算资源或工作负载隔离，但又不想维护永久预配置的运行器池，这一点会非常有用 0.15.0 版本的主要改进之一是减少了控制器为保持运行器资源同步所需的工作量。",
+      "originalSummary": "GitHub 发布 Actions Runner Controller (ARC) 0.15.0 版本，为在 Kubernetes 上运行自托管 GitHub Actions 运行器的组织带来了可靠性、可扩展性和可观测性方面的改进 GitHub 发布 Acti...。该版本于 10 月 1 日发布，重点在于减少不必要的 Kubernetes API 请求、提升控制器吞吐量，并使升级和关机操作更具可预测性，对于管理大量运行器扩展集的环境而言尤其如此 ARC 是一个 Kubernetes...。如果企业需要控制构建环境、网络访问、计算资源或工作负载隔离，但又不想维护永久预配置的运行器池，这一点会非常有用 0.15.0 版本的主要改进之一是减少了控制器为保持运行器资源同步所需的工作量。",
+      "url": "https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-10-30T21:00:00+00:00",
+      "publishedAt": "2026-10-31T10:00:00+00:00",
       "tags": [
         "架构",
         "软件工程",
         "中文深度",
-        "AI"
+        "云计算",
+        "开源"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 1887,
-      "summaryLength": 206,
+      "sourceTextLength": 2601,
+      "summaryLength": 292,
       "summaryQuality": "strong",
-      "readerTextZh": "一个曾被埋没在组织架构第五层的年轻人，正在挑战大型科技公司最难啃的工程任务之一 一个曾被埋没在组织架构第五层的年轻人，正在挑战大型科技公司最难啃的工程任务之一 在一家市值数千亿美元、拥有庞大工程体系的科技巨头内部，谁有资格主导一场大规模的软件重构？ 按照传统逻辑，答案通常是经验丰富的高级工程师、架构师，或者拥有数十年企业系统开发经验的技术负责人 被埋没在思科的 27 岁前 CEO，突然拿到一项不可能完成的任务 但 Cisco 总裁兼首席产品官 Jeetu Patel，却把机会交给了一位只有 27 岁的年轻人 更让人意外的是，这位年轻人提出，自己只需要两个人，就有机会完成一项惊人的任务：在 24 个月内，重写 Cisco 98% 的遗留代码 Jeetu Patel 不仅没有否决这个想法，还给了他近乎无限的 AI Token 预算 “我给了他无限量的 Token，因为他要重构代码 ”Jeetu Patel 在接受《财富》采访时透露 他给年轻人的授权相当直接：尽管放手去做 这位年轻人叫 Padmanabhan Krishnamurthy，大家习惯称他为 Paddy 他并不是一位刚刚毕业、完全没有企业经营经验的工程师 恰恰相反，Paddy 曾经创办过一家 AI 初创公司，并担任 CEO 只是被 Cisco 收购后，这位年轻创始人一度陷入了大公司复杂的组织体系 按照 Jeetu Patel 的说法，他当时在公司内部做着一些缺乏战略意义的工作 直到一次偶然的办公室交谈，让这位曾经的创业者重新获得了施展空间 10 月 30 日，《财富》记者 Orianna Rosa Royle 披露了这段故事",
+      "readerTextZh": "GitHub 发布 Actions Runner Controller (ARC) 0.15.0 版本，为在 Kubernetes 上运行自托管 GitHub Actions 运行器的组织带来了可靠性、可扩展性和可观测性方面的改进 GitHub 发布 Actions Runner Controller (ARC) 0.15.0 版本，为在 Kubernetes 上运行自托管 GitHub Actions 运行器的组织带来了可靠性、可扩展性和可观测性方面的改进 GitHub 发布 Actions Runner Controller (ARC) 0.15.0 版本，为在 Kubernetes 上运行自托管 GitHub Actions 运行器的组织带来了可靠性、可扩展性和可观测性方面的改进 该版本于 10 月 1 日发布，重点在于减少不必要的 Kubernetes API 请求、提升控制器吞吐量，并使升级和关机操作更具可预测性，对于管理大量运行器扩展集的环境而言尤其如此 ARC 是一个 Kubernetes 操作符，可以根据工作流需求自动扩展自托管的运行器 它允许组织运行自己的执行基础设施，并在任务到达和完成时动态地创建和删除运行器实例 如果企业需要控制构建环境、网络访问、计算资源或工作负载隔离，但又不想维护永久预配置的运行器池，这一点会非常有用 0.15.0 版本的主要改进之一是减少了控制器为保持运行器资源同步所需的工作量 控制器更新现在采用 Kubernetes 补丁请求（patch requests），而不是完整的更新请求（full update requests），这可以减少 API 有效载荷的大小 此外，运行器状态聚合已经转移至 EphemeralRunnerSet 和 AutoscalingRunnerSet 指标中，这减少了发送到 Kubernetes API 的状态更新的数量 控制器现在会过滤传入的事件，避免不必要的对账操作 同时，可以通过每秒查询次数和突发设置来配置监听器 API 客户端的速率限制 团队还可以使用 max-concurrent-rec...",
       "isTranslated": false
     },
     {
@@ -105,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-30T17:42:28.159672+00:00",
+      "publishedAt": "2026-10-31T03:58:30.820244+00:00",
       "tags": [
         "后端",
         "工程",
@@ -127,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-30T17:42:27.462663+00:00",
+      "publishedAt": "2026-10-31T03:58:30.146846+00:00",
       "tags": [
         "后端",
         "工程",
@@ -149,7 +150,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-30T17:42:26.790086+00:00",
+      "publishedAt": "2026-10-31T03:58:29.474195+00:00",
       "tags": [
         "后端",
         "工程",
@@ -171,7 +172,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-30T17:42:26.122753+00:00",
+      "publishedAt": "2026-10-31T03:58:28.717621+00:00",
       "tags": [
         "后端",
         "工程",
@@ -193,7 +194,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-30T17:42:25.470026+00:00",
+      "publishedAt": "2026-10-31T03:58:28.091179+00:00",
       "tags": [
         "后端",
         "工程",
@@ -215,7 +216,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-30T17:42:24.800592+00:00",
+      "publishedAt": "2026-10-31T03:58:27.409492+00:00",
       "tags": [
         "后端",
         "工程",
@@ -237,7 +238,7 @@
       "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-30T17:42:24.142363+00:00",
+      "publishedAt": "2026-10-31T03:58:26.718755+00:00",
       "tags": [
         "后端",
         "工程",
@@ -260,7 +261,7 @@
       "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-30T17:42:23.464818+00:00",
+      "publishedAt": "2026-10-31T03:58:26.036493+00:00",
       "tags": [
         "后端",
         "工程",
@@ -282,7 +283,7 @@
       "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-30T17:42:22.769172+00:00",
+      "publishedAt": "2026-10-31T03:58:25.380153+00:00",
       "tags": [
         "后端",
         "工程",
@@ -305,7 +306,7 @@
       "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-10-30T17:42:22.110595+00:00",
+      "publishedAt": "2026-10-31T03:58:24.629526+00:00",
       "tags": [
         "后端",
         "工程",
@@ -320,10 +321,142 @@
       "isTranslated": false
     },
     {
+      "title": "微软官方开源：不用一行 XAML，WinUI 也能像 React 那样写 - chingho",
+      "titleZh": "微软官方开源：不用一行 XAML，WinUI 也能像 React 那样写 - chingho",
+      "summary": "WinUI 3 那套 XAML + MVVM，是能干活，但憋屈。React 里一个组件装得整整齐齐，到了 WinUI 要拆成 ViewModel、XAML、code-behind 三份，改个小功能得动三个地方 所以 最近官方在 GitHub 开源 Microsoft.UI.React...。} } 没有 App.xaml ，没有 MainWindow.xaml ，没有 code-behind，也没有 ViewModel。",
+      "originalSummary": "WinUI 3 那套 XAML + MVVM，是能干活，但憋屈。React 里一个组件装得整整齐齐，到了 WinUI 要拆成 ViewModel、XAML、code-behind 三份，改个小功能得动三个地方 所以 最近官方在 GitHub 开源 Microsoft.UI.React...。} } 没有 App.xaml ，没有 MainWindow.xaml ，没有 code-behind，也没有 ViewModel。",
+      "url": "https://www.cnblogs.com/chingho/p/23505002",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-31T03:35:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3510,
+      "summaryLength": 165,
+      "summaryQuality": "weak",
+      "readerTextZh": "WinUI 3 那套 XAML + MVVM，是能干活，但憋屈 少写一个 x:Name，编译一点事没有，跑起来白屏 ViewModel 里一层又一层 INotifyPropertyChanged 样板，写多了自己都烦 改个绑定路径，得在 XAML 和 C# 之间来回瞅 最难 阅读全文 有没有和我一样的感受 改个绑定路径，得在 XAML 有没有和我一样的感受 改个绑定路径，得在 XAML WinUI 3 那套 XAML + MVVM，是能干活，但憋屈 改个绑定路径，得在 XAML 和 C# 之间来回瞅 最难受的是状态和界面被硬拆成两半",
+      "isTranslated": false
+    },
+    {
+      "title": "AI编程让鸿蒙开发电子书APP更加快捷 - aqi00",
+      "titleZh": "AI编程让鸿蒙开发电子书APP更加快捷 - aqi00",
+      "summary": "【摘要】​虽然图片、音频、视频等多媒体文件拥有众多格式，但开发它们的APP应用并不难，因为常见的多媒体格式都被纳入系统底层支持，开发者只要使用原生组件即可加载多媒体文件，比如鸿蒙系统加载图片的Image组件，加载视频的Video组件，以及播放音频的MediaP...。然而文档不同于这些多媒体格式 阅读全文。",
+      "originalSummary": "【摘要】​虽然图片、音频、视频等多媒体文件拥有众多格式，但开发它们的APP应用并不难，因为常见的多媒体格式都被纳入系统底层支持，开发者只要使用原生组件即可加载多媒体文件，比如鸿蒙系统加载图片的Image组件，加载视频的Video组件，以及播放音频的MediaP...。然而文档不同于这些多媒体格式 阅读全文。",
+      "url": "https://www.cnblogs.com/aqi00/p/23410103",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-31T03:00:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 137,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】​虽然图片、音频、视频等多媒体文件拥有众多格式，但开发它们的APP应用并不难，因为常见的多媒体格式都被纳入系统底层支持，开发者只要使用原生组件即可加载多媒体文件，比如鸿蒙系统加载图片的Image组件，加载视频的Video组件，以及播放音频的MediaPlayer组件等 然而文档不同于这些多媒体格式 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "TikTok视频去水印保存到本地：一个免安装网页工具的实际使用记录（附地址） - brilliance_dad",
+      "titleZh": "TikTok视频去水印保存到本地：一个免安装网页工具的实际使用记录（附地址） - brilliance_dad",
+      "summary": "【摘要】平时刷TikTok看到做菜教程、剪辑参考或者旅行片段，想存下来慢慢看，但直接下载总带着角标和片尾水印，裁掉又损画质。试过几个App，要么收费弹窗多，要么装完用两次就扔了。后来固定用的只有一个网页工具：下载兔（xiazaitu.com） ，浏览器打开就能用，不占空间。",
+      "originalSummary": "【摘要】平时刷TikTok看到做菜教程、剪辑参考或者旅行片段，想存下来慢慢看，但直接下载总带着角标和片尾水印，裁掉又损画质。试过几个App，要么收费弹窗多，要么装完用两次就扔了。后来固定用的只有一个网页工具：下载兔（xiazaitu.com） ，浏览器打开就能用，不占空间。",
+      "url": "https://www.cnblogs.com/brilliancedad/p/23504741",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-31T02:58:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 119,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】平时刷TikTok看到做菜教程、剪辑参考或者旅行片段，想存下来慢慢看，但直接下载总带着角标和片尾水印，裁掉又损画质 试过几个App，要么收费弹窗多，要么装完用两次就扔了 后来固定用的只有一个网页工具：下载兔（xiazaitu.com） ，浏览器打开就能用，不占空间 操作就三步，没有学习成本 在Ti 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "KNX 照明系统原理与 基于 KNX.net 的开发示例：从组地址到开关灯 - Y00",
+      "titleZh": "KNX 照明系统原理与 基于 KNX.net 的开发示例：从组地址到开关灯 - Y00",
+      "summary": "【摘要】前段时间接了个小项目，需要把一套 KNX 照明系统接进 .NET 后台做集中控制。原本以为跟普通 IoT 差不多，发个 HTTP 请求就完事，结果发现 KNX 的逻辑跟消费级智能家居完全不是一回事。折腾了几天，把原理和代码都跑通了，顺手记下来，给后面要踩坑的人省点时间。",
+      "originalSummary": "【摘要】前段时间接了个小项目，需要把一套 KNX 照明系统接进 .NET 后台做集中控制。原本以为跟普通 IoT 差不多，发个 HTTP 请求就完事，结果发现 KNX 的逻辑跟消费级智能家居完全不是一回事。折腾了几天，把原理和代码都跑通了，顺手记下来，给后面要踩坑的人省点时间。",
+      "url": "https://www.cnblogs.com/ayic/p/23472866",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-31T02:35:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 117,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】前段时间接了个小项目，需要把一套 KNX 照明系统接进 .NET 后台做集中控制 原本以为跟普通 IoT 差不多，发个 HTTP 请求就完事，结果发现 KNX 的逻辑跟消费级智能家居完全不是一回事 折腾了几天，把原理和代码都跑通了，顺手记下来，给后面要踩坑的人省点时间 这篇分两块：前半部分讲 KN 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "孤灯 - lvwangshu",
+      "titleZh": "孤灯 - lvwangshu",
+      "summary": "我以为，一个少年最孤勇的时刻，不是与人在赛场上对决，而是与一道题，在深夜里对峙。四下无声，只有键盘声，一下，又一下，像这寂静本身，在替谁数着呼吸。少年的影子被灯光拉长，斜斜地贴在墙上，像一个沉默的、与他并肩的人。",
+      "originalSummary": "我以为，一个少年最孤勇的时刻，不是与人在赛场上对决，而是与一道题，在深夜里对峙。四下无声，只有键盘声，一下，又一下，像这寂静本身，在替谁数着呼吸。少年的影子被灯光拉长，斜斜地贴在墙上，像一个沉默的、与他并肩的人。",
+      "url": "https://www.cnblogs.com/lvwangshuOI/p/23504360",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-31T01:58:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 91,
+      "summaryQuality": "weak",
+      "readerTextZh": "我以为，一个少年最孤勇的时刻，不是与人在赛场上对决，而是与一道题，在深夜里对峙 四下无声，只有键盘声，一下，又一下，像这寂静本身，在替谁数着呼吸 少年的影子被灯光拉长，斜斜地贴在墙上，像一个沉默的、与他并肩的人",
+      "isTranslated": false
+    },
+    {
+      "title": "新项目首次提交 GitHub 报错“未配置远端 origin”怎么办 - AlfredZhao",
+      "titleZh": "新项目首次提交 GitHub 报错“未配置远端 origin”怎么办 - AlfredZhao",
+      "summary": "【摘要】笔者在机器上已经配置好 GitHub 的 SSH 密钥，新项目也带了提交脚本，但第一次执行时却直接报错： $ scripts/commit-to-github.sh --version 0.1.0 -m \"init\" 错误：未配置远端 origin。请先手工配置，或使用 --no-push / -- 阅读全文。",
+      "originalSummary": "【摘要】笔者在机器上已经配置好 GitHub 的 SSH 密钥，新项目也带了提交脚本，但第一次执行时却直接报错： $ scripts/commit-to-github.sh --version 0.1.0 -m \"init\" 错误：未配置远端 origin。请先手工配置，或使用 --no-push / -- 阅读全文。",
+      "url": "https://www.cnblogs.com/jyzhao/p/23503364",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-30T23:05:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 117,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】笔者在机器上已经配置好 GitHub 的 SSH 密钥，新项目也带了提交脚本，但第一次执行时却直接报错： $ scripts/commit-to-github.sh --version 0.1.0 -m \"init\" 错误：未配置远端 origin 请先手工配置，或使用 --no-push / -- 阅读全文",
+      "isTranslated": false
+    },
+    {
       "title": "铲雪 16 炸！ - yuyancheng",
       "titleZh": "铲雪 16 炸！ - yuyancheng",
-      "summary": "形状 \\ 品种 连续 跳跃 循环 跳跃循环 链 连续链铲雪 跳跃链铲雪 循环链铲雪 跳跃循环链铲雪 环 连续环铲雪 跳跃环铲雪 循环环铲雪 跳跃循环环铲雪 树 连续树铲雪 跳跃树铲雪 循环树铲雪 跳跃循环 阅读全文 写这篇文章的原因是在做 P7246 时被题解...。全局最小值 \\(1\\) 在位置 \\(4\\) ，所以位置 \\(4\\) 是根 从根节点开始，传入一个参数 \\(base\\) ，表示 \"当前这个区间已经被铲掉了多少层\" 先铲 \\(h-base\\) 次：把整个区间从当前高度 \\...。【摘要】写这篇文章的原因是在做 P7246 时被题解深深地恶心到了。",
-      "originalSummary": "形状 \\ 品种 连续 跳跃 循环 跳跃循环 链 连续链铲雪 跳跃链铲雪 循环链铲雪 跳跃循环链铲雪 环 连续环铲雪 跳跃环铲雪 循环环铲雪 跳跃循环环铲雪 树 连续树铲雪 跳跃树铲雪 循环树铲雪 跳跃循环 阅读全文 写这篇文章的原因是在做 P7246 时被题解...。全局最小值 \\(1\\) 在位置 \\(4\\) ，所以位置 \\(4\\) 是根 从根节点开始，传入一个参数 \\(base\\) ，表示 \"当前这个区间已经被铲掉了多少层\" 先铲 \\(h-base\\) 次：把整个区间从当前高度 \\...。【摘要】写这篇文章的原因是在做 P7246 时被题解深深地恶心到了。",
+      "summary": "【摘要】写这篇文章的原因是在做 P7246 时被题解深深地恶心到了。形状 \\ 品种 连续 跳跃 循环 跳跃循环 链 连续链铲雪 跳跃链铲雪 循环链铲雪 跳跃循环链铲雪 环 连续环铲雪 跳跃环铲雪 循环环铲雪 跳跃循环环铲雪 树 连续树铲雪 跳跃树铲雪 循环树铲雪 跳跃循环 阅读全文。",
+      "originalSummary": "【摘要】写这篇文章的原因是在做 P7246 时被题解深深地恶心到了。形状 \\ 品种 连续 跳跃 循环 跳跃循环 链 连续链铲雪 跳跃链铲雪 循环链铲雪 跳跃循环链铲雪 环 连续环铲雪 跳跃环铲雪 循环环铲雪 跳跃循环环铲雪 树 连续树铲雪 跳跃树铲雪 循环树铲雪 跳跃循环 阅读全文。",
       "url": "https://www.cnblogs.com/yuyancheng/p/23499830/chanxue",
       "source": "博客园技术文章",
       "region": "中文技术深度",
@@ -333,11 +466,11 @@
         "后端",
         "中文深度"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 821,
-      "summaryLength": 201,
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 113,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】写这篇文章的原因是在做 P7246 时被题解深深地恶心到了 形状 \\ 品种 连续 跳跃 循环 跳跃循环 链 连续链铲雪 跳跃链铲雪 循环链铲雪 跳跃循环链铲雪 环 连续环铲雪 跳跃环铲雪 循环环铲雪 跳跃循环环铲雪 树 连续树铲雪 跳跃树铲雪 循环树铲雪 跳跃循环 阅读全文 写这篇文章的原因是在做 P7246 时被题解深深地恶心到了 形状 \\ 品种 连续 跳跃 循环 跳跃循环 链 连续链铲雪 跳跃链铲雪 循环链铲雪 跳跃循环链铲雪 环 连续环铲雪 跳跃环铲雪 循环环铲雪 跳跃循环环铲雪 树 连续树铲雪 跳跃树铲雪 循环树铲雪 跳跃循环 写这篇文章的原因是在做 P7246 时被题解深深地恶心到了 形状 \\ 品种 连续 跳跃 循环 跳跃循环 链 连续链铲雪 跳跃链铲雪 循环链铲雪 跳跃循环链铲雪 环 连续环铲雪 跳跃环铲雪 循环环铲雪 跳跃循环环铲雪 树 连续树铲雪 跳跃树铲雪 循环树铲雪 跳跃循环 给你一个“形状”，每次可以选择一个“形状”，把这个“形状”经过的点的点权都减去 \\(1\\) ，要求无论何时都不能减到负数，问最少操作次数 :::info[正确性证明] 发现有文章嫌他太简单直接跳过了，我还是来讲一讲吧 发现他真的有可差分性，于是差不多就整完了，上面的图应该很清楚了 ::: 比如序列： 2, 3, 4, 1, 2 全局最小值 \\(1\\) 在位置 \\(4\\) ，所以位置 \\(4\\) 是根 从根节点开始，传入一个参数 \\(base\\) ，表示 \"当前这个区间已经被铲掉了多少层\" 先铲 \\(h-base\\) 次：把整个区间从当前高度 \\(base\\) 铲到最低高度 \\(h\\) 这 \\(h-base\\) 次操作覆盖整个区间 递归左子树：左子树的区间现在基准高度变成了 \\(h\\) ，继续处理",
+      "readerTextZh": "【摘要】写这篇文章的原因是在做 P7246 时被题解深深地恶心到了 形状 \\ 品种 连续 跳跃 循环 跳跃循环 链 连续链铲雪 跳跃链铲雪 循环链铲雪 跳跃循环链铲雪 环 连续环铲雪 跳跃环铲雪 循环环铲雪 跳跃循环环铲雪 树 连续树铲雪 跳跃树铲雪 循环树铲雪 跳跃循环 阅读全文",
       "isTranslated": false
     },
     {
@@ -583,29 +716,6 @@
       "isTranslated": false
     },
     {
-      "title": "一款基于Avalonia跨平台不联网免费且轻量的Pdf阅读器 - RyzenAdorer",
-      "titleZh": "一款基于Avalonia跨平台不联网免费且轻量的Pdf阅读器 - RyzenAdorer",
-      "summary": "【摘要】为什么写 AirPDF 每天都要读 PDF，这些年换过不少阅读器，但一个都没能长期留在电脑上。可文档一多就散在标签堆里，找不回上次读到哪。装过的桌面阅读器反过来，功能堆得很满，启动要等，界面上大半按钮我从来没点过。",
-      "originalSummary": "【摘要】为什么写 AirPDF 每天都要读 PDF，这些年换过不少阅读器，但一个都没能长期留在电脑上。可文档一多就散在标签堆里，找不回上次读到哪。装过的桌面阅读器反过来，功能堆得很满，启动要等，界面上大半按钮我从来没点过。",
-      "url": "https://www.cnblogs.com/ryzen/p/23496525",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-30T08:00:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI",
-        "硬件"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 97,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】为什么写 AirPDF 每天都要读 PDF，这些年换过不少阅读器，但一个都没能长期留在电脑上 可文档一多就散在标签堆里，找不回上次读到哪 装过的桌面阅读器反过来，功能堆得很满，启动要等，界面上大半按钮我从来没点过",
-      "isTranslated": false
-    },
-    {
       "title": ":fire::fire:开源接口平台 v6.3.1 发布，新增超时时间",
       "titleZh": ":fire::fire:开源接口平台 v6.3.1 发布，新增超时时间",
       "summary": "ApiGo 是一款在线接口开发和管理平台，多数据库插件化数据源框架、SQL2API。支持 WorkBuddy、千问办公、Trea Work、豆包等 AI 办公平台 MCP 接入。支持接入（mysql、oracle、达梦、TiDB、DolphinDB、Hive、DuckDB ）等 SQL 或 NoSQL 数据源，在线可视化编写 SQL 快速发布接口，支持接口上下线、接口管理、接口限流、权限。",
@@ -652,49 +762,6 @@
       "isTranslated": false
     },
     {
-      "title": "Day07 · 字符串（一） - 小嘉游戏",
-      "titleZh": "Day07 · 字符串（一） - 小嘉游戏",
-      "summary": "【摘要】Day07 · 字符串（一） 阶段：阶段一 · 核心基础 | 前置：Day06 | 技术基准：Python 3.15.0 学习目标 掌握字符串的三种定义方式：单引号、双引号、三引号 理解字符串的不可变性，知道\"修改字符串\"其实是生成新串 熟记常用转义字...。",
-      "originalSummary": "【摘要】Day07 · 字符串（一） 阶段：阶段一 · 核心基础 | 前置：Day06 | 技术基准：Python 3.15.0 学习目标 掌握字符串的三种定义方式：单引号、双引号、三引号 理解字符串的不可变性，知道\"修改字符串\"其实是生成新串 熟记常用转义字...。",
-      "url": "https://www.cnblogs.com/xiaojiaxuezhang/p/23494503",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-30T05:50:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 97,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】Day07 · 字符串（一） 阶段：阶段一 · 核心基础 | 前置：Day06 | 技术基准：Python 3.15.0 学习目标 掌握字符串的三种定义方式：单引号、双引号、三引号 理解字符串的不可变性，知道\"修改字符串\"其实是生成新串 熟记常用转义字符，会用原始字符串 r'' 描述路径与正则 掌握 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单 - Rain的Java大神实战圈",
-      "titleZh": "面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单 - Rain的Java大神实战圈",
-      "summary": "【摘要】LeetCode27移除元素深度剖析，带你跳出暴力O(n²)误区。详解快慢双指针保序方案、首尾交换优化方案，吃透读写分离、循环不变式，对比两种解法适用场景。配套11条避坑清单、面试高频问答，一套原地压缩模板打通26、283、80等数组双指针经典题，面试刷题必备，持续更新算法面试干货。",
-      "originalSummary": "【摘要】LeetCode27移除元素深度剖析，带你跳出暴力O(n²)误区。详解快慢双指针保序方案、首尾交换优化方案，吃透读写分离、循环不变式，对比两种解法适用场景。配套11条避坑清单、面试高频问答，一套原地压缩模板打通26、283、80等数组双指针经典题，面试刷题必备，持续更新算法面试干货。",
-      "url": "https://www.cnblogs.com/zrui-xyu/p/23493448",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-30T03:45:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 151,
-      "summaryLength": 127,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】LeetCode27移除元素深度剖析，带你跳出暴力O(n²)误区 详解快慢双指针保序方案、首尾交换优化方案，吃透读写分离、循环不变式，对比两种解法适用场景 配套11条避坑清单、面试高频问答，一套原地压缩模板打通26、283、80等数组双指针经典题，面试刷题必备，持续更新算法面试干货",
-      "isTranslated": false
-    },
-    {
       "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
       "titleZh": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
       "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
@@ -735,71 +802,6 @@
       "summaryLength": 146,
       "summaryQuality": "weak",
       "readerTextZh": "Mistral 把 Mistral Large 4（内部代号 Le Chonk）的权重开源出来了：1 万亿参数、原生多模态、开源权重里编码能力最强 这是到目前为止开放权重阵营里体量最大的一批模型，而且是从零开始在欧洲的基础设施上进行训练 Cognition 的私有基准 FrontierCode 2.0 测的是端到端代码质量和\"仓库维",
-      "isTranslated": false
-    },
-    {
-      "title": "EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布） - 胖纸不争",
-      "titleZh": "EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布） - 胖纸不争",
-      "summary": "【摘要】EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布） EnergyStarZ 是一个常驻系统托盘的 Windows 能效管理器。它监听前台窗口切换，把后台进程按需压到不同的调度档位——笔记本上更省电，台式机上更跟手。",
-      "originalSummary": "【摘要】EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布） EnergyStarZ 是一个常驻系统托盘的 Windows 能效管理器。它监听前台窗口切换，把后台进程按需压到不同的调度档位——笔记本上更省电，台式机上更跟手。",
-      "url": "https://www.cnblogs.com/donpangpang/p/23493082",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-30T03:24:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 113,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布） EnergyStarZ 是一个常驻系统托盘的 Windows 能效管理器 它监听前台窗口切换，把后台进程按需压到不同的调度档位——笔记本上更省电，台式机上更跟手",
-      "isTranslated": false
-    },
-    {
-      "title": "Hermes：把学习写进文件，把知识变成技能 - AI闲人",
-      "titleZh": "Hermes：把学习写进文件，把知识变成技能 - AI闲人",
-      "summary": "【摘要】Hermes 把 Agent 的状态拆成三类并全部外置成文件：记忆存个人与任务上下文，技能存可复用的方法，wiki 存领域知识。问题不同，但都可被人检查、修改、版本管理。引子 你有没有算过，自己每天要跟 AI 重复多少遍背景？。",
-      "originalSummary": "【摘要】Hermes 把 Agent 的状态拆成三类并全部外置成文件：记忆存个人与任务上下文，技能存可复用的方法，wiki 存领域知识。问题不同，但都可被人检查、修改、版本管理。引子 你有没有算过，自己每天要跟 AI 重复多少遍背景？。",
-      "url": "https://www.cnblogs.com/xianxh/p/23491742",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-30T02:14:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 98,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】Hermes 把 Agent 的状态拆成三类并全部外置成文件：记忆存个人与任务上下文，技能存可复用的方法，wiki 存领域知识 问题不同，但都可被人检查、修改、版本管理 引子 你有没有算过，自己每天要跟 AI 重复多少遍背景？ 项目是做什么的、文档放在哪、上次那个报错最后怎么解的、写作时不喜欢哪种 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官） - IT规划师",
-      "titleZh": "MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官） - IT规划师",
-      "summary": "【摘要】本文为《MQTT实战》系列收官之作，作者基于8年生产实践，反思“会用API”与“能扛生产”的本质差异。摒弃炫技式源码展示，转而提炼出一套五步法：选型明边界、设计定契约（Topic）、可靠防假在线、排查有清单、架构可演进。强调MQTT核心不是技术堆砌，而是工程化思维——从连接可靠性、QoS策略到故障预... 阅读全文。",
-      "originalSummary": "【摘要】本文为《MQTT实战》系列收官之作，作者基于8年生产实践，反思“会用API”与“能扛生产”的本质差异。摒弃炫技式源码展示，转而提炼出一套五步法：选型明边界、设计定契约（Topic）、可靠防假在线、排查有清单、架构可演进。强调MQTT核心不是技术堆砌，而是工程化思维——从连接可靠性、QoS策略到故障预... 阅读全文。",
-      "url": "https://www.cnblogs.com/hugogoos/p/23479286",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-30T02:06:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 162,
-      "summaryLength": 134,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】本文为《MQTT实战》系列收官之作，作者基于8年生产实践，反思“会用API”与“能扛生产”的本质差异 摒弃炫技式源码展示，转而提炼出一套五步法：选型明边界、设计定契约（Topic）、可靠防假在线、排查有清单、架构可演进 强调MQTT核心不是技术堆砌，而是工程化思维——从连接可靠性、QoS策略到故障预... 阅读全文",
       "isTranslated": false
     },
     {
