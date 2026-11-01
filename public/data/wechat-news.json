@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T04:16:27.351289+00:00",
-  "nextUpdate": "2026-11-01T16:16:27.351289+00:00",
+  "updatedAt": "2026-11-01T17:38:40.279880+00:00",
+  "nextUpdate": "2026-11-02T05:38:40.279880+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,14 +76,14 @@
   "errors": [],
   "items": [
     {
-      "title": "如果 AI 幻觉也有预算，超支之后该怎么办？",
-      "titleZh": "如果 AI 幻觉也有预算，超支之后该怎么办？",
-      "summary": "Grafana 将 SLO 和错误预算应用于 AI 智能体行为 Grafana 将 SLO 和错误预算应用于 AI 智能体行为 Grafana Labs 提出 使用一种熟悉的可靠性工程方法，解决现代软件中一个相对陌生的问题：如何衡量 AI 智能体的实际表现是否...。在 最近的一篇文章 中，该公司介绍了如何使用评估、服务级别目标（SLO）和错误预算，将幻觉、任务完成度、毒性和成本等行为转化为可衡量的目标，并持续监控 这一构想针对的是传统应用可观测性的一项根本局限。这些方法共同展现出一种正在形成的模式：评估负责判断智能体的行为是否正确，可观测性提供证据，而 SLO 则提供用于判断该行为是否可以接受的运行阈值 https://www.infoq.com/news/2026/10/gr...。",
-      "originalSummary": "Grafana 将 SLO 和错误预算应用于 AI 智能体行为 Grafana 将 SLO 和错误预算应用于 AI 智能体行为 Grafana Labs 提出 使用一种熟悉的可靠性工程方法，解决现代软件中一个相对陌生的问题：如何衡量 AI 智能体的实际表现是否...。在 最近的一篇文章 中，该公司介绍了如何使用评估、服务级别目标（SLO）和错误预算，将幻觉、任务完成度、毒性和成本等行为转化为可衡量的目标，并持续监控 这一构想针对的是传统应用可观测性的一项根本局限。这些方法共同展现出一种正在形成的模式：评估负责判断智能体的行为是否正确，可观测性提供证据，而 SLO 则提供用于判断该行为是否可以接受的运行阈值 https://www.infoq.com/news/2026/10/gr...。",
-      "url": "https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&utm_medium=article",
+      "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+      "titleZh": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+      "summary": "对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响...。点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！。假设新增了 100 条读数，涉及 40 个电表，那么只有 40 个数据分组受到影响，其余数百万个分组都没有变化，可以完全不予处理。",
+      "originalSummary": "对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响...。点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！。假设新增了 100 条读数，涉及 40 个电表，那么只有 40 个数据分组受到影响，其余数百万个分组都没有变化，可以完全不予处理。",
+      "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-01T10:00:00+00:00",
+      "publishedAt": "2026-11-01T19:12:53+00:00",
       "tags": [
         "架构",
         "软件工程",
@@ -91,10 +91,10 @@
         "AI"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2779,
-      "summaryLength": 294,
+      "sourceTextLength": 3173,
+      "summaryLength": 216,
       "summaryQuality": "strong",
-      "readerTextZh": "Grafana 将 SLO 和错误预算应用于 AI 智能体行为 Grafana 将 SLO 和错误预算应用于 AI 智能体行为 Grafana Labs 提出 使用一种熟悉的可靠性工程方法，解决现代软件中一个相对陌生的问题：如何衡量 AI 智能体的实际表现是否良好 在 最近的一篇文章 中，该公司介绍了如何使用评估、服务级别目标（SLO）和错误预算，将幻觉、任务完成度、毒性和成本等行为转化为可衡量的目标，并持续监控 这一构想针对的是传统应用可观测性的一项根本局限 传统指标可以告诉工程师，智能体响应速度很快、没有遇到技术错误，并消耗了一定数量的 Token，但这些指标未必能说明它的答案是否正确、是否以现有信息为依据，或者是否对用户有用 Grafana 的方法是评估行为本身，并将结果转换为可以对照 SLO 进行衡量的 SLI 第一步是评估 评估会检查一次智能体交互，并判断它是否满足某项特定的行为标准 Grafana 给出的示例包括：响应是否以所提供的上下文为依据、是否完成了用户请求、是否包含有毒内容、是否泄露个人信息，或者是否受到提示词注入的影响 评估可以使用另一个语言模型充当裁判，但如果无需 LLM 就能识别相关行为，也可以使用正则表达式等确定性检查 这与尝试创建单一的“智能体质量分数”存在重要区别 Grafana 认为，质量是多维的：一个智能体可能回答有据可依但成本高昂，可能有帮助却偶尔生成有毒内容，也可能准确但速度缓慢",
+      "readerTextZh": "对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 2026 年，智能体将在企业级应用中取得哪些实质性突破？ 点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！ 聚合流水线是 Snowflake 在动态表（Dynamic Tables）客户中观察到的最常见模式之一：将订单数据按客户汇总、将会话数据按账户汇总，或将传感器读数按设备汇总 只需在动态表中定义 GROUP BY ，流水线就能自动保持数据最新，无需编写任何刷新逻辑 Snowflake 已显著提升这一模式的运行效率 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 这一优化完全自动完成，无需使用新的关键字，也无需设置任何选项 只要动态表的定义符合相应的结构要求，优化就会自动生效 下面将详细介绍其工作原理 假设有一张动态表，用于持续汇总每个电表的累计用电量及峰值读数： CREATE OR ALTER DYNAMIC TABLE dt_meter_consumption TARGET_LAG = '5 minutes' WAREHOUSE = pipeline_wh AS SELECT meter_id, SUM (kwh) AS kwh_total, MAX (kwh) AS kwh_peak FROM meter_readings GROUP BY meter_id 复制代码 理论上，这条查询应该能够进行增量更新，并具有良好的成本效益",
       "isTranslated": false
     },
     {
@@ -105,7 +105,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T04:15:44.232742+00:00",
+      "publishedAt": "2026-11-01T17:38:00.252781+00:00",
       "tags": [
         "后端",
         "工程",
@@ -127,7 +127,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T04:15:43.607179+00:00",
+      "publishedAt": "2026-11-01T17:37:59.599552+00:00",
       "tags": [
         "后端",
         "工程",
@@ -149,7 +149,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T04:15:42.960395+00:00",
+      "publishedAt": "2026-11-01T17:37:58.928010+00:00",
       "tags": [
         "后端",
         "工程",
@@ -171,7 +171,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T04:15:42.330876+00:00",
+      "publishedAt": "2026-11-01T17:37:58.251235+00:00",
       "tags": [
         "后端",
         "工程",
@@ -193,7 +193,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T04:15:41.682982+00:00",
+      "publishedAt": "2026-11-01T17:37:57.542787+00:00",
       "tags": [
         "后端",
         "工程",
@@ -215,7 +215,7 @@
       "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T04:15:40.374118+00:00",
+      "publishedAt": "2026-11-01T17:37:56.129484+00:00",
       "tags": [
         "后端",
         "工程",
@@ -237,7 +237,7 @@
       "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T04:15:39.720783+00:00",
+      "publishedAt": "2026-11-01T17:37:55.435067+00:00",
       "tags": [
         "后端",
         "工程",
@@ -260,7 +260,7 @@
       "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T04:15:39.076514+00:00",
+      "publishedAt": "2026-11-01T17:37:54.745170+00:00",
       "tags": [
         "后端",
         "工程",
@@ -275,24 +275,25 @@
       "isTranslated": false
     },
     {
-      "title": "PostgreSQL 权限管理踩坑记：从 42501 到默认权限和 RLS - Y00",
-      "titleZh": "PostgreSQL 权限管理踩坑记：从 42501 到默认权限和 RLS - Y00",
-      "summary": "【摘要】前段时间给一个新库配只读账号，执行了这么一句： GRANT SELECT ON ALL TABLES IN SCHEMA app TO readonly。哪怕成员是 INHERIT ，想用这些属性也得 SET ROLE 到持有属性的角色 这是上线后最容易冒出来的问题：今天给现有表 GRANT 了，明天开发新建一张表，只读账号又报 42501。常见做法是由对象所有者角色来设，比如上面的 app_owner ，这样谁建表都按这个规则走 PostgreSQL 15 之前， public schema 默认对 PUBLIC 给了 CREATE 和 USAGE ，意思...。",
-      "originalSummary": "【摘要】前段时间给一个新库配只读账号，执行了这么一句： GRANT SELECT ON ALL TABLES IN SCHEMA app TO readonly。哪怕成员是 INHERIT ，想用这些属性也得 SET ROLE 到持有属性的角色 这是上线后最容易冒出来的问题：今天给现有表 GRANT 了，明天开发新建一张表，只读账号又报 42501。常见做法是由对象所有者角色来设，比如上面的 app_owner ，这样谁建表都按这个规则走 PostgreSQL 15 之前， public schema 默认对 PUBLIC 给了 CREATE 和 USAGE ，意思...。",
-      "url": "https://www.cnblogs.com/ayic/p/23509350",
-      "source": "博客园技术文章",
+      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+      "titleZh": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+      "summary": "而惠普的 Jornada 系列，被大众熟知的型号更多是 Handheld PC，它们定位面向商务办公，同时价格也更高 不过，本期《怀旧手记》要为大家带来的则是一款更为小众，但设计又十分超前的掌上电脑PDA：夏普 Telios HC-VJ1C，它的形态就是我们说...。夏普对 Telios 系列的定位很清晰：「邮件／互联网终端」，在传统 H/PC 作为「PC 第二台机器」的基础上，重点强化了便捷的邮件收发和上网体验 而这次我要分享的是夏普于 2000 年 3 月推出的 HC-VJ1C。",
+      "originalSummary": "而惠普的 Jornada 系列，被大众熟知的型号更多是 Handheld PC，它们定位面向商务办公，同时价格也更高 不过，本期《怀旧手记》要为大家带来的则是一款更为小众，但设计又十分超前的掌上电脑PDA：夏普 Telios HC-VJ1C，它的形态就是我们说...。夏普对 Telios 系列的定位很清晰：「邮件／互联网终端」，在传统 H/PC 作为「PC 第二台机器」的基础上，重点强化了便捷的邮件收发和上网体验 而这次我要分享的是夏普于 2000 年 3 月推出的 HC-VJ1C。",
+      "url": "https://sspai.com/post/116991",
+      "source": "少数派深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-01T04:01:00+00:00",
+      "publishedAt": "2026-11-01T07:02:46+00:00",
       "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
+        "工具",
+        "数字生活",
+        "中文深度",
+        "硬件"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 3161,
-      "summaryLength": 238,
+      "sourceTextLength": 2447,
+      "summaryLength": 201,
       "summaryQuality": "strong",
-      "readerTextZh": "【摘要】前段时间给一个新库配只读账号，执行了这么一句： GRANT SELECT ON ALL TABLES IN SCHEMA app TO readonly 应用连上去还是报 permission denied for schema app 当时还纳闷，表权限都给了，怎么连 schema 都不让看 后 阅读全文 前段时间给一个新库配只读账号，执行了这么一句： GRANT SELECT ON ALL TABLES IN SCHEMA app TO readonly 后 前段时间给一个新库配只读账号，执行了这么一句： GRANT SELECT ON ALL TABLES IN SCHEMA app TO readonly 后 GRANT SELECT ON ALL TABLES IN SCHEMA app TO readonly 后来才反应过来，schema 的 USAGE 没给 这个错不复杂，但挺典型：PostgreSQL 的权限不是给一张表就完事，它是分层管的，库、schema、对象各管各的，上面一层给了不代表下面自动通 下面这些是我后来重新捋下来的，按自己的理解顺序写，不一定按官方文档目录来 PostgreSQL 里没有单独的“用户”概念，只有角色",
+      "readerTextZh": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点 文章代表作者个人观点 ... 查看全文 Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 文章代表作者个人观点 Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 文章代表作者个人观点 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 提起 PDA 想必大家不陌生 毕竟从 1998 年恒基伟业推出的「商务通」，到现如今活跃在物流仓库里的工业级「手持终端」，PDA 依旧活跃在我们的生活当中，只是如今的产品形态和应用场景已经有所不同 不过，PDA 其实是一个非常宽泛的泛称 如果我们从系统生态与产品定位来区分，它们其实分属不同的阵营： 第一类，是以早期「商务通」、部分联想「天玑」系列为代表的封闭系统阵营",
       "isTranslated": false
     },
     {
