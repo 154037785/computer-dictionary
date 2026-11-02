@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-02T04:18:30.647282+00:00",
-  "nextUpdate": "2026-11-02T16:18:30.647282+00:00",
+  "updatedAt": "2026-11-02T21:24:06.033961+00:00",
+  "nextUpdate": "2026-11-03T09:24:06.033961+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,14 +76,14 @@
   "errors": [],
   "items": [
     {
-      "title": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
-      "titleZh": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
-      "summary": "其 7.3 版现已发布，这是该项目的一个重要里程碑 TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架。其 7.3 版本现在已经发布，这是该项目的一个重要里程碑 InfoQ 此前曾于 2025 年 12 月 和 2022 年对该项目进行过报道 TornadoVM 可以在多核 CPU 和 GPU 上自动加速 Java 程序。因此，它又增加了其他 API，如内核上下文 API 和前文提到的 TileContext 随着 7.3 版本的发布，TornadoVM 团队推出了 jitLLM v2.0——这是基于 TornadoVM 构建的下一代 J...。",
-      "originalSummary": "其 7.3 版现已发布，这是该项目的一个重要里程碑 TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架。其 7.3 版本现在已经发布，这是该项目的一个重要里程碑 InfoQ 此前曾于 2025 年 12 月 和 2022 年对该项目进行过报道 TornadoVM 可以在多核 CPU 和 GPU 上自动加速 Java 程序。因此，它又增加了其他 API，如内核上下文 API 和前文提到的 TileContext 随着 7.3 版本的发布，TornadoVM 团队推出了 jitLLM v2.0——这是基于 TornadoVM 构建的下一代 J...。",
-      "url": "https://www.infoq.cn/article/X8cwbyO4O3tS1jTTdtBq?utm_source=rss&utm_medium=article",
+      "title": "从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？",
+      "titleZh": "从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？",
+      "summary": "开源模型、多种应用、无限节点：MiniMax H3 正在硅谷上演“开源裂变” 开源模型、多种应用、无限节点：MiniMax H3 正在硅谷上演“开源裂变” 一家中国 AI 公司，用英伟达的 GPU、参考硅谷的技术路线，训练出了自己的视频大模型，恐怕没有多少人会...。智能驾驶芯片与算法公司地平线开放 BPU 芯片 IP 和感知算法授权，也提供芯片、工具链、解决方案及联合开发，车企和合作伙伴可以据此构建差异化产品，这不仅扩大了这家公司的“朋友圈”和影响力，也直接支撑了它的商业化 根据《...。",
+      "originalSummary": "开源模型、多种应用、无限节点：MiniMax H3 正在硅谷上演“开源裂变” 开源模型、多种应用、无限节点：MiniMax H3 正在硅谷上演“开源裂变” 一家中国 AI 公司，用英伟达的 GPU、参考硅谷的技术路线，训练出了自己的视频大模型，恐怕没有多少人会...。智能驾驶芯片与算法公司地平线开放 BPU 芯片 IP 和感知算法授权，也提供芯片、工具链、解决方案及联合开发，车企和合作伙伴可以据此构建差异化产品，这不仅扩大了这家公司的“朋友圈”和影响力，也直接支撑了它的商业化 根据《...。",
+      "url": "https://www.infoq.cn/article/h1310kHD9CWD1mO8aTAc?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-02T11:11:00+00:00",
+      "publishedAt": "2026-11-02T22:48:56+00:00",
       "tags": [
         "架构",
         "软件工程",
@@ -92,10 +92,10 @@
         "芯片"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2383,
-      "summaryLength": 229,
+      "sourceTextLength": 2499,
+      "summaryLength": 203,
       "summaryQuality": "strong",
-      "readerTextZh": "TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架 其 7.3 版现已发布，这是该项目的一个重要里程碑 TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架 其 7.3 版本现在已经发布，这是该项目的一个重要里程碑 InfoQ 此前曾于 2025 年 12 月 和 2022 年对该项目进行过报道 TornadoVM 可以在多核 CPU 和 GPU 上自动加速 Java 程序 它并非要取代现有的 JVM，而是与现有的 JVM 协同工作，并在 Java 中提供了一个丰富的 GPU 编程生态系统，可以与任何主流的 JDK 发行版（如 OpenJDK、Graalvm、Temurin 或 Zulu）配合使用 它将 Java 代码卸载到硬件后端，管理 Java 堆与加速器之间的内存，并运行生成的计算内核 这使其成为现代云和机器学习工作负载的一个有用的构建块 在开发过程中，TornadoVM 会将 Java 源代码编译为 OpenCL 和 Apple Metal 后端代码 其设计理念是：开发者可以在笔记本电脑上开发并利用本地可用的硬件资源，随后将代码部署到配备 Nvidia GPU 的服务器上，从而实现显著的性能提升——对于现代机器学习工作负载而言，这是一种“编写一次，到处运行”的实现方式 第 7 版带来了一些架构上的变更 后端现在使用 Foreign Function & Memory（FFM）API 取代了 Java Native Interface（JNI） 实验性的 JVM 编译器接口（JVMCI）依赖项也被移除",
+      "readerTextZh": "开源模型、多种应用、无限节点：MiniMax H3 正在硅谷上演“开源裂变” 开源模型、多种应用、无限节点：MiniMax H3 正在硅谷上演“开源裂变” 一家中国 AI 公司，用英伟达的 GPU、参考硅谷的技术路线，训练出了自己的视频大模型，恐怕没有多少人会感到意外 全球领先的 GPU 巨头英伟达研究团队少见地选择了一家中国公司的开源多模态模型，投入人力、时间，开发一个视频生成模型 这就有点意思了 今年 8 月，MiniMax 开放了多模态模型 H3 的权重 这款模型能统一理解文字、图片、音频、视频等多种类型的素材，并兼顾生成质量、速度和成本 从技术生态角度看，开放模型权重使外部团队能够直接参与后训练、蒸馏和推理优化，拓展了其参与模型研发的方式 开源一个月内，H3 下载量超过 2400 万次，有 300 多个基于它开发的公开衍生模型 行业竞争激烈，这些视频生成公司有动力按照客户需求更针对性调整模型 生成式媒体基础设施公司 fal 从这些需求出发，以 MiniMax H3 为基础训练 H3 Max，并围绕模型优化推理系统，目标是生成速度更快 视频生成公司 Pika 希望更符合平台上的专业创作者的需求，10 月 29 日，它发布基于 H3 后训练的 H3 Flex，压缩了生成步骤 有些令人意外的是，和这些垂直行业中的公司不同，英伟达正基于 H3 再开发视频生成模型 10 月下旬，英伟达相关研究团队基于 H3 发布 Open-H3-Regenerate-2K，先用 H3 生成低分辨率的草稿，再通过额外训练的精修模块和三步去噪重生成高分辨率视频 项目保留了 H3 的原始权重 英伟达极少在多模态模型上投入如此多的资源，但对 H3 进行了系统性开发 此前，他们推出 StreamRender-H3 流媒体视频渲染方案和快速视频解码器，分别探索交互式生成和解码加速",
       "isTranslated": false
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-02T04:17:50.482915+00:00",
+      "publishedAt": "2026-11-02T21:23:24.014702+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-02T04:17:49.872522+00:00",
+      "publishedAt": "2026-11-02T21:23:23.412133+00:00",
       "tags": [
         "后端",
         "工程",
@@ -150,7 +150,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-02T04:17:49.249078+00:00",
+      "publishedAt": "2026-11-02T21:23:22.779718+00:00",
       "tags": [
         "后端",
         "工程",
@@ -172,7 +172,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-02T04:17:48.640302+00:00",
+      "publishedAt": "2026-11-02T21:23:22.193323+00:00",
       "tags": [
         "后端",
         "工程",
@@ -194,7 +194,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-02T04:17:48.005144+00:00",
+      "publishedAt": "2026-11-02T21:23:21.575282+00:00",
       "tags": [
         "后端",
         "工程",
@@ -216,7 +216,7 @@
       "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-02T04:17:46.766099+00:00",
+      "publishedAt": "2026-11-02T21:23:20.272989+00:00",
       "tags": [
         "后端",
         "工程",
@@ -238,7 +238,7 @@
       "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-02T04:17:46.144101+00:00",
+      "publishedAt": "2026-11-02T21:23:19.661476+00:00",
       "tags": [
         "后端",
         "工程",
@@ -261,7 +261,7 @@
       "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-02T04:17:45.489200+00:00",
+      "publishedAt": "2026-11-02T21:23:19.065331+00:00",
       "tags": [
         "后端",
         "工程",
@@ -276,35 +276,14 @@
       "isTranslated": false
     },
     {
-      "title": "预算只够升级 10% 的查询，该升级谁？金融文档 QA 的Token分配课",
-      "titleZh": "预算只够升级 10% 的查询，该升级谁？金融文档 QA 的Token分配课",
-      "summary": "批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 💡 一句话总结 ：批量 RAG 有个很少有人正式处理的问题：150 个查询共享一份 toke...。这篇论文把升级决策做成了资源分配题，结论精确而克制： 成本可以预测得很准（R²=0.93），但「升级有没有用」几乎猜不中（AUROC 0.60）。所以在紧预算下，按「收益 ÷ 每 token」排序比按收益排序多救回 7 个升级机会、质量 +0.034、总 token 省 46.6%——而想在整个预算曲面上全面赢，得先把收益预测本身做出来 RAG 系统的检索深度是个...。",
-      "originalSummary": "批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 💡 一句话总结 ：批量 RAG 有个很少有人正式处理的问题：150 个查询共享一份 toke...。这篇论文把升级决策做成了资源分配题，结论精确而克制： 成本可以预测得很准（R²=0.93），但「升级有没有用」几乎猜不中（AUROC 0.60）。所以在紧预算下，按「收益 ÷ 每 token」排序比按收益排序多救回 7 个升级机会、质量 +0.034、总 token 省 46.6%——而想在整个预算曲面上全面赢，得先把收益预测本身做出来 RAG 系统的检索深度是个...。",
-      "url": "https://juejin.cn/post/7703384226859745290",
-      "source": "掘金技术社区",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-02T04:10:20+00:00",
-      "tags": [
-        "前端",
-        "后端",
-        "开发者"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2788,
-      "summaryLength": 250,
-      "summaryQuality": "strong",
-      "readerTextZh": "批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 💡 一句话总结 ：批量 RAG 有个很少有人正式处理的问题：150 个查询共享一份 token 预算，而「给某个查询上更深检索」的额外成本能差十倍 这篇论文把升级决策做成了资源分配题，结论精确而克制： 成本可以预测得很准（R²=0.93），但「升级有没有用」几乎猜不中（AUROC 0.60） 所以在紧预算下，按「收益 ÷ 每 token」排序比按收益排序多救回 7 个升级机会、质量 +0.034、总 token 省 46.6%——而想在整个预算曲面上全面赢，得先把收益预测本身做出来 RAG 系统的检索深度是个钱袋问题：检索 top-1 页，每题约 1091 token top-5 页，2508 token，准确率从 46.7% 涨到 54.7% 单看一个查询，deep retrieval 的选择不难 但真实业务是 批 的：一个财报问答服务每天几万个查询，预算是死的——不可能人人上 top-5 这时候问题就变成了分配： 预算该发给谁？ 已有的自适应 RAG（Adaptive-RAG、Self-RAG、FLARE 这些）都在回答「这个查询自己该怎么检索」，而批部署多了一层约束：查询之间在抢同一个钱袋，而且 升级的标价因题而异 ——有的题 top-5 上下文 588 token 就装下，有的要 5498 这篇论文（Junru Zhu、Yixin Yang、Xiaoqing Ding、Ruoyu Qi）的切入点很会计：把每次可能的升级看作一笔投资——预估回报（质量增益）、预估成本（额外 token），按 投资回报率 而非回报总额排优先级 实验恰好证明了这不是废话，而且揭示了哪里是真正的瓶颈 流程两阶段：所有 150 道 FinanceBench 题（84 份真实财报文档）先走便宜的 top-1 检索拿到答案",
-      "isTranslated": false
-    },
-    {
-      "title": "Excelize 开源基础库发布 2.11.1 版本更新",
-      "titleZh": "Excelize 开源基础库发布 2.11.1 版本更新",
-      "summary": "Excelize 是 Go 语言编写的用于操作 Office Excel 文档基础库，基于 ECMA-376，ISO/IEC 29500 国际标准。支持 XLAM / XLSM / XLSX / XLTM / XLTX 等多种文档格式，高度兼容带有样式、图片(表)、透视表、切片器等复杂组件的文档，并提供流。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "originalSummary": "Excelize 是 Go 语言编写的用于操作 Office Excel 文档基础库，基于 ECMA-376，ISO/IEC 29500 国际标准。支持 XLAM / XLSM / XLSX / XLTM / XLTX 等多种文档格式，高度兼容带有样式、图片(表)、透视表、切片器等复杂组件的文档，并提供流。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "url": "https://www.oschina.net/news/503340",
+      "title": "小猫开源-在线考试系统发布 v6.5.0 版本",
+      "titleZh": "小猫开源-在线考试系统发布 v6.5.0 版本",
+      "summary": "视频演示：https://www.bilibili.com/video/BV12rHV6ME7R/ 优化改进： 人工阅卷体验升级，全程纯键盘操作即可打分，阅卷更高效 优化改进： 主观题阅卷支持双评与仲裁机制，可配置分差阈值，未超阈值取平均分、超阈值自动转仲裁...。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "originalSummary": "视频演示：https://www.bilibili.com/video/BV12rHV6ME7R/ 优化改进： 人工阅卷体验升级，全程纯键盘操作即可打分，阅卷更高效 优化改进： 主观题阅卷支持双评与仲裁机制，可配置分差阈值，未超阈值取平均分、超阈值自动转仲裁...。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "url": "https://www.oschina.net/news/503353",
       "source": "开源中国资讯",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-02T03:46:31+00:00",
+      "publishedAt": "2026-11-02T11:52:27+00:00",
       "tags": [
         "开源",
         "开发者",
@@ -313,10 +292,33 @@
         "软件工程"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 423,
-      "summaryLength": 213,
+      "sourceTextLength": 397,
+      "summaryLength": 204,
       "summaryQuality": "medium",
-      "readerTextZh": "Excelize 是 Go 语言编写的用于操作 Office Excel 文档基础库，基于 ECMA-376，ISO/IEC 29500 国际标准 可以使用它来读取、写入由 Excel、WPS、OpenOffice 等办公软件创建的电子表格文档 支持 XLAM / XLSM / XLSX / XLTM / XLTX 等多种文档格式，高度兼容带有样式、图片(表)、透视表、切片器等复杂组件的文档，并提供流 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
+      "readerTextZh": "视频演示：https://www.bilibili.com/video/BV12rHV6ME7R/ 优化改进： 人工阅卷体验升级，全程纯键盘操作即可打分，阅卷更高效 优化改进： 主观题阅卷支持双评与仲裁机制，可配置分差阈值，未超阈值取平均分、超阈值自动转仲裁 优化改进： 练题时参考资料匹配更精准，相关度显著提升（相关度阈值、动态摘要片段） bug修复 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
+      "isTranslated": false
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "titleZh": "派评 | 近期值得关注的 App",
+      "summary": "如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们讨论 @化学心情下2 ：随着 AI 的普及，不少朋友或多或少都在自己的电脑上用起了各种 AI agent 来提高效率。不过市面上的 AI agent 几乎都是基于云端提供的模型能力，必须连接互联网才能使用大模型的推理能力 如何用自己的电脑来运行大模型呢？。插件设置中还有是否启用一些权限或者功能的选项，说实话比起成熟的商业化 AI Agent 工具差距可能不是一点半点 在侧边栏的芯片按钮中，你还可以对模型进行调整，比如是否预热、空闲多久后卸载模型、是否为 8bit S 模型...。",
+      "originalSummary": "如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们讨论 @化学心情下2 ：随着 AI 的普及，不少朋友或多或少都在自己的电脑上用起了各种 AI agent 来提高效率。不过市面上的 AI agent 几乎都是基于云端提供的模型能力，必须连接互联网才能使用大模型的推理能力 如何用自己的电脑来运行大模型呢？。插件设置中还有是否启用一些权限或者功能的选项，说实话比起成熟的商业化 AI Agent 工具差距可能不是一点半点 在侧边栏的芯片按钮中，你还可以对模型进行调整，比如是否预热、空闲多久后卸载模型、是否为 8bit S 模型...。",
+      "url": "https://sspai.com/post/118240",
+      "source": "少数派深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-02T09:57:55+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度",
+        "AI",
+        "芯片"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3512,
+      "summaryLength": 239,
+      "summaryQuality": "strong",
+      "readerTextZh": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等 查看全文 能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等 能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等 能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等 欢迎收看本期《派评》 你可以通过文章目录快速跳转到你感兴趣的内容 如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们讨论 @化学心情下2 ：随着 AI 的普及，不少朋友或多或少都在自己的电脑上用起了各种 AI agent 来提高效率 不过市面上的 AI agent 几乎都是基于云端提供的模型能力，必须连接互联网才能使用大模型的推理能力 如何用自己的电脑来运行大模型呢？ 动手能力不错的朋友或许习惯通过 Ollma 下载管理模型然后本地调用，但对一般使用者而言，有没有简单易懂的本地化模型部署方案呢？ Local Code 是一款适用于 Mac 平台的、本地优先的 AI Agent 工具，相比专业的模型部署工具 Ollma，Local Code 专注于为 Mac 设备提供最优解——应用一共就提供三种本地模型，初始化时会根据设备配置匹配最合适的本地模型，比如笔者的 M4 处理器的 Macbook Air 因为仅有 16GB 运存只能选择最低阶的 Qwen 3.8 27B，选好模型、下载好模型文件并完成设置后，就可以进入到 Local Code 的主界面了 Local Code 在功能上和市面主流 AI Agent 工具并没什么太大的差距，你可以通过侧边栏中的项目文件夹来展开对话，对话支持添加图片、文档等附件，也可以使用语音方式交互 最左侧也可以对插件进行微调，比如在设置中可以选择使用设备端的模型还是云端...",
       "isTranslated": false
     },
     {
@@ -340,51 +342,6 @@
       "summaryLength": 229,
       "summaryQuality": "strong",
       "readerTextZh": "这里记录每周值得分享的科技内容，周五发布 另有 《谁在招人》 服务，发布程序员招聘信息 合作请 邮件联系 （yifeng.ruan@gmail.com） 四川宜宾市的青少年发展中心，建筑中庭的透光屋顶象征一个万花筒，会有不断变化的日光效果 现在，不少人让 AI 代表自己做事，比如购买奶茶、回复邮件 你可以用 AI 帮助自己学习和工作，但不要让它代表你，因为会造成社会混乱 他让6个 AI 模型代表自己去退火车票，但是这张票已经过了退票期限，正常情况下是退不掉的 大家猜猜看，AI 收到这个任务后，做了什么？",
-      "isTranslated": false
-    },
-    {
-      "title": "CDP Input.dispatchMouseEvent 偶发延迟数十秒，是渲染进程输入队列阻塞吗？",
-      "titleZh": "CDP Input.dispatchMouseEvent 偶发延迟数十秒，是渲染进程输入队列阻塞吗？",
-      "summary": "用 Node 直连 Chrome 的 DevTools Protocol（WebSocket 直连，不走 Puppeteer / Playwright），对一个已经渲染完的页面做鼠标拖拽：按顺序发 Input.dispatchMouseEvent 的 mous...。卡的方式很特别：CDP 命令本身都有正常回包（没有 timeout），只是相邻两个事件之间被拉长了约 1~3 秒，累积成一分多钟。Input.dispatchMouseEvent 属于 Input domain，事件要经 browser 进程转给 renderer 的合成输入通道。",
-      "originalSummary": "用 Node 直连 Chrome 的 DevTools Protocol（WebSocket 直连，不走 Puppeteer / Playwright），对一个已经渲染完的页面做鼠标拖拽：按顺序发 Input.dispatchMouseEvent 的 mous...。卡的方式很特别：CDP 命令本身都有正常回包（没有 timeout），只是相邻两个事件之间被拉长了约 1~3 秒，累积成一分多钟。Input.dispatchMouseEvent 属于 Input domain，事件要经 browser 进程转给 renderer 的合成输入通道。",
-      "url": "https://segmentfault.com/q/1010000048330118",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-10-02T16:14:29+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 1555,
-      "summaryLength": 230,
-      "summaryQuality": "medium",
-      "readerTextZh": "用 Node 直连 Chrome 的 DevTools Protocol（WebSocket 直连，不走 Puppeteer / Playwright），对一个已经渲染完的页面做鼠标拖拽：按顺序发 Input.dispatchMouseEvent 的 mouseMoved → mousePressed → 一连串 mouseMoved (30~45 步) → mouseReleased 多数情况下整串拖拽 200~400ms 就走完，但 偶发一次会卡到 60~80 秒 卡的方式很特别：CDP 命令本身都有正常回包（没有 timeout），只是相邻两个事件之间被拉长了约 1~3 秒，累积成一分多钟 同一台机器、同一个页面、同一段代码，紧接着重试第二次就恢复正常 Input.dispatchMouseEvent 属于 Input domain，事件要经 browser 进程转给 renderer 的合成输入通道 如果 renderer 主线程正忙（长任务、样式重算、大量布局），输入事件会在队列里等派发，而 CDP 的响应可能只表示「事件已入队」，不代表已经被页面消费 —— 也就是说命令 ack 与事件实际派发是两件事 不清楚的是：这个等待队列的临界点在哪，以及在发送前有没有可观测的信号能提前判断 renderer 是否空闲 // 拖拽的骨架，steps 约 34~46 const mouse = (type, x, y) => cdp.send('Input.dispatchMouseEvent', { type, x: Math.round(x), y: Math.round(y), button: 'left', clickCount: 1 })",
-      "isTranslated": false
-    },
-    {
-      "title": "本地跑大模型做 Agent，内存占用为什么会比模型文件大十倍？",
-      "titleZh": "本地跑大模型做 Agent，内存占用为什么会比模型文件大十倍？",
-      "summary": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档。为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行。中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB。",
-      "originalSummary": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档。为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行。中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB。",
-      "url": "https://segmentfault.com/q/1010000048317158",
-      "source": "SegmentFault 思否",
-      "region": "中文技术深度",
-      "publishedAt": "2026-09-24T10:20:33+00:00",
-      "tags": [
-        "开发者",
-        "前端",
-        "后端",
-        "AI",
-        "开源"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 687,
-      "summaryLength": 209,
-      "summaryQuality": "medium",
-      "readerTextZh": "先说清楚身份，免得被当成来打广告的：我是一个 MIT 协议开源数据库工具的维护者之一，下面的数字都是我们自己连续跑了 11 天测出来的，不是抄文档 为了搞清楚小参数开源模型到底能不能驱动 Agent，我们把 39 个开源权重模型全部走 Ollama 跑在本地，6 类任务，一共 8,199 次运行 中间有一批数据被污染了，回头复查才发现原因：不限制上下文长度的时候，一个 7.1 GB 的模型会按它完整的 262,144 token 窗口去要内存，在一台 64 GB 的机器上实际占到 51 GB 最难受的不是占得多，是日志里看不出来 你只会看到一次没跑完的运行，和“模型超时”长得一模一样，没有 OOM，没有明确报错 我们早期有一批评测结果就是这么废掉的 我们已经做的：把 num_ctx 固定到 32,768 之后，同一个模型掉到 5.1 GB，而且有一个 3B 模型的某类任务直接从 0/5 变成 5/5 也就是说，我们之前以为“这个模型不行”，其实是内存被上下文吃光了",
       "isTranslated": false
     }
   ],
