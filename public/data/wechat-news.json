@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T17:38:40.279880+00:00",
-  "nextUpdate": "2026-11-02T05:38:40.279880+00:00",
+  "updatedAt": "2026-11-02T04:18:30.647282+00:00",
+  "nextUpdate": "2026-11-02T16:18:30.647282+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,25 +76,26 @@
   "errors": [],
   "items": [
     {
-      "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
-      "titleZh": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
-      "summary": "对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响...。点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！。假设新增了 100 条读数，涉及 40 个电表，那么只有 40 个数据分组受到影响，其余数百万个分组都没有变化，可以完全不予处理。",
-      "originalSummary": "对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响...。点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！。假设新增了 100 条读数，涉及 40 个电表，那么只有 40 个数据分组受到影响，其余数百万个分组都没有变化，可以完全不予处理。",
-      "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article",
+      "title": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
+      "titleZh": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
+      "summary": "其 7.3 版现已发布，这是该项目的一个重要里程碑 TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架。其 7.3 版本现在已经发布，这是该项目的一个重要里程碑 InfoQ 此前曾于 2025 年 12 月 和 2022 年对该项目进行过报道 TornadoVM 可以在多核 CPU 和 GPU 上自动加速 Java 程序。因此，它又增加了其他 API，如内核上下文 API 和前文提到的 TileContext 随着 7.3 版本的发布，TornadoVM 团队推出了 jitLLM v2.0——这是基于 TornadoVM 构建的下一代 J...。",
+      "originalSummary": "其 7.3 版现已发布，这是该项目的一个重要里程碑 TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架。其 7.3 版本现在已经发布，这是该项目的一个重要里程碑 InfoQ 此前曾于 2025 年 12 月 和 2022 年对该项目进行过报道 TornadoVM 可以在多核 CPU 和 GPU 上自动加速 Java 程序。因此，它又增加了其他 API，如内核上下文 API 和前文提到的 TileContext 随着 7.3 版本的发布，TornadoVM 团队推出了 jitLLM v2.0——这是基于 TornadoVM 构建的下一代 J...。",
+      "url": "https://www.infoq.cn/article/X8cwbyO4O3tS1jTTdtBq?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文深度",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-01T19:12:53+00:00",
+      "publishedAt": "2026-11-02T11:11:00+00:00",
       "tags": [
         "架构",
         "软件工程",
         "中文深度",
-        "AI"
+        "AI",
+        "芯片"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 3173,
-      "summaryLength": 216,
+      "sourceTextLength": 2383,
+      "summaryLength": 229,
       "summaryQuality": "strong",
-      "readerTextZh": "对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 2026 年，智能体将在企业级应用中取得哪些实质性突破？ 点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！ 聚合流水线是 Snowflake 在动态表（Dynamic Tables）客户中观察到的最常见模式之一：将订单数据按客户汇总、将会话数据按账户汇总，或将传感器读数按设备汇总 只需在动态表中定义 GROUP BY ，流水线就能自动保持数据最新，无需编写任何刷新逻辑 Snowflake 已显著提升这一模式的运行效率 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 这一优化完全自动完成，无需使用新的关键字，也无需设置任何选项 只要动态表的定义符合相应的结构要求，优化就会自动生效 下面将详细介绍其工作原理 假设有一张动态表，用于持续汇总每个电表的累计用电量及峰值读数： CREATE OR ALTER DYNAMIC TABLE dt_meter_consumption TARGET_LAG = '5 minutes' WAREHOUSE = pipeline_wh AS SELECT meter_id, SUM (kwh) AS kwh_total, MAX (kwh) AS kwh_peak FROM meter_readings GROUP BY meter_id 复制代码 理论上，这条查询应该能够进行增量更新，并具有良好的成本效益",
+      "readerTextZh": "TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架 其 7.3 版现已发布，这是该项目的一个重要里程碑 TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架 其 7.3 版本现在已经发布，这是该项目的一个重要里程碑 InfoQ 此前曾于 2025 年 12 月 和 2022 年对该项目进行过报道 TornadoVM 可以在多核 CPU 和 GPU 上自动加速 Java 程序 它并非要取代现有的 JVM，而是与现有的 JVM 协同工作，并在 Java 中提供了一个丰富的 GPU 编程生态系统，可以与任何主流的 JDK 发行版（如 OpenJDK、Graalvm、Temurin 或 Zulu）配合使用 它将 Java 代码卸载到硬件后端，管理 Java 堆与加速器之间的内存，并运行生成的计算内核 这使其成为现代云和机器学习工作负载的一个有用的构建块 在开发过程中，TornadoVM 会将 Java 源代码编译为 OpenCL 和 Apple Metal 后端代码 其设计理念是：开发者可以在笔记本电脑上开发并利用本地可用的硬件资源，随后将代码部署到配备 Nvidia GPU 的服务器上，从而实现显著的性能提升——对于现代机器学习工作负载而言，这是一种“编写一次，到处运行”的实现方式 第 7 版带来了一些架构上的变更 后端现在使用 Foreign Function & Memory（FFM）API 取代了 Java Native Interface（JNI） 实验性的 JVM 编译器接口（JVMCI）依赖项也被移除",
       "isTranslated": false
     },
     {
@@ -105,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T17:38:00.252781+00:00",
+      "publishedAt": "2026-11-02T04:17:50.482915+00:00",
       "tags": [
         "后端",
         "工程",
@@ -127,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T17:37:59.599552+00:00",
+      "publishedAt": "2026-11-02T04:17:49.872522+00:00",
       "tags": [
         "后端",
         "工程",
@@ -149,7 +150,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T17:37:58.928010+00:00",
+      "publishedAt": "2026-11-02T04:17:49.249078+00:00",
       "tags": [
         "后端",
         "工程",
@@ -171,7 +172,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T17:37:58.251235+00:00",
+      "publishedAt": "2026-11-02T04:17:48.640302+00:00",
       "tags": [
         "后端",
         "工程",
@@ -193,7 +194,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T17:37:57.542787+00:00",
+      "publishedAt": "2026-11-02T04:17:48.005144+00:00",
       "tags": [
         "后端",
         "工程",
@@ -215,7 +216,7 @@
       "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T17:37:56.129484+00:00",
+      "publishedAt": "2026-11-02T04:17:46.766099+00:00",
       "tags": [
         "后端",
         "工程",
@@ -237,7 +238,7 @@
       "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T17:37:55.435067+00:00",
+      "publishedAt": "2026-11-02T04:17:46.144101+00:00",
       "tags": [
         "后端",
         "工程",
@@ -260,7 +261,7 @@
       "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-01T17:37:54.745170+00:00",
+      "publishedAt": "2026-11-02T04:17:45.489200+00:00",
       "tags": [
         "后端",
         "工程",
@@ -275,25 +276,47 @@
       "isTranslated": false
     },
     {
-      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "titleZh": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "summary": "而惠普的 Jornada 系列，被大众熟知的型号更多是 Handheld PC，它们定位面向商务办公，同时价格也更高 不过，本期《怀旧手记》要为大家带来的则是一款更为小众，但设计又十分超前的掌上电脑PDA：夏普 Telios HC-VJ1C，它的形态就是我们说...。夏普对 Telios 系列的定位很清晰：「邮件／互联网终端」，在传统 H/PC 作为「PC 第二台机器」的基础上，重点强化了便捷的邮件收发和上网体验 而这次我要分享的是夏普于 2000 年 3 月推出的 HC-VJ1C。",
-      "originalSummary": "而惠普的 Jornada 系列，被大众熟知的型号更多是 Handheld PC，它们定位面向商务办公，同时价格也更高 不过，本期《怀旧手记》要为大家带来的则是一款更为小众，但设计又十分超前的掌上电脑PDA：夏普 Telios HC-VJ1C，它的形态就是我们说...。夏普对 Telios 系列的定位很清晰：「邮件／互联网终端」，在传统 H/PC 作为「PC 第二台机器」的基础上，重点强化了便捷的邮件收发和上网体验 而这次我要分享的是夏普于 2000 年 3 月推出的 HC-VJ1C。",
-      "url": "https://sspai.com/post/116991",
-      "source": "少数派深度",
+      "title": "预算只够升级 10% 的查询，该升级谁？金融文档 QA 的Token分配课",
+      "titleZh": "预算只够升级 10% 的查询，该升级谁？金融文档 QA 的Token分配课",
+      "summary": "批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 💡 一句话总结 ：批量 RAG 有个很少有人正式处理的问题：150 个查询共享一份 toke...。这篇论文把升级决策做成了资源分配题，结论精确而克制： 成本可以预测得很准（R²=0.93），但「升级有没有用」几乎猜不中（AUROC 0.60）。所以在紧预算下，按「收益 ÷ 每 token」排序比按收益排序多救回 7 个升级机会、质量 +0.034、总 token 省 46.6%——而想在整个预算曲面上全面赢，得先把收益预测本身做出来 RAG 系统的检索深度是个...。",
+      "originalSummary": "批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 💡 一句话总结 ：批量 RAG 有个很少有人正式处理的问题：150 个查询共享一份 toke...。这篇论文把升级决策做成了资源分配题，结论精确而克制： 成本可以预测得很准（R²=0.93），但「升级有没有用」几乎猜不中（AUROC 0.60）。所以在紧预算下，按「收益 ÷ 每 token」排序比按收益排序多救回 7 个升级机会、质量 +0.034、总 token 省 46.6%——而想在整个预算曲面上全面赢，得先把收益预测本身做出来 RAG 系统的检索深度是个...。",
+      "url": "https://juejin.cn/post/7703384226859745290",
+      "source": "掘金技术社区",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-01T07:02:46+00:00",
+      "publishedAt": "2026-11-02T04:10:20+00:00",
       "tags": [
-        "工具",
-        "数字生活",
-        "中文深度",
-        "硬件"
+        "前端",
+        "后端",
+        "开发者"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 2447,
-      "summaryLength": 201,
+      "sourceTextLength": 2788,
+      "summaryLength": 250,
       "summaryQuality": "strong",
-      "readerTextZh": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点 文章代表作者个人观点 ... 查看全文 Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 文章代表作者个人观点 Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 文章代表作者个人观点 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 提起 PDA 想必大家不陌生 毕竟从 1998 年恒基伟业推出的「商务通」，到现如今活跃在物流仓库里的工业级「手持终端」，PDA 依旧活跃在我们的生活当中，只是如今的产品形态和应用场景已经有所不同 不过，PDA 其实是一个非常宽泛的泛称 如果我们从系统生态与产品定位来区分，它们其实分属不同的阵营： 第一类，是以早期「商务通」、部分联想「天玑」系列为代表的封闭系统阵营",
+      "readerTextZh": "批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 批量 RAG 部署下，查询要共享一份 token 预算，而每题深检索的额外成本差异 💡 一句话总结 ：批量 RAG 有个很少有人正式处理的问题：150 个查询共享一份 token 预算，而「给某个查询上更深检索」的额外成本能差十倍 这篇论文把升级决策做成了资源分配题，结论精确而克制： 成本可以预测得很准（R²=0.93），但「升级有没有用」几乎猜不中（AUROC 0.60） 所以在紧预算下，按「收益 ÷ 每 token」排序比按收益排序多救回 7 个升级机会、质量 +0.034、总 token 省 46.6%——而想在整个预算曲面上全面赢，得先把收益预测本身做出来 RAG 系统的检索深度是个钱袋问题：检索 top-1 页，每题约 1091 token top-5 页，2508 token，准确率从 46.7% 涨到 54.7% 单看一个查询，deep retrieval 的选择不难 但真实业务是 批 的：一个财报问答服务每天几万个查询，预算是死的——不可能人人上 top-5 这时候问题就变成了分配： 预算该发给谁？ 已有的自适应 RAG（Adaptive-RAG、Self-RAG、FLARE 这些）都在回答「这个查询自己该怎么检索」，而批部署多了一层约束：查询之间在抢同一个钱袋，而且 升级的标价因题而异 ——有的题 top-5 上下文 588 token 就装下，有的要 5498 这篇论文（Junru Zhu、Yixin Yang、Xiaoqing Ding、Ruoyu Qi）的切入点很会计：把每次可能的升级看作一笔投资——预估回报（质量增益）、预估成本（额外 token），按 投资回报率 而非回报总额排优先级 实验恰好证明了这不是废话，而且揭示了哪里是真正的瓶颈 流程两阶段：所有 150 道 FinanceBench 题（84 份真实财报文档）先走便宜的 top-1 检索拿到答案",
+      "isTranslated": false
+    },
+    {
+      "title": "Excelize 开源基础库发布 2.11.1 版本更新",
+      "titleZh": "Excelize 开源基础库发布 2.11.1 版本更新",
+      "summary": "Excelize 是 Go 语言编写的用于操作 Office Excel 文档基础库，基于 ECMA-376，ISO/IEC 29500 国际标准。支持 XLAM / XLSM / XLSX / XLTM / XLTX 等多种文档格式，高度兼容带有样式、图片(表)、透视表、切片器等复杂组件的文档，并提供流。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "originalSummary": "Excelize 是 Go 语言编写的用于操作 Office Excel 文档基础库，基于 ECMA-376，ISO/IEC 29500 国际标准。支持 XLAM / XLSM / XLSX / XLTM / XLTX 等多种文档格式，高度兼容带有样式、图片(表)、透视表、切片器等复杂组件的文档，并提供流。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "url": "https://www.oschina.net/news/503340",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-02T03:46:31+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 423,
+      "summaryLength": 213,
+      "summaryQuality": "medium",
+      "readerTextZh": "Excelize 是 Go 语言编写的用于操作 Office Excel 文档基础库，基于 ECMA-376，ISO/IEC 29500 国际标准 可以使用它来读取、写入由 Excel、WPS、OpenOffice 等办公软件创建的电子表格文档 支持 XLAM / XLSM / XLSX / XLTM / XLTX 等多种文档格式，高度兼容带有样式、图片(表)、透视表、切片器等复杂组件的文档，并提供流 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
       "isTranslated": false
     },
     {

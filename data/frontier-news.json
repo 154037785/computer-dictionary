@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T17:37:38.264130+00:00",
-  "nextUpdate": "2026-11-02T05:37:38.264130+00:00",
+  "updatedAt": "2026-11-02T04:17:31.314744+00:00",
+  "nextUpdate": "2026-11-02T16:17:31.314744+00:00",
   "sources": [
     {
       "name": "IT之家",
@@ -106,9 +106,213 @@
   "errors": [],
   "items": [
     {
+      "title": "Google says Asian advertisers spending less off due to Europe's customs changes",
+      "titleZh": "Google推进 AI 模型与应用能力",
+      "summary": "Google、Asian、Chinese、European Union发生AI 模型或智能体能力进展，涉及关键数字：3。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Google、Asian、Europe发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "Google has revealed some of its Asian customers – almost certainly Chinese e-tailers – are buying fewer ads。That’s a reference to the European Union’s changes to import duties, which saw the bloc introduce a temporary...。Speaking on Alphabet’s Q3 earnings call last week, chief business officer Philipp Schindler addresse...。",
+      "url": "https://www.theregister.com/legal/2026/11/02/google-says-asian-advertisers-spending-less-off-due-to-europes-customs-changes/5306860",
+      "source": "The Register",
+      "region": "国际",
+      "publishedAt": "2026-11-02T01:02:26+00:00",
+      "tags": [
+        "软件工程",
+        "安全",
+        "云计算",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 6321,
+      "summaryLength": 320,
+      "summaryQuality": "medium",
+      "readerTextZh": "Google、Asian、Chinese、European Union发生AI 模型或智能体能力进展，涉及关键数字：3。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Google、Asian、Europe发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "Linus Torvalds says Linux kernel is out of ‘stabilization phase’ and using ‘much healthier model’ for AI contributions",
+      "titleZh": "Linus Torvalds推进 AI 模型与应用能力",
+      "summary": "Linus Torvalds、Linux、BIG发生AI 模型或智能体能力进展，涉及关键数字：7.4 、20、0。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Linus Torvalds、Linux、AI发生AI 模型或智能体能力进展。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "Linus Torvalds has posted the first release candidate for version 7.4 of the Linux kernel and offered his opinion that the project...。“This is a *BIG* merge window,” he wrote in his weekly state of the kernel update , as it contains almost 20,0...。“I think the reason is the by now obvious one, but I'm actually taking it as a good sign: I'm *much*...。",
+      "url": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
+      "source": "The Register",
+      "region": "国际",
+      "publishedAt": "2026-11-01T23:11:41+00:00",
+      "tags": [
+        "软件工程",
+        "安全",
+        "云计算",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 1975,
+      "summaryLength": 317,
+      "summaryQuality": "medium",
+      "readerTextZh": "Linus Torvalds、Linux、BIG发生AI 模型或智能体能力进展，涉及关键数字：7.4 、20、0。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Linus Torvalds、Linux、AI发生AI 模型或智能体能力进展。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "titleZh": "OpenAI可能会将其数据中心重新命名为“AI计算园区”",
+      "summary": "想方设法帮助人们在日常生活中看到人工智能赋予他们权力。OpenAI、AI发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "Data centers are deeply unpopular。finding ways to help people see AI as empowering them in their daily lives。Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’ Buy One Founder Summit Ticket, Get a Second...。",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "region": "国际",
+      "publishedAt": "2026-11-01T21:55:23+00:00",
+      "tags": [
+        "创业",
+        "AI",
+        "产品",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2265,
+      "summaryLength": 283,
+      "summaryQuality": "strong",
+      "readerTextZh": "想方设法帮助人们在日常生活中看到人工智能赋予他们权力。OpenAI、AI发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "Game Off 2026: The theme is SHIFT",
+      "titleZh": "Game Off更新云服务或开发者工具",
+      "summary": "Game Off、GitHub、November、The Game Off发生科技产业或开发者生态变化，涉及关键数字：14、2026 、2026。从已有材料看，这不是孤立的标题变化，而是与开源、开发者相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Game Off、SHIFT发生科技产业或开发者生态变化，涉及关键数字：2026。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。",
+      "originalSummary": "Game Off , GitHub’s annual month-long game jam, returns for its 14th year this November。The Game Off 2026 Community is a great place to ask questions, share progress, and look for teammates。The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog。",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "source": "GitHub Blog",
+      "region": "国际",
+      "publishedAt": "2026-11-01T21:36:00+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "软件工程",
+        "安全"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 8967,
+      "summaryLength": 297,
+      "summaryQuality": "medium",
+      "readerTextZh": "Game Off、GitHub、November、The Game Off发生科技产业或开发者生态变化，涉及关键数字：14、2026 、2026。从已有材料看，这不是孤立的标题变化，而是与开源、开发者相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Game Off、SHIFT发生科技产业或开发者生态变化，涉及关键数字：2026。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "Flock keeps ignoring requests to cancel its contracts",
+      "titleZh": "Flock推进 AI 模型与应用能力",
+      "summary": "While、Flock Safety、Plymouth、Minnesota发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Flock发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some...。Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to resp...。For over a month, the cameras remained up, and the city had received no acknowledgment from the comp...。",
+      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "source": "The Verge",
+      "region": "国际",
+      "publishedAt": "2026-11-01T21:27:52+00:00",
+      "tags": [
+        "科技产业",
+        "硬件",
+        "AI",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 687,
+      "summaryLength": 303,
+      "summaryQuality": "medium",
+      "readerTextZh": "While、Flock Safety、Plymouth、Minnesota发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Flock发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "titleZh": "NASA推进 AI 模型与应用能力",
+      "summary": "Hubble、Earth、So NASA、In发生AI 模型或智能体能力进展，涉及关键数字：2030。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。NASA、Hubble发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unle...。So NASA is taking proposals from the private sector to see if anyone can save it。In a post on NASA's site , Administrator Jared Isaacman said:。",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "source": "The Verge",
+      "region": "国际",
+      "publishedAt": "2026-11-01T21:09:21+00:00",
+      "tags": [
+        "科技产业",
+        "硬件",
+        "AI",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 689,
+      "summaryLength": 304,
+      "summaryQuality": "medium",
+      "readerTextZh": "Hubble、Earth、So NASA、In发生AI 模型或智能体能力进展，涉及关键数字：2030。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。NASA、Hubble发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "titleZh": "人工智能可以让科技CEO的生活更轻松。其他人呢？",
+      "summary": "在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。对于OpenAI首席执行官Sam Altman来说，这包括建议家长为他们的孩子创建个性化的播客。AI、CEOs、What发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。",
+      "originalSummary": "On Equity, we discuss why tech CEO statements can seem so tone deaf。For OpenAI CEO Sam Altman, that’s included suggesting that parents create personalized podcasts for their kids...。Meta CEO Mark Zuckerberg has even suggested that it will become increasingly acceptable to meet your...。",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "region": "国际",
+      "publishedAt": "2026-11-01T20:57:58+00:00",
+      "tags": [
+        "创业",
+        "AI",
+        "产品",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 7477,
+      "summaryLength": 305,
+      "summaryQuality": "strong",
+      "readerTextZh": "在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。对于OpenAI首席执行官Sam Altman来说，这包括建议家长为他们的孩子创建个性化的播客。AI、CEOs、What发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "titleZh": "FBI披露安全风险",
+      "summary": "The FBI、North Korean、TraderTraitor发生AI 模型或智能体能力进展，涉及关键数字：$6.3 b。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。FBI、Binance、North Korean发生科技产业或开发者生态变化，涉及关键数字：$6.3 b。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。",
+      "originalSummary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft a...。",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "source": "BleepingComputer",
+      "region": "国际",
+      "publishedAt": "2026-11-01T19:57:53+00:00",
+      "tags": [
+        "安全",
+        "漏洞",
+        "攻击",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 207,
+      "summaryLength": 296,
+      "summaryQuality": "fair",
+      "readerTextZh": "The FBI、North Korean、TraderTraitor发生AI 模型或智能体能力进展，涉及关键数字：$6.3 b。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。FBI、Binance、North Korean发生科技产业或开发者生态变化，涉及关键数字：$6.3 b。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "Apple’s HomeView could add security camera features",
+      "titleZh": "Apple披露安全风险",
+      "summary": "Reddit、HomeView、Apple、According发生安全事件或漏洞修复，涉及关键数字：27.2。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Apple、HomeView发生安全事件或漏洞修复。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart hom...。The strings describe a security camera mode with motion detection, live streaming, and recording options, as w...。According to pdfu, there is a setup page that even explicitly reads: \"Your HomeView can be used as a...。",
+      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "source": "The Verge",
+      "region": "国际",
+      "publishedAt": "2026-11-01T17:16:07+00:00",
+      "tags": [
+        "科技产业",
+        "硬件",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 688,
+      "summaryLength": 309,
+      "summaryQuality": "medium",
+      "readerTextZh": "Reddit、HomeView、Apple、According发生安全事件或漏洞修复，涉及关键数字：27.2。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Apple、HomeView发生安全事件或漏洞修复。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
       "titleZh": "TechCrunch Mobility ：新的、更大的自动驾驶汽车热潮来了",
-      "summary": "欢迎回到TechCrunch Mobility ，这是您未来交通的枢纽，现在，人工智能比以往任何时候都更能发挥作用。但这里还有另一个潜在的利润丰厚的发展： Rivian和Volks之间价值58亿美元的合资企业。TechCrunch Mobility、AV发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。",
+      "summary": "TechCrunch Mobility ：新的、更大的自动驾驶汽车热潮来了。TechCrunch Mobility、AV发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
       "originalSummary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in...。But here is another potentially lucrative development: The $5.8 billion joint venture between Rivian and Volks...。To get this in your inbox I’ve joked here and on the Equity and Autonocast podcasts that the autonom...。",
       "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
       "source": "TechCrunch",
@@ -119,36 +323,13 @@
         "AI",
         "产品",
         "安全",
-        "软件工程"
+        "机器人"
       ],
       "analysisMethod": "article-text",
       "sourceTextLength": 6473,
-      "summaryLength": 292,
+      "summaryLength": 302,
       "summaryQuality": "strong",
-      "readerTextZh": "欢迎回到TechCrunch Mobility ，这是您未来交通的枢纽，现在，人工智能比以往任何时候都更能发挥作用。但这里还有另一个潜在的利润丰厚的发展： Rivian和Volks之间价值58亿美元的合资企业。TechCrunch Mobility、AV发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "titleZh": "HomePod Mini发布产品或能力更新",
-      "summary": "It、Apple、For发生产品发布或能力更新，涉及关键数字：$50 m、$99。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。HomePod Mini、Three发生科技产业或开发者生态变化，涉及关键数字：2。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some col...。For $50 more than the original, which launched at $99, Apple didn't even upgrade the sound system。Apple’s second-generation HomePod Mini is a nice upgrade, but the biggest improvement hasn’t arrived...。",
-      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-      "source": "The Verge",
-      "region": "国际",
-      "publishedAt": "2026-11-01T16:52:22+00:00",
-      "tags": [
-        "科技产业",
-        "硬件",
-        "芯片",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 839,
-      "summaryLength": 306,
-      "summaryQuality": "medium",
-      "readerTextZh": "It、Apple、For发生产品发布或能力更新，涉及关键数字：$50 m、$99。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。HomePod Mini、Three发生科技产业或开发者生态变化，涉及关键数字：2。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "readerTextZh": "TechCrunch Mobility ：新的、更大的自动驾驶汽车热潮来了。TechCrunch Mobility、AV发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     },
     {
@@ -175,8 +356,8 @@
     },
     {
       "title": "Binance resumes withdrawals following $6.3 billion breach",
-      "titleZh": "币安在63亿美元违规后恢复提款",
-      "summary": "加密货币交易所表示，它现在已经覆盖了95%的被盗资产。加密货币交易所说它加密货币交易所说它加密货币交易所币安宣布。Binance发生安全事件或漏洞修复，涉及关键数字：$6.3 b。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "titleZh": "Binance披露安全风险",
+      "summary": "Cryptocurrency、Binance、As、Sunday发生AI 模型或智能体能力进展，涉及关键数字：95%。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Binance发生安全事件或漏洞修复，涉及关键数字：$6.3 b。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
       "originalSummary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets。The cryptocurrency exchange said it The cryptocurrency exchange said it Cryptocurrency exchange Binance announ...。As of Sunday morning, the company’s network status page showed a mix of normal, partially suspended...。",
       "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
       "source": "TechCrunch",
@@ -190,33 +371,10 @@
         "软件工程"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 3556,
-      "summaryLength": 315,
+      "sourceTextLength": 3901,
+      "summaryLength": 313,
       "summaryQuality": "strong",
-      "readerTextZh": "加密货币交易所表示，它现在已经覆盖了95%的被盗资产。加密货币交易所说它加密货币交易所说它加密货币交易所币安宣布。Binance发生安全事件或漏洞修复，涉及关键数字：$6.3 b。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
-      "titleZh": "Show HN披露安全风险",
-      "summary": "Saw Karpathy、HackerTube、So、Claude发生科技产业或开发者生态变化，涉及关键数字：5.5、16.5k、2007。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Show HN、HackerBooks、HackerTube、HN发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。",
-      "originalSummary": "Saw Karpathy's HackerTube and wanted the same thing for books。So I had Claude build one (Opus 5.5)。It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now。",
-      "url": "https://hackerbooks.org",
-      "source": "Hacker News",
-      "region": "国际",
-      "publishedAt": "2026-11-01T15:58:28+00:00",
-      "tags": [
-        "开发者",
-        "创业",
-        "开源",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 690,
-      "summaryLength": 302,
-      "summaryQuality": "medium",
-      "readerTextZh": "Saw Karpathy、HackerTube、So、Claude发生科技产业或开发者生态变化，涉及关键数字：5.5、16.5k、2007。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Show HN、HackerBooks、HackerTube、HN发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "readerTextZh": "Cryptocurrency、Binance、As、Sunday发生AI 模型或智能体能力进展，涉及关键数字：95%。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Binance发生安全事件或漏洞修复，涉及关键数字：$6.3 b。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     },
     {
@@ -240,121 +398,6 @@
       "summaryLength": 321,
       "summaryQuality": "fair",
       "readerTextZh": "Hackers、GitLab、Alpine Linux、October发生安全事件或漏洞修复，涉及关键数字：20、21。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Alpine Linux、GitLab、RCE发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-      "titleZh": "Pixel 11 Pro折叠：在广阔的世界中呈现坚固的矩形",
-      "summary": "Pixel 11 Pro折叠：在广阔的世界中呈现坚固的矩形。Pixel、Pro Fold、Sturdy发生科技产业或开发者生态变化，涉及关键数字：11 。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "Google made a sturdy phone, but there is increasing competition in the foldable world。Google, however, stuck to its guns this year and produced a Pixel 11 Pro Fold, which is pretty much similar to...。The new olive color looks subtle but gorgeous, so that’s a bonus。",
-      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-      "source": "TechCrunch",
-      "region": "国际",
-      "publishedAt": "2026-11-01T15:00:00+00:00",
-      "tags": [
-        "创业",
-        "AI",
-        "产品",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 6356,
-      "summaryLength": 301,
-      "summaryQuality": "strong",
-      "readerTextZh": "Pixel 11 Pro折叠：在广阔的世界中呈现坚固的矩形。Pixel、Pro Fold、Sturdy发生科技产业或开发者生态变化，涉及关键数字：11 。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "titleZh": "Police出现新的技术和产品进展",
-      "summary": "Police、Flock发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "Police chief unplugs Flock cameras after company ignores contract cancellation。",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-      "source": "Hacker News",
-      "region": "国际",
-      "publishedAt": "2026-11-01T14:36:13+00:00",
-      "tags": [
-        "开发者",
-        "创业",
-        "开源",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 316,
-      "summaryLength": 261,
-      "summaryQuality": "medium",
-      "readerTextZh": "Police、Flock发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "titleZh": "Lenovo出现新的技术和产品进展",
-      "summary": "Lenovo、USB、SD发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case。",
-      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "source": "Hacker News",
-      "region": "国际",
-      "publishedAt": "2026-11-01T14:34:43+00:00",
-      "tags": [
-        "开发者",
-        "创业",
-        "开源",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 207,
-      "summaryLength": 261,
-      "summaryQuality": "fair",
-      "readerTextZh": "Lenovo、USB、SD发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "North Korea linked to massive Binance crypto heist",
-      "titleZh": "North Korea披露安全风险",
-      "summary": "The FBI、North Korea、Binance、October发生AI 模型或智能体能力进展，涉及关键数字：$6.3 b、29。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。North Korea、Binance发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。",
-      "originalSummary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th。The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack con...。The agency offered few other details or evidence。",
-      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-      "source": "The Verge",
-      "region": "国际",
-      "publishedAt": "2026-11-01T14:33:11+00:00",
-      "tags": [
-        "科技产业",
-        "硬件",
-        "AI",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 687,
-      "summaryLength": 287,
-      "summaryQuality": "medium",
-      "readerTextZh": "The FBI、North Korea、Binance、October发生AI 模型或智能体能力进展，涉及关键数字：$6.3 b、29。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。North Korea、Binance发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "titleZh": "Here出现新的技术和产品进展",
-      "summary": "Startup Everbloom发生科技产业或开发者生态变化，涉及关键数字：25。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Here发生科技产业或开发者生态变化，涉及关键数字：25。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar。",
-      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "source": "TechCrunch",
-      "region": "国际",
-      "publishedAt": "2026-11-01T14:00:00+00:00",
-      "tags": [
-        "创业",
-        "AI",
-        "产品",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 104,
-      "summaryLength": 299,
-      "summaryQuality": "weak",
-      "readerTextZh": "Startup Everbloom发生科技产业或开发者生态变化，涉及关键数字：25。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Here发生科技产业或开发者生态变化，涉及关键数字：25。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     },
     {
@@ -400,29 +443,6 @@
       "summaryLength": 287,
       "summaryQuality": "medium",
       "readerTextZh": "No、MIT Technology Review、Emacs、But发生AI 模型或智能体能力进展，涉及关键数字：50 、50。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Mother、Emacs发生科技产业或开发者生态变化，涉及关键数字：50。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Restrooms along the Norwegian Scenic Routes",
-      "titleZh": "Restrooms出现新的技术和产品进展",
-      "summary": "Restrooms、Norwegian Scenic Routes发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "Restrooms along the Norwegian Scenic Routes。",
-      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-      "source": "Hacker News",
-      "region": "国际",
-      "publishedAt": "2026-11-01T10:47:58+00:00",
-      "tags": [
-        "开发者",
-        "创业",
-        "开源",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 210,
-      "summaryLength": 280,
-      "summaryQuality": "fair",
-      "readerTextZh": "Restrooms、Norwegian Scenic Routes发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     },
     {
@@ -563,73 +583,6 @@
       "isTranslated": true
     },
     {
-      "title": "Google's AI satellite sends a very expensive haiku to Earth",
-      "titleZh": "Google发布产品或能力更新",
-      "summary": "Google、Friday、AI、During发生产品发布或能力更新，涉及关键数字：4。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Google、AI、Earth发生AI 模型或智能体能力进展。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite。\"During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to ge...。The company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit...。",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-      "source": "The Register",
-      "region": "国际",
-      "publishedAt": "2026-10-31T15:36:14+00:00",
-      "tags": [
-        "软件工程",
-        "安全",
-        "云计算",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 3332,
-      "summaryLength": 302,
-      "summaryQuality": "medium",
-      "readerTextZh": "Google、Friday、AI、During发生产品发布或能力更新，涉及关键数字：4。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Google、AI、Earth发生AI 模型或智能体能力进展。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "titleZh": "New Android SMS披露安全风险",
-      "summary": "Android、SMS、Death发生安全事件或漏洞修复。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。New Android SMS、Death发生安全事件或漏洞修复。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\"...。",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "source": "BleepingComputer",
-      "region": "国际",
-      "publishedAt": "2026-10-31T15:35:11+00:00",
-      "tags": [
-        "安全",
-        "漏洞",
-        "攻击",
-        "硬件",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 281,
-      "summaryLength": 290,
-      "summaryQuality": "medium",
-      "readerTextZh": "Android、SMS、Death发生安全事件或漏洞修复。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。New Android SMS、Death发生安全事件或漏洞修复。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s",
-      "titleZh": "Goth推进 AI 模型与应用能力",
-      "summary": "Microsoft、Raymond Chen、Windows发生AI 模型或智能体能力进展，涉及关键数字：116。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Goth、Windows发生科技产业或开发者生态变化，涉及关键数字：3.1。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "Microsoft senior software engineer Raymond Chen has explained what Windows is doing when you hold down the power button, and share...。The same turned out to be true of a user who called Microsoft customer support to complain that after Windows...。There's a section in The Hitchhiker's Guide to the Galaxy (actually, page 116 of this writer's dog-e...。",
-      "url": "https://www.theregister.com/offbeat/2026/10/31/goth-aesthetic-gone-wild-a-users-self-inflicted-black-screen-of-non-death-in-windows-31s/5306592",
-      "source": "The Register",
-      "region": "国际",
-      "publishedAt": "2026-10-31T12:00:00+00:00",
-      "tags": [
-        "软件工程",
-        "安全",
-        "云计算",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 2717,
-      "summaryLength": 320,
-      "summaryQuality": "medium",
-      "readerTextZh": "Microsoft、Raymond Chen、Windows发生AI 模型或智能体能力进展，涉及关键数字：116。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Goth、Windows发生科技产业或开发者生态变化，涉及关键数字：3.1。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
       "title": "Seabirds racing home over the ocean can get jet-lagged",
       "titleZh": "Seabirds出现新的技术和产品进展",
       "summary": "Flying、Science、Manx、North Atl发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与科学、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Seabirds发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
@@ -697,91 +650,6 @@
       "isTranslated": true
     },
     {
-      "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
-      "titleZh": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
-      "summary": "对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响...。点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！。假设新增了 100 条读数，涉及 40 个电表，那么只有 40 个数据分组受到影响，其余数百万个分组都没有变化，可以完全不予处理。",
-      "originalSummary": "对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响...。点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！。假设新增了 100 条读数，涉及 40 个电表，那么只有 40 个数据分组受到影响，其余数百万个分组都没有变化，可以完全不予处理。",
-      "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文",
-      "region": "国内",
-      "publishedAt": "2026-11-01T19:12:53+00:00",
-      "tags": [
-        "软件工程",
-        "架构",
-        "AI"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 3173,
-      "summaryLength": 216,
-      "summaryQuality": "strong",
-      "readerTextZh": "对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 2026 年，智能体将在企业级应用中取得哪些实质性突破？ 点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！ 聚合流水线是 Snowflake 在动态表（Dynamic Tables）客户中观察到的最常见模式之一：将订单数据按客户汇总、将会话数据按账户汇总，或将传感器读数按设备汇总 只需在动态表中定义 GROUP BY ，流水线就能自动保持数据最新，无需编写任何刷新逻辑 Snowflake 已显著提升这一模式的运行效率 对于动态表定义中位于顶层的受支持聚合操作，Snowflake 现在可以利用已经存储的聚合结果进行刷新，无需从头重新计算受影响的数据分组 这一优化完全自动完成，无需使用新的关键字，也无需设置任何选项 只要动态表的定义符合相应的结构要求，优化就会自动生效 下面将详细介绍其工作原理 假设有一张动态表，用于持续汇总每个电表的累计用电量及峰值读数： CREATE OR ALTER DYNAMIC TABLE dt_meter_consumption TARGET_LAG = '5 minutes' WAREHOUSE = pipeline_wh AS SELECT meter_id, SUM (kwh) AS kwh_total, MAX (kwh) AS kwh_peak FROM meter_readings GROUP BY meter_id 复制代码 理论上，这条查询应该能够进行增量更新，并具有良好的成本效益",
-      "isTranslated": false
-    },
-    {
-      "title": "写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践",
-      "titleZh": "写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践",
-      "summary": "Snowflake 最近通过推出技能与插件共享功能，可以将本地技能转化为账户范围内可共享、可治理、支持版本管理的对象 Snowflake 最近通过推出技能与插件共享功能，可以将本地技能转化为账户范围内可共享、可治理、支持版本管理的对象 2026 年，智能体将在...。点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！。如果你使用过 CoCo（Snowflake 的智能体 AI 助手，原名 Cortex Code），那么你可能已经创建过一两个 SKILL.md 文件。",
-      "originalSummary": "Snowflake 最近通过推出技能与插件共享功能，可以将本地技能转化为账户范围内可共享、可治理、支持版本管理的对象 Snowflake 最近通过推出技能与插件共享功能，可以将本地技能转化为账户范围内可共享、可治理、支持版本管理的对象 2026 年，智能体将在...。点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！。如果你使用过 CoCo（Snowflake 的智能体 AI 助手，原名 Cortex Code），那么你可能已经创建过一两个 SKILL.md 文件。",
-      "url": "https://www.infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文",
-      "region": "国内",
-      "publishedAt": "2026-11-01T18:24:53+00:00",
-      "tags": [
-        "软件工程",
-        "架构",
-        "AI"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2497,
-      "summaryLength": 218,
-      "summaryQuality": "strong",
-      "readerTextZh": "Snowflake 最近通过推出技能与插件共享功能，可以将本地技能转化为账户范围内可共享、可治理、支持版本管理的对象 Snowflake 最近通过推出技能与插件共享功能，可以将本地技能转化为账户范围内可共享、可治理、支持版本管理的对象 2026 年，智能体将在企业级应用中取得哪些实质性突破？ 点击下载 《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！ 如果你使用过 CoCo（Snowflake 的智能体 AI 助手，原名 Cortex Code），那么你可能已经创建过一两个 SKILL.md 文件 这类文件就像一份可复用的操作指南，能够教会智能体如何完成特定且可重复的任务，例如核对 Snowflake 成本报告，或生成每周高管业务指标摘要 然而，一直以来，维护这些技能并将其分享给更广泛的团队都相当繁琐 如今，这一情况终于有了改变 Snowflake 最近通过推出技能与插件共享功能，填补了这一空白 这项目前处于预览阶段的功能，可以将本地技能转化为账户范围内可共享、可治理、支持版本管理的对象，其底层依托一种名为 Cortex Extension（Cortex 扩展）的原生 SQL 对象 用户可以通过链接分享技能，浏览其他人共享的技能目录",
-      "isTranslated": false
-    },
-    {
-      "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
-      "titleZh": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
-      "summary": "REA 项目将 AI 智能体引入二进制分析 REA 项目将 AI 智能体引入二进制分析 Reverse Engineer Anything （REA）是一个开源项目，在 GitHub 上已获得超过 20 万个 Star。REA 在本地运行，也没有声称能够恢复原始源代码 GitHub 上的 展示案例 演示了 REA 如何追踪 Notion 的 Electron 剪贴板实现 ，如何从经典游戏 DX-Ball 中重建声音声像定位函数，并通过测...。它将 Claude Code 和 Codex 等编码智能体与 Ghidra、Hopper、IDA 等逆向工程工具连接起来，让开发者能够检查编译后的二进制文件、追踪函数调用，并调查应用程序如何实现特定功...。",
-      "originalSummary": "REA 项目将 AI 智能体引入二进制分析 REA 项目将 AI 智能体引入二进制分析 Reverse Engineer Anything （REA）是一个开源项目，在 GitHub 上已获得超过 20 万个 Star。REA 在本地运行，也没有声称能够恢复原始源代码 GitHub 上的 展示案例 演示了 REA 如何追踪 Notion 的 Electron 剪贴板实现 ，如何从经典游戏 DX-Ball 中重建声音声像定位函数，并通过测...。它将 Claude Code 和 Codex 等编码智能体与 Ghidra、Hopper、IDA 等逆向工程工具连接起来，让开发者能够检查编译后的二进制文件、追踪函数调用，并调查应用程序如何实现特定功...。",
-      "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文",
-      "region": "国内",
-      "publishedAt": "2026-11-01T17:00:00+00:00",
-      "tags": [
-        "软件工程",
-        "架构",
-        "AI",
-        "开源"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 1683,
-      "summaryLength": 270,
-      "summaryQuality": "strong",
-      "readerTextZh": "REA 项目将 AI 智能体引入二进制分析 REA 项目将 AI 智能体引入二进制分析 Reverse Engineer Anything （REA）是一个开源项目，在 GitHub 上已获得超过 20 万个 Star 它将 Claude Code 和 Codex 等编码智能体与 Ghidra、Hopper、IDA 等逆向工程工具连接起来，让开发者能够检查编译后的二进制文件、追踪函数调用，并调查应用程序如何实现特定功能 REA 使用 MCP 服务器向智能体开放逆向工程工具 智能体可以查询反汇编器、检查函数和交叉引用、追踪程序行为，并针对二进制文件反复验证假设 该工具还支持对 JavaScript 和 Electron 应用以及 .NET 程序集进行静态分析，并利用分析结果指导后续调查 REA 在本地运行，也没有声称能够恢复原始源代码 GitHub 上的 展示案例 演示了 REA 如何追踪 Notion 的 Electron 剪贴板实现 ，如何从经典游戏 DX-Ball 中重建声音声像定位函数，并通过测试匹配全部 3205 个原始 x86 用例和编译后函数的全部 63 个字节，以及如何从 DOS 游戏 Touhou 4 的 16 位代码中恢复弹幕环的角度计算逻辑 在 Hacker News 上，一些从业者质疑，与直接让 AI 编码智能体安装并使用 Ghidra 相比，该项目究竟增加了什么 Ghidra 是美国国家安全局开发的一款开源工具，用于分析编译后的程序 另一些用户则表示，与过去通过 AI 智能体使用逆向工程工具的尝试相比，REA 带来了更好的结果 Hacker News 用户 revelationnow 则 写道 ： 我觉得这会加速大型科技公司将应用迁移到云端",
-      "isTranslated": false
-    },
-    {
-      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "titleZh": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "summary": "而惠普的 Jornada 系列，被大众熟知的型号更多是 Handheld PC，它们定位面向商务办公，同时价格也更高 不过，本期《怀旧手记》要为大家带来的则是一款更为小众，但设计又十分超前的掌上电脑PDA：夏普 Telios HC-VJ1C，它的形态就是我们说...。夏普对 Telios 系列的定位很清晰：「邮件／互联网终端」，在传统 H/PC 作为「PC 第二台机器」的基础上，重点强化了便捷的邮件收发和上网体验 而这次我要分享的是夏普于 2000 年 3 月推出的 HC-VJ1C。",
-      "originalSummary": "而惠普的 Jornada 系列，被大众熟知的型号更多是 Handheld PC，它们定位面向商务办公，同时价格也更高 不过，本期《怀旧手记》要为大家带来的则是一款更为小众，但设计又十分超前的掌上电脑PDA：夏普 Telios HC-VJ1C，它的形态就是我们说...。夏普对 Telios 系列的定位很清晰：「邮件／互联网终端」，在传统 H/PC 作为「PC 第二台机器」的基础上，重点强化了便捷的邮件收发和上网体验 而这次我要分享的是夏普于 2000 年 3 月推出的 HC-VJ1C。",
-      "url": "https://sspai.com/post/116991",
-      "source": "少数派",
-      "region": "国内",
-      "publishedAt": "2026-11-01T07:02:46+00:00",
-      "tags": [
-        "数字生活",
-        "软件工具",
-        "硬件"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2447,
-      "summaryLength": 201,
-      "summaryQuality": "strong",
-      "readerTextZh": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点 文章代表作者个人观点 ... 查看全文 Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 文章代表作者个人观点 Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 文章代表作者个人观点 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 提起 PDA 想必大家不陌生 毕竟从 1998 年恒基伟业推出的「商务通」，到现如今活跃在物流仓库里的工业级「手持终端」，PDA 依旧活跃在我们的生活当中，只是如今的产品形态和应用场景已经有所不同 不过，PDA 其实是一个非常宽泛的泛称 如果我们从系统生态与产品定位来区分，它们其实分属不同的阵营： 第一类，是以早期「商务通」、部分联想「天玑」系列为代表的封闭系统阵营",
-      "isTranslated": false
-    },
-    {
       "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
       "titleZh": "Build推进 AI 模型与应用能力",
       "summary": "Teams、AI、NVIDIA Dynamo、GPU发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与芯片、GPU相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Build、Validated Kubernetes Runtime、NVIDIA Dynamo发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。",
@@ -826,6 +694,115 @@
       "summaryQuality": "medium",
       "readerTextZh": "Cost、AI、Many、You发生AI 模型或智能体能力进展，涉及关键数字：2.0。从已有材料看，这不是孤立的标题变化，而是与AI、云计算相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Managing Amazon Bedrock、FinOps发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
+    },
+    {
+      "title": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
+      "titleZh": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
+      "summary": "其 7.3 版现已发布，这是该项目的一个重要里程碑 TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架。其 7.3 版本现在已经发布，这是该项目的一个重要里程碑 InfoQ 此前曾于 2025 年 12 月 和 2022 年对该项目进行过报道 TornadoVM 可以在多核 CPU 和 GPU 上自动加速 Java 程序。因此，它又增加了其他 API，如内核上下文 API 和前文提到的 TileContext 随着 7.3 版本的发布，TornadoVM 团队推出了 jitLLM v2.0——这是基于 TornadoVM 构建的下一代 J...。",
+      "originalSummary": "其 7.3 版现已发布，这是该项目的一个重要里程碑 TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架。其 7.3 版本现在已经发布，这是该项目的一个重要里程碑 InfoQ 此前曾于 2025 年 12 月 和 2022 年对该项目进行过报道 TornadoVM 可以在多核 CPU 和 GPU 上自动加速 Java 程序。因此，它又增加了其他 API，如内核上下文 API 和前文提到的 TileContext 随着 7.3 版本的发布，TornadoVM 团队推出了 jitLLM v2.0——这是基于 TornadoVM 构建的下一代 J...。",
+      "url": "https://www.infoq.cn/article/X8cwbyO4O3tS1jTTdtBq?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文",
+      "region": "国内",
+      "publishedAt": "2026-11-02T11:11:00+00:00",
+      "tags": [
+        "软件工程",
+        "架构",
+        "AI",
+        "芯片",
+        "开源"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2383,
+      "summaryLength": 229,
+      "summaryQuality": "strong",
+      "readerTextZh": "TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架 其 7.3 版现已发布，这是该项目的一个重要里程碑 TornadoVM 是一个面向 Java 的开源异构 GPU 编程框架 其 7.3 版本现在已经发布，这是该项目的一个重要里程碑 InfoQ 此前曾于 2025 年 12 月 和 2022 年对该项目进行过报道 TornadoVM 可以在多核 CPU 和 GPU 上自动加速 Java 程序 它并非要取代现有的 JVM，而是与现有的 JVM 协同工作，并在 Java 中提供了一个丰富的 GPU 编程生态系统，可以与任何主流的 JDK 发行版（如 OpenJDK、Graalvm、Temurin 或 Zulu）配合使用 它将 Java 代码卸载到硬件后端，管理 Java 堆与加速器之间的内存，并运行生成的计算内核 这使其成为现代云和机器学习工作负载的一个有用的构建块 在开发过程中，TornadoVM 会将 Java 源代码编译为 OpenCL 和 Apple Metal 后端代码 其设计理念是：开发者可以在笔记本电脑上开发并利用本地可用的硬件资源，随后将代码部署到配备 Nvidia GPU 的服务器上，从而实现显著的性能提升——对于现代机器学习工作负载而言，这是一种“编写一次，到处运行”的实现方式 第 7 版带来了一些架构上的变更 后端现在使用 Foreign Function & Memory（FFM）API 取代了 Java Native Interface（JNI） 实验性的 JVM 编译器接口（JVMCI）依赖项也被移除",
+      "isTranslated": false
+    },
+    {
+      "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+      "titleZh": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+      "summary": "Buildkite 新增限定作用域的密钥和智能体 CI 工具 Buildkite 新增限定作用域的密钥和智能体 CI 工具 持续集成服务提供商 Buildkite 推出了限定流水线作用域的密钥，以及用于验证流水线、诊断构建失败和修复 Webhook 的新模型上...。该公司还为其 GitHub Actions 兼容层增加了 Linux arm64 支持，并扩展了 Buildkite Agent v4.1.0 中的 OpenTelemetry 数据 新的密钥视图位于流水线设置中。InfoQ 对 GitHub 智能体工作流的 报道 介绍了一种相关的安全模型，其基础是隔离执行、受限权限和可审计的操作 Buildkite 的 GitHub Actions 兼容层现在可以在 Linux arm64 Ag...。",
+      "originalSummary": "Buildkite 新增限定作用域的密钥和智能体 CI 工具 Buildkite 新增限定作用域的密钥和智能体 CI 工具 持续集成服务提供商 Buildkite 推出了限定流水线作用域的密钥，以及用于验证流水线、诊断构建失败和修复 Webhook 的新模型上...。该公司还为其 GitHub Actions 兼容层增加了 Linux arm64 支持，并扩展了 Buildkite Agent v4.1.0 中的 OpenTelemetry 数据 新的密钥视图位于流水线设置中。InfoQ 对 GitHub 智能体工作流的 报道 介绍了一种相关的安全模型，其基础是隔离执行、受限权限和可审计的操作 Buildkite 的 GitHub Actions 兼容层现在可以在 Linux arm64 Ag...。",
+      "url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文",
+      "region": "国内",
+      "publishedAt": "2026-11-02T09:20:00+00:00",
+      "tags": [
+        "软件工程",
+        "架构",
+        "AI",
+        "安全",
+        "开源"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2640,
+      "summaryLength": 301,
+      "summaryQuality": "strong",
+      "readerTextZh": "Buildkite 新增限定作用域的密钥和智能体 CI 工具 Buildkite 新增限定作用域的密钥和智能体 CI 工具 持续集成服务提供商 Buildkite 推出了限定流水线作用域的密钥，以及用于验证流水线、诊断构建失败和修复 Webhook 的新模型上下文协议（MCP）工具 该公司还为其 GitHub Actions 兼容层增加了 Linux arm64 支持，并扩展了 Buildkite Agent v4.1.0 中的 OpenTelemetry 数据 新的密钥视图位于流水线设置中 工程师可以在此创建仅限当前流水线访问的集群密钥，而不必通过范围更广的集群界面管理每个密钥 团队还可以按分支、队列、构建来源或构建创建者添加访问条件 密钥值在创建后仍会保持隐藏 Matt Mejia 在 Buildkite 的 公告 中表示，这项改动“将流水线专用密钥集中在一起”，同时显示集群还管理着多少其他密钥 用户需要同时拥有编辑该流水线和管理其所属集群的权限 GitHub Actions 流水线在首次运行工作流之前，也会显示一个指向密钥配置的提示 流水线密钥是仅限当前流水线使用的集群密钥，而分支、队列、构建来源或创建者条件可以进一步缩小访问范围 Buildkite CLI 现在包含用于迁移 GitHub Actions 密钥的命令 3.59.1 版本修复了迁移过程中对相对工作流路径的处理",
+      "isTranslated": false
+    },
+    {
+      "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "titleZh": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "summary": "Agent 在不起眼的环节吃token Agent 在不起眼的环节吃token 10 月 29 日，OpenAI 产品负责人 Tibo 宣布，从即日起，Pro 100、Pro 200、Pro 500 以及 Business Premium 套餐的使用限制全面翻...。OpenAI 此前推出 500 美元的 Pro 500，并调整 200 美元 Pro 套餐的权益，原有 Pro 200 用户曾面临部分使用额度下调的预期。与此同时，Dots 目前仍将继续享有扩容额度，而且其使用量与账户默认额度相互独立，不计入默认额度 这项调整实际上回应了此前 Pro 订阅体系调整引发的争议。",
+      "originalSummary": "Agent 在不起眼的环节吃token Agent 在不起眼的环节吃token 10 月 29 日，OpenAI 产品负责人 Tibo 宣布，从即日起，Pro 100、Pro 200、Pro 500 以及 Business Premium 套餐的使用限制全面翻...。OpenAI 此前推出 500 美元的 Pro 500，并调整 200 美元 Pro 套餐的权益，原有 Pro 200 用户曾面临部分使用额度下调的预期。与此同时，Dots 目前仍将继续享有扩容额度，而且其使用量与账户默认额度相互独立，不计入默认额度 这项调整实际上回应了此前 Pro 订阅体系调整引发的争议。",
+      "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文",
+      "region": "国内",
+      "publishedAt": "2026-11-02T09:16:03+00:00",
+      "tags": [
+        "软件工程",
+        "架构",
+        "AI"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3184,
+      "summaryLength": 240,
+      "summaryQuality": "strong",
+      "readerTextZh": "Agent 在不起眼的环节吃token Agent 在不起眼的环节吃token 10 月 29 日，OpenAI 产品负责人 Tibo 宣布，从即日起，Pro 100、Pro 200、Pro 500 以及 Business Premium 套餐的使用限制全面翻倍 其中还有一项重要说明：OpenAI 听取用户反馈后，决定不再削减 Pro 200 的使用额度，因此该套餐的 ChatGPT Work 和 Codex 使用量将维持原有水平 与此同时，Dots 目前仍将继续享有扩容额度，而且其使用量与账户默认额度相互独立，不计入默认额度 这项调整实际上回应了此前 Pro 订阅体系调整引发的争议 OpenAI 此前推出 500 美元的 Pro 500，并调整 200 美元 Pro 套餐的权益，原有 Pro 200 用户曾面临部分使用额度下调的预期 此次公告撤回了相关削减安排，意味着用户反馈确实影响了最终政策决定 后续，有用户进一步询问，Pro 500 是否意味着可以获得相当于 Plus 套餐 50 倍的使用量，Tibo 直接回答“Yes” 这也体现出 OpenAI 正在进一步拉开不同付费层级之间的使用额度差距，为高强度 AI 编程和工作流用户提供更大的使用空间 社区对此并非一边倒地叫好 部分 Pro 用户欢迎额度扩容，但也有 200 美元 Pro 用户指出，自己此前已经享有较高额度，此次只是撤回了原定的削减计划，并没有获得真正意义上的新增权益 “我很高兴其他 Pro 档位以及低额度套餐的用户拿到了实打实的额度上涨，这些才是真正的优化 但把取消原定降额这件事，打包算进 28 天改进计划里，对外宣传成全面翻倍升级，这有误导之嫌 坦白说，对于一直在跟进这件事、并且依赖官方公告做规划的用户而言，这种说法实在让人难以接受",
+      "isTranslated": false
+    },
+    {
+      "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek",
+      "titleZh": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek",
+      "summary": "百度正式推出AI互动剧和AI互动应用 百度正式推出AI互动剧和AI互动应用 10 月 30 日，百度 APP 围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用等方向推出多项升级，并全新升级搜索 AI API。百度表示，搜索正在从“一次提问、一次回答”，进一步走向“一项任务、一份交付”，同时通过多 Agent 协同和在线反馈闭环实现递归式自我进化 面向开发者和企业，百度全新升级的搜索 AI API，其背后是一套 AI 原生四层...。价格方面，搜索 AI API 增强版接口活动期间最低为 4.9 元/千次，旗舰版为 9.9 元/千次。",
+      "originalSummary": "百度正式推出AI互动剧和AI互动应用 百度正式推出AI互动剧和AI互动应用 10 月 30 日，百度 APP 围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用等方向推出多项升级，并全新升级搜索 AI API。百度表示，搜索正在从“一次提问、一次回答”，进一步走向“一项任务、一份交付”，同时通过多 Agent 协同和在线反馈闭环实现递归式自我进化 面向开发者和企业，百度全新升级的搜索 AI API，其背后是一套 AI 原生四层...。价格方面，搜索 AI API 增强版接口活动期间最低为 4.9 元/千次，旗舰版为 9.9 元/千次。",
+      "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文",
+      "region": "国内",
+      "publishedAt": "2026-11-02T09:12:15+00:00",
+      "tags": [
+        "软件工程",
+        "架构",
+        "AI"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2565,
+      "summaryLength": 218,
+      "summaryQuality": "strong",
+      "readerTextZh": "百度正式推出AI互动剧和AI互动应用 百度正式推出AI互动剧和AI互动应用 10 月 30 日，百度 APP 围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用等方向推出多项升级，并全新升级搜索 AI API 价格方面，搜索 AI API 增强版接口活动期间最低为 4.9 元/千次，旗舰版为 9.9 元/千次 百度称，4.9 元/千次的价格低于 DeepSeek 搜索 API，希望通过更低调用成本扩大搜索能力在 Agent 中的使用 与此同时，百度还进一步开放 API、MCP、Skill 等多种接入方式，希望把搜索能力从百度 APP 内部释放给更多 Agent 和企业应用 百度表示，搜索正在从“一次提问、一次回答”，进一步走向“一项任务、一份交付”，同时通过多 Agent 协同和在线反馈闭环实现递归式自我进化 面向开发者和企业，百度全新升级的搜索 AI API，其背后是一套 AI 原生四层架构 在内容层，百度汇聚全球 80 余种语言、千亿级优质索引，并结合大模型进行内容判断，官方数据显示数据可信率提升超过 50% 在引擎层，百度重点加入了在线反馈闭环和多 Agent 协同自进化机制 每一次真实检索以及随后的用户反馈，都可以沉淀为新的训练信号，再通过“检索—反馈—再训练”的闭环重新回流模型，让系统持续调整检索和结果生成策略 百度将这一过程称为“RSI”：搜索系统不仅响应用户问题，同时还利用真实使用数据不断产生新的训练信号，在无需人工逐条干预的情况下持续优化 官方数据显示，这套机制使整体迭代效率提升 80%以上 在架构层，搜索 AI API 强调高并发、低时延和企业级服务保障，支持百万级并发调用 在应用层，则进一步开放 API、MCP、Skill 等多种接入方式，方便 Agent 和企业系统调用",
+      "isTranslated": false
+    },
+    {
+      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+      "titleZh": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+      "summary": "而惠普的 Jornada 系列，被大众熟知的型号更多是 Handheld PC，它们定位面向商务办公，同时价格也更高 不过，本期《怀旧手记》要为大家带来的则是一款更为小众，但设计又十分超前的掌上电脑PDA：夏普 Telios HC-VJ1C，它的形态就是我们说...。夏普对 Telios 系列的定位很清晰：「邮件／互联网终端」，在传统 H/PC 作为「PC 第二台机器」的基础上，重点强化了便捷的邮件收发和上网体验 而这次我要分享的是夏普于 2000 年 3 月推出的 HC-VJ1C。",
+      "originalSummary": "而惠普的 Jornada 系列，被大众熟知的型号更多是 Handheld PC，它们定位面向商务办公，同时价格也更高 不过，本期《怀旧手记》要为大家带来的则是一款更为小众，但设计又十分超前的掌上电脑PDA：夏普 Telios HC-VJ1C，它的形态就是我们说...。夏普对 Telios 系列的定位很清晰：「邮件／互联网终端」，在传统 H/PC 作为「PC 第二台机器」的基础上，重点强化了便捷的邮件收发和上网体验 而这次我要分享的是夏普于 2000 年 3 月推出的 HC-VJ1C。",
+      "url": "https://sspai.com/post/116991",
+      "source": "少数派",
+      "region": "国内",
+      "publishedAt": "2026-11-01T07:02:46+00:00",
+      "tags": [
+        "数字生活",
+        "软件工具",
+        "硬件"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2447,
+      "summaryLength": 201,
+      "summaryQuality": "strong",
+      "readerTextZh": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点 文章代表作者个人观点 ... 查看全文 Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 文章代表作者个人观点 Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 文章代表作者个人观点 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 提起 PDA 想必大家不陌生 毕竟从 1998 年恒基伟业推出的「商务通」，到现如今活跃在物流仓库里的工业级「手持终端」，PDA 依旧活跃在我们的生活当中，只是如今的产品形态和应用场景已经有所不同 不过，PDA 其实是一个非常宽泛的泛称 如果我们从系统生态与产品定位来区分，它们其实分属不同的阵营： 第一类，是以早期「商务通」、部分联想「天玑」系列为代表的封闭系统阵营",
+      "isTranslated": false
     },
     {
       "title": "Flesh-eating screwworms spread to third state and are attacking pets",
@@ -1007,6 +984,29 @@
       "summaryLength": 299,
       "summaryQuality": "medium",
       "readerTextZh": "NVIDIA GPUDirect Storage、GDS、GPU、It发生芯片与算力进展。从已有材料看，这不是孤立的标题变化，而是与芯片、GPU相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。How、Check、Configure NVIDIA GPUDirect Storage、Your Platform发生芯片与算力进展。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "Cloudflare services for private origins is now generally available",
+      "titleZh": "Cloudflare推进 AI 模型与应用能力",
+      "summary": "Today、Cloudflare、Point、DNS发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与网络、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Cloudflare发生AI 模型或智能体能力进展。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "Today, Cloudflare services for private origins is generally available。Point a proxied DNS record at a private IP, and Cloudflare reaches the origin over your existing Cloudflare On...。Your origin stays private, while web application firewall ( WAF ), caching , bot management , and Workers work...。",
+      "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
+      "source": "Cloudflare Blog",
+      "region": "国际",
+      "publishedAt": "2026-10-30T14:23:43+00:00",
+      "tags": [
+        "网络",
+        "安全",
+        "云计算",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 6047,
+      "summaryLength": 296,
+      "summaryQuality": "medium",
+      "readerTextZh": "Today、Cloudflare、Point、DNS发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与网络、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Cloudflare发生AI 模型或智能体能力进展。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     }
   ]
