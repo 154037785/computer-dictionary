@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-06T18:53:14.592023+00:00",
-  "nextUpdate": "2026-11-07T06:53:14.592023+00:00",
+  "updatedAt": "2026-11-07T04:33:50.617377+00:00",
+  "nextUpdate": "2026-11-07T16:33:50.617377+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,6 +76,29 @@
   "errors": [],
   "items": [
     {
+      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "titleZh": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "summary": "工业OT场景具备高实时性、高可靠性、强物理约束、低容错率的核心特性，通用大模型天然存在的内容幻觉、逻辑不可控、执行失控等问题，成为其规模化落地工业现场的核心技术壁垒 工业OT场景具备高实时性、高可靠性、强物理约束、低容错率的核心特性，通用大模型天然存在的内容幻...。本届大会以 探索 A 应用边界 为主题，设置 13 大技术专题，覆盖 大模型后训练、推理优化、Agent 工程、知识工程、智能体评测与安全、自进化系统、AI 软件交付、原生架构及组织变革 等核心方向，汇聚一线技术专家，深...。",
+      "originalSummary": "工业OT场景具备高实时性、高可靠性、强物理约束、低容错率的核心特性，通用大模型天然存在的内容幻觉、逻辑不可控、执行失控等问题，成为其规模化落地工业现场的核心技术壁垒 工业OT场景具备高实时性、高可靠性、强物理约束、低容错率的核心特性，通用大模型天然存在的内容幻...。本届大会以 探索 A 应用边界 为主题，设置 13 大技术专题，覆盖 大模型后训练、推理优化、Agent 工程、知识工程、智能体评测与安全、自进化系统、AI 软件交付、原生架构及组织变革 等核心方向，汇聚一线技术专家，深...。",
+      "url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-07T10:00:00+00:00",
+      "tags": [
+        "架构",
+        "软件工程",
+        "中文深度",
+        "AI",
+        "安全"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3122,
+      "summaryLength": 207,
+      "summaryQuality": "strong",
+      "readerTextZh": "工业OT场景具备高实时性、高可靠性、强物理约束、低容错率的核心特性，通用大模型天然存在的内容幻觉、逻辑不可控、执行失控等问题，成为其规模化落地工业现场的核心技术壁垒 工业OT场景具备高实时性、高可靠性、强物理约束、低容错率的核心特性，通用大模型天然存在的内容幻觉、逻辑不可控、执行失控等问题，成为其规模化落地工业现场的核心技术壁垒 当 Agent 真正进入企业流程，哪些工作可以交给 AI ？ AI 正在从回答问题的辅助工具，走向理解目标、调用系统、完成任务的工作承担者 当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住 随着大模型向推理、工具调用、多模态和长任务延伸，开发重心正从单次调用转向上下文、工具、执行环境与反馈回路的设计，Coding Agent 也从代码补全演进为能理解代码库、运行测试、完成复杂任务的工程协作者 OpenAI、Google Cloud、Anthropic 的最新实践共同指向一个结论：模型决定 Agent 能做什么，工程决定它能否真正进入生产、创造价值 在这一背景下， 2026 年 AICon 人工智能开发与应用大会 · 北京站 正式启动 本次大会将于 12 月 18–19 日 ，在北京新云南皇冠假日酒店举办 本届大会以 探索 A 应用边界 为主题，设置 13 大技术专题，覆盖 大模型后训练、推理优化、Agent 工程、知识工程、智能体评测与安全、自进化系统、AI 软件交付、原生架构及组织变革 等核心方向，汇聚一线技术专家，深入分享 AI 技术突破与企业规模化落地的真实实践 中能拾贝科技创始人兼 CTO 刘勇已确认出席 “ Knowledge Engineering｜让 Agent 理解企业 ” 专题，并发表题为 《 CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控” 》 的主题分享 工业 OT 场景具备高实时性、高可靠性、强物理约束、低容错率的核心特性，通用大模型天然存在的内容幻觉、逻辑不可控、执行失控等问题，成为其规模化落地工业现场...",
+      "isTranslated": false
+    },
+    {
       "title": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
       "titleZh": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
       "summary": "KDD（ACM SIGKDD Conference on Knowledge Discovery and Data Mining）是数据挖掘与知识发现领域最具影响力的国际顶级学术会议。本文精选了美团技术团队被 KDD 2026 收录的 8 篇论文进行分享，这些论文覆盖了推荐大模型、生成与奖励建模框架、智能体搜索、Transformer 框架、元泛化框架等技术领域。🏆 此外，大众点评技术部还荣获了 2026 KDD Cup 复杂数据分析 Data Agents 国际竞赛的冠军、季军，本文介绍了团队比赛思路和解题策略。",
@@ -83,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-06T18:52:34.594740+00:00",
+      "publishedAt": "2026-11-07T04:33:07.975905+00:00",
       "tags": [
         "后端",
         "工程",
@@ -105,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-06T18:52:33.920656+00:00",
+      "publishedAt": "2026-11-07T04:33:07.375638+00:00",
       "tags": [
         "后端",
         "工程",
@@ -127,7 +150,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-06T18:52:33.205008+00:00",
+      "publishedAt": "2026-11-07T04:33:06.641086+00:00",
       "tags": [
         "后端",
         "工程",
@@ -149,7 +172,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-06T18:52:32.560067+00:00",
+      "publishedAt": "2026-11-07T04:33:06.050050+00:00",
       "tags": [
         "后端",
         "工程",
@@ -171,7 +194,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-06T18:52:31.885549+00:00",
+      "publishedAt": "2026-11-07T04:33:05.386872+00:00",
       "tags": [
         "后端",
         "工程",
@@ -193,7 +216,7 @@
       "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-06T18:52:31.209701+00:00",
+      "publishedAt": "2026-11-07T04:33:04.733097+00:00",
       "tags": [
         "后端",
         "工程",
@@ -216,7 +239,7 @@
       "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-06T18:52:30.515816+00:00",
+      "publishedAt": "2026-11-07T04:33:04.132336+00:00",
       "tags": [
         "后端",
         "工程",
@@ -238,7 +261,7 @@
       "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-06T18:52:29.786963+00:00",
+      "publishedAt": "2026-11-07T04:33:03.510226+00:00",
       "tags": [
         "后端",
         "工程",
@@ -254,82 +277,14 @@
       "isTranslated": false
     },
     {
-      "title": "如何在“不能出错”的系统里使用 AI Coding？分布式存储实践与边界",
-      "titleZh": "如何在“不能出错”的系统里使用 AI Coding？分布式存储实践与边界",
-      "summary": "AI 能让代码写得更快，但在「不能出错」的分布式存储系统里，如何确保提效不变成风险？。本文结合美团基础技术部在 AI 评审、问题排查和自动化开发中的真实实践，分享 AI 能帮上什么忙、容易在哪些地方犯错，以及哪些地方仍需要人来把关。今年年初以来，随着Agent的普及，AI Coding 在功能开发、测试生成、脚本编写和执行、问题排查这些场景里都已经用得上了：读代码更快，实现和测试可以先让它写一版，研发之外的一部分杂活也能交给它去跑。",
-      "originalSummary": "AI 能让代码写得更快，但在「不能出错」的分布式存储系统里，如何确保提效不变成风险？。本文结合美团基础技术部在 AI 评审、问题排查和自动化开发中的真实实践，分享 AI 能帮上什么忙、容易在哪些地方犯错，以及哪些地方仍需要人来把关。今年年初以来，随着Agent的普及，AI Coding 在功能开发、测试生成、脚本编写和执行、问题排查这些场景里都已经用得上了：读代码更快，实现和测试可以先让它写一版，研发之外的一部分杂活也能交给它去跑。",
-      "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
-      "source": "美团技术团队",
-      "region": "技术团队",
-      "publishedAt": "2026-11-06T18:52:29.133204+00:00",
-      "tags": [
-        "后端",
-        "工程",
-        "技术团队",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 4474,
-      "summaryLength": 191,
-      "summaryQuality": "weak",
-      "readerTextZh": "AI 能让代码写得更快，但在「不能出错」的分布式存储系统里，如何确保提效不变成风险？ 本文结合美团基础技术部在 AI 评审、问题排查和自动化开发中的真实实践，分享 AI 能帮上什么忙、容易在哪些地方犯错，以及哪些地方仍需要人来把关 比「多写代码」更重要的，是让代码和结论经得起验证 希望这些经验能为复杂系统中的 AI 应用提供参考，在享受效率提升的同时，守住质量与稳定性的底线 1. 背景：为什么分布式存储需要更审慎地使用 AI Coding 今年年初以来，随着Agent的普及，AI Coding 在功能开发、测试生成、脚本编写和执行、问题排查这些场景里都已经用得上了：读代码更快，实现和测试可以先让它写一版，研发之外的一部分杂活也能交给它去跑 同样的人力，一个版本里能交付的功能更多，改动的代码也更多，就算 AI 写的代码千行缺陷率和人写的持平，一个版本累计引入的缺陷绝对数量照样会涨 所以 AI Coding 的目标不能只是更快地写代码，提速的同时，代码质量和验证充分性还得比常规研发要求得更高",
-      "isTranslated": false
-    },
-    {
-      "title": "美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型",
-      "titleZh": "美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型",
-      "summary": "美团正式发布 LongCat-2.5 ，这是一个面向长程智能体任务的原生多模态模型。模型总参数量为 1.6 万亿 ，每个 token 激活约 480 亿 参数，在 LongCat-2.0 的基础上进一步强化了原生视觉理解与智能体编程能力。前置冷启阶段仅需覆盖少量适配 scaffold 用例，在 RL 阶段，通过跨多任务和跨 scaffold 的混合训练可显著提高模型泛化能力，并促进不同任务上的性能提升 为将各领域能力融入主线模型，我们沿用 LongCat...。",
-      "originalSummary": "美团正式发布 LongCat-2.5 ，这是一个面向长程智能体任务的原生多模态模型。模型总参数量为 1.6 万亿 ，每个 token 激活约 480 亿 参数，在 LongCat-2.0 的基础上进一步强化了原生视觉理解与智能体编程能力。前置冷启阶段仅需覆盖少量适配 scaffold 用例，在 RL 阶段，通过跨多任务和跨 scaffold 的混合训练可显著提高模型泛化能力，并促进不同任务上的性能提升 为将各领域能力融入主线模型，我们沿用 LongCat...。",
-      "url": "https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html",
-      "source": "美团技术团队",
-      "region": "技术团队",
-      "publishedAt": "2026-11-06T18:52:28.430218+00:00",
-      "tags": [
-        "后端",
-        "工程",
-        "技术团队",
-        "AI",
-        "软件工程"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 9786,
-      "summaryLength": 195,
-      "summaryQuality": "weak",
-      "readerTextZh": "美团正式发布 LongCat-2.5 ，这是一个面向长程智能体任务的原生多模态模型 模型总参数量为 1.6 万亿 ，每个 token 激活约 480 亿 参数，在 LongCat-2.0 的基础上进一步强化了原生视觉理解与智能体编程能力 新模型在长程智能体任务中有明显效果提升，这源于我们在长序列训练中加入了更多长程轨迹数据，并通过大规模长程强化学习，提升模型在复杂代码库开发、完整项目构建等任务中的端到端工程能力 围绕数据合成、环境构建与跨 Harness 混合训练，我们持续扩展这条训练链路 此外，我们也将真实 Agent 的失败轨迹转化为可复现、可验证的训练任务，针对模型能力短板持续补充训练数据 与此同时，LongCat-2.5 具备原生视觉理解能力，可将视觉信号表示为多层级离散 token，使主干模型以统一的 token 形式处理视觉与文本输入，在 Visual Coding 上表现出色，并支持创意设计和 3D 等任务 这些升级背后，是持续演进的基础设施：我们优化了国产算力上的长上下文训练与 W4A4 推理，并通过训推数值一致性和长上下文 rollout 优化，支撑大规模长程 RL 的高效运行 为直观呈现 LongCat-2.5 当前的能力水平，我们在下图中选取 GPT-5.5、GPT-5.6-Sol、Claude-Opus-4.8 和 Claude-Opus-5 进行对比",
-      "isTranslated": false
-    },
-    {
-      "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
-      "titleZh": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
-      "summary": "tsrs 是 TypeScript 编译器的 Rust 移植版，由 Cloudflare 宣布推出，并与 VoidZero 及 Owner.com 的 Max Schwenk 共同开发。完成前一步后，迁移到 tsrs 只需继续使用现有的 tsconfig 即可 tsrs 采用 Apache-2.0 开源许可证，现已在 GitHub 上发布 查看英文原文： Cloudflare and VoidZero...。该项目在 Oxc 工具链中孵化，并与 TypeScript 团队密切合作。",
-      "originalSummary": "tsrs 是 TypeScript 编译器的 Rust 移植版，由 Cloudflare 宣布推出，并与 VoidZero 及 Owner.com 的 Max Schwenk 共同开发。完成前一步后，迁移到 tsrs 只需继续使用现有的 tsconfig 即可 tsrs 采用 Apache-2.0 开源许可证，现已在 GitHub 上发布 查看英文原文： Cloudflare and VoidZero...。该项目在 Oxc 工具链中孵化，并与 TypeScript 团队密切合作。",
-      "url": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T17:00:00+00:00",
-      "tags": [
-        "架构",
-        "软件工程",
-        "中文深度",
-        "AI",
-        "云计算"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2262,
-      "summaryLength": 196,
-      "summaryQuality": "weak",
-      "readerTextZh": "tsrs 是 TypeScript 编译器的 Rust 移植版，由 Cloudflare 宣布推出，并与 VoidZero 及 Owner.com 的 Max Schwenk 共同开发 该项目在 Oxc 工具链中孵化，并与 TypeScript 团队密切合作 Cloudflare 强调，tsrs 并非 TypeScript 的分支，语言设计仍完全由 TypeScript 团队掌控 tsrs 是 TypeScript 编译器的 Rust 移植版，由 Cloudflare 宣布推出，并与 VoidZero 及 Owner.com 的 Max Schwenk 共同开发 Cloudflare 强调，tsrs 并非 TypeScript 的分支，语言设计仍完全由 TypeScript 团队掌控 Cloudflare 声称，在类型检查工作线程数量相同的情况下，tsrs 的类型检查速度 最高可提升 8 倍，内存占用减少约 70% Rust 还可使项目能够通过 @tsrs/wasm 编译为 WebAssembly，从而在浏览器或 Workers 上运行检查，而无需像 Go 二进制文件那样将垃圾回收器一并带入最终产物 在一篇 详细的技术文章 中，Schwenk 解释说，他没有编写任何代码，而是通过指挥以 Claude Opus 5.5 为核心的 Agent，完成了忠实于原版的移植 整个过程以 TypeScript 自身的 15,197 个一致性测试用例作为规范 在 Owner 拥有 37,000 个文件的单体代码库中，原本使用 TypeScript 7.0 需要 19 GiB 内存和 80 秒才能完成的检查，现在只需 7 秒 一名开发者 对两个 npm 包进行了基准测试 ，测得 tsrs 的检查速度提升 5.3 倍，内存占用减少 72%，且诊断结果完全一致，生成的代码也逐字节相同 不过，他发现 tsrs 在存在类型错误时会以退出码 2 结束，而 tsc 返回 1，这一差异足以悄然破坏 CI 脚本",
-      "isTranslated": false
-    },
-    {
-      "title": "Evolver：让探索留下策略 - Florian",
-      "titleZh": "Evolver：让探索留下策略 - Florian",
-      "summary": "这里更值得关注的不是“Agent 会不会自动变聪明”，而是一个工程问题：怎样把一次性的执行记录，变成有适用条件、能被检索、也能被撤回的行动依据？。模型参数没有改变，新的会话也不会天然继承上一轮的判断，已经付出的探索成本很容易再付一次 EvoMap 研究团队（Infinite Evolution Lab）在论文《Evolver: Turning Agent Expl...。Gene、Capsule、检索与审核不再是几个分散的名词，而是这两条路径之间的连接点 图 4：Evolver 将任务探索、经验资产与后续执行连接成反馈闭环 任务先进入宿主 Agent，由它进行工具调用、重试和结果验证。",
-      "originalSummary": "这里更值得关注的不是“Agent 会不会自动变聪明”，而是一个工程问题：怎样把一次性的执行记录，变成有适用条件、能被检索、也能被撤回的行动依据？。模型参数没有改变，新的会话也不会天然继承上一轮的判断，已经付出的探索成本很容易再付一次 EvoMap 研究团队（Infinite Evolution Lab）在论文《Evolver: Turning Agent Expl...。Gene、Capsule、检索与审核不再是几个分散的名词，而是这两条路径之间的连接点 图 4：Evolver 将任务探索、经验资产与后续执行连接成反馈闭环 任务先进入宿主 Agent，由它进行工具调用、重试和结果验证。",
-      "url": "https://www.cnblogs.com/fanzhidongyzby/p/23578742/evomap",
+      "title": "AC自动机超详细讲解，附带例题详解 - Emoji-happy",
+      "titleZh": "AC自动机超详细讲解，附带例题详解 - Emoji-happy",
+      "summary": "Aho和Margaret J.Corasick于1975年在贝尔实验室发明，主要用 阅读全文 本文极其详细，内容很多，请想学好 AC自动机 的朋友耐心看完 前置知识：KMP，Trie 引入 AC自动机是什么 Aho–Corasick automaton，简称A...。Aho和Margaret J.Corasick 于1975年在贝尔实验室发明，主要用于多模式串匹配问题 AC自动机可以帮助你AC许多字符串匹配的题目。\\(fail[u]\\) 表示： \\(S_u\\) 的 最长真后缀 ，并且这个后缀也必须在 Trie 中（即它是某个模式串的前缀），如果不存在这样的真后缀，那么 \\(fail[u]=0\\) 这个定义确实让初学者难以理解，下面...。",
+      "originalSummary": "Aho和Margaret J.Corasick于1975年在贝尔实验室发明，主要用 阅读全文 本文极其详细，内容很多，请想学好 AC自动机 的朋友耐心看完 前置知识：KMP，Trie 引入 AC自动机是什么 Aho–Corasick automaton，简称A...。Aho和Margaret J.Corasick 于1975年在贝尔实验室发明，主要用于多模式串匹配问题 AC自动机可以帮助你AC许多字符串匹配的题目。\\(fail[u]\\) 表示： \\(S_u\\) 的 最长真后缀 ，并且这个后缀也必须在 Trie 中（即它是某个模式串的前缀），如果不存在这样的真后缀，那么 \\(fail[u]=0\\) 这个定义确实让初学者难以理解，下面...。",
+      "url": "https://www.cnblogs.com/Emoji-happy/p/23583577",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-06T15:04:00+00:00",
+      "publishedAt": "2026-11-07T03:57:00+00:00",
       "tags": [
         "开发者",
         "后端",
@@ -337,21 +292,86 @@
         "AI"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 3297,
-      "summaryLength": 256,
-      "summaryQuality": "strong",
-      "readerTextZh": "【摘要】不训练基础模型，而是把执行中产生的程序性知识整理成策略资产，再送回后续任务的上下文 这里更值得关注的不是“Agent 会不会自动变聪明”，而是一个工程问题：怎样把一次性的执行记录，变成有适用条件、能被检索、也能被撤回的行动依据？ 阅读全文 不训练基础模型，而是把执行中产生的程序性知识整理成策略资产，再送回后续任务的上下文 不训练基础模型，而是把执行中产生的程序性知识整理成策略资产，再送回后续任务的上下文 Agent 完成一次任务，留下的往往不只是答案，还有一条昂贵的探索路径：读了哪些文件，试了哪些工具，在哪里失败，又靠什么检查确认结果 问题是，下一次执行未必能利用这些经验 模型参数没有改变，新的会话也不会天然继承上一轮的判断，已经付出的探索成本很容易再付一次 EvoMap 研究团队（Infinite Evolution Lab）在论文《Evolver: Turning Agent Exploration into Evolving Capabilities》中，把这个问题落到了一个外部经验系统上 它不训练基础模型，而是把执行中产生的程序性知识整理成策略资产，再送回后续任务的上下文",
+      "sourceTextLength": 1494,
+      "summaryLength": 257,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】本文极其详细，内容很多，请想学好 AC自动机 的朋友耐心看完 前置知识：KMP，Trie 引入 AC自动机是什么 Aho–Corasick automaton，简称AC自动机，著名的多模匹配算法，由Alfred V Aho和Margaret J.Corasick于1975年在贝尔实验室发明，主要用 阅读全文 本文极其详细，内容很多，请想学好 AC自动机 的朋友耐心看完 前置知识：KMP，Trie 引入 AC自动机是什么 Aho–Corasick automaton，简称AC自动机，著名的多模匹配算法，由Alfred V Aho和Margaret J.Corasick于1975年在贝尔实验室发明，主要用 本文极其详细，内容很多，请想学好 AC自动机 的朋友耐心看完 前置知识：KMP，Trie 引入 AC自动机是什么 Aho–Corasick automaton，简称AC自动机，著名的多模匹配算法，由Alfred V Aho和Margaret J.Corasick于1975年在贝尔实验室发明，主要用 本文极其详细，内容很多，请想学好 AC自动机 的朋友耐心看完 Aho–Corasick automaton，简称AC自动机，著名的多模匹配算法，由 Alfred V Aho和Margaret J.Corasick 于1975年在贝尔实验室发明，主要用于多模式串匹配问题 AC自动机可以帮助你AC许多字符串匹配的题目 假如有一道题目给你 \\(n\\) 个模式串去匹配一个文本串，若使用 KMP 算法则需对每个模式串单独跑一次 KMP ，复杂度会乘上 \\(n\\) AC自动机则可以将时间复杂度优化到 \\(O(|S|+M)\\) ， \\(|S|\\) 为模式串总长， \\(M\\) 为文本串长度 我们需要将所有模式串插入 Trie，Trie树中的每个节点代表“从根走到该节点形成的字符串” 例如模式串： he she his hers 对应的 Trie 树：",
       "isTranslated": false
     },
     {
-      "title": "如何在汇川AUTOSHOP中作为客户端实现 TCP 协议 - 不会通讯的凡果",
-      "titleZh": "如何在汇川AUTOSHOP中作为客户端实现 TCP 协议 - 不会通讯的凡果",
-      "summary": "【摘要】一、实验环境 AUTOSHOP小型机编程软件 2.新建一个项目，设备选择汇川小型机easy系列easy523 3.tcp协议测试工具netassistant 网页下载链接： 二、当easy523做 TCP 客户端Client 1.建立TCP通讯客户端连...。",
-      "originalSummary": "【摘要】一、实验环境 AUTOSHOP小型机编程软件 2.新建一个项目，设备选择汇川小型机easy系列easy523 3.tcp协议测试工具netassistant 网页下载链接： 二、当easy523做 TCP 客户端Client 1.建立TCP通讯客户端连...。",
-      "url": "https://www.cnblogs.com/FanGuo123/p/23568716",
+      "title": "开发基于ComfyUI图片生成类应用Step by step（三）理解ComfyUI工作流的执行方式 - 寻找无名的特质",
+      "titleZh": "开发基于ComfyUI图片生成类应用Step by step（三）理解ComfyUI工作流的执行方式 - 寻找无名的特质",
+      "summary": "【摘要】在本合集第二部分，我们编写了一个极简的图像生成程序，通过这个程序了解了ComfyUI的工作过程。在这个程序中使用代码创建了工作流，我们也可以使用ComfyUI的可视化工作流编制和运行工具创建工作流，然后导出工作流的json文件，应用到程序中。使用ComfyUI可视化编辑器创建工作流 启动Comfy 阅读全文。",
+      "originalSummary": "【摘要】在本合集第二部分，我们编写了一个极简的图像生成程序，通过这个程序了解了ComfyUI的工作过程。在这个程序中使用代码创建了工作流，我们也可以使用ComfyUI的可视化工作流编制和运行工具创建工作流，然后导出工作流的json文件，应用到程序中。使用ComfyUI可视化编辑器创建工作流 启动Comfy 阅读全文。",
+      "url": "https://www.cnblogs.com/zhenl/p/23583463",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-06T13:53:00+00:00",
+      "publishedAt": "2026-11-07T03:37:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 147,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】在本合集第二部分，我们编写了一个极简的图像生成程序，通过这个程序了解了ComfyUI的工作过程 在这个程序中使用代码创建了工作流，我们也可以使用ComfyUI的可视化工作流编制和运行工具创建工作流，然后导出工作流的json文件，应用到程序中 使用ComfyUI可视化编辑器创建工作流 启动Comfy 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "手把手教你：nvidia-smi 显示的 CUDA 版本到底是不是你装的那个｜AI工程师踩坑实录·第1篇 - 大雾的小屋",
+      "titleZh": "手把手教你：nvidia-smi 显示的 CUDA 版本到底是不是你装的那个｜AI工程师踩坑实录·第1篇 - 大雾的小屋",
+      "summary": "【摘要】真机踩坑实录第1篇：nvidia-smi右上角的CUDA Version只是驱动上限，不是已装版本。CPU版PyTorch调.cuda()报错，根源是PyPI默认源装的是+cpu轮子。解法很简单：换官方cu源CUDA轮子，不动驱动，实测GPU提速18.4倍。",
+      "originalSummary": "【摘要】真机踩坑实录第1篇：nvidia-smi右上角的CUDA Version只是驱动上限，不是已装版本。CPU版PyTorch调.cuda()报错，根源是PyPI默认源装的是+cpu轮子。解法很简单：换官方cu源CUDA轮子，不动驱动，实测GPU提速18.4倍。",
+      "url": "https://www.cnblogs.com/dawudexiaowu/p/23583296",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-07T03:21:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "芯片"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 138,
+      "summaryLength": 115,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】真机踩坑实录第1篇：nvidia-smi右上角的CUDA Version只是驱动上限，不是已装版本 CPU版PyTorch调.cuda()报错，根源是PyPI默认源装的是+cpu轮子 解法很简单：换官方cu源CUDA轮子，不动驱动，实测GPU提速18.4倍",
+      "isTranslated": false
+    },
+    {
+      "title": "macOS 录屏剪辑工具DogSC「逐文件」搬进 Windows —— DogSC Desktop 转写记 - 又过二十",
+      "titleZh": "macOS 录屏剪辑工具DogSC「逐文件」搬进 Windows —— DogSC Desktop 转写记 - 又过二十",
+      "summary": "【摘要】上游：laogou717/dogsc（macOS · Swift + ScreenCaptureKit） 本项目：wyfirstname/dogsc-desktop（Electron 33 · React 18 · TypeScript 5.7 · A...。",
+      "originalSummary": "【摘要】上游：laogou717/dogsc（macOS · Swift + ScreenCaptureKit） 本项目：wyfirstname/dogsc-desktop（Electron 33 · React 18 · TypeScript 5.7 · A...。",
+      "url": "https://www.cnblogs.com/wyang/p/23583154",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-07T03:12:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 100,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】上游：laogou717/dogsc（macOS · Swift + ScreenCaptureKit） 本项目：wyfirstname/dogsc-desktop（Electron 33 · React 18 · TypeScript 5.7 · Ant Design 5） DogSC 是什么 D 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "缓存穿透、击穿、雪崩：三个概念傻傻分不清楚？ - 37.2°",
+      "titleZh": "缓存穿透、击穿、雪崩：三个概念傻傻分不清楚？ - 37.2°",
+      "summary": "【摘要】这三个概念面试必考，但很多人记混了。一句话区分： 穿透： 查的数据根本不存在 击穿： 热点数据的缓存突然过期 雪崩： 大量缓存同时过期 缓存穿透 场景： 查询一个数据库里根本不存在的数据。请求 id=-1 → 查缓存（没有）→ 查数据库（也没有）→ 返回null 下次再请求 id=-1 → 查缓 阅读全文。",
+      "originalSummary": "【摘要】这三个概念面试必考，但很多人记混了。一句话区分： 穿透： 查的数据根本不存在 击穿： 热点数据的缓存突然过期 雪崩： 大量缓存同时过期 缓存穿透 场景： 查询一个数据库里根本不存在的数据。请求 id=-1 → 查缓存（没有）→ 查数据库（也没有）→ 返回null 下次再请求 id=-1 → 查缓 阅读全文。",
+      "url": "https://www.cnblogs.com/jzp1207/p/23583046",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-07T03:07:00+00:00",
       "tags": [
         "开发者",
         "后端",
@@ -360,16 +380,83 @@
       ],
       "analysisMethod": "feed-text",
       "sourceTextLength": 159,
-      "summaryLength": 113,
+      "summaryLength": 116,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】一、实验环境 AUTOSHOP小型机编程软件 2.新建一个项目，设备选择汇川小型机easy系列easy523 3.tcp协议测试工具netassistant 网页下载链接： 二、当easy523做 TCP 客户端Client 1.建立TCP通讯客户端连接，拖出“TCP_Connect”功能块，作为T 阅读全文",
+      "readerTextZh": "【摘要】这三个概念面试必考，但很多人记混了 一句话区分： 穿透： 查的数据根本不存在 击穿： 热点数据的缓存突然过期 雪崩： 大量缓存同时过期 缓存穿透 场景： 查询一个数据库里根本不存在的数据 请求 id=-1 → 查缓存（没有）→ 查数据库（也没有）→ 返回null 下次再请求 id=-1 → 查缓 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "纯 C# 替换 SkiaSharp，AOT 少了 3 个 DLL：从 preview.8 到 SimdSkia 0.1.2 的进展与代价 - .NET中文开源社区",
+      "titleZh": "纯 C# 替换 SkiaSharp，AOT 少了 3 个 DLL：从 preview.8 到 SimdSkia 0.1.2 的进展与代价 - .NET中文开源社区",
+      "summary": "【摘要】上次在博客园写 SimdSkia，还是 《纯 C# 追上 Skia？。Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测》。当时是 0.1.0-preview.8，主要讨论通用 x64 Native AOT 下的几个 Avalonia 页面，以及减少原生依赖后的发布体积。",
+      "originalSummary": "【摘要】上次在博客园写 SimdSkia，还是 《纯 C# 追上 Skia？。Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测》。当时是 0.1.0-preview.8，主要讨论通用 x64 Native AOT 下的几个 Avalonia 页面，以及减少原生依赖后的发布体积。",
+      "url": "https://www.cnblogs.com/dotnet-org-cn/p/23582892",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-07T03:02:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "芯片",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 114,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】上次在博客园写 SimdSkia，还是 《纯 C# 追上 Skia？ Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测》 当时是 0.1.0-preview.8，主要讨论通用 x64 Native AOT 下的几个 Avalonia 页面，以及减少原生依赖后的发布体积",
+      "isTranslated": false
+    },
+    {
+      "title": "斜率优化DP例题：任务安排 三道题 详细讲解 - beiciqi",
+      "titleZh": "斜率优化DP例题：任务安排 三道题 详细讲解 - beiciqi",
+      "summary": "【摘要】这三道题难度递增，循序渐进，能更好地帮助读者学会斜率优化 DP。（公式较多，慢慢看，不要因为公式多而畏难，很好理解的。） 一、洛谷 P2365 [IOI 2002] 任务安排 题目大意 有 \\(n\\ (n\\le 5000)\\) 个任务需要被完成，你可以把这些任务全部分成任意多组，每组内的任务必须连续 阅读全文。",
+      "originalSummary": "【摘要】这三道题难度递增，循序渐进，能更好地帮助读者学会斜率优化 DP。（公式较多，慢慢看，不要因为公式多而畏难，很好理解的。） 一、洛谷 P2365 [IOI 2002] 任务安排 题目大意 有 \\(n\\ (n\\le 5000)\\) 个任务需要被完成，你可以把这些任务全部分成任意多组，每组内的任务必须连续 阅读全文。",
+      "url": "https://www.cnblogs.com/beiciqi/p/23572471",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-07T00:30:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 122,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】这三道题难度递增，循序渐进，能更好地帮助读者学会斜率优化 DP （公式较多，慢慢看，不要因为公式多而畏难，很好理解的 ） 一、洛谷 P2365 [IOI 2002] 任务安排 题目大意 有 \\(n\\ (n\\le 5000)\\) 个任务需要被完成，你可以把这些任务全部分成任意多组，每组内的任务必须连续 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "从控制台到「会动手」的 AI：用 Semantic Kernel 搭应用(小白教程) - 码农刚子",
+      "titleZh": "从控制台到「会动手」的 AI：用 Semantic Kernel 搭应用(小白教程) - 码农刚子",
+      "summary": "【摘要】面向 C/.NET 开发者的 Semantic Kernel 实战笔记，从环境配置、Kernel 对话起步，到用 KernelFunction 将业务方法包装为 Plugin，让 AI 自动调用完成订单查询等任务，走通“会动手”的智能体雏形。",
+      "originalSummary": "【摘要】面向 C/.NET 开发者的 Semantic Kernel 实战笔记，从环境配置、Kernel 对话起步，到用 KernelFunction 将业务方法包装为 Plugin，让 AI 自动调用完成订单查询等任务，走通“会动手”的智能体雏形。",
+      "url": "https://www.cnblogs.com/shenchuanchao/p/23569344/from-console-to-agentic-ai-semantic-kernel-app",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-07T00:03:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 130,
+      "summaryLength": 102,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】面向 C/.NET 开发者的 Semantic Kernel 实战笔记，从环境配置、Kernel 对话起步，到用 KernelFunction 将业务方法包装为 Plugin，让 AI 自动调用完成订单查询等任务，走通“会动手”的智能体雏形",
       "isTranslated": false
     },
     {
       "title": "2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛名单公布",
       "titleZh": "2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛名单公布",
-      "summary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13 日在北京亦庄通明湖会展中心参加总决赛。现将入围名单按报名时间顺序公示如下： 项目名称 负责人 仓库链接 实时交互数字人引擎 李恒中 https://github.com/lipku/LiveT。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "originalSummary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13 日在北京亦庄通明湖会展中心参加总决赛。现将入围名单按报名时间顺序公示如下： 项目名称 负责人 仓库链接 实时交互数字人引擎 李恒中 https://github.com/lipku/LiveT。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "summary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13 日在北京亦庄通明湖会展中心参加总决赛。现将入围名单按报名时间顺序公示如下： 项目名称 负责人 仓库链接 实时交互数字人引擎 李恒中 https://github.com/lipku/LiveT。",
+      "originalSummary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13 日在北京亦庄通明湖会展中心参加总决赛。现将入围名单按报名时间顺序公示如下： 项目名称 负责人 仓库链接 实时交互数字人引擎 李恒中 https://github.com/lipku/LiveT。",
       "url": "https://www.oschina.net/news/503457",
       "source": "开源中国资讯",
       "region": "中文技术深度",
@@ -377,38 +464,13 @@
       "tags": [
         "开源",
         "开发者",
-        "中文深度",
-        "AI",
-        "软件工程"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 397,
-      "summaryLength": 242,
-      "summaryQuality": "medium",
-      "readerTextZh": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13 日在北京亦庄通明湖会展中心参加总决赛 现将入围名单按报名时间顺序公示如下： 项目名称 负责人 仓库链接 实时交互数字人引擎 李恒中 https://github.com/lipku/LiveT OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
-      "isTranslated": false
-    },
-    {
-      "title": "系统架构师基础知识点概览汇总 - 佛祖让我来巡山",
-      "titleZh": "系统架构师基础知识点概览汇总 - 佛祖让我来巡山",
-      "summary": "【摘要】一、计算机系统知识 1.1 计算机硬件组成（冯·诺依曼） 五大部件：运算器、控制器、存储器、输入设备、输出设备 CPU：运算器+控制器集成 存储器 内存：速度快、容量小，临时存储，断电丢失 外存：速度慢、容量大，长期保存数据 外设：输入+输出设备合称...。",
-      "originalSummary": "【摘要】一、计算机系统知识 1.1 计算机硬件组成（冯·诺依曼） 五大部件：运算器、控制器、存储器、输入设备、输出设备 CPU：运算器+控制器集成 存储器 内存：速度快、容量小，临时存储，断电丢失 外存：速度慢、容量大，长期保存数据 外设：输入+输出设备合称...。",
-      "url": "https://www.cnblogs.com/sun-10387834/p/23452990",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T11:07:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "硬件",
-        "软件工程"
+        "中文深度"
       ],
       "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 98,
+      "sourceTextLength": 179,
+      "summaryLength": 147,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】一、计算机系统知识 1.1 计算机硬件组成（冯·诺依曼） 五大部件：运算器、控制器、存储器、输入设备、输出设备 CPU：运算器+控制器集成 存储器 内存：速度快、容量小，临时存储，断电丢失 外存：速度慢、容量大，长期保存数据 外设：输入+输出设备合称 1.2 处理器 运算器 ALU算术逻辑单元：算术 阅读全文",
+      "readerTextZh": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13 日在北京亦庄通明湖会展中心参加总决赛 现将入围名单按报名时间顺序公示如下： 项目名称 负责人 仓库链接 实时交互数字人引擎 李恒中 https://github.com/lipku/LiveT",
       "isTranslated": false
     },
     {
@@ -435,71 +497,6 @@
       "isTranslated": false
     },
     {
-      "title": "# 一次 CRC 字段“神秘消失”的排查 -> 指针强转的UB代价 - USTHzhanglu",
-      "titleZh": "# 一次 CRC 字段“神秘消失”的排查 -> 指针强转的UB代价 - USTHzhanglu",
-      "summary": "【摘要】现象 嵌入式C设备，内部 flash 上有一个键值日志：每条记录 = 8 字节头（key/len/crc）+ 数据，CRC16 覆盖 key+len+data。某次升级编译器后(其实是同事用的编译器版本不同), 发现固件写入记录后回读校验失败。把 flash dump 出来发现：key、len、 阅读全文。",
-      "originalSummary": "【摘要】现象 嵌入式C设备，内部 flash 上有一个键值日志：每条记录 = 8 字节头（key/len/crc）+ 数据，CRC16 覆盖 key+len+data。某次升级编译器后(其实是同事用的编译器版本不同), 发现固件写入记录后回读校验失败。把 flash dump 出来发现：key、len、 阅读全文。",
-      "url": "https://www.cnblogs.com/USTHzhanglu/p/23577592",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T10:46:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 122,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】现象 嵌入式C设备，内部 flash 上有一个键值日志：每条记录 = 8 字节头（key/len/crc）+ 数据，CRC16 覆盖 key+len+data 某次升级编译器后(其实是同事用的编译器版本不同), 发现固件写入记录后回读校验失败 把 flash dump 出来发现：key、len、 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "6 小时做一部 10 分钟纪录片：DeepSeek 4.1 Flash + DeepSeek Harness 的完整制片记录 - 我才是银古",
-      "titleZh": "6 小时做一部 10 分钟纪录片：DeepSeek 4.1 Flash + DeepSeek Harness 的完整制片记录 - 我才是银古",
-      "summary": "【摘要】2026-11-06，从一个句子的需求，到一部 600 秒、1920×1080、60fps 的《GIS 简史》成片。这篇文章不讲\"AI 多神奇\"，只记怎么做的、在哪卡住的、哪些判断必须人来做。一、先说结果 项 数值 成片 600.000 阅读全文。",
-      "originalSummary": "【摘要】2026-11-06，从一个句子的需求，到一部 600 秒、1920×1080、60fps 的《GIS 简史》成片。这篇文章不讲\"AI 多神奇\"，只记怎么做的、在哪卡住的、哪些判断必须人来做。一、先说结果 项 数值 成片 600.000 阅读全文。",
-      "url": "https://www.cnblogs.com/znlgis/p/23576813",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T09:45:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 158,
-      "summaryLength": 97,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】2026-11-06，从一个句子的需求，到一部 600 秒、1920×1080、60fps 的《GIS 简史》成片 画面、配乐、音效、旁白全部由代码生成，没用一个素材文件 这篇文章不讲\"AI 多神奇\"，只记怎么做的、在哪卡住的、哪些判断必须人来做 一、先说结果 项 数值 成片 600.000 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "龙芯3B6000M运行Yolov8+FastApi - silent",
-      "titleZh": "龙芯3B6000M运行Yolov8+FastApi - silent",
-      "summary": "【摘要】龙芯近日发布支持自研通用GPU的龙芯加速计算平台（Loongson Accelerated Computing Platform）首个软件版本，该平台基于龙芯2K3000（3B6000M) 及9A1000内集成的自研LG200系列通用GPU核心打造，实...。",
-      "originalSummary": "【摘要】龙芯近日发布支持自研通用GPU的龙芯加速计算平台（Loongson Accelerated Computing Platform）首个软件版本，该平台基于龙芯2K3000（3B6000M) 及9A1000内集成的自研LG200系列通用GPU核心打造，实...。",
-      "url": "https://www.cnblogs.com/silent2012/p/23576728",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T09:37:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "芯片"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 118,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】龙芯近日发布支持自研通用GPU的龙芯加速计算平台（Loongson Accelerated Computing Platform）首个软件版本，该平台基于龙芯2K3000（3B6000M) 及9A1000内集成的自研LG200系列通用GPU核心打造，实现了对算力芯片驱动、算力编程环境、AI模型推理等 阅读全文",
-      "isTranslated": false
-    },
-    {
       "title": "本周看什么 | 最近值得一看的 9 部作品",
       "titleZh": "本周看什么 | 最近值得一看的 9 部作品",
       "summary": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。由法国百代公司出品，制作成本高达7520万欧元。星之足迹》2027 年上映、《克里夫·布斯的惊险再冒险》新海报 往期推荐可 点此 或点击文末 tag #本周看什么，更多主题片单可 点此 查看。",
@@ -518,49 +515,6 @@
       "summaryLength": 108,
       "summaryQuality": "weak",
       "readerTextZh": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进 该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲 由法国百代公司出品，制作成本高达7520万欧元 作 ... 查看全文 📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进 作 📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进 作 近期佳作推荐： [韩剧] Doctor X：白色黑手党时代、[韩剧] 恋爱博士、[美剧] 嗜血法医：杀魔复生 第二季、[美剧] 镀金时代 第四季、[韩剧] 谎言、[英剧] 嫌疑爱人、[电影] 忘却之岛、[电影] 逃出布迪秀、[真人秀] 海波朗商会 几则精彩预告： 《戴高乐之战》确认引进、《战争之王 2》首支预告、《我心里危险的东西 第三季》首支预告、《愚者之夜》正式预告 几则影视资讯： 《饥饿游戏：收获日出》确认引进、《愤怒的小鸟 3》确认引进、《海上钢琴师》定档 11 月 13 日重映、《电影 孤独摇滚！ 星之足迹》2027 年上映、《克里夫·布斯的惊险再冒险》新海报 往期推荐可 点此 或点击文末 tag #本周看什么，更多主题片单可 点此 查看 想要查看更多深度影视内容，可以关注我们的衍生栏目「 看什么 Café 」",
-      "isTranslated": false
-    },
-    {
-      "title": "DSH 插件开发实战：从插件加载到 Electron + Vue 桌面联动 - 林恒",
-      "titleZh": "DSH 插件开发实战：从插件加载到 Electron + Vue 桌面联动 - 林恒",
-      "summary": "【摘要】‍ 写在开头 点赞 + 收藏 学会 如何让自己的桌面应用使用 DSH 的模型、工具和 Skills，同时保留 DSH 原有的审批机制，又不把模型密钥复制到新应用？。本文以 dsh-desktop-bridge 为例，从插件加载、连接发现、任务状态机讲到 Electron / Vue 阅读全文。",
-      "originalSummary": "【摘要】‍ 写在开头 点赞 + 收藏 学会 如何让自己的桌面应用使用 DSH 的模型、工具和 Skills，同时保留 DSH 原有的审批机制，又不把模型密钥复制到新应用？。本文以 dsh-desktop-bridge 为例，从插件加载、连接发现、任务状态机讲到 Electron / Vue 阅读全文。",
-      "url": "https://www.cnblogs.com/smileZAZ/p/23576303",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T09:11:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 149,
-      "summaryLength": 118,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】‍ 写在开头 点赞 + 收藏 学会 如何让自己的桌面应用使用 DSH 的模型、工具和 Skills，同时保留 DSH 原有的审批机制，又不把模型密钥复制到新应用？ 本文以 dsh-desktop-bridge 为例，从插件加载、连接发现、任务状态机讲到 Electron / Vue 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "《项目管理指导手册》2026版-心得（三）—— 终 - Near_wen",
-      "titleZh": "《项目管理指导手册》2026版-心得（三）—— 终 - Near_wen",
-      "summary": "【摘要】背景： 前面2篇文章主要描述了我今年对项目管理在技能上的理解，包括项目如何定义角色、策略、阶段、交付等。但从【道法术器】的层面上来说，始终停留在\"术\"和\"器\"。也就是说，主旨逻辑虽然是阐述我对预测型、适应型、混合型项目如何做的一种具象化理解。",
-      "originalSummary": "【摘要】背景： 前面2篇文章主要描述了我今年对项目管理在技能上的理解，包括项目如何定义角色、策略、阶段、交付等。但从【道法术器】的层面上来说，始终停留在\"术\"和\"器\"。也就是说，主旨逻辑虽然是阐述我对预测型、适应型、混合型项目如何做的一种具象化理解。",
-      "url": "https://www.cnblogs.com/demon28/p/23556670",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T08:38:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 158,
-      "summaryLength": 104,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】背景： 前面2篇文章主要描述了我今年对项目管理在技能上的理解，包括项目如何定义角色、策略、阶段、交付等 但从【道法术器】的层面上来说，始终停留在\"术\"和\"器\" 也就是说，主旨逻辑虽然是阐述我对预测型、适应型、混合型项目如何做的一种具象化理解 远远不够，举个常见的例子： 阅读全文",
       "isTranslated": false
     },
     {
@@ -583,28 +537,6 @@
       "summaryLength": 152,
       "summaryQuality": "weak",
       "readerTextZh": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「“地心飞行”AIGC创作赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13 日在北京亦庄通明湖会展中心参加总决赛 现将入围名单按报名时间顺序公示如下： 项目名称 负责人 视频链接 地心脉动 王剑歌 https://www.bilibili.com/video/BV1qz4i6iEv",
-      "isTranslated": false
-    },
-    {
-      "title": "【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现 - 罗西的思考",
-      "titleZh": "【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现 - 罗西的思考",
-      "summary": "【摘要】【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现 目录【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现0x00 概要0.1 主要内容0.2 注意说明0x01 先懂...。",
-      "originalSummary": "【摘要】【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现 目录【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现0x00 概要0.1 主要内容0.2 注意说明0x01 先懂...。",
-      "url": "https://www.cnblogs.com/rossiXYZ/p/23505813",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T06:56:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 92,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现 目录【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现0x00 概要0.1 主要内容0.2 注意说明0x01 先懂 KDA：为什么它会颠覆 serving1.1 从 阅读全文",
       "isTranslated": false
     },
     {
@@ -720,51 +652,6 @@
       "isTranslated": false
     },
     {
-      "title": "rea-video拆解视频测试和效果展示 - 又过二十",
-      "titleZh": "rea-video拆解视频测试和效果展示 - 又过二十",
-      "summary": "【摘要】项目地址：https://github.com/wyfirstname/REA-Video-UI 引擎上游：JuneYaooo/rea-video 刷到一条爆款视频，想知道它到底怎么做的：哪些画面是 AI 生成的、哪些是实拍、贴纸花字加了多少、BGM...。",
-      "originalSummary": "【摘要】项目地址：https://github.com/wyfirstname/REA-Video-UI 引擎上游：JuneYaooo/rea-video 刷到一条爆款视频，想知道它到底怎么做的：哪些画面是 AI 生成的、哪些是实拍、贴纸花字加了多少、BGM...。",
-      "url": "https://www.cnblogs.com/wyang/p/23559866",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T05:03:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI",
-        "开源"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 106,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】项目地址：https://github.com/wyfirstname/REA-Video-UI 引擎上游：JuneYaooo/rea-video 刷到一条爆款视频，想知道它到底怎么做的：哪些画面是 AI 生成的、哪些是实拍、贴纸花字加了多少、BGM 和音效怎么配的——更进一步，能不能照着它自己复刻 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "Fedora Linux 45 正式发布，安装系统时支持配置企业级存储",
-      "titleZh": "Fedora Linux 45 正式发布，安装系统时支持配置企业级存储",
-      "summary": "Fedora Linux 45 发布了。这次的头号变化不在桌面，在安装器——Anaconda 直接集成了 Stratis 存储支持。如果你不熟悉 Stratis，可以这么理解：它把设备映射（device-mapper）、XFS 和 LUKS 包在一个更好用的接口里，给本地存储带来企业级特性——精简配置（thin provisioning / 超量分配...。",
-      "originalSummary": "Fedora Linux 45 发布了。这次的头号变化不在桌面，在安装器——Anaconda 直接集成了 Stratis 存储支持。如果你不熟悉 Stratis，可以这么理解：它把设备映射（device-mapper）、XFS 和 LUKS 包在一个更好用的接口里，给本地存储带来企业级特性——精简配置（thin provisioning / 超量分配...。",
-      "url": "https://www.oschina.net/news/503434/fedora-linux-45",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T03:55:20+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "硬件"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 195,
-      "summaryLength": 147,
-      "summaryQuality": "weak",
-      "readerTextZh": "Fedora Linux 45 发布了 这次的头号变化不在桌面，在安装器——Anaconda 直接集成了 Stratis 存储支持 如果你不熟悉 Stratis，可以这么理解：它把设备映射（device-mapper）、XFS 和 LUKS 包在一个更好用的接口里，给本地存储带来企业级特性——精简配置（thin provisioning / 超量分配）、存储池、文件系统动态扩容、",
-      "isTranslated": false
-    },
-    {
       "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
       "titleZh": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
       "summary": "本周介绍一个开源的企业 AI 工作台 MonKeyAI （中文名\"百智办公\"），GitHub 已有5000颗星。JetBrains 公司的主力产品 IntelliJ IDEA 是 Java/Kotlin 开发的利器，绝大部分使用 Java 语言的公司都在用。浏览器书签的桌面管理器，基于 Go + Wails + SQLite 构建，支持本地语义向量检索、404 死链检测与知识图谱。",
@@ -788,26 +675,25 @@
       "isTranslated": false
     },
     {
-      "title": "OwnCoder 0.2.0 发布:安全优先，token 消耗显著低于同类产品安全优先，token 消耗显著低于同类产品的本地 AI 编程工具",
-      "titleZh": "OwnCoder 0.2.0 发布:安全优先，token 消耗显著低于同类产品安全优先，token 消耗显著低于同类产品的本地 AI 编程工具",
-      "summary": "当前版本能力持续完善，产品效果提升明显，Token 消耗相比同类 AI 编程工具具备优势。软件简介 OwnCode 是一款面向开发者的桌面端 AI 编程工具，从设计之初就把安全与隐私放在首位：敏感信息（API Key、密钥等）在发送给大模型之前自动脱敏，代码索引与向量检索均在本地完成。在此基础上，OwnCode 的上下文管理策略经过。",
-      "originalSummary": "当前版本能力持续完善，产品效果提升明显，Token 消耗相比同类 AI 编程工具具备优势。软件简介 OwnCode 是一款面向开发者的桌面端 AI 编程工具，从设计之初就把安全与隐私放在首位：敏感信息（API Key、密钥等）在发送给大模型之前自动脱敏，代码索引与向量检索均在本地完成。在此基础上，OwnCode 的上下文管理策略经过。",
-      "url": "https://www.oschina.net/news/503432",
-      "source": "开源中国资讯",
+      "title": "系统默认组件改为8.5之后 证书续期时遇到报错?",
+      "titleZh": "系统默认组件改为8.5之后 证书续期时遇到报错?",
+      "summary": "Deprecated: Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0 in /root/amh/modules/amssl-4.2/lessl...。因为之前的漏洞事件 把环境都更新了 系统组件也改成了8.5。然后在SSL证书续期时就遇到了这个报错。",
+      "originalSummary": "Deprecated: Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0 in /root/amh/modules/amssl-4.2/lessl...。因为之前的漏洞事件 把环境都更新了 系统组件也改成了8.5。然后在SSL证书续期时就遇到了这个报错。",
+      "url": "https://segmentfault.com/q/1010000048380236",
+      "source": "SegmentFault 思否",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-05T23:03:07+00:00",
+      "publishedAt": "2026-10-30T05:22:32+00:00",
       "tags": [
-        "开源",
         "开发者",
-        "中文深度",
-        "AI",
+        "前端",
+        "后端",
         "安全"
       ],
       "analysisMethod": "feed-text",
-      "sourceTextLength": 171,
-      "summaryLength": 147,
+      "sourceTextLength": 1686,
+      "summaryLength": 144,
       "summaryQuality": "weak",
-      "readerTextZh": "当前版本能力持续完善，产品效果提升明显，Token 消耗相比同类 AI 编程工具具备优势 软件简介 OwnCode 是一款面向开发者的桌面端 AI 编程工具，从设计之初就把安全与隐私放在首位：敏感信息（API Key、密钥等）在发送给大模型之前自动脱敏，代码索引与向量检索均在本地完成 在此基础上，OwnCode 的上下文管理策略经过",
+      "readerTextZh": "系统默认组件改为8.5之后 证书续期时遇到报错 Deprecated: Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0 in /root/amh/modules/amssl-4.2/lessl.php on line 119 因为之前的漏洞事件 把环境都更新了 系统组件也改成了8.5 然后在SSL证书续期时就遇到了这个报错 Deprecated: Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0 in /root/amh/modules/amssl-4.2/lessl.php on line 119 Deprecated: Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0 in /root/amh/modules/amssl-4.2/lessl.php on line 119 Deprecated: Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0 in /root/amh/modules/amssl-4.2/lessl.php on line 119 Deprecated: Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0 in /root/amh/modules/amssl-4.2/lessl.php on line 119 Deprecated: Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0...",
       "isTranslated": false
     },
     {
@@ -834,6 +720,27 @@
       "isTranslated": false
     },
     {
+      "title": "如何设计接口，统计各个模块的三个类型的值？",
+      "titleZh": "如何设计接口，统计各个模块的三个类型的值？",
+      "summary": "1、我要统计各个模块的的数量，一级模块9个，二级模块33个，每个一级对应1~6个子模块，每个子模块返回三个类型的值。2、我有个想法，接口想设计成，共请求10次。3、只是由于水平有限，不知道其他接口和汇总接口怎么设计是合理的、常用的。",
+      "originalSummary": "1、我要统计各个模块的的数量，一级模块9个，二级模块33个，每个一级对应1~6个子模块，每个子模块返回三个类型的值。2、我有个想法，接口想设计成，共请求10次。3、只是由于水平有限，不知道其他接口和汇总接口怎么设计是合理的、常用的。",
+      "url": "https://segmentfault.com/q/1010000048369167",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-23T02:33:33+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 335,
+      "summaryLength": 101,
+      "summaryQuality": "weak",
+      "readerTextZh": "1、我要统计各个模块的的数量，一级模块9个，二级模块33个，每个一级对应1~6个子模块，每个子模块返回三个类型的值 2、我有个想法，接口想设计成，共请求10次 其中的九次，传入不同的模块名，返回不同的结果，这样可以并发、异步处理各个模块的计算，提高页面加载速度 剩下的一次是一个汇总接口，汇总各个模块各个类型的值，包括一级模块汇总，所有一级模块汇总 3、只是由于水平有限，不知道其他接口和汇总接口怎么设计是合理的、常用的 其他接口和汇总接口是否都可以都快速返回，返回顺序 中，是不是汇总接口肯定是最后一个返回？ 4、项目使用python开发语言，python的设计、组织、写法、文件目录拆分上，我也不是很清楚 5、综上所述，请帮忙提供一个具体一点的方案和示例",
+      "isTranslated": false
+    },
+    {
       "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
       "titleZh": "科技爱好者周刊（第 416 期）：编程已经面目全非",
       "summary": "这家美国公司对于为什么选择 Qwen3-Coder-30B-A3B-Instruct 作为唯一的示例，不选其他中国模型，完全没有解释。最可笑的是，他们卖的产品就是所谓\"经过安全化处理的\" Qwen3-Coder-30B-A3B-Instruct。著名程序员西蒙·威利森（Simon Willison）的演讲稿，整理今年的大模型发展，关键词依次是 OpenClaw、Tokenmaxxing、Claude Fable 5 / Mythos、Local model、Hu...。",
@@ -854,6 +761,133 @@
       "summaryLength": 198,
       "summaryQuality": "weak",
       "readerTextZh": "这里记录每周值得分享的科技内容，周五发布 另有 《谁在招人》 服务，发布程序员招聘信息 合作请 邮件联系 （yifeng.ruan@gmail.com） 大多数人只看到，AI 改变了程序员这个职业 AI 推翻了传统的软件开发，编程现在已经面目全非 即使将来泡沫破灭，AI 也不可能从编程工具链中消失，已经永久成为软件开发的一部分，再也无法移除 一个国外的资深程序员 总结 了，AI 改变了编程的哪些方面 他的观点非常激进，有很多大胆的断言，我觉得一定要分享给更多人看",
+      "isTranslated": false
+    },
+    {
+      "title": "LNMP环境添加第二个站点并启用443时，AMSSL错写配置导致Nginx崩溃，怎么解决？",
+      "titleZh": "LNMP环境添加第二个站点并启用443时，AMSSL错写配置导致Nginx崩溃，怎么解决？",
+      "summary": "LNMP环境添加第二个站点并启用443时，AMSSL错写配置导致Nginx崩溃。创建第二个虚拟主机时候，在直接先填写端口80，443，这个时候没有去使用证书管理，申请证书后去增加443端口，就会报错。后续删掉第二个虚拟主机，重新开始重建，先去申请证书验证后，增加443端口，结果没发现异常。",
+      "originalSummary": "LNMP环境添加第二个站点并启用443时，AMSSL错写配置导致Nginx崩溃。创建第二个虚拟主机时候，在直接先填写端口80，443，这个时候没有去使用证书管理，申请证书后去增加443端口，就会报错。后续删掉第二个虚拟主机，重新开始重建，先去申请证书验证后，增加443端口，结果没发现异常。",
+      "url": "https://segmentfault.com/q/1010000048365101",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-21T07:53:11+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 146,
+      "summaryLength": 132,
+      "summaryQuality": "weak",
+      "readerTextZh": "LNMP环境添加第二个站点并启用443时，AMSSL错写配置导致Nginx崩溃 创建第二个虚拟主机时候，在直接先填写端口80，443，这个时候没有去使用证书管理，申请证书后去增加443端口，就会报错 后续删掉第二个虚拟主机，重新开始重建，先去申请证书验证后，增加443端口，结果没发现异常",
+      "isTranslated": false
+    },
+    {
+      "title": "请问，AI产品，最终是进行了LLM 的调用。请问下AI产品是通过了哪些方式进行了优化实现产品呢？",
+      "titleZh": "请问，AI产品，最终是进行了LLM 的调用。请问下AI产品是通过了哪些方式进行了优化实现产品呢？",
+      "summary": "请问，AI产品，最终是进行了LLM 的调用。比如：现在的AI写小说，其他AI产品，都是最终通过LLM进行实现的内容输出，但是有的产品做的好有的产品做的不好。1、LLM 都是接受提示词进行调用没错吧，那么是否AI产品做的好与坏都是基于提示词的差异？。",
+      "originalSummary": "请问，AI产品，最终是进行了LLM 的调用。比如：现在的AI写小说，其他AI产品，都是最终通过LLM进行实现的内容输出，但是有的产品做的好有的产品做的不好。1、LLM 都是接受提示词进行调用没错吧，那么是否AI产品做的好与坏都是基于提示词的差异？。",
+      "url": "https://segmentfault.com/q/1010000048355276",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-16T02:14:21+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 189,
+      "summaryLength": 110,
+      "summaryQuality": "weak",
+      "readerTextZh": "请问，AI产品，最终是进行了LLM 的调用 比如：现在的AI写小说，其他AI产品，都是最终通过LLM进行实现的内容输出，但是有的产品做的好有的产品做的不好 1、LLM 都是接受提示词进行调用没错吧，那么是否AI产品做的好与坏都是基于提示词的差异？ 2、除了提示词，AI产品一般还有哪些方式优化产品呢？",
+      "isTranslated": false
+    },
+    {
+      "title": "Python 爬取 Google 搜索结果时频繁遇到验证码，有什么可靠的解决方案？",
+      "titleZh": "Python 爬取 Google 搜索结果时频繁遇到验证码，有什么可靠的解决方案？",
+      "summary": "最近在研究使用 Python 获取 Google 搜索结果，用于关键词研究和 SEO 数据分析。尝试直接请求 Google 搜索页面时，发现有时无法获取正常的搜索结果，而是跳转到验证码页面。如果需要批量获取关键词对应的搜索结果，官方 API、第三方 SERP API 和自行采集这几种方案，哪一种更适合长期使用？。",
+      "originalSummary": "最近在研究使用 Python 获取 Google 搜索结果，用于关键词研究和 SEO 数据分析。尝试直接请求 Google 搜索页面时，发现有时无法获取正常的搜索结果，而是跳转到验证码页面。如果需要批量获取关键词对应的搜索结果，官方 API、第三方 SERP API 和自行采集这几种方案，哪一种更适合长期使用？。",
+      "url": "https://segmentfault.com/q/1010000048353146",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-15T01:06:11+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 383,
+      "summaryLength": 135,
+      "summaryQuality": "weak",
+      "readerTextZh": "Python 爬取 Google 搜索结果时频繁遇到验证码，有什么可靠的解决方案？ 最近在研究使用 Python 获取 Google 搜索结果，用于关键词研究和 SEO 数据分析 尝试直接请求 Google 搜索页面时，发现有时无法获取正常的搜索结果，而是跳转到验证码页面 即使更换请求方式，也不一定能稳定获取数据 这种情况主要与请求频率、IP 信誉、请求特征还是其他因素有关？ 使用 Playwright 等浏览器自动化工具，能否改善结果获取的稳定性？ 如果需要批量获取关键词对应的搜索结果，官方 API、第三方 SERP API 和自行采集这几种方案，哪一种更适合长期使用？ 对于自行采集的方案，应该如何设计异常检测、重试和失败回退机制？",
+      "isTranslated": false
+    },
+    {
+      "title": "xberg_ffi-dll不是有效的Win32 应用程序?",
+      "titleZh": "xberg_ffi-dll不是有效的Win32 应用程序?",
+      "summary": "io.xberg xberg ${xberg.version} 报错：xberg_ffi.dll: %1 不是有效的 Win32 应用程序。核心原因：onnxruntime 版本和xberg依赖不一致，他们必须是特定版本依赖。比如：xberg 1.3.7 依赖 onnxruntime 1.24.2 其他版本直接报错。",
+      "originalSummary": "io.xberg xberg ${xberg.version} 报错：xberg_ffi.dll: %1 不是有效的 Win32 应用程序。核心原因：onnxruntime 版本和xberg依赖不一致，他们必须是特定版本依赖。比如：xberg 1.3.7 依赖 onnxruntime 1.24.2 其他版本直接报错。",
+      "url": "https://segmentfault.com/q/1010000048343225",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-10T10:17:56+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 208,
+      "summaryLength": 126,
+      "summaryQuality": "weak",
+      "readerTextZh": "io.xberg xberg ${xberg.version} 报错：xberg_ffi.dll: %1 不是有效的 Win32 应用程序 核心原因：onnxruntime 版本和xberg依赖不一致，他们必须是特定版本依赖 比如：xberg 1.3.7 依赖 onnxruntime 1.24.2 其他版本直接报错 具体依赖在linux环境会报出来，但是windows中不会",
+      "isTranslated": false
+    },
+    {
+      "title": "有重复元素的列表，按元素出现次数降序排序，为什么没有成功？",
+      "titleZh": "有重复元素的列表，按元素出现次数降序排序，为什么没有成功？",
+      "summary": "我的代码目的是想按单词的出现次数降序排列，但是输出结果与未排序前一样，我想知道为什么。words = ['a', 'b', 'a', 'c', 'b', 'a'] words.sort(key=lambda w: -words.count(w)) print(words) 输出结果：。PS D:\\Code> & C:\\Users\\27751\\AppData\\Local\\Programs\\Python\\Python313\\python.exe d:/Code/python.py ['a', 'b', '...。",
+      "originalSummary": "我的代码目的是想按单词的出现次数降序排列，但是输出结果与未排序前一样，我想知道为什么。words = ['a', 'b', 'a', 'c', 'b', 'a'] words.sort(key=lambda w: -words.count(w)) print(words) 输出结果：。PS D:\\Code> & C:\\Users\\27751\\AppData\\Local\\Programs\\Python\\Python313\\python.exe d:/Code/python.py ['a', 'b', '...。",
+      "url": "https://segmentfault.com/q/1010000048337134",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-08T07:41:21+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 307,
+      "summaryLength": 172,
+      "summaryQuality": "weak",
+      "readerTextZh": "我的代码目的是想按单词的出现次数降序排列，但是输出结果与未排序前一样，我想知道为什么 words = ['a', 'b', 'a', 'c', 'b', 'a'] words.sort(key=lambda w: -words.count(w)) print(words) 输出结果： PS D:\\Code> & C:\\Users\\27751\\AppData\\Local\\Programs\\Python\\Python313\\python.exe d:/Code/python.py ['a', 'b', 'a', 'c', 'b', 'a'] 期望结果：想按单词的出现次数降序排列",
+      "isTranslated": false
+    },
+    {
+      "title": "开发 Agent 时，RAG 检索到底应该设计成 Tool 还是 Node？",
+      "titleZh": "开发 Agent 时，RAG 检索到底应该设计成 Tool 还是 Node？",
+      "summary": "最近在做一个企业级 RAG Agent，技术栈主要是 Python + LangGraph，Agent 需要完成知识库检索、问题分析、多轮推理、工具调用以及最终回答。目前在设计 Agent Workflow 时遇到了一个比较纠结的问题：。RAG 检索到底应该作为 Agent 的 Tool，还是作为 Workflow 中独立的 Node？。",
+      "originalSummary": "最近在做一个企业级 RAG Agent，技术栈主要是 Python + LangGraph，Agent 需要完成知识库检索、问题分析、多轮推理、工具调用以及最终回答。目前在设计 Agent Workflow 时遇到了一个比较纠结的问题：。RAG 检索到底应该作为 Agent 的 Tool，还是作为 Workflow 中独立的 Node？。",
+      "url": "https://segmentfault.com/q/1010000048337048",
+      "source": "SegmentFault 思否",
+      "region": "中文技术深度",
+      "publishedAt": "2026-10-08T07:13:42+00:00",
+      "tags": [
+        "开发者",
+        "前端",
+        "后端"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 213,
+      "summaryLength": 142,
+      "summaryQuality": "weak",
+      "readerTextZh": "开发 Agent 时，RAG 检索到底应该设计成 Tool 还是 Node？ 最近在做一个企业级 RAG Agent，技术栈主要是 Python + LangGraph，Agent 需要完成知识库检索、问题分析、多轮推理、工具调用以及最终回答 目前在设计 Agent Workflow 时遇到了一个比较纠结的问题： RAG 检索到底应该作为 Agent 的 Tool，还是作为 Workflow 中独立的 Node？",
       "isTranslated": false
     }
   ],
