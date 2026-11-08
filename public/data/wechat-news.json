@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-07T17:25:07.101954+00:00",
-  "nextUpdate": "2026-11-08T05:25:07.101954+00:00",
+  "updatedAt": "2026-11-08T04:20:36.860382+00:00",
+  "nextUpdate": "2026-11-08T16:20:36.860382+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,6 +76,29 @@
   "errors": [],
   "items": [
     {
+      "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "titleZh": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "summary": "企业 AI 用不好 AI 根源不是模型不够强，而是企业知识缺结构、缺约束，AI 需要可靠可信地迭代 企业 AI 用不好 AI 根源不是模型不够强，而是企业知识缺结构、缺约束，AI 需要可靠可信地迭代 当 Agent 真正进入企业流程，哪些工作可以交给 AI ？。当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。本届大会以 探索 A 应用边界 为主题，设置 13 大技术专题，覆盖 大模型后训练、推理优化、Agent 工程、知识工程、智能体评测与安全、自进化系统、AI 软件交付、原生架构及组织变革 等核心方向，汇聚一线技术专家，深...。",
+      "originalSummary": "企业 AI 用不好 AI 根源不是模型不够强，而是企业知识缺结构、缺约束，AI 需要可靠可信地迭代 企业 AI 用不好 AI 根源不是模型不够强，而是企业知识缺结构、缺约束，AI 需要可靠可信地迭代 当 Agent 真正进入企业流程，哪些工作可以交给 AI ？。当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。本届大会以 探索 A 应用边界 为主题，设置 13 大技术专题，覆盖 大模型后训练、推理优化、Agent 工程、知识工程、智能体评测与安全、自进化系统、AI 软件交付、原生架构及组织变革 等核心方向，汇聚一线技术专家，深...。",
+      "url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-08T10:00:00+00:00",
+      "tags": [
+        "架构",
+        "软件工程",
+        "中文深度",
+        "AI",
+        "安全"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1965,
+      "summaryLength": 251,
+      "summaryQuality": "strong",
+      "readerTextZh": "企业 AI 用不好 AI 根源不是模型不够强，而是企业知识缺结构、缺约束，AI 需要可靠可信地迭代 企业 AI 用不好 AI 根源不是模型不够强，而是企业知识缺结构、缺约束，AI 需要可靠可信地迭代 当 Agent 真正进入企业流程，哪些工作可以交给 AI ？ AI 正在从回答问题的辅助工具，走向理解目标、调用系统、完成任务的工作承担者 当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住 随着大模型向推理、工具调用、多模态和长任务延伸，开发重心正从单次调用转向上下文、工具、执行环境与反馈回路的设计，Coding Agent 也从代码补全演进为能理解代码库、运行测试、完成复杂任务的工程协作者 OpenAI、Google Cloud、Anthropic 的最新实践共同指向一个结论：模型决定 Agent 能做什么，工程决定它能否真正进入生产、创造价值 在这一背景下， 2026 年 AICon 人工智能开发与应用大会 · 北京站 正式启动 本次大会将于 12 月 18–19 日 ，在北京新云南皇冠假日酒店举办 本届大会以 探索 A 应用边界 为主题，设置 13 大技术专题，覆盖 大模型后训练、推理优化、Agent 工程、知识工程、智能体评测与安全、自进化系统、AI 软件交付、原生架构及组织变革 等核心方向，汇聚一线技术专家，深入分享 AI 技术突破与企业规模化落地的真实实践 悦点科技 CTO 孟嘉已确认出席 “ Knowledge Engineering｜让 Agent 理解企业 ” 专题，并发表题为 《 从约束到进化：Ontology 与 AI 自迭代的实践 》 的主题分享 企业 AI 用不好 AI 根源不是模型不够强，而是企业知识缺结构、缺约束，AI 需要可靠可信地迭代",
+      "isTranslated": false
+    },
+    {
       "title": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
       "titleZh": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
       "summary": "KDD（ACM SIGKDD Conference on Knowledge Discovery and Data Mining）是数据挖掘与知识发现领域最具影响力的国际顶级学术会议。本文精选了美团技术团队被 KDD 2026 收录的 8 篇论文进行分享，这些论文覆盖了推荐大模型、生成与奖励建模框架、智能体搜索、Transformer 框架、元泛化框架等技术领域。🏆 此外，大众点评技术部还荣获了 2026 KDD Cup 复杂数据分析 Data Agents 国际竞赛的冠军、季军，本文介绍了团队比赛思路和解题策略。",
@@ -83,7 +106,7 @@
       "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-07T17:24:27.252494+00:00",
+      "publishedAt": "2026-11-08T04:20:00.583889+00:00",
       "tags": [
         "后端",
         "工程",
@@ -105,7 +128,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-07T17:24:26.672585+00:00",
+      "publishedAt": "2026-11-08T04:19:59.911218+00:00",
       "tags": [
         "后端",
         "工程",
@@ -127,7 +150,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-07T17:24:26.032869+00:00",
+      "publishedAt": "2026-11-08T04:19:59.300237+00:00",
       "tags": [
         "后端",
         "工程",
@@ -149,7 +172,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-07T17:24:25.444651+00:00",
+      "publishedAt": "2026-11-08T04:19:58.677395+00:00",
       "tags": [
         "后端",
         "工程",
@@ -171,7 +194,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-07T17:24:24.833730+00:00",
+      "publishedAt": "2026-11-08T04:19:58.073277+00:00",
       "tags": [
         "后端",
         "工程",
@@ -193,7 +216,7 @@
       "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-07T17:24:24.214788+00:00",
+      "publishedAt": "2026-11-08T04:19:57.412529+00:00",
       "tags": [
         "后端",
         "工程",
@@ -216,7 +239,7 @@
       "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-07T17:24:23.614813+00:00",
+      "publishedAt": "2026-11-08T04:19:56.780757+00:00",
       "tags": [
         "后端",
         "工程",
@@ -238,7 +261,7 @@
       "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-07T17:24:23.001461+00:00",
+      "publishedAt": "2026-11-08T04:19:56.122944+00:00",
       "tags": [
         "后端",
         "工程",
@@ -261,7 +284,7 @@
       "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-07T17:24:22.405540+00:00",
+      "publishedAt": "2026-11-08T04:19:55.492289+00:00",
       "tags": [
         "后端",
         "工程",
@@ -283,7 +306,7 @@
       "url": "https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-07T17:24:21.817975+00:00",
+      "publishedAt": "2026-11-08T04:19:54.870276+00:00",
       "tags": [
         "后端",
         "工程",
@@ -299,32 +322,276 @@
       "isTranslated": false
     },
     {
-      "title": "不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
-      "titleZh": "不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
-      "summary": "CSIRO 借助无服务器架构，将亚马逊云科技上的基因组变异查询规模扩大 100 倍 CSIRO 借助无服务器架构，将亚马逊云科技上的基因组变异查询规模扩大 100 倍 CSIRO 开发了 Serverless Beacon（sBeacon） ，这是一种用于查询...。该系统使用 Amazon S3、AWS Lambda、Amazon Athena 和 Amazon DynamoDB，实现了全球基因组学与健康联盟（GA4GH）的 Beacon 标准。CSIRO 报告称，当返回的变异数量从 4 个增加到 400 个，即增长 100 倍时，查询时间总体保持稳定 该设计建立在此前发表于 Nature Biotechnology 的 sBeacon 研究基础上。",
-      "originalSummary": "CSIRO 借助无服务器架构，将亚马逊云科技上的基因组变异查询规模扩大 100 倍 CSIRO 借助无服务器架构，将亚马逊云科技上的基因组变异查询规模扩大 100 倍 CSIRO 开发了 Serverless Beacon（sBeacon） ，这是一种用于查询...。该系统使用 Amazon S3、AWS Lambda、Amazon Athena 和 Amazon DynamoDB，实现了全球基因组学与健康联盟（GA4GH）的 Beacon 标准。CSIRO 报告称，当返回的变异数量从 4 个增加到 400 个，即增长 100 倍时，查询时间总体保持稳定 该设计建立在此前发表于 Nature Biotechnology 的 sBeacon 研究基础上。",
-      "url": "https://www.infoq.cn/article/mF9A6U1M6SQFWfEKOJGW?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文深度",
+      "title": "AI 开发的快，但焦点会散 - 冷豪",
+      "titleZh": "AI 开发的快，但焦点会散 - 冷豪",
+      "summary": "这套多服务共享的内存数据由系统统一管理：跨进程的锁、内存序、版本切换都封装在动态库.so里，外部通过统一的头文件调用。AI 的处理方式极其简单粗暴：直接通过 mmap 拿到物理地址，按它自己的理解逐字段覆盖，中间还随手捏了个标志位充当“正在修改”的锁 单进程跑，没问题，测试也过了。开发环境的 gcc 版本较新，平台层混入了 make_unique 照样能编译，这个问题只有到集成测试阶段才会暴露出来 人脑或许能记住这条 C++11 规则，但很难在一下午驱动 AI 连开十几个会话、写五个功能的高频切换...。",
+      "originalSummary": "这套多服务共享的内存数据由系统统一管理：跨进程的锁、内存序、版本切换都封装在动态库.so里，外部通过统一的头文件调用。AI 的处理方式极其简单粗暴：直接通过 mmap 拿到物理地址，按它自己的理解逐字段覆盖，中间还随手捏了个标志位充当“正在修改”的锁 单进程跑，没问题，测试也过了。开发环境的 gcc 版本较新，平台层混入了 make_unique 照样能编译，这个问题只有到集成测试阶段才会暴露出来 人脑或许能记住这条 C++11 规则，但很难在一下午驱动 AI 连开十几个会话、写五个功能的高频切换...。",
+      "url": "https://www.cnblogs.com/learnhow/p/23586981",
+      "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-07T16:11:00+00:00",
+      "publishedAt": "2026-11-08T03:56:00+00:00",
       "tags": [
-        "架构",
-        "软件工程",
+        "开发者",
+        "后端",
         "中文深度",
-        "云计算"
+        "AI"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 1527,
-      "summaryLength": 277,
+      "sourceTextLength": 2119,
+      "summaryLength": 217,
       "summaryQuality": "strong",
-      "readerTextZh": "CSIRO 借助无服务器架构，将亚马逊云科技上的基因组变异查询规模扩大 100 倍 CSIRO 借助无服务器架构，将亚马逊云科技上的基因组变异查询规模扩大 100 倍 CSIRO 开发了 Serverless Beacon（sBeacon） ，这是一种用于查询基因组变异数据的无服务器架构，无须将大型基因组数据集复制到中央数据库 该系统使用 Amazon S3、AWS Lambda、Amazon Athena 和 Amazon DynamoDB，实现了全球基因组学与健康联盟（GA4GH）的 Beacon 标准 它可以对大型队列进行基因组查询，同时将底层数据保留在原始存储位置 该架构将基因组数据与搜索所需的元数据分离 变异调用格式（VCF） 文件保留在 Amazon S3 中，疾病状态、年龄和位置等元数据则单独建立索引 接入数据时，sBeacon 会为元数据创建索引和 Athena 表，并通过 CSIRO 的 Ontoserver 处理本体术语，以支持结合 基因组 和表型信息的查询 对于变异查询，API Gateway 会将请求路由至 Lambda 函数，由这些函数确定相关数据集和基因组区域 变异查询模块使用 bcftools 及其 htslib 库，通过 HTTP 字节范围请求获取 VCF 文件的特定部分 这样，系统无须传输完整文件，即可读取所需的基因组区域 查询结果经过汇总后，通过 Beacon API 返回 CSIRO 前生物信息学产品解决方案架构师 Anuradha Wickramarachchi 在个人 LinkedIn 帖子 中强调了数据压缩的重要性： 我们认真考虑的一项关键因素，是让数据保持最高程度的压缩",
+      "readerTextZh": "我们的应用服务需要原子化修改共享内存里的一批数据 这套多服务共享的内存数据由系统统一管理：跨进程的锁、内存序、版本切换都封装在动态库.so里，外部通过统一的头文件调用 但动态库里当时没提供“批量原子修改”的接口 AI 的处理方式极其简单粗暴：直接通过 mmap 拿到物理地址，按 阅读全文 有个场景我印象很深 AI 的处理方式极其简单粗暴：直接通过 mmap 拿到物理地址，按 有个场景我印象很深 这套多服务共享的内存数据由系统统一管理：跨进程的锁、内存序、版本切换都封装在动态库.so里，外部通过统一的头文件调用 但动态库里当时没提供“批量原子修改”的接口 AI 的处理方式极其简单粗暴：直接通过 mmap 拿到物理地址，按它自己的理解逐字段覆盖，中间还随手捏了个标志位充当“正在修改”的锁 单进程跑，没问题，测试也过了 问题是它绕过的不是一个普通函数，而是一整套系统契约：跨进程锁被击穿，内存序的保证荡然无存，其他读进程随时可能读到写了一半的脏数据",
+      "isTranslated": false
+    },
+    {
+      "title": "AI编程Agent开始糊弄事儿了，怎么办？ - 寻找无名的特质",
+      "titleZh": "AI编程Agent开始糊弄事儿了，怎么办？ - 寻找无名的特质",
+      "summary": "【摘要】这两天使用Deepseek Harness（模型使用GLM5.3）开发基于ComfyUI的动漫制作软件，进展还算顺利，中间遇到一个问题：每次修改前端后，app.js文件会莫名奇妙地消失。一开始没有在意，发现后告诉dsh，很快给补齐。但出现几次后，感觉不是一个偶发的问题，需要找出原因彻底解决。",
+      "originalSummary": "【摘要】这两天使用Deepseek Harness（模型使用GLM5.3）开发基于ComfyUI的动漫制作软件，进展还算顺利，中间遇到一个问题：每次修改前端后，app.js文件会莫名奇妙地消失。一开始没有在意，发现后告诉dsh，很快给补齐。但出现几次后，感觉不是一个偶发的问题，需要找出原因彻底解决。",
+      "url": "https://www.cnblogs.com/zhenl/p/23591702",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-08T03:23:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 132,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】这两天使用Deepseek Harness（模型使用GLM5.3）开发基于ComfyUI的动漫制作软件，进展还算顺利，中间遇到一个问题：每次修改前端后，app.js文件会莫名奇妙地消失 一开始没有在意，发现后告诉dsh，很快给补齐 但出现几次后，感觉不是一个偶发的问题，需要找出原因彻底解决",
+      "isTranslated": false
+    },
+    {
+      "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+      "titleZh": "苹果产品那些不够颠覆，却值得被学习的细节",
+      "summary": "这在其他品牌很少见 翻得多了会发现，那些被别的品牌学走的、隔几年就在无数产品上重新出现，或者能明显看到影子的做法，几乎都不是发布会上的重点 在消费数码领域，所有品牌都在不断探索和学习，苹果这家公司给我的感受是，他们总有一套自己独到的见解和思路，虽没有了 iPo...。我最初以为这是为了修掉某个显示瑕疵，但在 AI 的帮助下发现 2013 年 那份专利 里，理由写的是美学，一个字没提屏幕 单看不难，难在它必须整台机器一起做。Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。",
+      "originalSummary": "这在其他品牌很少见 翻得多了会发现，那些被别的品牌学走的、隔几年就在无数产品上重新出现，或者能明显看到影子的做法，几乎都不是发布会上的重点 在消费数码领域，所有品牌都在不断探索和学习，苹果这家公司给我的感受是，他们总有一套自己独到的见解和思路，虽没有了 iPo...。我最初以为这是为了修掉某个显示瑕疵，但在 AI 的帮助下发现 2013 年 那份专利 里，理由写的是美学，一个字没提屏幕 单看不难，难在它必须整台机器一起做。Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。",
+      "url": "https://sspai.com/post/118114",
+      "source": "少数派深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-08T03:18:54+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2695,
+      "summaryLength": 235,
+      "summaryQuality": "strong",
+      "readerTextZh": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点 文章代表作者个人观点 ... 查看全文 Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 文章代表作者个人观点 Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 文章代表作者个人观点 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 每次苹果发新品，我都会去官网转一圈，这个习惯保持了很多年，因为无论好坏，他们每次在网站的设计和交互上多少都能玩出些新花样 这在其他品牌很少见 翻得多了会发现，那些被别的品牌学走的、隔几年就在无数产品上重新出现，或者能明显看到影子的做法，几乎都不是发布会上的重点 在消费数码领域，所有品牌都在不断探索和学习，苹果这家公司给我的感受是，他们总有一套自己独到的见解和思路，虽没有了 iPod 或 iPhone 4 时代那么现象级的影响，但在库克掌管 Apple 的十几年里，依然存在很多容易被创作者忽视和值得学习思考的问题处理方式 往深讲，这或许有一套方法论在里面，其实我想不明白也说不清楚它们到底是什么，这篇文章也只是抛砖引玉，如果你也对这方面感兴趣，欢迎交流 Taptic Engine 这东西最早出现在 2014 年的 Apple Watch 上，那年它还只需负责提醒你有通知，或者站起来走两步，我想当时应该没多少人能想到它会变成整套交互的一环 2015 年的 iPhone 6s 换上了 Taptic Engine",
+      "isTranslated": false
+    },
+    {
+      "title": "zlang v0.12.14.1 发布，支持中文编程、支持 Web 开发/桌面应用开发的国产全自研编程语言",
+      "titleZh": "zlang v0.12.14.1 发布，支持中文编程、支持 Web 开发/桌面应用开发的国产全自研编程语言",
+      "summary": "0.12.14.1 2026-11-02 calvin * 完善了文档中的对象函数的异常 * 修正了一些异常的设置错误 * 引入打包成安装程序交付 0.12.14.0 2026-10-29 calvin * 支持声明变量时非缺省构造+赋值引用 * 修复了定点小...。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "originalSummary": "0.12.14.1 2026-11-02 calvin * 完善了文档中的对象函数的异常 * 修正了一些异常的设置错误 * 引入打包成安装程序交付 0.12.14.0 2026-10-29 calvin * 支持声明变量时非缺省构造+赋值引用 * 修复了定点小...。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "url": "https://www.oschina.net/news/503469",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-08T02:57:35+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 429,
+      "summaryLength": 194,
+      "summaryQuality": "weak",
+      "readerTextZh": "0.12.14.1 2026-11-02 calvin * 完善了文档中的对象函数的异常 * 修正了一些异常的设置错误 * 引入打包成安装程序交付 0.12.14.0 2026-10-29 calvin * 支持声明变量时非缺省构造+赋值引用 * 修复了定点小数格式化打印的一个BUG * 修复了定点小数的标准输入输出的一些BUG 0.12.13.1 2026-10-27 calvin * 修复了database库 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
+      "isTranslated": false
+    },
+    {
+      "title": "让 GitHub Copilot 更懂你的 .NET 代码风格：一份精简实用的 Copilot Instructions - 追逐时光者",
+      "titleZh": "让 GitHub Copilot 更懂你的 .NET 代码风格：一份精简实用的 Copilot Instructions - 追逐时光者",
+      "summary": "【摘要】前言 使用 GitHub Copilot 开发 .NET 项目时，你是否也遇到过这样的情况：生成的代码基本符合需求，但异步方法、注释、命名和文件编码，总需要再调整一遍？。这些要求单独看都不复杂，但每次对话都重复强调，就有些麻烦了。更合适的做法，是把常用约定整理成一份 Copilot Instruct 阅读全文。",
+      "originalSummary": "【摘要】前言 使用 GitHub Copilot 开发 .NET 项目时，你是否也遇到过这样的情况：生成的代码基本符合需求，但异步方法、注释、命名和文件编码，总需要再调整一遍？。这些要求单独看都不复杂，但每次对话都重复强调，就有些麻烦了。更合适的做法，是把常用约定整理成一份 Copilot Instruct 阅读全文。",
+      "url": "https://www.cnblogs.com/Can-daydayup/p/23591055",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-08T01:52:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 135,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】前言 使用 GitHub Copilot 开发 .NET 项目时，你是否也遇到过这样的情况：生成的代码基本符合需求，但异步方法、注释、命名和文件编码，总需要再调整一遍？ 这些要求单独看都不复杂，但每次对话都重复强调，就有些麻烦了 更合适的做法，是把常用约定整理成一份 Copilot Instruct 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "Day 13：Session 管理与生命周期 - Jeff-Tsai",
+      "titleZh": "Day 13：Session 管理与生命周期 - Jeff-Tsai",
+      "summary": "【摘要】ERP 系统的每一次请求都要先回答两件事：谁在调用、他在哪一家公司。框架若不统一管理，这两个问题会长进每一段业务逻辑的开头，变成到处拷贝的模板代码。框架的做法是把答案集中在一个对象上：SessionInfo。",
+      "originalSummary": "【摘要】ERP 系统的每一次请求都要先回答两件事：谁在调用、他在哪一家公司。框架若不统一管理，这两个问题会长进每一段业务逻辑的开头，变成到处拷贝的模板代码。框架的做法是把答案集中在一个对象上：SessionInfo。",
+      "url": "https://www.cnblogs.com/jeff-tsai/p/23591020/day-13-session-lifecycle",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-08T01:42:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 97,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】ERP 系统的每一次请求都要先回答两件事：谁在调用、他在哪一家公司 框架若不统一管理，这两个问题会长进每一段业务逻辑的开头，变成到处拷贝的模板代码 框架的做法是把答案集中在一个对象上：SessionInfo 它看起来只记着「谁登录了」，实际上数据库路由、定制化、语言、时区、加密、权限这几条线全部在 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "🔥🔥🔥 拾趣 (Magpie) v0.1.21 发布：解锁图片识别新模式，优化使用体验",
+      "titleZh": "🔥🔥🔥 拾趣 (Magpie) v0.1.21 发布：解锁图片识别新模式，优化使用体验",
+      "summary": "拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现。复制、搜索、写入 Obsidian、预填日历，结果直接落地。Release v0.1.21 更新内容： Added The interface now speaks bot。",
+      "originalSummary": "拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现。复制、搜索、写入 Obsidian、预填日历，结果直接落地。Release v0.1.21 更新内容： Added The interface now speaks bot。",
+      "url": "https://www.oschina.net/news/503468",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-08T01:17:24+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 188,
+      "summaryLength": 117,
+      "summaryQuality": "weak",
+      "readerTextZh": "拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现 复制、搜索、写入 Obsidian、预填日历，结果直接落地 图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，无需迁入对话窗口 Release v0.1.21 更新内容： Added The interface now speaks bot",
+      "isTranslated": false
+    },
+    {
+      "title": "Redis 数据类型全解 - HyperLogLog：12 KB 估出亿级 UV（八） - IT规划师",
+      "titleZh": "Redis 数据类型全解 - HyperLogLog：12 KB 估出亿级 UV（八） - IT规划师",
+      "summary": "【摘要】本文评估12 KB HLL估算器在生产环境的可用性：仅适用于海量、容忍约1%误差的去重总数统计。核心要点：误差为相对值且服从正态分布，32%概率超±0.81%。内存固定12 KB（P=14），无法动态调优。",
+      "originalSummary": "【摘要】本文评估12 KB HLL估算器在生产环境的可用性：仅适用于海量、容忍约1%误差的去重总数统计。核心要点：误差为相对值且服从正态分布，32%概率超±0.81%。内存固定12 KB（P=14），无法动态调优。",
+      "url": "https://www.cnblogs.com/hugogoos/p/23587172",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-08T00:48:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 162,
+      "summaryLength": 86,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】本文评估12 KB HLL估算器在生产环境的可用性：仅适用于海量、容忍约1%误差的去重总数统计 核心要点：误差为相对值且服从正态分布，32%概率超±0.81% 内存固定12 KB（P=14），无法动态调优 对比Set/Bitmap/Bloom/CMS，HLL仅适合“粗略... 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "如何写出不那么具有ai味的文章？ - DeepSky丶",
+      "titleZh": "如何写出不那么具有ai味的文章？ - DeepSky丶",
+      "summary": "【摘要】前言 我想题目叫如何让ai写出不那么具有ai味的文章可能会更合适一点。如今，AI 的出现降低了写作的门槛，写文章不再需要绞尽脑汁地逐字推敲，只要有一个想法，整理出大致的提纲，交给 AI，就能快速生成一篇看起来有模有样的文章。如果把写文章比作做菜就能直观的发现AI写文章的问题，AI这位大厨做的是又快 阅读全文。",
+      "originalSummary": "【摘要】前言 我想题目叫如何让ai写出不那么具有ai味的文章可能会更合适一点。如今，AI 的出现降低了写作的门槛，写文章不再需要绞尽脑汁地逐字推敲，只要有一个想法，整理出大致的提纲，交给 AI，就能快速生成一篇看起来有模有样的文章。如果把写文章比作做菜就能直观的发现AI写文章的问题，AI这位大厨做的是又快 阅读全文。",
+      "url": "https://www.cnblogs.com/deep-sky/p/23590338",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-07T23:49:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 143,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】前言 我想题目叫如何让ai写出不那么具有ai味的文章可能会更合适一点 如今，AI 的出现降低了写作的门槛，写文章不再需要绞尽脑汁地逐字推敲，只要有一个想法，整理出大致的提纲，交给 AI，就能快速生成一篇看起来有模有样的文章 如果把写文章比作做菜就能直观的发现AI写文章的问题，AI这位大厨做的是又快 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "视频是算出来的：DeepSeek Harness零素材全代码生成视频插件 - 我才是银古",
+      "titleZh": "视频是算出来的：DeepSeek Harness零素材全代码生成视频插件 - 我才是银古",
+      "summary": "【摘要】用代码生成视频，最容易被误解成\"让模型生成视频\"。扩散模型那一类，输入提示词、输出像素，每次结果不同，你对中间过程的控制力有限。程序化渲染这一条路，画面里每一个像素都由一段代码算出来，同一帧号永远得到同一张图。",
+      "originalSummary": "【摘要】用代码生成视频，最容易被误解成\"让模型生成视频\"。扩散模型那一类，输入提示词、输出像素，每次结果不同，你对中间过程的控制力有限。程序化渲染这一条路，画面里每一个像素都由一段代码算出来，同一帧号永远得到同一张图。",
+      "url": "https://www.cnblogs.com/znlgis/p/23589724",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-07T19:59:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 95,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】用代码生成视频，最容易被误解成\"让模型生成视频\" 扩散模型那一类，输入提示词、输出像素，每次结果不同，你对中间过程的控制力有限 程序化渲染这一条路，画面里每一个像素都由一段代码算出来，同一帧号永远得到同一张图 代价是你得自己写构图、渐变、排版和缓动，收益是——改了就一定变，没变就 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "Cordonix 0.4.1 发布：每日后台更新，完善全部 MCP 工具说明",
+      "titleZh": "Cordonix 0.4.1 发布：每日后台更新，完善全部 MCP 工具说明",
+      "summary": "Cordonix 0.4.1 已发布。Cordonix（简称 cdx）是一款面向 AI 编程智能体的原生执行与文件工作区工具，使用 C11 实现，支持 Windows 和 Linux，通过 MCP 提供本地程序执行、文件读取、编码转换和内存编辑等能力。本次更新主要改进安装后的版本更新体验，完善全部 MCP 工具的参数说明，并让文件创建失败时的提示更准确。",
+      "originalSummary": "Cordonix 0.4.1 已发布。Cordonix（简称 cdx）是一款面向 AI 编程智能体的原生执行与文件工作区工具，使用 C11 实现，支持 Windows 和 Linux，通过 MCP 提供本地程序执行、文件读取、编码转换和内存编辑等能力。本次更新主要改进安装后的版本更新体验，完善全部 MCP 工具的参数说明，并让文件创建失败时的提示更准确。",
+      "url": "https://www.oschina.net/news/503467",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-07T17:15:32+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 183,
+      "summaryLength": 150,
+      "summaryQuality": "weak",
+      "readerTextZh": "Cordonix 0.4.1 已发布 Cordonix（简称 cdx）是一款面向 AI 编程智能体的原生执行与文件工作区工具，使用 C11 实现，支持 Windows 和 Linux，通过 MCP 提供本地程序执行、文件读取、编码转换和内存编辑等能力 本次更新主要改进安装后的版本更新体验，完善全部 MCP 工具的参数说明，并让文件创建失败时的提示更准确",
+      "isTranslated": false
+    },
+    {
+      "title": "OpenGoLive 0.9.8 发布：改进数据恢复，新增本地编辑冲突检测与组权限",
+      "titleZh": "OpenGoLive 0.9.8 发布：改进数据恢复，新增本地编辑冲突检测与组权限",
+      "summary": "OpenGoLive（html-golive）0.9.8 已发布。它是一款 MIT 开源的自部署 HTML 发布与管理工具，可将报告、看板和小工具部署到自己的电脑、NAS 或内网服务器，提供 CLI 和中英文管理台。本次更新主要包括： 数据恢复与迁移：在支持的操作中保留业务记录 ID、JSON 值、排序和时间戳，并增加冲突检测与恢复后的读回校验。",
+      "originalSummary": "OpenGoLive（html-golive）0.9.8 已发布。它是一款 MIT 开源的自部署 HTML 发布与管理工具，可将报告、看板和小工具部署到自己的电脑、NAS 或内网服务器，提供 CLI 和中英文管理台。本次更新主要包括： 数据恢复与迁移：在支持的操作中保留业务记录 ID、JSON 值、排序和时间戳，并增加冲突检测与恢复后的读回校验。",
+      "url": "https://www.oschina.net/news/503466",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-07T16:14:13+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "硬件"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 181,
+      "summaryLength": 146,
+      "summaryQuality": "weak",
+      "readerTextZh": "OpenGoLive（html-golive）0.9.8 已发布 它是一款 MIT 开源的自部署 HTML 发布与管理工具，可将报告、看板和小工具部署到自己的电脑、NAS 或内网服务器，提供 CLI 和中英文管理台 本次更新主要包括： 数据恢复与迁移：在支持的操作中保留业务记录 ID、JSON 值、排序和时间戳，并增加冲突检测与恢复后的读回校验",
       "isTranslated": false
     },
     {
       "title": "salesforce零基础学习（一百四十五）Apex API 66以后 运行为 User Mode - zero.zhang",
       "titleZh": "salesforce零基础学习（一百四十五）Apex API 66以后 运行为 User Mode - zero.zhang",
-      "summary": "否则程序中会出现到意想不到的结果 此前我们的博客解释过 System Mode以及User Mode，这里一句话进行总结： User Mode（用户模式）: 按当前运行用户的权限执行，会检查对象权限（CRUD）、字段安全（FLS）以及共享规则（sharing）...。记录级共享是否生效，要看apex class声明的sharing关键字 那么 api version 66及以前和以后都有哪些明显的区别呢，我们按照以下的demo可以更好的了解： 1. 创建一个自定义表，包含两个字段，其...。",
-      "originalSummary": "否则程序中会出现到意想不到的结果 此前我们的博客解释过 System Mode以及User Mode，这里一句话进行总结： User Mode（用户模式）: 按当前运行用户的权限执行，会检查对象权限（CRUD）、字段安全（FLS）以及共享规则（sharing）...。记录级共享是否生效，要看apex class声明的sharing关键字 那么 api version 66及以前和以后都有哪些明显的区别呢，我们按照以下的demo可以更好的了解： 1. 创建一个自定义表，包含两个字段，其...。",
+      "summary": "【摘要】背景 此前我们的经验中，apex代码一直运行在system mode中，但是当summer'26 release（即apex api version： 67）以后，apex将运行在 user mode，所以以后创建apex class的时候，也需要严格...。",
+      "originalSummary": "【摘要】背景 此前我们的经验中，apex代码一直运行在system mode中，但是当summer'26 release（即apex api version： 67）以后，apex将运行在 user mode，所以以后创建apex class的时候，也需要严格...。",
       "url": "https://www.cnblogs.com/zero-zyq/p/23587499",
       "source": "博客园技术文章",
       "region": "中文技术深度",
@@ -332,14 +599,13 @@
       "tags": [
         "开发者",
         "后端",
-        "中文深度",
-        "安全"
+        "中文深度"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 11158,
-      "summaryLength": 207,
-      "summaryQuality": "strong",
-      "readerTextZh": "【摘要】背景 此前我们的经验中，apex代码一直运行在system mode中，但是当summer'26 release（即apex api version： 67）以后，apex将运行在 user mode，所以以后创建apex class的时候，也需要严格的检查当前系统设置默认生成的api versio 阅读全文 背景 此前我们的经验中，apex代码一直运行在system mode中，但是当summer'26 release（即apex api version： 67）以后，apex将运行在 user mode，所以以后创建apex class的时候，也需要严格的检查当前系统设置默认生成的api ve 背景 此前我们的经验中，apex代码一直运行在system mode中，但是当summer'26 release（即apex api version： 67）以后，apex将运行在 user mode，所以以后创建apex class的时候，也需要严格的检查当前系统设置默认生成的api ve 此前我们的经验中，apex代码一直运行在system mode中，但是当summer'26 release（即apex api version： 67）以后，apex将运行在 user mode，所以以后创建apex class的时候，也需要严格的检查当前系统设置默认生成的api version 否则程序中会出现到意想不到的结果 此前我们的博客解释过 System Mode以及User Mode，这里一句话进行总结： User Mode（用户模式）: 按当前运行用户的权限执行，会检查对象权限（CRUD）、字段安全（FLS）以及共享规则（sharing） System Mode（系统模式）：不检查当前用户的对象权限以及FLS，相当于用户拥有所有对象和字段的访问权 记录级共享是否生效，要看apex class声明的sharing关键字 那么 api version 66及以前和以后都有哪些明显的区别呢，我们按照以下的demo可以更好的了解： 1. 创建一个自定义表，包含两个字段...",
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 110,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】背景 此前我们的经验中，apex代码一直运行在system mode中，但是当summer'26 release（即apex api version： 67）以后，apex将运行在 user mode，所以以后创建apex class的时候，也需要严格的检查当前系统设置默认生成的api versio 阅读全文",
       "isTranslated": false
     },
     {
@@ -367,8 +633,8 @@
     {
       "title": ":fire: xbatis 1.10.15 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
       "titleZh": ":fire: xbatis 1.10.15 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
-      "summary": "让你直接少写 1/3 甚至 2/3 的持久层代码。1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容mybatis 3.6.0 3。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "originalSummary": "让你直接少写 1/3 甚至 2/3 的持久层代码。1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容mybatis 3.6.0 3。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "summary": "让你直接少写 1/3 甚至 2/3 的持久层代码。用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容mybatis 3.6.0 3。",
+      "originalSummary": "让你直接少写 1/3 甚至 2/3 的持久层代码。用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容mybatis 3.6.0 3。",
       "url": "https://www.oschina.net/news/503464",
       "source": "开源中国资讯",
       "region": "中文技术深度",
@@ -377,35 +643,13 @@
         "开源",
         "开发者",
         "中文深度",
-        "AI",
-        "软件工程"
+        "AI"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 407,
-      "summaryLength": 156,
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 189,
+      "summaryLength": 103,
       "summaryQuality": "weak",
-      "readerTextZh": "让你直接少写 1/3 甚至 2/3 的持久层代码 API 简单 快捷 优雅 简洁 构建 SQL 非常强！ 用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护 1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容mybatis 3.6.0 3 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
-      "isTranslated": false
-    },
-    {
-      "title": "一个 05 后的个人数码编年史",
-      "titleZh": "一个 05 后的个人数码编年史",
-      "summary": "查看全文 我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬 我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬 我只想回应自己的感受，自己的记忆，只是因为那时候我满腔...。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 我很喜欢 Ninajirachi 的 iPod touch 这首歌，一定程度上是因为，我人生中接触到的第一台电子设备就是一台 iPod to...。",
-      "originalSummary": "查看全文 我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬 我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬 我只想回应自己的感受，自己的记忆，只是因为那时候我满腔...。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 我很喜欢 Ninajirachi 的 iPod touch 这首歌，一定程度上是因为，我人生中接触到的第一台电子设备就是一台 iPod to...。",
-      "url": "https://sspai.com/post/116750",
-      "source": "少数派深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-07T09:05:06+00:00",
-      "tags": [
-        "工具",
-        "数字生活",
-        "中文深度"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 3161,
-      "summaryLength": 214,
-      "summaryQuality": "weak",
-      "readerTextZh": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬 查看全文 我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬 我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬 我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 我很喜欢 Ninajirachi 的 iPod touch 这首歌，一定程度上是因为，我人生中接触到的第一台电子设备就是一台 iPod touch 那个时候苹果的设备甚至还没有 lightning 接口，而还在上幼儿园的我都不会安装软件，只能一遍有一遍玩我爸已经下载好的《极品飞车》 极品风车里最低的等级是「菜鸟」，我就是从这个游戏中第一次认得了「菜鸟」这个词究竟是什么意思 在它的 Home 键被按坏了之后，我仍然坚持借助虚拟 Home 键使用它 我出生于 2005 年，对于我来说，科技在我的整个成长过程中扮演了不可或缺的角色 由于我爸订《电脑报》，我可以在他看完之后拿走，整个小学到初中，我几乎对市面上每一个时期的电子产品参数都如数家珍 不过那个时候我自己无法拥有任何电子产品 上小学之后，我会在周末到少年宫去上古诗词和科普英语的课，慢慢地我爸还是觉得有个手机方便联系接我，就给我买了台诺基亚 106",
+      "readerTextZh": "让你直接少写 1/3 甚至 2/3 的持久层代码 API 简单 快捷 优雅 简洁 构建 SQL 非常强！ 用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护 1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容mybatis 3.6.0 3",
       "isTranslated": false
     },
     {
@@ -429,159 +673,6 @@
       "summaryLength": 129,
       "summaryQuality": "weak",
       "readerTextZh": "【摘要】一句话安利：把 CoDesign 链接丢给 Claude Code / Cursor，它自己去看图、量间距、下切图、写 CSS 不用你截图，不用你手抄标注，也不用你打开预览图按包围盒一张张裁 仓库地址：https://github.com/geniyangge/codesign-mcp-serve 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "target 目录越来越大，Rust 项目该怎么清理 - 付威的网络博客",
-      "titleZh": "target 目录越来越大，Rust 项目该怎么清理 - 付威的网络博客",
-      "summary": "【摘要】Rust 项目一多，磁盘空间常常先被 target 目录吃掉。每个工作区的 target 里，既有最后要运行的程序，也有依赖编译结果、增量编译数据和构建脚本产生的中间文件。整目录删除当然最快，代价是最终产物也会一起消失。",
-      "originalSummary": "【摘要】Rust 项目一多，磁盘空间常常先被 target 目录吃掉。每个工作区的 target 里，既有最后要运行的程序，也有依赖编译结果、增量编译数据和构建脚本产生的中间文件。整目录删除当然最快，代价是最终产物也会一起消失。",
-      "url": "https://www.cnblogs.com/OceanHeaven/p/23585354",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-07T07:55:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 99,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】Rust 项目一多，磁盘空间常常先被 target 目录吃掉 每个工作区的 target 里，既有最后要运行的程序，也有依赖编译结果、增量编译数据和构建脚本产生的中间文件 整目录删除当然最快，代价是最终产物也会一起消失 只想清掉缓存，又得挨个项目判断哪些目录能删",
-      "isTranslated": false
-    },
-    {
-      "title": "开源：Yolo2CausalTCN，将YOLOv8数据集转换为因果TCN时序模型的开源工具 - iNeuOS工业互联网系统",
-      "titleZh": "开源：Yolo2CausalTCN，将YOLOv8数据集转换为因果TCN时序模型的开源工具 - iNeuOS工业互联网系统",
-      "summary": "【摘要】iNeuOS_Yolo2CausalTCN 项目实现了从YOLOv8推理结果到因果TCN时序数据集的完整转换流水线，支持滑动窗口构造时序样本、特征归一化与按时间顺序的数据集划分，并内置因果TCN的训练、评估与推理代码，打通了“视频目标检测—时序数据集生...。",
-      "originalSummary": "【摘要】iNeuOS_Yolo2CausalTCN 项目实现了从YOLOv8推理结果到因果TCN时序数据集的完整转换流水线，支持滑动窗口构造时序样本、特征归一化与按时间顺序的数据集划分，并内置因果TCN的训练、评估与推理代码，打通了“视频目标检测—时序数据集生...。",
-      "url": "https://www.cnblogs.com/lsjwq/p/23585365",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-07T07:55:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI",
-        "开源"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 162,
-      "summaryLength": 119,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】iNeuOS_Yolo2CausalTCN 项目实现了从YOLOv8推理结果到因果TCN时序数据集的完整转换流水线，支持滑动窗口构造时序样本、特征归一化与按时间顺序的数据集划分，并内置因果TCN的训练、评估与推理代码，打通了“视频目标检测—时序数据集生成—TCN时序预测”的全链路，可用于目标数量预测... 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "主goroutine和主线程的详细讲解 - 何人陪我共长生",
-      "titleZh": "主goroutine和主线程的详细讲解 - 何人陪我共长生",
-      "summary": "【摘要】主goroutine是主线程的意思？。回答：不是 严格说，Go 里没有\"主线程\"这个概念。主 goroutine 和 主线程 的区别 概念 本质 在 Go 中的情况 主 goroutine 执行 main.main() 的那个协程 确实存在， 阅读全文。",
-      "originalSummary": "【摘要】主goroutine是主线程的意思？。回答：不是 严格说，Go 里没有\"主线程\"这个概念。主 goroutine 和 主线程 的区别 概念 本质 在 Go 中的情况 主 goroutine 执行 main.main() 的那个协程 确实存在， 阅读全文。",
-      "url": "https://www.cnblogs.com/ishoulgodo/p/23583903",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-07T07:03:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 99,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】主goroutine是主线程的意思？ 回答：不是 严格说，Go 里没有\"主线程\"这个概念 \"主goroutine\"和\"主线程\"是两个层次的东西 主 goroutine 和 主线程 的区别 概念 本质 在 Go 中的情况 主 goroutine 执行 main.main() 的那个协程 确实存在， 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "API 安全三支柱：认证、防篡改、防重放的工程实践 - IT规划师",
-      "titleZh": "API 安全三支柱：认证、防篡改、防重放的工程实践 - IT规划师",
-      "summary": "【摘要】HTTPS 与 Bearer Token 仅保障传输安全与身份认证，无法防止报文篡改与请求重放。需通过请求签名构建字节级契约：以 HMAC 保证完整性，时间戳+Nonce 确保新鲜性，三者协同形成“身份-内容-时效”三角信任。签名应基于不可变的请求契约（如单值头、特定体字段），避免歧义。",
-      "originalSummary": "【摘要】HTTPS 与 Bearer Token 仅保障传输安全与身份认证，无法防止报文篡改与请求重放。需通过请求签名构建字节级契约：以 HMAC 保证完整性，时间戳+Nonce 确保新鲜性，三者协同形成“身份-内容-时效”三角信任。签名应基于不可变的请求契约（如单值头、特定体字段），避免歧义。",
-      "url": "https://www.cnblogs.com/hugogoos/p/23578745",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-07T05:09:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "安全"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 162,
-      "summaryLength": 123,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】HTTPS 与 Bearer Token 仅保障传输安全与身份认证，无法防止报文篡改与请求重放 需通过请求签名构建字节级契约：以 HMAC 保证完整性，时间戳+Nonce 确保新鲜性，三者协同形成“身份-内容-时效”三角信任 签名应基于不可变的请求契约（如单值头、特定体字段），避免歧义",
-      "isTranslated": false
-    },
-    {
-      "title": "AC自动机超详细讲解，附带例题详解 - Emoji-happy",
-      "titleZh": "AC自动机超详细讲解，附带例题详解 - Emoji-happy",
-      "summary": "【摘要】本文极其详细，内容很多，请想学好 AC自动机 的朋友耐心看完 前置知识：KMP，Trie 引入 AC自动机是什么 Aho–Corasick automaton，简称AC自动机，著名的多模匹配算法，由Alfred V。Aho和Margaret J.Corasick于1975年在贝尔实验室发明，主要用 阅读全文。",
-      "originalSummary": "【摘要】本文极其详细，内容很多，请想学好 AC自动机 的朋友耐心看完 前置知识：KMP，Trie 引入 AC自动机是什么 Aho–Corasick automaton，简称AC自动机，著名的多模匹配算法，由Alfred V。Aho和Margaret J.Corasick于1975年在贝尔实验室发明，主要用 阅读全文。",
-      "url": "https://www.cnblogs.com/Emoji-happy/p/23583577",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-07T03:57:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 135,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】本文极其详细，内容很多，请想学好 AC自动机 的朋友耐心看完 前置知识：KMP，Trie 引入 AC自动机是什么 Aho–Corasick automaton，简称AC自动机，著名的多模匹配算法，由Alfred V Aho和Margaret J.Corasick于1975年在贝尔实验室发明，主要用 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "开发基于ComfyUI图片生成类应用Step by step（三）理解ComfyUI工作流的执行方式 - 寻找无名的特质",
-      "titleZh": "开发基于ComfyUI图片生成类应用Step by step（三）理解ComfyUI工作流的执行方式 - 寻找无名的特质",
-      "summary": "【摘要】在本合集第二部分，我们编写了一个极简的图像生成程序，通过这个程序了解了ComfyUI的工作过程。在这个程序中使用代码创建了工作流，我们也可以使用ComfyUI的可视化工作流编制和运行工具创建工作流，然后导出工作流的json文件，应用到程序中。使用ComfyUI可视化编辑器创建工作流 启动Comfy 阅读全文。",
-      "originalSummary": "【摘要】在本合集第二部分，我们编写了一个极简的图像生成程序，通过这个程序了解了ComfyUI的工作过程。在这个程序中使用代码创建了工作流，我们也可以使用ComfyUI的可视化工作流编制和运行工具创建工作流，然后导出工作流的json文件，应用到程序中。使用ComfyUI可视化编辑器创建工作流 启动Comfy 阅读全文。",
-      "url": "https://www.cnblogs.com/zhenl/p/23583463",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-07T03:37:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 147,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】在本合集第二部分，我们编写了一个极简的图像生成程序，通过这个程序了解了ComfyUI的工作过程 在这个程序中使用代码创建了工作流，我们也可以使用ComfyUI的可视化工作流编制和运行工具创建工作流，然后导出工作流的json文件，应用到程序中 使用ComfyUI可视化编辑器创建工作流 启动Comfy 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "手把手教你：nvidia-smi 显示的 CUDA 版本到底是不是你装的那个｜AI工程师踩坑实录·第1篇 - 大雾的小屋",
-      "titleZh": "手把手教你：nvidia-smi 显示的 CUDA 版本到底是不是你装的那个｜AI工程师踩坑实录·第1篇 - 大雾的小屋",
-      "summary": "【摘要】真机踩坑实录第1篇：nvidia-smi右上角的CUDA Version只是驱动上限，不是已装版本。CPU版PyTorch调.cuda()报错，根源是PyPI默认源装的是+cpu轮子。解法很简单：换官方cu源CUDA轮子，不动驱动，实测GPU提速18.4倍。",
-      "originalSummary": "【摘要】真机踩坑实录第1篇：nvidia-smi右上角的CUDA Version只是驱动上限，不是已装版本。CPU版PyTorch调.cuda()报错，根源是PyPI默认源装的是+cpu轮子。解法很简单：换官方cu源CUDA轮子，不动驱动，实测GPU提速18.4倍。",
-      "url": "https://www.cnblogs.com/dawudexiaowu/p/23583296",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-07T03:21:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI",
-        "芯片"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 138,
-      "summaryLength": 115,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】真机踩坑实录第1篇：nvidia-smi右上角的CUDA Version只是驱动上限，不是已装版本 CPU版PyTorch调.cuda()报错，根源是PyPI默认源装的是+cpu轮子 解法很简单：换官方cu源CUDA轮子，不动驱动，实测GPU提速18.4倍",
       "isTranslated": false
     },
     {
@@ -692,96 +783,6 @@
       "summaryLength": 130,
       "summaryQuality": "weak",
       "readerTextZh": "qData 数据中台开源版 v1.6.6 发布，本次更新主要涉及 ETL 执行模块拆分，以及定时任务运行中的 JAR 包累积问题修复 在社区使用反馈中，有开发者发现，数据集成定时任务持续运行后，服务器上的 ETL JAR 包不断累积，占用了较多磁盘空间 对于高频、长期运行的同步任务，这类问题需要持续关注",
-      "isTranslated": false
-    },
-    {
-      "title": "OpenSSH 严重绕过漏洞“sshole”让任意超长密码都能登录 root",
-      "titleZh": "OpenSSH 严重绕过漏洞“sshole”让任意超长密码都能登录 root",
-      "summary": "一个本该永远无法登录的账号，只要输入超过 256 个字符的任意密码，就能进去。这个漏洞在 musl libc 里躺了十四年——从 2012 年埋下，到 2026 年才被发现。他还做了个网站 sshhole.com，把这个 bug 的来龙去脉从 1980 年一路讲到今天。",
-      "originalSummary": "一个本该永远无法登录的账号，只要输入超过 256 个字符的任意密码，就能进去。这个漏洞在 musl libc 里躺了十四年——从 2012 年埋下，到 2026 年才被发现。他还做了个网站 sshhole.com，把这个 bug 的来龙去脉从 1980 年一路讲到今天。",
-      "url": "https://www.oschina.net/news/503439/openssh-sshhole",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T06:41:31+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "安全"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 189,
-      "summaryLength": 111,
-      "summaryQuality": "weak",
-      "readerTextZh": "一个本该永远无法登录的账号，只要输入超过 256 个字符的任意密码，就能进去 这个漏洞在 musl libc 里躺了十四年——从 2012 年埋下，到 2026 年才被发现 发现者 Özgün Kültekin 给它起了个名字：*sshole 他还做了个网站 sshhole.com，把这个 bug 的来龙去脉从 1980 年一路讲到今天",
-      "isTranslated": false
-    },
-    {
-      "title": "当 Coding Agent 走进研发团队：腾讯开源了云端自进化研发平台 LoopForge",
-      "titleZh": "当 Coding Agent 走进研发团队：腾讯开源了云端自进化研发平台 LoopForge",
-      "summary": "单机 Coding Agent 已经能飞快写出代码，但一旦走进真实研发团队，合盖断流、多人上下文割裂、自由 Vibe Coding 质量失控、日常盯单耗时以及同类问题反复踩坑，很快就会把团队卡在“单兵提效、全局内耗”的瓶颈里。为此，腾讯轻量云团队打造并开源了云端自进化 AI 研发平台 LoopForge——集 7×24 小时云端工作区、多角色。",
-      "originalSummary": "单机 Coding Agent 已经能飞快写出代码，但一旦走进真实研发团队，合盖断流、多人上下文割裂、自由 Vibe Coding 质量失控、日常盯单耗时以及同类问题反复踩坑，很快就会把团队卡在“单兵提效、全局内耗”的瓶颈里。为此，腾讯轻量云团队打造并开源了云端自进化 AI 研发平台 LoopForge——集 7×24 小时云端工作区、多角色。",
-      "url": "https://www.oschina.net/news/503437",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T06:31:36+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "AI",
-        "云计算"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 175,
-      "summaryLength": 146,
-      "summaryQuality": "weak",
-      "readerTextZh": "单机 Coding Agent 已经能飞快写出代码，但一旦走进真实研发团队，合盖断流、多人上下文割裂、自由 Vibe Coding 质量失控、日常盯单耗时以及同类问题反复踩坑，很快就会把团队卡在“单兵提效、全局内耗”的瓶颈里 为此，腾讯轻量云团队打造并开源了云端自进化 AI 研发平台 LoopForge——集 7×24 小时云端工作区、多角色",
-      "isTranslated": false
-    },
-    {
-      "title": "ModStartBlog v12.0.0 一键安装、主题焕新、安全加固与体验升级",
-      "titleZh": "ModStartBlog v12.0.0 一键安装、主题焕新、安全加固与体验升级",
-      "summary": "系统介绍 ModStart 是一个基于 Laravel 模块化极速开发框架。系统完全开源，基于 Apache 2.0 开源协议。功能特性 丰富的模块市场，后台一键快速安装 会员模块通用且完整，支持完整的API调用 大文件分片上传，进度条显示，已上传文。",
-      "originalSummary": "系统介绍 ModStart 是一个基于 Laravel 模块化极速开发框架。系统完全开源，基于 Apache 2.0 开源协议。功能特性 丰富的模块市场，后台一键快速安装 会员模块通用且完整，支持完整的API调用 大文件分片上传，进度条显示，已上传文。",
-      "url": "https://www.oschina.net/news/503436",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T06:16:12+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "安全"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 171,
-      "summaryLength": 107,
-      "summaryQuality": "weak",
-      "readerTextZh": "系统介绍 ModStart 是一个基于 Laravel 模块化极速开发框架 模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发 系统完全开源，基于 Apache 2.0 开源协议 功能特性 丰富的模块市场，后台一键快速安装 会员模块通用且完整，支持完整的API调用 大文件分片上传，进度条显示，已上传文",
-      "isTranslated": false
-    },
-    {
-      "title": "ModStart v12.0.0 图形化安装、安全加固与后台体验全面升级",
-      "titleZh": "ModStart v12.0.0 图形化安装、安全加固与后台体验全面升级",
-      "summary": "系统介绍 ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。系统完全开源，基于 Apache 2.0 开源协议，免费且不限制商业使用。",
-      "originalSummary": "系统介绍 ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。系统完全开源，基于 Apache 2.0 开源协议，免费且不限制商业使用。",
-      "url": "https://www.oschina.net/news/503435",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-06T06:13:41+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 171,
-      "summaryLength": 101,
-      "summaryQuality": "weak",
-      "readerTextZh": "系统介绍 ModStart 是一个基于 Laravel 模块化极速开发框架 模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发 系统完全开源，基于 Apache 2.0 开源协议，免费且不限制商业使用 功能特性 丰富的模块市场，后台一键快速安装 会员模块通用且完整，支持完整的API调用 大文件分片上传",
       "isTranslated": false
     },
     {
