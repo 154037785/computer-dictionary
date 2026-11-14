@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-13T19:12:22.108570+00:00",
-  "nextUpdate": "2026-11-14T07:12:22.108570+00:00",
+  "updatedAt": "2026-11-14T04:52:27.790341+00:00",
+  "nextUpdate": "2026-11-14T16:52:27.790341+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,6 +76,28 @@
   "errors": [],
   "items": [
     {
+      "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+      "titleZh": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+      "summary": "Inkitt 构建可恢复的智能体编排系统，一次性生成 PR Inkitt 构建可恢复的智能体编排系统，一次性生成 PR Inkitt 构建了一个 一次性拉取请求（PR）创建器 ，可以自动完成小型、低风险的软件变更，从接收任务一直执行到生成可供测试和审查的草稿...。对于规模更大的任务，Inkitt 还维护了一个本地版本，让人工持续参与开发过程 原文链接： https://www.infoq.com/news/2026/11/inkitt-one-shot-pr-creator-ag...。",
+      "originalSummary": "Inkitt 构建可恢复的智能体编排系统，一次性生成 PR Inkitt 构建可恢复的智能体编排系统，一次性生成 PR Inkitt 构建了一个 一次性拉取请求（PR）创建器 ，可以自动完成小型、低风险的软件变更，从接收任务一直执行到生成可供测试和审查的草稿...。对于规模更大的任务，Inkitt 还维护了一个本地版本，让人工持续参与开发过程 原文链接： https://www.infoq.com/news/2026/11/inkitt-one-shot-pr-creator-ag...。",
+      "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-14T10:00:00+00:00",
+      "tags": [
+        "架构",
+        "软件工程",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1466,
+      "summaryLength": 203,
+      "summaryQuality": "strong",
+      "readerTextZh": "Inkitt 构建可恢复的智能体编排系统，一次性生成 PR Inkitt 构建可恢复的智能体编排系统，一次性生成 PR Inkitt 构建了一个 一次性拉取请求（PR）创建器 ，可以自动完成小型、低风险的软件变更，从接收任务一直执行到生成可供测试和审查的草稿 PR 该工作流可以通过 Slack、Linear，或者另一个智能体发起的 API 调用触发，并在远程基础设施上运行，从而减少开发者在本地配置和监督编码智能体的需要 Inkitt Tech 在一篇技术文章中表示，该系统已经每天用于交付代码 Inkitt 首席工程师 Agi Letkiewicz Tanner 将其描述为： 一种事件驱动的编排器，它负责协调短生命周期的智能体容器，而不是依赖固定流水线 各个阶段分别负责需求说明、实现、验证、CI 失败修复和合并冲突解决 编排器会将每次运行的状态持久化到数据库中，因此执行过程可以从已经记录的状态继续恢复 Inkitt 一次性 PR 创建器架构（来源： Inkitt 博客文章 ） 该编排器将决策逻辑与副作用分离 其核心状态转换函数会根据当前运行状态和传入事件确定下一步操作，但不会直接访问数据库、网络或语言模型 编排器负责保管外部系统的凭证，智能体容器则只会获得短期有效的代码仓库 Token 和模型凭证 智能体无法直接访问 Slack 或 Linear 凭证、云身份，也不能随意建立网络连接 另有一项独立检查会查看实际的 Git Diff，确保变更没有触及受限制的路径 Inkitt 将自动化限制在预先定义的边界内",
+      "isTranslated": false
+    },
+    {
       "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
       "titleZh": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
       "summary": "在大语言模型（LLM）技术的深刻影响下，搜索引擎正经历第三次范式跃迁：从 1.0 时代的“关键词文本匹配”，到 2.0 时代的“行为统计与个性化搜索”，再到 3.0 时代向“复杂意图理解与认知决策”的全面进化。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。一期采用 HashTable 热启方式加载表征，但二期引入 Deal 表征且维度从 64 维扩展至 128 维后，若沿用热启方式，模型体积将成倍增长，带来明显的存储和部署压力。",
@@ -83,7 +105,7 @@
       "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-13T19:11:37.506221+00:00",
+      "publishedAt": "2026-11-14T04:51:47.098122+00:00",
       "tags": [
         "后端",
         "工程",
@@ -105,7 +127,7 @@
       "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-13T19:11:36.849273+00:00",
+      "publishedAt": "2026-11-14T04:51:46.457645+00:00",
       "tags": [
         "后端",
         "工程",
@@ -127,7 +149,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-13T19:11:36.136011+00:00",
+      "publishedAt": "2026-11-14T04:51:45.775133+00:00",
       "tags": [
         "后端",
         "工程",
@@ -149,7 +171,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-13T19:11:35.445417+00:00",
+      "publishedAt": "2026-11-14T04:51:45.117279+00:00",
       "tags": [
         "后端",
         "工程",
@@ -171,7 +193,7 @@
       "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-13T19:11:34.792808+00:00",
+      "publishedAt": "2026-11-14T04:51:44.470841+00:00",
       "tags": [
         "后端",
         "工程",
@@ -194,7 +216,7 @@
       "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-13T19:11:34.146683+00:00",
+      "publishedAt": "2026-11-14T04:51:43.846949+00:00",
       "tags": [
         "后端",
         "工程",
@@ -216,7 +238,7 @@
       "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-13T19:11:33.481397+00:00",
+      "publishedAt": "2026-11-14T04:51:43.207393+00:00",
       "tags": [
         "后端",
         "工程",
@@ -239,7 +261,7 @@
       "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-13T19:11:32.838712+00:00",
+      "publishedAt": "2026-11-14T04:51:42.585678+00:00",
       "tags": [
         "后端",
         "工程",
@@ -254,60 +276,58 @@
       "isTranslated": false
     },
     {
-      "title": "美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型",
-      "titleZh": "美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型",
-      "summary": "美团正式发布 LongCat-2.5 ，这是一个面向长程智能体任务的原生多模态模型。模型总参数量为 1.6 万亿 ，每个 token 激活约 480 亿 参数，在 LongCat-2.0 的基础上进一步强化了原生视觉理解与智能体编程能力。为将各领域能力融入主线模型，我们沿用 LongCat-2.0 的专家组机制，分别优化 Agent 能力、推理能力和交互体验，涵盖多轮任务执行、单轮推理、细粒度指令遵循，以及不牺牲有用性的安全防御。",
-      "originalSummary": "美团正式发布 LongCat-2.5 ，这是一个面向长程智能体任务的原生多模态模型。模型总参数量为 1.6 万亿 ，每个 token 激活约 480 亿 参数，在 LongCat-2.0 的基础上进一步强化了原生视觉理解与智能体编程能力。为将各领域能力融入主线模型，我们沿用 LongCat-2.0 的专家组机制，分别优化 Agent 能力、推理能力和交互体验，涵盖多轮任务执行、单轮推理、细粒度指令遵循，以及不牺牲有用性的安全防御。",
-      "url": "https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html",
-      "source": "美团技术团队",
-      "region": "技术团队",
-      "publishedAt": "2026-11-13T19:11:32.154310+00:00",
+      "title": "模型\"缺课\"了：为什么该补底座，而不是急着上 RL",
+      "titleZh": "模型\"缺课\"了：为什么该补底座，而不是急着上 RL",
+      "summary": "模型缺课，该先补底座，而不是急着上 RL。补课还得防把旧能力忘掉 原文： mp.weixin.qq.com/s/F7j4xss6a… （2026年10月12日） 你让模型用法语写一段营销文案，它张口就来，但语法全错。如果练习题分掉了、实际能力却没长，说明教材没配到点上 不过，补课是有副作用的，这个副作用叫 灾难性遗忘 —— 学了新科目，把旧科目忘了 有个很直观的例子：一个主要用英语训练的模型（叫 Mistral 7B），拿韩语维基百...。",
+      "originalSummary": "模型缺课，该先补底座，而不是急着上 RL。补课还得防把旧能力忘掉 原文： mp.weixin.qq.com/s/F7j4xss6a… （2026年10月12日） 你让模型用法语写一段营销文案，它张口就来，但语法全错。如果练习题分掉了、实际能力却没长，说明教材没配到点上 不过，补课是有副作用的，这个副作用叫 灾难性遗忘 —— 学了新科目，把旧科目忘了 有个很直观的例子：一个主要用英语训练的模型（叫 Mistral 7B），拿韩语维基百...。",
+      "url": "https://juejin.cn/post/7707586250232840234",
+      "source": "掘金技术社区",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-14T04:31:15+00:00",
       "tags": [
+        "前端",
         "后端",
-        "工程",
-        "技术团队",
-        "AI",
-        "安全"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 6377,
-      "summaryLength": 181,
-      "summaryQuality": "weak",
-      "readerTextZh": "美团正式发布 LongCat-2.5 ，这是一个面向长程智能体任务的原生多模态模型 模型总参数量为 1.6 万亿 ，每个 token 激活约 480 亿 参数，在 LongCat-2.0 的基础上进一步强化了原生视觉理解与智能体编程能力 新模型在长程智能体任务中有明显效果提升，这源于我们在长序列训练中加入了更多长程轨迹数据，并通过大规模长程强化学习，提升模型在复杂代码库开发、完整项目构建等任务中的端到端工程能力 围绕数据合成、环境构建与跨 Harness 混合训练，我们持续扩展这条训练链路 此外，我们也将真实 Agent 的失败轨迹转化为可复现、可验证的训练任务，针对模型能力短板持续补充训练数据 与此同时，LongCat-2.5 具备原生视觉理解能力，可将视觉信号表示为多层级离散 token，使主干模型以统一的 token 形式处理视觉与文本输入，在 Visual Coding 上表现出色，并支持创意设计和 3D 等任务 这些升级背后，是持续演进的基础设施：我们优化了国产算力上的长上下文训练与 W4A4 推理，并通过训推数值一致性和长上下文 rollout 优化，支撑大规模长程 RL 的高效运行 为直观呈现 LongCat-2.5 当前的能力水平，我们在下图中选取 GPT-5.5、GPT-5.6-Sol、Claude-Opus-4.8 和 Claude-Opus-5 进行对比",
-      "isTranslated": false
-    },
-    {
-      "title": "美团 LongCat-2.5 正式开源：从看见，到抵达",
-      "titleZh": "美团 LongCat-2.5 正式开源：从看见，到抵达",
-      "summary": "LongCat-2.5是面向长程智能体任务的原生多模态模型，在复杂代码库开发、完整项目构建、Visual Coding 与专业办公场景中，端到端交付能力均有明显提升。W4A4让 LongCat-2.5 在保持下游任务表现的同时降低推理成本，为 1.6 万亿级 MoE 模型的开源部署提供了可用的效率基础。我们会继续开放模型与工程经验，与同行一起，把这条路走宽 模型开源 ： https://huggingface.co/meituan-longcat/LongCat-2.5 技术博客 ： https://longcat.a...。",
-      "originalSummary": "LongCat-2.5是面向长程智能体任务的原生多模态模型，在复杂代码库开发、完整项目构建、Visual Coding 与专业办公场景中，端到端交付能力均有明显提升。W4A4让 LongCat-2.5 在保持下游任务表现的同时降低推理成本，为 1.6 万亿级 MoE 模型的开源部署提供了可用的效率基础。我们会继续开放模型与工程经验，与同行一起，把这条路走宽 模型开源 ： https://huggingface.co/meituan-longcat/LongCat-2.5 技术博客 ： https://longcat.a...。",
-      "url": "https://tech.meituan.com/2026/11/10/Meituan-LongCat-2.5-Open-Source.html",
-      "source": "美团技术团队",
-      "region": "技术团队",
-      "publishedAt": "2026-11-13T19:11:31.504093+00:00",
-      "tags": [
-        "后端",
-        "工程",
-        "技术团队",
-        "AI",
-        "开源"
+        "开发者",
+        "AI"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 5482,
-      "summaryLength": 219,
-      "summaryQuality": "strong",
-      "readerTextZh": "美团正式开源 LongCat-2.5，采用 MIT 协议，支持商用推理部署与二次训练，无需额外授权 LongCat-2.5是面向长程智能体任务的原生多模态模型，在复杂代码库开发、完整项目构建、Visual Coding 与专业办公场景中，端到端交付能力均有明显提升 模型总参数 1.6 万亿，每个 token 激活约 480 亿参数，支持一百万上下文 针对显存与带宽受限的国产算力芯片，我们在模型架构、芯片适配与部署策略上也进行了深度协同优化 LongCat-2.5 的长程能力提升，来自一整条训练链路的扩展，而非单点改动 这些设计不改变模型能力的定义，但让能力在长任务中稳定发挥 加入更多长程轨迹，并把真实 Agent 的失败轨迹转为可复现、可验证的训练任务 采用partial rollout 异步训练，让未跑完的长任务保存后续跑",
+      "sourceTextLength": 2060,
+      "summaryLength": 180,
+      "summaryQuality": "weak",
+      "readerTextZh": "模型缺课，该先补底座，而不是急着上 RL 强化学习只会把偶尔能对变成经常对，从零学会新知识要靠 Mid-training 补课还得防把旧能力忘掉 原文： mp.weixin.qq.com/s/F7j4xss6a… （2026年10月12日） 你让模型用法语写一段营销文案，它张口就来，但语法全错 你让它读懂公司的内部协议，它一本正经地胡说 你给它一份超长合同，它读了后面忘了前面 你把提示词改了又改、又给它挂了个资料库，效果还是不行 但答案往往是： 别急 这些问题有一个共同的根源—— 这些东西，模型的基础能力里压根没学过 而 RL 最不擅长的，恰恰就是“凭空学会它从没学过的东西” 这就好比让一个从没学过法语的人去参加法语谈判——你给他再好的临场技巧培训，他也张不开嘴，因为 词汇和语法根本没进过他的脑子 Mid-training（中期训练） ，也有人叫 继续预训练（CPT） 、 领域自适应预训练（DAPT） ，意思都是：从一个已有基础的模型出发， 拿目标领域的资料继续“上课” 它和预训练用的是同一个任务—— 预测下一个词 （还记得吗，就是那个“猜下一个文字积木”的游戏）",
       "isTranslated": false
     },
     {
-      "title": "桌面日历+AI 小秘书:月历·日程·待办·黄历·天气·番茄钟.便签等,单文件绿色免安装 - ucfar",
-      "titleZh": "桌面日历+AI 小秘书:月历·日程·待办·黄历·天气·番茄钟.便签等,单文件绿色免安装 - ucfar",
-      "summary": "【摘要】UCalendar v2.8.1 新增桌面组件： 项目进度（Pro）：进行中项目按截止日排序，显示当前阶段 / 进度 / 逾期。点行直达项目 股票行情（Pro）：自选最多 20 只，实时行情 + K 线，多源自动回退，支持红涨绿跌 / 绿涨红跌 音乐播放（Pro）：接管 Windows 媒体会话，封 阅读全文。",
-      "originalSummary": "【摘要】UCalendar v2.8.1 新增桌面组件： 项目进度（Pro）：进行中项目按截止日排序，显示当前阶段 / 进度 / 逾期。点行直达项目 股票行情（Pro）：自选最多 20 只，实时行情 + K 线，多源自动回退，支持红涨绿跌 / 绿涨红跌 音乐播放（Pro）：接管 Windows 媒体会话，封 阅读全文。",
-      "url": "https://www.cnblogs.com/ucfar/p/23659846",
+      "title": "MySQL中数据类型的介绍：数值类型、字符串类型、日期时间 - 何人陪我共长生",
+      "titleZh": "MySQL中数据类型的介绍：数值类型、字符串类型、日期时间 - 何人陪我共长生",
+      "summary": "【摘要】MySQL 语法的分类 分类 全称 说明 DDL Data Definition Language 数据定义语言，用来定义数据库对象(数据库，表，字段) DML Data Manipulation Language 数据操作语言，用来对数据库表中的数据...。posted @ 2026-11-14 10:24 何人陪我共长生 阅读( 17 ) 评论( 0 ) 收藏 举报 公告。刚刚，我们给用的年龄使用了int类型。",
+      "originalSummary": "【摘要】MySQL 语法的分类 分类 全称 说明 DDL Data Definition Language 数据定义语言，用来定义数据库对象(数据库，表，字段) DML Data Manipulation Language 数据操作语言，用来对数据库表中的数据...。posted @ 2026-11-14 10:24 何人陪我共长生 阅读( 17 ) 评论( 0 ) 收藏 举报 公告。刚刚，我们给用的年龄使用了int类型。",
+      "url": "https://www.cnblogs.com/ishoulgodo/p/23663089",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-13T15:07:00+00:00",
+      "publishedAt": "2026-11-14T02:24:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1761,
+      "summaryLength": 163,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】MySQL 语法的分类 分类 全称 说明 DDL Data Definition Language 数据定义语言，用来定义数据库对象(数据库，表，字段) DML Data Manipulation Language 数据操作语言，用来对数据库表中的数据进行增删改 DQL Data Query Lan 阅读全文 MySQL 语法的分类 分类 全称 说明 DDL Data Definition Language 数据定义语言，用来定义数据库对象(数据库，表，字段) DML Data Manipulation Language 数据操作语言，用来对数据库表中的数据进行增删改 DQL Data Query Lan MySQL 语法的分类 分类 全称 说明 DDL Data Definition Language 数据定义语言，用来定义数据库对象(数据库，表，字段) DML Data Manipulation Language 数据操作语言，用来对数据库表中的数据进行增删改 DQL Data Query Lan MySQL中的数据类型有很多，主要分为三类：数值类型、字符串类型、日期时间类型 create table tb_user( id int comment '编号', name varchar(50) comment '姓名', age int comment '年龄', gender varchar(1) comment '性别' ) comment '用户表' 刚刚，我们给用的年龄使用了int类型 其实也可以使用 TINYINT 类型 有因为年龄没有负数，我们可以使用 UNSIGNED 来表示无符号 age TINYINT UNSIGNED comment '年龄' gender CHAR(1) -- 性别 id_card CHAR(18) -- 身份证号 phone CHAR(11) -- 手机号 country CHAR(2) -- 国家代码 md5 CHAR(32) -- 哈希值 用 VARCHAR ：长度 不确定的值 name VARCHAR(50...",
+      "isTranslated": false
+    },
+    {
+      "title": "Day 19：定制层的范围与叠加粒度 - Jeff-Tsai",
+      "titleZh": "Day 19：定制层的范围与叠加粒度 - Jeff-Tsai",
+      "summary": "【摘要】一套 ERP 几乎不存在装了就用这回事。同一套定义交付给三家公司，这家要把「客户」叫成「经销商」，那家的订单界面要少三个字段，还有一家保存前要多一道信用额度检查。Day 1 那张对照表里，定义驱动之下定制的表现形式是「叠加 阅读全文。",
+      "originalSummary": "【摘要】一套 ERP 几乎不存在装了就用这回事。同一套定义交付给三家公司，这家要把「客户」叫成「经销商」，那家的订单界面要少三个字段，还有一家保存前要多一道信用额度检查。Day 1 那张对照表里，定义驱动之下定制的表现形式是「叠加 阅读全文。",
+      "url": "https://www.cnblogs.com/jeff-tsai/p/23663050/day-19-tenant-overlay",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-14T02:19:00+00:00",
       "tags": [
         "开发者",
         "后端",
@@ -316,30 +336,53 @@
       ],
       "analysisMethod": "feed-text",
       "sourceTextLength": 159,
-      "summaryLength": 116,
+      "summaryLength": 102,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】UCalendar v2.8.1 新增桌面组件： 项目进度（Pro）：进行中项目按截止日排序，显示当前阶段 / 进度 / 逾期 点行直达项目 股票行情（Pro）：自选最多 20 只，实时行情 + K 线，多源自动回退，支持红涨绿跌 / 绿涨红跌 音乐播放（Pro）：接管 Windows 媒体会话，封 阅读全文",
+      "readerTextZh": "【摘要】一套 ERP 几乎不存在装了就用这回事 同一套定义交付给三家公司，这家要把「客户」叫成「经销商」，那家的订单界面要少三个字段，还有一家保存前要多一道信用额度检查 三件事的分量差了一个量级，但只要它们全都被表达成代码，就会走同一条交付路径 Day 1 那张对照表里，定义驱动之下定制的表现形式是「叠加 阅读全文",
       "isTranslated": false
     },
     {
-      "title": "澄桌面（DesktopAssistant）-你的桌面伴侣，笔记工具 - 福清佳诚软件",
-      "titleZh": "澄桌面（DesktopAssistant）-你的桌面伴侣，笔记工具 - 福清佳诚软件",
-      "summary": "【摘要】澄桌面（DesktopAssistant） 更干净（零捆绑零弹窗本地优先）、更智能（输入即搜）、更统一（超级面板一站式入口）、更开放（MEF 插件可扩展）、更轻量（.NET4.0 零依赖） 类别：桌面效率工具 ｜ 型号：Z01 ｜ 官网下载：http:...。",
-      "originalSummary": "【摘要】澄桌面（DesktopAssistant） 更干净（零捆绑零弹窗本地优先）、更智能（输入即搜）、更统一（超级面板一站式入口）、更开放（MEF 插件可扩展）、更轻量（.NET4.0 零依赖） 类别：桌面效率工具 ｜ 型号：Z01 ｜ 官网下载：http:...。",
-      "url": "https://www.cnblogs.com/delphiboy/p/23659837",
+      "title": "手把手教你：数据泄漏的隐蔽来源，预处理做在了划分之前｜AI工程师踩坑实录·第7篇 - 大雾的小屋",
+      "titleZh": "手把手教你：数据泄漏的隐蔽来源，预处理做在了划分之前｜AI工程师踩坑实录·第7篇 - 大雾的小屋",
+      "summary": "【摘要】离线评估0.97、上线只剩0.82，最隐蔽根因是预处理做在数据划分之前。真机实验实测：全集SMOTE再划分，合成样本是测试集的近亲，离线虚高4.2个点。防线是结构性的——划分永远第一行、预处理塞进Pipeline、上线用holdout终评。",
+      "originalSummary": "【摘要】离线评估0.97、上线只剩0.82，最隐蔽根因是预处理做在数据划分之前。真机实验实测：全集SMOTE再划分，合成样本是测试集的近亲，离线虚高4.2个点。防线是结构性的——划分永远第一行、预处理塞进Pipeline、上线用holdout终评。",
+      "url": "https://www.cnblogs.com/dawudexiaowu/p/23662932",
       "source": "博客园技术文章",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-13T15:05:00+00:00",
+      "publishedAt": "2026-11-14T01:56:00+00:00",
       "tags": [
         "开发者",
         "后端",
-        "中文深度"
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 129,
+      "summaryLength": 107,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】离线评估0.97、上线只剩0.82，最隐蔽根因是预处理做在数据划分之前 真机实验实测：全集SMOTE再划分，合成样本是测试集的近亲，离线虚高4.2个点 防线是结构性的——划分永远第一行、预处理塞进Pipeline、上线用holdout终评",
+      "isTranslated": false
+    },
+    {
+      "title": "拉里·埃里森在Oracle AI World 2026讲了什么：AI如何重塑下一代SaaS与医疗 - AlfredZhao",
+      "titleZh": "拉里·埃里森在Oracle AI World 2026讲了什么：AI如何重塑下一代SaaS与医疗 - AlfredZhao",
+      "summary": "【摘要】在Oracle AI World 2026的主题演讲中，拉里·埃里森（Larry Ellison）把大部分时间留给了医疗。他发布了Oracle Health全新医疗应用套件，并借此回应了一个热门话题：AI会不会让SaaS走向终结？。他的答案是否定的，AI不是取代商用软件，而是推动软件进化。",
+      "originalSummary": "【摘要】在Oracle AI World 2026的主题演讲中，拉里·埃里森（Larry Ellison）把大部分时间留给了医疗。他发布了Oracle Health全新医疗应用套件，并借此回应了一个热门话题：AI会不会让SaaS走向终结？。他的答案是否定的，AI不是取代商用软件，而是推动软件进化。",
+      "url": "https://www.cnblogs.com/jyzhao/p/23662323",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-13T23:17:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
       ],
       "analysisMethod": "feed-text",
       "sourceTextLength": 159,
-      "summaryLength": 96,
+      "summaryLength": 130,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】澄桌面（DesktopAssistant） 更干净（零捆绑零弹窗本地优先）、更智能（输入即搜）、更统一（超级面板一站式入口）、更开放（MEF 插件可扩展）、更轻量（.NET4.0 零依赖） 类别：桌面效率工具 ｜ 型号：Z01 ｜ 官网下载：http://www.fqrcw.com 一、为什么你需要 阅读全文",
+      "readerTextZh": "【摘要】在Oracle AI World 2026的主题演讲中，拉里·埃里森（Larry Ellison）把大部分时间留给了医疗 他发布了Oracle Health全新医疗应用套件，并借此回应了一个热门话题：AI会不会让SaaS走向终结？ 他的答案是否定的，AI不是取代商用软件，而是推动软件进化",
       "isTranslated": false
     },
     {
@@ -426,27 +469,6 @@
       "summaryLength": 118,
       "summaryQuality": "weak",
       "readerTextZh": "【摘要】一、巡检与告警（1–27） 1 CN/DN SQL Digest 目录覆盖与更新时间——确认 CN、DN 两个来源是否有 SQL 摘要目录记录 SELECT schema_name, type AS source_type, COUNT(*) AS digest_entries, MAX(las 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "Day21 · Turtle 入门与基础绘图 - 小嘉游戏",
-      "titleZh": "Day21 · Turtle 入门与基础绘图 - 小嘉游戏",
-      "summary": "【摘要】Day21 · Turtle 入门与基础绘图 阶段：阶段一 · 核心基础 | 前置：Day20（面向对象） | 技术基准：Python 3.15.0 学习目标 学会导入标准库 turtle，用 turtle.Turtle() 创建一只\"海龟\"画笔 理解...。",
-      "originalSummary": "【摘要】Day21 · Turtle 入门与基础绘图 阶段：阶段一 · 核心基础 | 前置：Day20（面向对象） | 技术基准：Python 3.15.0 学习目标 学会导入标准库 turtle，用 turtle.Turtle() 创建一只\"海龟\"画笔 理解...。",
-      "url": "https://www.cnblogs.com/xiaojiaxuezhang/p/23658237",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-13T09:53:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 158,
-      "summaryLength": 94,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】Day21 · Turtle 入门与基础绘图 阶段：阶段一 · 核心基础 | 前置：Day20（面向对象） | 技术基准：Python 3.15.0 学习目标 学会导入标准库 turtle，用 turtle.Turtle() 创建一只\"海龟\"画笔 理解 Turtle 窗口的直角坐标系：原点 (0, 阅读全文",
       "isTranslated": false
     },
     {
@@ -559,95 +581,6 @@
       "isTranslated": false
     },
     {
-      "title": "把 DeepSeek Harness 装进 K8s - 东风微鸣",
-      "titleZh": "把 DeepSeek Harness 装进 K8s - 东风微鸣",
-      "summary": "【摘要】背景 我一直想把 DSH（DeepSeek Harness）运行在我的 homelab2 k8s集群里（此前一直运行在本机的 ~/.dsh 里。），这样我就可以 7*24 随时随地使用了。之前是我自己被 AI Sandbox 洗脑了，想着等 AI Sandbox 开源生态成熟了，再搞。",
-      "originalSummary": "【摘要】背景 我一直想把 DSH（DeepSeek Harness）运行在我的 homelab2 k8s集群里（此前一直运行在本机的 ~/.dsh 里。），这样我就可以 7*24 随时随地使用了。之前是我自己被 AI Sandbox 洗脑了，想着等 AI Sandbox 开源生态成熟了，再搞。",
-      "url": "https://www.cnblogs.com/east4ming/p/23656565",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-13T08:01:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI",
-        "云计算"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 116,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】背景 我一直想把 DSH（DeepSeek Harness）运行在我的 homelab2 k8s集群里（此前一直运行在本机的 ~/.dsh 里 ），这样我就可以 7*24 随时随地使用了 之前是我自己被 AI Sandbox 洗脑了，想着等 AI Sandbox 开源生态成熟了，再搞",
-      "isTranslated": false
-    },
-    {
-      "title": "收上来一堆 Excel，怎么保证没改错 - wang_yb",
-      "titleZh": "收上来一堆 Excel，怎么保证没改错 - wang_yb",
-      "summary": "【摘要】收上来一堆报名表，合并、改格式、查重复、按学院拆回去，这些活手工做慢是一回事，更麻烦的是不可复现——同一堆文件，两个人合出来不一样，同一个人在不同时间合出来也不一样，而且谁都没留下上次改了什么的记录，出了错也倒不回去查。把整套动作固化成脚本，让每一步都留下凭据：哪行来自哪份文件、改过哪些格、哪些行 阅读全文。",
-      "originalSummary": "【摘要】收上来一堆报名表，合并、改格式、查重复、按学院拆回去，这些活手工做慢是一回事，更麻烦的是不可复现——同一堆文件，两个人合出来不一样，同一个人在不同时间合出来也不一样，而且谁都没留下上次改了什么的记录，出了错也倒不回去查。把整套动作固化成脚本，让每一步都留下凭据：哪行来自哪份文件、改过哪些格、哪些行 阅读全文。",
-      "url": "https://www.cnblogs.com/wang_yb/p/23653612",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-13T05:27:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 138,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】收上来一堆报名表，合并、改格式、查重复、按学院拆回去，这些活手工做慢是一回事，更麻烦的是不可复现——同一堆文件，两个人合出来不一样，同一个人在不同时间合出来也不一样，而且谁都没留下上次改了什么的记录，出了错也倒不回去查 把整套动作固化成脚本，让每一步都留下凭据：哪行来自哪份文件、改过哪些格、哪些行 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "手把手教你：装了两套 CUDA 还在串？PATH 与优先级的真相｜AI工程师踩坑实录·第6篇 - 大雾的小屋",
-      "titleZh": "手把手教你：装了两套 CUDA 还在串？PATH 与优先级的真相｜AI工程师踩坑实录·第6篇 - 大雾的小屋",
-      "summary": "【摘要】装了11.8又装12.x，切了环境nvcc版本还是不对？。本机三场景实测证明：谁生效由PATH队列最前的那个决定，与版本新旧、安装先后无关。排查第一命令是where.exe，一条列出全部候选与真实生效者。",
-      "originalSummary": "【摘要】装了11.8又装12.x，切了环境nvcc版本还是不对？。本机三场景实测证明：谁生效由PATH队列最前的那个决定，与版本新旧、安装先后无关。排查第一命令是where.exe，一条列出全部候选与真实生效者。",
-      "url": "https://www.cnblogs.com/dawudexiaowu/p/23652179",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-13T03:18:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 126,
-      "summaryLength": 92,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】装了11.8又装12.x，切了环境nvcc版本还是不对？ 本机三场景实测证明：谁生效由PATH队列最前的那个决定，与版本新旧、安装先后无关 排查第一命令是where.exe，一条列出全部候选与真实生效者",
-      "isTranslated": false
-    },
-    {
-      "title": "在 Linux 上把 PPT 转成长图：office2pdf + PyMuPDF 的选型与踩坑 - yuexiliuli",
-      "titleZh": "在 Linux 上把 PPT 转成长图：office2pdf + PyMuPDF 的选型与踩坑 - yuexiliuli",
-      "summary": "【摘要】介绍 群里收到 PPT 时，仅看文件名往往判断不了内容。按常规流程要下载、打开 Office、等加载、再翻页，多个文件下来很耗时间。我做了个小工具：在 Linux 服务器上把 PPT 转成一张纵向长图，用户在聊天窗口或手机里点开就能滑动浏览，不需要安装或打开 Office。",
-      "originalSummary": "【摘要】介绍 群里收到 PPT 时，仅看文件名往往判断不了内容。按常规流程要下载、打开 Office、等加载、再翻页，多个文件下来很耗时间。我做了个小工具：在 Linux 服务器上把 PPT 转成一张纵向长图，用户在聊天窗口或手机里点开就能滑动浏览，不需要安装或打开 Office。",
-      "url": "https://www.cnblogs.com/yuexiliuli/p/23651985",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-13T03:09:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "开源",
-        "硬件"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 119,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】介绍 群里收到 PPT 时，仅看文件名往往判断不了内容 按常规流程要下载、打开 Office、等加载、再翻页，多个文件下来很耗时间 我做了个小工具：在 Linux 服务器上把 PPT 转成一张纵向长图，用户在聊天窗口或手机里点开就能滑动浏览，不需要安装或打开 Office",
-      "isTranslated": false
-    },
-    {
       "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
       "titleZh": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
       "summary": "一个内陆地级市，最新统计是已经有100多个数据中心（包括建设中），全国主要 IT 公司和算力公司几乎都在那里有自己的机房。假设 AI 平均每天改动5次代码，那么你平均每天至少要阅读10次代码（采样），否则很快就会丧失对代码仓库的理解。一个 Web 组件，可以在网页插入 SVG 机器人脸组件，适用于 AI 聊天机器人和 Agent 界面，提供18种表情和互动。",
@@ -755,72 +688,6 @@
       "summaryLength": 122,
       "summaryQuality": "weak",
       "readerTextZh": "星甘（StarGantt）支持 .mpp 双向读写了：导进来能改，改完能导回去 用项目管理的人，大概率都碰过 .mpp 文件 老团队攒了几年的 Project 文件躺在文件夹里，想搬到线上协作，几百条任务一条条重录不现实 甲方发来一个 .mpp，自己电脑上没装 Project，点半天打不开 还有一种更常见：团队里有人用 Project 桌面版排深度",
-      "isTranslated": false
-    },
-    {
-      "title": "全球化筑基，AI 赋能新体验，openKylin 3.0 SP1 正式发布",
-      "titleZh": "全球化筑基，AI 赋能新体验，openKylin 3.0 SP1 正式发布",
-      "summary": "OpenAtom openKylin（以下简称“openKylin”）社区今日正式发布 openKylin 3.0 SP1 版本。本次版本更新以国际化为底座，围绕国际化体验、AI 融合、硬件生态、系统质量四大方向完成全面升级：新增阿拉伯语、朝鲜语、傣语等多语言支持。持续丰富硬件生态，强化以飞腾 D3000M、进迭时空 V100 为。",
-      "originalSummary": "OpenAtom openKylin（以下简称“openKylin”）社区今日正式发布 openKylin 3.0 SP1 版本。本次版本更新以国际化为底座，围绕国际化体验、AI 融合、硬件生态、系统质量四大方向完成全面升级：新增阿拉伯语、朝鲜语、傣语等多语言支持。持续丰富硬件生态，强化以飞腾 D3000M、进迭时空 V100 为。",
-      "url": "https://www.oschina.net/news/503545",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-12T07:13:17+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "AI",
-        "硬件"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 185,
-      "summaryLength": 141,
-      "summaryQuality": "weak",
-      "readerTextZh": "OpenAtom openKylin（以下简称“openKylin”）社区今日正式发布 openKylin 3.0 SP1 版本 本次版本更新以国际化为底座，围绕国际化体验、AI 融合、硬件生态、系统质量四大方向完成全面升级：新增阿拉伯语、朝鲜语、傣语等多语言支持 持续丰富硬件生态，强化以飞腾 D3000M、进迭时空 V100 为",
-      "isTranslated": false
-    },
-    {
-      "title": ".NET 11 正式发布，C# 15 补上了它欠缺二十年的东西",
-      "titleZh": "NET 11 正式发布，C# 15 补上了它欠缺二十年的东西",
-      "summary": "NET 11 在 11 月 10 日正式发布。这是 STS（标准支持期）版本，两年支持，不是 LTS——.NET 10 仍然是那个长期支持的选项。C# 15：union types 终于来了 把这条放最前面，因为它解决的是一个困扰 C# 很久的问题。",
-      "originalSummary": "NET 11 在 11 月 10 日正式发布。这是 STS（标准支持期）版本，两年支持，不是 LTS——.NET 10 仍然是那个长期支持的选项。C# 15：union types 终于来了 把这条放最前面，因为它解决的是一个困扰 C# 很久的问题。",
-      "url": "https://www.oschina.net/news/503542/microsoft-announcing-dotnet-11",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-12T03:23:19+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 180,
-      "summaryLength": 95,
-      "summaryQuality": "weak",
-      "readerTextZh": "NET 11 在 11 月 10 日正式发布 这是 STS（标准支持期）版本，两年支持，不是 LTS——.NET 10 仍然是那个长期支持的选项 版本号本身没什么好说的，值得看的是这次几个实打实的变化 C# 15：union types 终于来了 把这条放最前面，因为它解决的是一个困扰 C# 很久的问题 以前写一个「要么返回结果、要么返回错误」的",
-      "isTranslated": false
-    },
-    {
-      "title": "🔥 拾趣 (Magpie) v0.1.22 发布：英文朗读上线，单词、长句，地道的口语",
-      "titleZh": "🔥 拾趣 (Magpie) v0.1.22 发布：英文朗读上线，单词、长句，地道的口语",
-      "summary": "🔥 拾趣 (Magpie) v0.1.22 发布：英文朗读上线，单词、长句，地道的口语 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现。复制、搜索、写入 Obsidian、预填日历，结果直接落地。图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，无需迁入对话。",
-      "originalSummary": "🔥 拾趣 (Magpie) v0.1.22 发布：英文朗读上线，单词、长句，地道的口语 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现。复制、搜索、写入 Obsidian、预填日历，结果直接落地。图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，无需迁入对话。",
-      "url": "https://www.oschina.net/news/503541",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-12T03:04:49+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 172,
-      "summaryLength": 134,
-      "summaryQuality": "weak",
-      "readerTextZh": "🔥 拾趣 (Magpie) v0.1.22 发布：英文朗读上线，单词、长句，地道的口语 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现 复制、搜索、写入 Obsidian、预填日历，结果直接落地 图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，无需迁入对话",
       "isTranslated": false
     },
     {
