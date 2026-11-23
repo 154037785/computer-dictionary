@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-22T19:00:49.516646+00:00",
-  "nextUpdate": "2026-11-23T07:00:49.516646+00:00",
+  "updatedAt": "2026-11-23T05:40:19.827085+00:00",
+  "nextUpdate": "2026-11-23T17:40:19.827085+00:00",
   "sources": [
     {
       "name": "IT之家",
@@ -106,6 +106,235 @@
   "errors": [],
   "items": [
     {
+      "title": "We haven’t seen the last of the major tech outages",
+      "titleZh": "We出现新的技术和产品进展",
+      "summary": "Over、FAA、Outlook、Director发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a...。Director of National Intelligence Jay Clayton told CNN :。\"The American people should be prepared for a great deal of investment in upgrading our systems。",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "The Verge",
+      "region": "国际",
+      "publishedAt": "2026-11-23T02:41:02+00:00",
+      "tags": [
+        "科技产业",
+        "硬件",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 690,
+      "summaryLength": 273,
+      "summaryQuality": "medium",
+      "readerTextZh": "Over、FAA、Outlook、Director发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "titleZh": "Notable Capital、GIC和Baillie Gifford如何在Anthropic上市前对其进行大手笔投资",
+      "summary": "三位重要支持者分享了是什么让他们有信心在Anthropic身上押注数十亿美元。Claude 的制造商仍落后于其最大竞争对手 OpenAI，而 DeepSeek 仅在几周前就发布了其 R1 模型。How Notable Capital、GIC、Baillie Gifford、Anthropic发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。",
+      "originalSummary": "Three significant backers share what gave them conviction to bet billions on Anthropic。Claude’s maker was still trailing its biggest rival, OpenAI, and DeepSeek had released its R1 model just weeks...。A team that included managing partners Hans Tung and Glenn Solomon and principal Dan Cahana crunched the numbe...。",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "region": "国际",
+      "publishedAt": "2026-11-23T01:25:53+00:00",
+      "tags": [
+        "创业",
+        "AI",
+        "产品",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 5341,
+      "summaryLength": 307,
+      "summaryQuality": "strong",
+      "readerTextZh": "三位重要支持者分享了是什么让他们有信心在Anthropic身上押注数十亿美元。Claude 的制造商仍落后于其最大竞争对手 OpenAI，而 DeepSeek 仅在几周前就发布了其 R1 模型。How Notable Capital、GIC、Baillie Gifford、Anthropic发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "titleZh": "Free出现新的技术和产品进展",
+      "summary": "Free、TV、Internet Archive发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "Free alternative TV network built from the Internet Archive's forgotten videos。",
+      "url": "https://spelunkr.tv",
+      "source": "Hacker News",
+      "region": "国际",
+      "publishedAt": "2026-11-23T01:13:51+00:00",
+      "tags": [
+        "开发者",
+        "创业",
+        "开源",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 125,
+      "summaryLength": 271,
+      "summaryQuality": "weak",
+      "readerTextZh": "Free、TV、Internet Archive发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
+      "titleZh": "GPT-5.1发布产品或能力更新",
+      "summary": "Researchers、China、Great Firewall、PC发生产品发布或能力更新，涉及关键数字：$1 、63 、3。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。GPT-5.1、China、Great Firewall发生科技产业或开发者生态变化，涉及关键数字：$1 、5.1。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。",
+      "originalSummary": "Researchers have found new ways to evade China’s Great Firewall after spending just $1 worth of tokens。The company said premium devices account for 63 percent of its PC business。The deal means MHI will handle launches for H3s that use a pair of LE-9 liquid-fuel engines alongside two SRB-...。",
+      "url": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+      "source": "The Register",
+      "region": "国际",
+      "publishedAt": "2026-11-23T00:23:31+00:00",
+      "tags": [
+        "软件工程",
+        "安全",
+        "云计算",
+        "AI",
+        "硬件"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 7265,
+      "summaryLength": 299,
+      "summaryQuality": "medium",
+      "readerTextZh": "Researchers、China、Great Firewall、PC发生产品发布或能力更新，涉及关键数字：$1 、63 、3。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。GPT-5.1、China、Great Firewall发生科技产业或开发者生态变化，涉及关键数字：$1 、5.1。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "titleZh": "Progress出现新的技术和产品进展",
+      "summary": "Progress、Lean、Alessandro Masullo发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "Progress map for the Lean formalization of Alessandro Masullo's manuscript。",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "source": "Hacker News",
+      "region": "国际",
+      "publishedAt": "2026-11-22T23:12:10+00:00",
+      "tags": [
+        "开发者",
+        "创业",
+        "开源",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 156,
+      "summaryLength": 279,
+      "summaryQuality": "weak",
+      "readerTextZh": "Progress、Lean、Alessandro Masullo发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "titleZh": "GL.iNet Security Notice披露安全风险",
+      "summary": "GL.iNet Security Notice发生安全事件或漏洞修复，涉及关键数字：2026、11、20。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "GL.iNet Security Notice 2026-11-20。",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "source": "Hacker News",
+      "region": "国际",
+      "publishedAt": "2026-11-22T23:06:37+00:00",
+      "tags": [
+        "开发者",
+        "创业",
+        "开源",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 180,
+      "summaryLength": 281,
+      "summaryQuality": "fair",
+      "readerTextZh": "GL.iNet Security Notice发生安全事件或漏洞修复，涉及关键数字：2026、11、20。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "titleZh": "《你能看到一切》在全球的票房收入已超过1亿美元",
+      "summary": "关于伊丽莎白·霍姆斯的新纪录片刚刚开始在国际上上映。You Can See Everything发生科技产业或开发者生态变化，涉及关键数字：$100M。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally。Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line By submi...。OpenAI’s chief scientist has thoughts on how to limit AI development AI。",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "source": "TechCrunch",
+      "region": "国际",
+      "publishedAt": "2026-11-22T21:42:48+00:00",
+      "tags": [
+        "创业",
+        "AI",
+        "产品",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1815,
+      "summaryLength": 302,
+      "summaryQuality": "strong",
+      "readerTextZh": "关于伊丽莎白·霍姆斯的新纪录片刚刚开始在国际上上映。You Can See Everything发生科技产业或开发者生态变化，涉及关键数字：$100M。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "titleZh": "OpenAI的首席科学家对如何限制人工智能的发展有一些想法",
+      "summary": "OpenAI首席科学家对如何限制人工智能的发展发表了看法。OpenAI、AI发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "To establish a speed limit on AI development, you need to agree on how to measure speed。But perplexity — which “measures how well a model predicts the next token on average。lower perplexity means better predictions” — has remained “informative.” Pachochki’s post includes a chart of...。",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "region": "国际",
+      "publishedAt": "2026-11-22T21:14:07+00:00",
+      "tags": [
+        "创业",
+        "AI",
+        "产品",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3601,
+      "summaryLength": 285,
+      "summaryQuality": "strong",
+      "readerTextZh": "OpenAI首席科学家对如何限制人工智能的发展发表了看法。OpenAI、AI发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "titleZh": "Beginner推进 AI 模型与应用能力",
+      "summary": "Beginner、Guide、Local AI、Inkling发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth。",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "Hacker News",
+      "region": "国际",
+      "publishedAt": "2026-11-22T21:01:16+00:00",
+      "tags": [
+        "开发者",
+        "创业",
+        "开源",
+        "AI",
+        "安全"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 184,
+      "summaryLength": 277,
+      "summaryQuality": "fair",
+      "readerTextZh": "Beginner、Guide、Local AI、Inkling发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与开发者、创业相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
+      "title": "The best apps to make new friends right now",
+      "titleZh": "We出现新的技术和产品进展",
+      "summary": "We、BFF、Timeleft发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。相关公司/项目发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
+      "originalSummary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft。",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "source": "TechCrunch",
+      "region": "国际",
+      "publishedAt": "2026-11-22T21:00:00+00:00",
+      "tags": [
+        "创业",
+        "AI",
+        "产品",
+        "安全",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 119,
+      "summaryLength": 282,
+      "summaryQuality": "weak",
+      "readerTextZh": "We、BFF、Timeleft发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。相关公司/项目发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "isTranslated": true
+    },
+    {
       "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
       "titleZh": "Hackers披露安全风险",
       "summary": "GL.iNet发生安全事件或漏洞修复。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Hackers、GL.iNet、KVM发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
@@ -126,29 +355,6 @@
       "summaryLength": 282,
       "summaryQuality": "medium",
       "readerTextZh": "GL.iNet发生安全事件或漏洞修复。从已有材料看，这不是孤立的标题变化，而是与安全、漏洞相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Hackers、GL.iNet、KVM发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "titleZh": "为什么数据中心成为科技巨头遭遇强烈反弹的焦点",
-      "summary": "最后，在参观了弗吉尼亚州北部和爱尔兰等地的一些数据中心外观之后，我……。这给电网带来了压力，以至于电网运营商实际上暂停了电网的。Why、Big Tech发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "I ended up, after visiting the outsides of some data centers in places like northern Virginia and Ireland and spots like that, I a...。It was putting pressures on the grid, such that the grid operator actually put a moratorium in place for grid...。Journalist Paris Marx unpacks his new book \"Hyperscale.\" Journalist Paris Marx unpacks his new book...。",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "source": "TechCrunch",
-      "region": "国际",
-      "publishedAt": "2026-11-22T18:08:43+00:00",
-      "tags": [
-        "创业",
-        "AI",
-        "产品",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 9107,
-      "summaryLength": 316,
-      "summaryQuality": "strong",
-      "readerTextZh": "最后，在参观了弗吉尼亚州北部和爱尔兰等地的一些数据中心外观之后，我……。这给电网带来了压力，以至于电网运营商实际上暂停了电网的。Why、Big Tech发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     },
     {
@@ -195,74 +401,6 @@
       "summaryLength": 291,
       "summaryQuality": "medium",
       "readerTextZh": "The Binding、Isaac、Repentance Plus、Steam发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Binding、Isaac、AI、Repentance Plus发生AI 模型或智能体能力进展。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "titleZh": "TechCrunch Mobility：A/B测试机器人与人类",
-      "summary": "欢迎回到TechCrunch Mobility，这里是您了解未来交通的中心，现在比以往任何时候都更关注人工智能在其中发挥的作用。要将此内容接收到您的收件箱中，Waymo（再次）将自动驾驶出租车撤离高速公路，Zoox自动驾驶出租车则在……上线。TechCrunch Mobility发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。",
-      "originalSummary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in...。To get this in your inbox Waymo pulling its robotaxis off freeways (again) and Zoox robotaxis launching on the...。For instance, Tesla has now surpassed Waymo in Texas in the number of robotaxis registered with the...。",
-      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-      "source": "TechCrunch",
-      "region": "国际",
-      "publishedAt": "2026-11-22T17:06:00+00:00",
-      "tags": [
-        "创业",
-        "AI",
-        "产品",
-        "安全",
-        "机器人"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 5690,
-      "summaryLength": 304,
-      "summaryQuality": "strong",
-      "readerTextZh": "欢迎回到TechCrunch Mobility，这里是您了解未来交通的中心，现在比以往任何时候都更关注人工智能在其中发挥的作用。要将此内容接收到您的收件箱中，Waymo（再次）将自动驾驶出租车撤离高速公路，Zoox自动驾驶出租车则在……上线。TechCrunch Mobility发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-      "titleZh": "Sheherazaad出现新的技术和产品进展",
-      "summary": "Sheherazaad、EP Qasr、Grammy Award、Khudgarzi发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Sheherazaad、Khudgarzi、South Asian发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。",
-      "originalSummary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr , which was produced by Grammy Award winner...。The instrumentation on Khudgarzi draws on traditional South Asian music, including Carnatic and Hindustani sty...。",
-      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
-      "source": "The Verge",
-      "region": "国际",
-      "publishedAt": "2026-11-22T16:43:32+00:00",
-      "tags": [
-        "科技产业",
-        "硬件",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 691,
-      "summaryLength": 296,
-      "summaryQuality": "medium",
-      "readerTextZh": "Sheherazaad、EP Qasr、Grammy Award、Khudgarzi发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Sheherazaad、Khudgarzi、South Asian发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "titleZh": "Some推进 AI 模型与应用能力",
-      "summary": "In、Nintendo、Switch、Amazon发生AI 模型或智能体能力进展，涉及关键数字：$50 、$20 、2。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Some、Switch、Black Friday发生科技产业或开发者生态变化，涉及关键数字：2。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。",
-      "originalSummary": "In addition to a $50 off sale on one of its console bundles , Nintendo is also knocking $20 off some of the Switch 2’s best titles。Amazon, Best Buy, Walmart, and GameStop are offering discounts on several more Switch 2 games, though their re...。This ain’t gonna buff out。",
-      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-      "source": "The Verge",
-      "region": "国际",
-      "publishedAt": "2026-11-22T16:14:25+00:00",
-      "tags": [
-        "科技产业",
-        "硬件",
-        "AI",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 2336,
-      "summaryLength": 290,
-      "summaryQuality": "medium",
-      "readerTextZh": "In、Nintendo、Switch、Amazon发生AI 模型或智能体能力进展，涉及关键数字：$50 、$20 、2。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Some、Switch、Black Friday发生科技产业或开发者生态变化，涉及关键数字：2。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     },
     {
@@ -333,26 +471,26 @@
       "isTranslated": true
     },
     {
-      "title": "Can a TV be too large? An investigation",
-      "titleZh": "电视机能大到离谱吗？一项调查",
-      "summary": "电视机有可能会太大吗？一项调查。Can、TV、An发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "Can a TV be too large?。This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges。One guy, who bought an 85-inch TLC, claimed it had led his wife to the conclusion that “it’s too big and say t...。",
-      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-      "source": "TechCrunch",
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "titleZh": "Kodak推进 AI 模型与应用能力",
+      "summary": "After、Charmera、Millennium Edition、Y2K-inspired发生AI 模型或智能体能力进展，涉及关键数字：2K、$34.99。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。",
+      "originalSummary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-...。The Kodak SlideTag will be available for $34.99 each and, like the Charmera, will feature a series of retro de...。But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos , the Koda...。",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "source": "The Verge",
       "region": "国际",
-      "publishedAt": "2026-11-22T15:00:00+00:00",
+      "publishedAt": "2026-11-22T12:28:42+00:00",
       "tags": [
-        "创业",
+        "科技产业",
+        "硬件",
         "AI",
-        "产品",
         "安全",
         "软件工程"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 5993,
-      "summaryLength": 270,
-      "summaryQuality": "strong",
-      "readerTextZh": "电视机有可能会太大吗？一项调查。Can、TV、An发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文；站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 689,
+      "summaryLength": 202,
+      "summaryQuality": "medium",
+      "readerTextZh": "After、Charmera、Millennium Edition、Y2K-inspired发生AI 模型或智能体能力进展，涉及关键数字：2K、$34.99。从已有材料看，这不是孤立的标题变化，而是与科技产业、硬件相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     },
     {
@@ -537,51 +675,6 @@
       "isTranslated": true
     },
     {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "titleZh": "Signal推进 AI 模型与应用能力",
-      "summary": "Signal、Android发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Signal、AI发生AI 模型或智能体能力进展。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps。",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch",
-      "region": "国际",
-      "publishedAt": "2026-11-21T21:37:10+00:00",
-      "tags": [
-        "创业",
-        "AI",
-        "产品",
-        "安全",
-        "硬件"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 87,
-      "summaryLength": 284,
-      "summaryQuality": "weak",
-      "readerTextZh": "Signal、Android发生科技产业或开发者生态变化。从已有材料看，这不是孤立的标题变化，而是与创业、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Signal、AI发生AI 模型或智能体能力进展。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
-      "titleZh": "AWS推进 AI 模型与应用能力",
-      "summary": "My、AWS、In发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。AWS、Here发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "My editor asked me this week \"why is everything except AWS breaking?。In fact, as they are wont to do, AWS spokesperson Patrick Neighorn g ot salty to a reporter about how unreliab...。Heck, AWS said in September that it had experienced permanent data loss in its two smoking craters, but after...。",
-      "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-      "source": "The Register",
-      "region": "国际",
-      "publishedAt": "2026-11-21T14:35:00+00:00",
-      "tags": [
-        "软件工程",
-        "安全",
-        "云计算",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 4873,
-      "summaryLength": 279,
-      "summaryQuality": "medium",
-      "readerTextZh": "My、AWS、In发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与软件工程、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。AWS、Here发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
       "title": "“Race realism” isn’t realistic—and it isn’t good science",
       "titleZh": "Race推进 AI 模型与应用能力",
       "summary": "At、World Economic Forum、Davos、US President Donald Trump发生AI 模型或智能体能力进展，涉及关键数字：2024。从已有材料看，这不是孤立的标题变化，而是与科学、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。",
@@ -603,6 +696,134 @@
       "summaryQuality": "medium",
       "readerTextZh": "At、World Economic Forum、Davos、US President Donald Trump发生AI 模型或智能体能力进展，涉及关键数字：2024。从已有材料看，这不是孤立的标题变化，而是与科学、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
+    },
+    {
+      "title": "「AI 圈有局」第 01 期｜5 场活动、12 个社区找到你的同路人",
+      "titleZh": "「AI 圈有局」第 01 期｜5 场活动、12 个社区找到你的同路人",
+      "summary": "议题来自阿里巴巴、蚂蚁集团、字节跳动、华为、DaoCloud、快手、小红书等企业 适合谁： Agent、AI 和云原生开发者，以及负责大模型部署、推理服务和基础设施的技术人员 地点： 苏州 · 相城区 DIIS 苏州（苏州创新创意设计研究院） 看点： 首届挑战...。活动面向校友及亲友，并邀请项目方、投资人、赞助方和其他合作伙伴参与 适合谁 AI 创业项目负责人、投资人、产业合作伙伴，以及希望拓展创业资源的校友及亲友 已入驻的 12 个社区分布在北京、杭州、苏州、深圳和武汉，涵盖 A...。过去两年，越来越多的人借助 AI 做出了产品 Demo：一个人就能开发应用、搭建网站，承担过去一个小团队的工作量。",
+      "originalSummary": "议题来自阿里巴巴、蚂蚁集团、字节跳动、华为、DaoCloud、快手、小红书等企业 适合谁： Agent、AI 和云原生开发者，以及负责大模型部署、推理服务和基础设施的技术人员 地点： 苏州 · 相城区 DIIS 苏州（苏州创新创意设计研究院） 看点： 首届挑战...。活动面向校友及亲友，并邀请项目方、投资人、赞助方和其他合作伙伴参与 适合谁 AI 创业项目负责人、投资人、产业合作伙伴，以及希望拓展创业资源的校友及亲友 已入驻的 12 个社区分布在北京、杭州、苏州、深圳和武汉，涵盖 A...。过去两年，越来越多的人借助 AI 做出了产品 Demo：一个人就能开发应用、搭建网站，承担过去一个小团队的工作量。",
+      "url": "https://www.infoq.cn/article/uEfN9kdGsIMGkOgidVG7?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文",
+      "region": "国内",
+      "publishedAt": "2026-11-23T11:42:34+00:00",
+      "tags": [
+        "软件工程",
+        "架构",
+        "AI",
+        "云计算"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1824,
+      "summaryLength": 246,
+      "summaryQuality": "strong",
+      "readerTextZh": "过去两年，越来越多的人借助 AI 做出了产品 Demo：一个人就能开发应用、搭建网站，承担过去一个小团队的工作量 但当 AI 真正走进企业，问题才刚刚开始：业务场景如何诊断？ 方案有了，又去哪里找到靠谱的团队，把它交付成真正的业务结果？ 一边是企业真实的 AI 落地需求，一边是快速成长的开发者、独立创业者和 AI 产品团队 —— 两端之间，始终缺一个把需求理解、能力匹配和交付保障串起来的角色 这正是模力工场正在做的事：从 AI 社区平台，升级为企业 AI 落地服务平台，做 AI 落地的「供需大脑」 一端连接零售、制造、金融、互联网等行业的真实业务场景，一端连接经过严选的 FDE 团队、AI 产品公司与生态伙伴，把企业的 AI 想法，变成业务结果 而这场连接，最早发生在一个个具体的现场：一场技术沙龙、一次创业路演、一场黑客松，企业、开发者和创业者面对面，交换需求与能力 所以我们推出新栏目 「AI 圈有局」 ：每周整理近期值得关注的 AI 活动，覆盖技术交流、产品实践、创业合作等方向，帮你找到值得去的现场，也找到对的人 AI Bot 开发 Grok Bot Meetup 杭州第二场 看点： KCD 是 CNCF 旗下由全球开发者社区组织的云原生技术活动 上午设主论坛，下午设三个平行分论坛，讨论 Agent 基础设施、大模型推理服务与 AI 可观测性 议题来自阿里巴巴、蚂蚁集团、字节跳动、华为、DaoCloud、快手、小红书等企业 适合谁： Agent、AI 和云原生开发者，以及负责大模型部署、推理服务和基础设施的技术人员 地点： 苏州 · 相城区 DIIS 苏州（苏州创新创意设计研究院） 看点： 首届挑战赛已启动，总奖金池 5 万元 参赛者可以用开源机器人项目检验创意和开发能力 适合谁： 机器人开发者、具身智能研究者、软硬件工程师、相关专业学生，以及有机器人项目的个人和团队 地点： 杭州 · 萧山区创新国度国际 OPC 社区（归谷国际中心 B 座 5 楼） 看点： 两天、20 人小班，围绕 4–5 个真实创业案例展开",
+      "isTranslated": false
+    },
+    {
+      "title": "广告风控为何越审越强？轻量基座与审核 Agent 的协同进化实践｜AICon北京",
+      "titleZh": "广告风控为何越审越强？轻量基座与审核 Agent 的协同进化实践｜AICon北京",
+      "summary": "当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。OpenAI、Google Cloud、Anthropic 的最新实践共同指向一个结论：模型决定 Agent 能做什么，工程决定它能否真正进入生产、创造价值 在这一背景下， 2026 年 AICon 人工智能开发与应用大...。本届大会以 探索 AI 应用边界 为主题，设置 13 大技术专题，覆盖 大模型后训练、推理优化、Agent 工程、知识工程、智能体评测与安全、自进化系统、AI 软件交付、原生架构及组织变革 等核心方向，汇聚一线技术专家...。",
+      "originalSummary": "当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。OpenAI、Google Cloud、Anthropic 的最新实践共同指向一个结论：模型决定 Agent 能做什么，工程决定它能否真正进入生产、创造价值 在这一背景下， 2026 年 AICon 人工智能开发与应用大...。本届大会以 探索 AI 应用边界 为主题，设置 13 大技术专题，覆盖 大模型后训练、推理优化、Agent 工程、知识工程、智能体评测与安全、自进化系统、AI 软件交付、原生架构及组织变革 等核心方向，汇聚一线技术专家...。",
+      "url": "https://www.infoq.cn/article/8YT8bJElVYOuK0FvKG4o?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文",
+      "region": "国内",
+      "publishedAt": "2026-11-23T11:31:44+00:00",
+      "tags": [
+        "软件工程",
+        "架构",
+        "AI",
+        "安全",
+        "云计算"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 1915,
+      "summaryLength": 240,
+      "summaryQuality": "strong",
+      "readerTextZh": "介绍 介绍 当 Agent 真正进入企业流程，哪些工作可以交给 AI ？ AI 正在从回答问题的辅助工具，走向理解目标、调用系统、完成任务的工作承担者 当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住 随着大模型向推理、工具调用、多模态和长任务延伸，开发重心正从单次调用转向上下文、工具、执行环境与反馈回路的设计，Coding Agent 也从代码补全演进为能理解代码库、运行测试、完成复杂任务的工程协作者 OpenAI、Google Cloud、Anthropic 的最新实践共同指向一个结论：模型决定 Agent 能做什么，工程决定它能否真正进入生产、创造价值 在这一背景下， 2026 年 AICon 人工智能开发与应用大会 · 北京站 将于 12 月 18–19 日 ，在北京新云南皇冠假日酒店举办 本届大会以 探索 AI 应用边界 为主题，设置 13 大技术专题，覆盖 大模型后训练、推理优化、Agent 工程、知识工程、智能体评测与安全、自进化系统、AI 软件交付、原生架构及组织变革 等核心方向，汇聚一线技术专家，深入分享 AI 技术突破与企业规模化落地的真实实践 快手安全高级专家曾祥极已确认出席 “ AI × Industries ｜产业智能化 ” 专题，并发表题为 《 曾祥极，快手安全高级专家，毕业于浙江大学，在 ACL、AAAI、EMNLP、TOSEM 等国际会议和期刊发表多篇论文，拥有 1 项发明专利 现任快手磁力引擎内容安全高级专家，负责大模型在 质量、成本与敏捷的三重约束：误伤影响正常投放，漏放带来合规风险，海量审核要求低成本，政策和风险持续变化要求快速响应 风控系统的 L1–L5 演进：从人工审核、人机混审到全机审，当前 L3 的瓶颈已进一步延伸到持续变化下的质量保持、治理成本与响应速度 自主进化闭环：审核→改进→验证沉淀，根据问题归因选择更新层级，能力足够时 Harness 优先，能力缺口通过模型训练补齐 任务定义与模型选型：审核的输入和输出，判别式小模型、C...",
+      "isTranslated": false
+    },
+    {
+      "title": "JDK 24之后的虚拟线程：生产环境的Java发生了哪些变化",
+      "titleZh": "JDK 24之后的虚拟线程：生产环境的Java发生了哪些变化",
+      "summary": "本文描述了在采用虚拟线程后出现的故障模式，并给出了基于公共基准的实用迁移顺序 JDK 24消除了与监视器相关的载体线程锁定，这个问题曾在Java 21上阻滞了Netflix等团队。早期观察与 JEP 444， 虚拟线程（Virtual Threads） 的预测一致：I/O 密集的端点在相同堆与线程数下能获得更高的伸缩性，之前需要精细调整的线程池不会再成为瓶颈 与此同时，我们也出现了一些迁移指南中没...。JDK 25 LTS带来的现实问题是下游资源饱和，瓶颈发生了转移，现在需要在应用代码中显式地进行资源界定。",
+      "originalSummary": "本文描述了在采用虚拟线程后出现的故障模式，并给出了基于公共基准的实用迁移顺序 JDK 24消除了与监视器相关的载体线程锁定，这个问题曾在Java 21上阻滞了Netflix等团队。早期观察与 JEP 444， 虚拟线程（Virtual Threads） 的预测一致：I/O 密集的端点在相同堆与线程数下能获得更高的伸缩性，之前需要精细调整的线程池不会再成为瓶颈 与此同时，我们也出现了一些迁移指南中没...。JDK 25 LTS带来的现实问题是下游资源饱和，瓶颈发生了转移，现在需要在应用代码中显式地进行资源界定。",
+      "url": "https://www.infoq.cn/article/JSf8dl9laEVQLb7dCROQ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文",
+      "region": "国内",
+      "publishedAt": "2026-11-23T11:00:00+00:00",
+      "tags": [
+        "软件工程",
+        "架构"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 4120,
+      "summaryLength": 228,
+      "summaryQuality": "strong",
+      "readerTextZh": "JDK 24消除了与监视器相关的载体线程锁定，这个问题曾在Java 21上阻滞了Netflix等团队 JDK 25 LTS带来的现实问题是下游资源饱和，瓶颈发生了转移，现在需要在应用代码中显式地进行资源界定 本文描述了在采用虚拟线程后出现的故障模式，并给出了基于公共基准的实用迁移顺序 JDK 24消除了与监视器相关的载体线程锁定，这个问题曾在Java 21上阻滞了Netflix等团队 本文描述了在采用虚拟线程后出现的故障模式，并给出了基于公共基准的实用迁移顺序 JDK 24 的 JEP 491 消除了导致 Java 21 在同步阻塞代码中难以推广虚拟线程的监视器锁定问题 残留的锁定仍然存在于本地方法帧、类加载和 Linux 本地文件 I/O 等地方，因此 JFR（JDK Flight Recorder）的 jdk.VirtualThreadPinned 事件仍是生产环境上线前检查列表的一部分 主要的生产风险已从载体线程饥饿转向下游资源耗尽 如果虚拟线程移除了 servlet 的线程上限，那么连接池、速率限制、文件描述符与下游服务就会成为新的并发边界 ThreadLocal 缓存会在虚拟线程下悄然失效 在基准测试中，相同工作负载下，ThreadLocal.withInitial()在平台线程上初始化了 200 次，而在虚拟线程上初始化了 443267 次，它们之间相差了 2216 倍，该问题最初是以无法解释的 GC 压力的形式表现出来的 作用域值在 JDK 25（JEP 506）中定稿，是替代应用级请求上下文的正确方案 它避免了 InheritableThreadLocal 的传播问题，并能自动传播到 StructuredTaskScope 的子任务中",
+      "isTranslated": false
+    },
+    {
+      "title": "具身智能进入大浪淘沙阶段，企业需要怎样的人才？",
+      "titleZh": "具身智能进入大浪淘沙阶段，企业需要怎样的人才？",
+      "summary": "在潮水退去后仍然保留下来的知识、经验和能力，也许会在下一轮浪潮中，获得意想不到的回报 在潮水退去后仍然保留下来的知识、经验和能力，也许会在下一轮浪潮中，获得意想不到的回报 2025 年至 2026 年上半年，具身智能经历了一轮融资狂热。根据 IT 桔子数据，2025 年全年融资超过 300 起、约 379 亿元，而 2026 年仅上半年就发生 322 起融资、总额达到 935 亿元。2025 年，Figure 发布 Helix 双系统 VLA 架构后，他所在的团队于 4 月推出开源复现项目 OpenHelix。",
+      "originalSummary": "在潮水退去后仍然保留下来的知识、经验和能力，也许会在下一轮浪潮中，获得意想不到的回报 在潮水退去后仍然保留下来的知识、经验和能力，也许会在下一轮浪潮中，获得意想不到的回报 2025 年至 2026 年上半年，具身智能经历了一轮融资狂热。根据 IT 桔子数据，2025 年全年融资超过 300 起、约 379 亿元，而 2026 年仅上半年就发生 322 起融资、总额达到 935 亿元。2025 年，Figure 发布 Helix 双系统 VLA 架构后，他所在的团队于 4 月推出开源复现项目 OpenHelix。",
+      "url": "https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文",
+      "region": "国内",
+      "publishedAt": "2026-11-23T10:48:34+00:00",
+      "tags": [
+        "软件工程",
+        "架构",
+        "开源"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2575,
+      "summaryLength": 215,
+      "summaryQuality": "strong",
+      "readerTextZh": "在潮水退去后仍然保留下来的知识、经验和能力，也许会在下一轮浪潮中，获得意想不到的回报 在潮水退去后仍然保留下来的知识、经验和能力，也许会在下一轮浪潮中，获得意想不到的回报 2025 年至 2026 年上半年，具身智能经历了一轮融资狂热 根据 IT 桔子数据，2025 年全年融资超过 300 起、约 379 亿元，而 2026 年仅上半年就发生 322 起融资、总额达到 935 亿元 但进入下半年，投资机构开始放慢出手节奏，越来越重视技术差异化和商业化前景 过去三年，具身智能吸引了大量来自自动驾驶、大模型、计算机视觉等领域的人才 顶尖研究者成为大厂争夺的对象，甚至有尚未毕业的博士生被投资人说服创业 如今，随着融资环境与商业化要求发生变化，创业公司的招聘标准也在调整 这让已经进入行业，以及准备入行的人面临新的问题：哪些技术人才依然稀缺？ 最近，InfoQ 与 Xbotics 联合举办了“具身智能人才地图”主题直播 我们与共生知行创始人兼 CEO 丁鹏翔、同舟问智创始人温兴男，以及松应科技 CPO 张小波，共同探讨了具身智能行业的创业机会、人才需求与职业发展 这一轮大模型和具身智能创业潮，让技术人才的市场价值受到前所未有的关注",
+      "isTranslated": false
+    },
+    {
+      "title": "从深圳到上海，少数派的共创故事还在继续",
+      "titleZh": "从深圳到上海，少数派的共创故事还在继续",
+      "summary": "九年智能电动汽车行业经历，以及创办赛思开源、担任 CEO 的实践，让他既关注技术如何发展，也关心一家创业公司如何找到客户、获得收入 讨论从模型能力延伸到数据来源、场景验证与客户付费意愿，让技术叙事、场景验证与融资沟通彼此对应。对早期团队来说，这些验证既关系到下一步做什么，也关系到如何向客户与投资人解释自己的价值 赛思开源自身也是一个实践样本：通过自研 Agent 工作流，将选题研究、转写剪辑、内容制作与分发串联起来，让 AI 进入公司的日常运...。11月20日，2026虹桥国际科技周在上海举行。",
+      "originalSummary": "九年智能电动汽车行业经历，以及创办赛思开源、担任 CEO 的实践，让他既关注技术如何发展，也关心一家创业公司如何找到客户、获得收入 讨论从模型能力延伸到数据来源、场景验证与客户付费意愿，让技术叙事、场景验证与融资沟通彼此对应。对早期团队来说，这些验证既关系到下一步做什么，也关系到如何向客户与投资人解释自己的价值 赛思开源自身也是一个实践样本：通过自研 Agent 工作流，将选题研究、转写剪辑、内容制作与分发串联起来，让 AI 进入公司的日常运...。11月20日，2026虹桥国际科技周在上海举行。",
+      "url": "https://sspai.com/post/119318",
+      "source": "少数派",
+      "region": "国内",
+      "publishedAt": "2026-11-22T01:05:44+00:00",
+      "tags": [
+        "数字生活",
+        "软件工具",
+        "AI",
+        "开源"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2332,
+      "summaryLength": 221,
+      "summaryQuality": "strong",
+      "readerTextZh": "11月20日，2026虹桥国际科技周在上海举行 作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者 少数派也在现场带来了主题论坛分享，与参与者一起 ... 查看全文 11月20日，2026虹桥国际科技周在上海举行 少数派也在现场带来了主题论坛分享，与参与者一起 11月20日，2026虹桥国际科技周在上海举行 作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者 少数派也在现场带来了主题论坛分享，与参与者一起探讨 AI 时代的创造与创业 在这场论坛中，老麦、张浩宇、王乐与原博从各自的实践出发，讨论了 AI 如何改变产品创造，以及创业团队如何连接用户、市场与资本 从煮机网到少数派，老麦一直在做连接人与产品的事 作为少数派创始人，他也经历了社区参与方式的变化：大家最初交流工具与使用经验，后来开始一起定义、打磨产品 这段经历构成了本次主题分享的讨论起点 AI 编程普及之后，越来越多没有开发背景的人开始动手创造，社区积累的需求、经验与审美，也有了转化为产品的新机会 活动中，老麦列举了书法老师、大学生等不同背景的创造者案例",
+      "isTranslated": false
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "titleZh": "本周看什么 | 最近值得一看的 10 部作品",
+      "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。如有其他建议也欢迎在评论区提出，感谢大家对「看什么」栏目的喜爱和支持 @利兹与青鸟：阿曼达的母亲莱斯利患有严重的阿尔茨海默症，阿曼达和医生都认为莱斯利没有表达性同意的能力，但和莱斯利相濡以沫 18 年的马丁却信奉另一种观...。可随着警察、法医、社工的介入，却让事情超出了阿曼达的掌控范围 人们无从判断一位失智老人的需求是受疾病影响的，还是她的真实想法。",
+      "originalSummary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。如有其他建议也欢迎在评论区提出，感谢大家对「看什么」栏目的喜爱和支持 @利兹与青鸟：阿曼达的母亲莱斯利患有严重的阿尔茨海默症，阿曼达和医生都认为莱斯利没有表达性同意的能力，但和莱斯利相濡以沫 18 年的马丁却信奉另一种观...。可随着警察、法医、社工的介入，却让事情超出了阿曼达的掌控范围 人们无从判断一位失智老人的需求是受疾病影响的，还是她的真实想法。",
+      "url": "https://sspai.com/post/119337",
+      "source": "少数派",
+      "region": "国内",
+      "publishedAt": "2026-11-20T09:54:01+00:00",
+      "tags": [
+        "数字生活",
+        "软件工具"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3904,
+      "summaryLength": 238,
+      "summaryQuality": "strong",
+      "readerTextZh": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix 大卫·芬奇执 ... 查看全文 📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix 大卫·芬奇执 📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix 大卫·芬奇执 近期佳作推荐： [电影] 茫然女王、[电影] 行走之人、[美剧] 紧急呼救 第十季、[美剧] 一杆入魂 第二季、[英剧] 狐狸女士 第三季、[美剧] 圣丹尼斯医院 第三季、[电影] 窃取本书者将会…、[动画] 罗梅莉亚战记、[电影] 吉姆皇后、[纪录片] 扯淡电影史 几则精彩预告： 《克里夫·布斯的惊险再冒险》终极预告、《豺狼的日子 第二季》首支预告、《冰川时代 6：火山大冒险》正式预告、《跃动青春 第二季》正式预告、电影《夜莺》定档预告 几则影视资讯： 《泥面人》内地定档 11 月 27 日、《沙丘》《沙丘 2》内地重映定档、罗伯特·帕丁森出演新任詹姆斯·邦德、《目击者约瑟芬》确认引进、《悲惨世界》确认引进 往期推荐可 点此 或点击文末 tag #本周看什么，更多主题片单可 点此 查看 想要查看更多深度影视内容，可以关注我们的衍生栏目「 看什么 Café 」 如有其他建议也欢迎在评论区提出，感谢大家对「看什么」栏目的喜爱和支持 @利兹与青鸟：阿曼达的母亲莱斯利患有严重的阿尔茨海默症，阿曼达和医生都认为莱斯利没有表达性同意的能力，但和莱斯利相濡以沫 18 年的马丁却信奉另一种观点——亲密接触能给予患者安慰和安全感，她失去的已经够多了，没必要再剥夺能给她慰藉和欢愉的事情 于是阿曼达一气之下报了警，寄希望于专业机构能制止马丁的行为 可随着警察、法医、社工的...",
+      "isTranslated": false
     },
     {
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
@@ -695,153 +916,6 @@
       "isTranslated": true
     },
     {
-      "title": "打造 AI 优先的销售与营销运营体系",
-      "titleZh": "打造 AI 优先的销售与营销运营体系",
-      "summary": "Snowflake 首席营销官 DenisePersson 和首席营收官 Jon Beaulier 将探讨如何协同团队、整合业务数据，并明确职责分工，让 AI 真正发挥作用。现场还将演示如何使用 Snowflake CoWork 解答业务问题，并分享 Snowflake 团队在推动 AI 应用、衡量实际成效方面的经验。Canva 首席客户官 RobGiglio 也将加入对话，分享他对团队管理、营销与销售协同，以及 AI 未来机遇的见解 打造 AI 优先的销售与营销运营体系构建 AI 优先的销售与营销组织，需要哪些条件?。",
-      "originalSummary": "Snowflake 首席营销官 DenisePersson 和首席营收官 Jon Beaulier 将探讨如何协同团队、整合业务数据，并明确职责分工，让 AI 真正发挥作用。现场还将演示如何使用 Snowflake CoWork 解答业务问题，并分享 Snowflake 团队在推动 AI 应用、衡量实际成效方面的经验。Canva 首席客户官 RobGiglio 也将加入对话，分享他对团队管理、营销与销售协同，以及 AI 未来机遇的见解 打造 AI 优先的销售与营销运营体系构建 AI 优先的销售与营销组织，需要哪些条件?。",
-      "url": "https://www.infoq.cn/video/mihBFvImttvJlSFUqC49?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文",
-      "region": "国内",
-      "publishedAt": "2026-11-22T17:41:49+00:00",
-      "tags": [
-        "软件工程",
-        "架构",
-        "AI"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 533,
-      "summaryLength": 225,
-      "summaryQuality": "strong",
-      "readerTextZh": "打造 AI 优先的销售与营销运营体系构建 AI 优先的销售与营销组织，需要哪些条件? Snowflake 首席营销官 DenisePersson 和首席营收官 Jon Beaulier 将探讨如何协同团队、整合业务数据，并明确职责分工，让 AI 真正发挥作用 现场还将演示如何使用 Snowflake CoWork 解答业务问题，并分享 Snowflake 团队在推动 AI 应用、衡量实际成效方面的经验 Canva 首席客户官 RobGiglio 也将加入对话，分享他对团队管理、营销与销售协同，以及 AI 未来机遇的见解 打造 AI 优先的销售与营销运营体系构建 AI 优先的销售与营销组织，需要哪些条件? Canva 首席客户官 RobGiglio 也将加入对话，分享他对团队管理、营销与销售协同，以及 AI 未来机遇的见解",
-      "isTranslated": false
-    },
-    {
-      "title": "智能体企业新前沿：驱动高效智能",
-      "titleZh": "智能体企业新前沿：驱动高效智能",
-      "summary": "通过跨职能场景的现场演示和《财富》500强企业高管的实践洞察，他们将展示业务团队与技术团队如何在实际工作场景中有效采取行动 智能体企业新前沿：驱动高效智能在这场开场主题演讲中，Snowflake CEO Sridhar Ramaswamy 与产品执行副总裁 C...。智能体企业新前沿：驱动高效智能在这场开场主题演讲中，Snowflake CEO Sridhar Ramaswamy 与产品执行副总裁 Christian Kleinerman 将分享 Snowflak...。",
-      "originalSummary": "通过跨职能场景的现场演示和《财富》500强企业高管的实践洞察，他们将展示业务团队与技术团队如何在实际工作场景中有效采取行动 智能体企业新前沿：驱动高效智能在这场开场主题演讲中，Snowflake CEO Sridhar Ramaswamy 与产品执行副总裁 C...。智能体企业新前沿：驱动高效智能在这场开场主题演讲中，Snowflake CEO Sridhar Ramaswamy 与产品执行副总裁 Christian Kleinerman 将分享 Snowflak...。",
-      "url": "https://www.infoq.cn/video/Ly5HbhY4pNMCF04abkFo?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文",
-      "region": "国内",
-      "publishedAt": "2026-11-22T17:38:28+00:00",
-      "tags": [
-        "软件工程",
-        "架构"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 407,
-      "summaryLength": 209,
-      "summaryQuality": "medium",
-      "readerTextZh": "智能体企业新前沿：驱动高效智能在这场开场主题演讲中，Snowflake CEO Sridhar Ramaswamy 与产品执行副总裁 Christian Kleinerman 将分享 Snowflake 如何依托开放、受治理的数据基础，助力企业构建智能体企业，实现高效智能 通过跨职能场景的现场演示和《财富》500强企业高管的实践洞察，他们将展示业务团队与技术团队如何在实际工作场景中有效采取行动 智能体企业新前沿：驱动高效智能在这场开场主题演讲中，Snowflake CEO Sridhar Ramaswamy 与产品执行副总裁 Christian Kleinerman 将分享 Snowflake 如何依托开放、受治理的数据基础，助力企业构建智能体企业，实现高效智能 通过跨职能场景的现场演示和《财富》500强企业高管的实践洞察，他们将展示业务团队与技术团队如何在实际工作场景中有效采取行动",
-      "isTranslated": false
-    },
-    {
-      "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
-      "titleZh": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
-      "summary": "美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU。在 25 项工作负载测试中，由 4 个计算单元组成的 Frostbite 集群， 每瓦性能达到一款尺寸相近、已经完成硅验证的双发射顺序执行 CPU 核心的 4.59 倍。在性能评估方面，Architect Labs 还计划扩大测试工作负载范围，并引入更多 CPU 作为对照，包括将更大规模的 Frostbite 网格架构，与配备大容量缓存的多核版本对比。",
-      "originalSummary": "美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU。在 25 项工作负载测试中，由 4 个计算单元组成的 Frostbite 集群， 每瓦性能达到一款尺寸相近、已经完成硅验证的双发射顺序执行 CPU 核心的 4.59 倍。在性能评估方面，Architect Labs 还计划扩大测试工作负载范围，并引入更多 CPU 作为对照，包括将更大规模的 Frostbite 网格架构，与配备大容量缓存的多核版本对比。",
-      "url": "https://www.ithome.com/1/030/717.htm",
-      "source": "IT之家",
-      "region": "国内",
-      "publishedAt": "2026-11-22T15:15:55+00:00",
-      "tags": [
-        "国内科技",
-        "消费电子",
-        "AI",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 3161,
-      "summaryLength": 229,
-      "summaryQuality": "medium",
-      "readerTextZh": "美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU 这款处理器采用全新的指令集，从底层开始重新设计，试图摆脱传统 CPU 的部分架构限制 在 25 项工作负载测试中，由 4 个计算单元组成的 Frostbite 集群， 每瓦性能达到一款尺寸相近、已经完成硅验证的双发射顺序执行 CPU 核心的 4.59 倍 不过，这些数据来自基于 7 纳米工艺的模拟设计，Frostbite 尚未真正流片，因此还没有实际芯片可以验证 由于法律方面的原因，Architect Labs 暂时无法公开作为对照的 CPU 核心型号 传统 CPU 需要在运行时通过硬件判断不同指令之间的依赖关系，重新识别哪些指令可以并行执行 多核处理器还需要复杂的多级缓存体系和缓存一致性协议，确保每个核心看到的共享内存数据保持一致 不过，这些机制不仅占用芯片面积、消耗电力，也会在处理器规模扩大时面临扩展效率下降的问题",
-      "isTranslated": false
-    },
-    {
-      "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
-      "titleZh": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
-      "summary": "Oracle（甲骨文）当地时间本月 20 日表示， 该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需资金 ，与供应商进行的任何进一步私下讨论仅为补充选项。▲ Abilene Oracle 称其与 OpenAI 在 AI 基础设施合作方面的进展迅速： 位于美国得克萨斯州 Abilene 的园区已用于 GPT-6 Astra 的训练 ， 整体接近完工。▲ Shackelford 该企业仍预计可在 FY2028H2 实现正的自由现金流，目标是在 FY2029 实现超过 300 亿美元 （IT之家注：现汇率约合 2,008 亿元人民币） 的自由现金流，并预计从届时起能够依...。",
-      "originalSummary": "Oracle（甲骨文）当地时间本月 20 日表示， 该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需资金 ，与供应商进行的任何进一步私下讨论仅为补充选项。▲ Abilene Oracle 称其与 OpenAI 在 AI 基础设施合作方面的进展迅速： 位于美国得克萨斯州 Abilene 的园区已用于 GPT-6 Astra 的训练 ， 整体接近完工。▲ Shackelford 该企业仍预计可在 FY2028H2 实现正的自由现金流，目标是在 FY2029 实现超过 300 亿美元 （IT之家注：现汇率约合 2,008 亿元人民币） 的自由现金流，并预计从届时起能够依...。",
-      "url": "https://www.ithome.com/1/030/715.htm",
-      "source": "IT之家",
-      "region": "国内",
-      "publishedAt": "2026-11-22T14:24:17+00:00",
-      "tags": [
-        "国内科技",
-        "消费电子",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 404,
-      "summaryLength": 241,
-      "summaryQuality": "medium",
-      "readerTextZh": "Oracle（甲骨文）当地时间本月 20 日表示， 该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需资金 ，与供应商进行的任何进一步私下讨论仅为补充选项 ▲ Abilene Oracle 称其与 OpenAI 在 AI 基础设施合作方面的进展迅速： 位于美国得克萨斯州 Abilene 的园区已用于 GPT-6 Astra 的训练 ， 整体接近完工 下一个 GW 级项目 Shackelford 已获得所有许可 NVIDIA Vera Rubin 机架交付工作正按计划进行，预计将在未来几周内完成 ▲ Shackelford 该企业仍预计可在 FY2028H2 实现正的自由现金流，目标是在 FY2029 实现超过 300 亿美元 （IT之家注：现汇率约合 2,008 亿元人民币） 的自由现金流，并预计从届时起能够依靠自有资金支持未来增长",
-      "isTranslated": false
-    },
-    {
-      "title": "Pinterest 联合英特尔将开源性能分析推向互联网级规模",
-      "titleZh": "Pinterest 联合英特尔将开源性能分析推向互联网级规模",
-      "summary": "Pinterest 携手英特尔扩展开源持续性能分析工具 gProfiler，为超大规模基础设施集群提供生产环境性能观测能力 Pinterest 携手英特尔扩展开源持续性能分析工具 gProfiler，为超大规模基础设施集群提供生产环境性能观测能力 Pinter...。这是一款开源的持续性能分析工具，能够为互联网规模的基础设施集群提供生产环境性能可见性 Pinterest 运维着数十万个实例，为 6.4 亿月活跃用户提供支撑，业务服务采用 Java 、 Python 、 C++ 、 G...。",
-      "originalSummary": "Pinterest 携手英特尔扩展开源持续性能分析工具 gProfiler，为超大规模基础设施集群提供生产环境性能观测能力 Pinterest 携手英特尔扩展开源持续性能分析工具 gProfiler，为超大规模基础设施集群提供生产环境性能观测能力 Pinter...。这是一款开源的持续性能分析工具，能够为互联网规模的基础设施集群提供生产环境性能可见性 Pinterest 运维着数十万个实例，为 6.4 亿月活跃用户提供支撑，业务服务采用 Java 、 Python 、 C++ 、 G...。",
-      "url": "https://www.infoq.cn/article/fs4IuBTjwIwR1xUgdjqt?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文",
-      "region": "国内",
-      "publishedAt": "2026-11-22T11:00:00+00:00",
-      "tags": [
-        "软件工程",
-        "架构",
-        "开源"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2299,
-      "summaryLength": 212,
-      "summaryQuality": "strong",
-      "readerTextZh": "Pinterest 携手英特尔扩展开源持续性能分析工具 gProfiler，为超大规模基础设施集群提供生产环境性能观测能力 Pinterest 携手英特尔扩展开源持续性能分析工具 gProfiler，为超大规模基础设施集群提供生产环境性能观测能力 Pinterest 与英特尔合作对 gProfiler 进行功能扩展 这是一款开源的持续性能分析工具，能够为互联网规模的基础设施集群提供生产环境性能可见性 Pinterest 运维着数十万个实例，为 6.4 亿月活跃用户提供支撑，业务服务采用 Java 、 Python 、 C++ 、 Go 和 Node.js 编写 在这样的规模下，即使是很小的效率提升也会带来显著的基础设施和成本影响 工程师此前使用 perf、async-profiler 和 py-spy 等工具，生成的性能分析数据是碎片化的，很难跨语言、跨机器进行关联分析 Pinterest 没有自研一套闭源性能分析平台，而是联合英特尔扩展 gProfiler，并将新增能力回馈给该开源项目 本次合作新增了动态分析、硬件层遥测、挂钟时间分析、性能计数器火焰图等能力，同时针对大型生产集群对系统做了稳定性加固 gProfiler 作为多个现有性能分析工具的编排层 它将系统级的 perf 数据与运行时专用工具（如用于 Java 的 async-profiler、基于 eBPF 的 Python 性能分析）相结合，针对单台主机上运行的全部进程生成统一的火焰图 这一点对于现代服务来说尤为重要，因为应用的执行会跨越多个层级 一个 Java 应用可能将时间消耗在 JVM 内部、本地库或 Linux 内核中，而 Python 服务则可能涉及解释器、本地代码和内核活动 gProfiler 将这些视图整合在一起，而不是要求工程师手动选择并关联不同的性能分析工具 这个代理会自动发现进程、启动相应的性能分析器、合并它们的堆栈跟踪信息，并上传生成的性能分析数据，全程无需修改应用程序代码 新的能力让工程师能够通过 UI 或 API 选择服务、主机或集群，并远程触发性能分析",
-      "isTranslated": false
-    },
-    {
-      "title": "从深圳到上海，少数派的共创故事还在继续",
-      "titleZh": "从深圳到上海，少数派的共创故事还在继续",
-      "summary": "九年智能电动汽车行业经历，以及创办赛思开源、担任 CEO 的实践，让他既关注技术如何发展，也关心一家创业公司如何找到客户、获得收入 讨论从模型能力延伸到数据来源、场景验证与客户付费意愿，让技术叙事、场景验证与融资沟通彼此对应。对早期团队来说，这些验证既关系到下一步做什么，也关系到如何向客户与投资人解释自己的价值 赛思开源自身也是一个实践样本：通过自研 Agent 工作流，将选题研究、转写剪辑、内容制作与分发串联起来，让 AI 进入公司的日常运...。11月20日，2026虹桥国际科技周在上海举行。",
-      "originalSummary": "九年智能电动汽车行业经历，以及创办赛思开源、担任 CEO 的实践，让他既关注技术如何发展，也关心一家创业公司如何找到客户、获得收入 讨论从模型能力延伸到数据来源、场景验证与客户付费意愿，让技术叙事、场景验证与融资沟通彼此对应。对早期团队来说，这些验证既关系到下一步做什么，也关系到如何向客户与投资人解释自己的价值 赛思开源自身也是一个实践样本：通过自研 Agent 工作流，将选题研究、转写剪辑、内容制作与分发串联起来，让 AI 进入公司的日常运...。11月20日，2026虹桥国际科技周在上海举行。",
-      "url": "https://sspai.com/post/119318",
-      "source": "少数派",
-      "region": "国内",
-      "publishedAt": "2026-11-22T01:05:44+00:00",
-      "tags": [
-        "数字生活",
-        "软件工具",
-        "AI",
-        "开源"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2332,
-      "summaryLength": 221,
-      "summaryQuality": "strong",
-      "readerTextZh": "11月20日，2026虹桥国际科技周在上海举行 作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者 少数派也在现场带来了主题论坛分享，与参与者一起 ... 查看全文 11月20日，2026虹桥国际科技周在上海举行 少数派也在现场带来了主题论坛分享，与参与者一起 11月20日，2026虹桥国际科技周在上海举行 作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者 少数派也在现场带来了主题论坛分享，与参与者一起探讨 AI 时代的创造与创业 在这场论坛中，老麦、张浩宇、王乐与原博从各自的实践出发，讨论了 AI 如何改变产品创造，以及创业团队如何连接用户、市场与资本 从煮机网到少数派，老麦一直在做连接人与产品的事 作为少数派创始人，他也经历了社区参与方式的变化：大家最初交流工具与使用经验，后来开始一起定义、打磨产品 这段经历构成了本次主题分享的讨论起点 AI 编程普及之后，越来越多没有开发背景的人开始动手创造，社区积累的需求、经验与审美，也有了转化为产品的新机会 活动中，老麦列举了书法老师、大学生等不同背景的创造者案例",
-      "isTranslated": false
-    },
-    {
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "titleZh": "本周看什么 | 最近值得一看的 10 部作品",
-      "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。如有其他建议也欢迎在评论区提出，感谢大家对「看什么」栏目的喜爱和支持 @利兹与青鸟：阿曼达的母亲莱斯利患有严重的阿尔茨海默症，阿曼达和医生都认为莱斯利没有表达性同意的能力，但和莱斯利相濡以沫 18 年的马丁却信奉另一种观...。可随着警察、法医、社工的介入，却让事情超出了阿曼达的掌控范围 人们无从判断一位失智老人的需求是受疾病影响的，还是她的真实想法。",
-      "originalSummary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。如有其他建议也欢迎在评论区提出，感谢大家对「看什么」栏目的喜爱和支持 @利兹与青鸟：阿曼达的母亲莱斯利患有严重的阿尔茨海默症，阿曼达和医生都认为莱斯利没有表达性同意的能力，但和莱斯利相濡以沫 18 年的马丁却信奉另一种观...。可随着警察、法医、社工的介入，却让事情超出了阿曼达的掌控范围 人们无从判断一位失智老人的需求是受疾病影响的，还是她的真实想法。",
-      "url": "https://sspai.com/post/119337",
-      "source": "少数派",
-      "region": "国内",
-      "publishedAt": "2026-11-20T09:54:01+00:00",
-      "tags": [
-        "数字生活",
-        "软件工具"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 3904,
-      "summaryLength": 238,
-      "summaryQuality": "strong",
-      "readerTextZh": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix 大卫·芬奇执 ... 查看全文 📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix 大卫·芬奇执 📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix 大卫·芬奇执 近期佳作推荐： [电影] 茫然女王、[电影] 行走之人、[美剧] 紧急呼救 第十季、[美剧] 一杆入魂 第二季、[英剧] 狐狸女士 第三季、[美剧] 圣丹尼斯医院 第三季、[电影] 窃取本书者将会…、[动画] 罗梅莉亚战记、[电影] 吉姆皇后、[纪录片] 扯淡电影史 几则精彩预告： 《克里夫·布斯的惊险再冒险》终极预告、《豺狼的日子 第二季》首支预告、《冰川时代 6：火山大冒险》正式预告、《跃动青春 第二季》正式预告、电影《夜莺》定档预告 几则影视资讯： 《泥面人》内地定档 11 月 27 日、《沙丘》《沙丘 2》内地重映定档、罗伯特·帕丁森出演新任詹姆斯·邦德、《目击者约瑟芬》确认引进、《悲惨世界》确认引进 往期推荐可 点此 或点击文末 tag #本周看什么，更多主题片单可 点此 查看 想要查看更多深度影视内容，可以关注我们的衍生栏目「 看什么 Café 」 如有其他建议也欢迎在评论区提出，感谢大家对「看什么」栏目的喜爱和支持 @利兹与青鸟：阿曼达的母亲莱斯利患有严重的阿尔茨海默症，阿曼达和医生都认为莱斯利没有表达性同意的能力，但和莱斯利相濡以沫 18 年的马丁却信奉另一种观点——亲密接触能给予患者安慰和安全感，她失去的已经够多了，没必要再剥夺能给她慰藉和欢愉的事情 于是阿曼达一气之下报了警，寄希望于专业机构能制止马丁的行为 可随着警察、法医、社工的...",
-      "isTranslated": false
-    },
-    {
       "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
       "titleZh": "Introducing推进 AI 模型与应用能力",
       "summary": "Keeping、Slurm、For、IAM发生AI 模型或智能体能力进展。从已有材料看，这不是孤立的标题变化，而是与AI、云计算相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Introducing、Amazon SageMaker HyperPod Slurm发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
@@ -930,73 +1004,6 @@
       "summaryLength": 286,
       "summaryQuality": "medium",
       "readerTextZh": "On November、CVE-2026-126714、PHP、These发生安全事件或漏洞修复，涉及关键数字：19、2026。从已有材料看，这不是孤立的标题变化，而是与网络、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。How Cloudflare WAF、PHP发生AI 模型或智能体能力进展。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "titleZh": "AI完成融资或资本交易",
-      "summary": "AI、METR、Judgment发生融资、估值或收购变化。从已有材料看，这不是孤立的标题变化，而是与前沿研究、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "AI keeps getting faster at verifiable tasks — METR's updated report confirms that frontier AI models are doubling their performanc...。Judgment is where models still stumble — When asked to design new AI evaluations or score philosophical argume...。",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Technology Review",
-      "region": "国际",
-      "publishedAt": "2026-11-20T18:15:15+00:00",
-      "tags": [
-        "前沿研究",
-        "AI",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 8493,
-      "summaryLength": 262,
-      "summaryQuality": "medium",
-      "readerTextZh": "AI、METR、Judgment发生融资、估值或收购变化。从已有材料看，这不是孤立的标题变化，而是与前沿研究、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "The Download: inside the quest to make our minds immortal",
-      "titleZh": "The Download发布产品或能力更新",
-      "summary": "What、Roundtables、To、GTA发生产品发布或能力更新，涉及关键数字：9 、6。从已有材料看，这不是孤立的标题变化，而是与前沿研究、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。The Download发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "What we learned when our Roundtables explored the quest to make minds immortal。To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond death。9 GTA 6 has become the biggest entertainment launch ever。",
-      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-      "source": "MIT Technology Review",
-      "region": "国际",
-      "publishedAt": "2026-11-20T13:10:00+00:00",
-      "tags": [
-        "前沿研究",
-        "AI",
-        "安全",
-        "软件工程"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 6112,
-      "summaryLength": 301,
-      "summaryQuality": "medium",
-      "readerTextZh": "What、Roundtables、To、GTA发生产品发布或能力更新，涉及关键数字：9 、6。从已有材料看，这不是孤立的标题变化，而是与前沿研究、AI相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。The Download发生科技产业或开发者生态变化。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
-      "isTranslated": true
-    },
-    {
-      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
-      "titleZh": "Five推进 AI 模型与应用能力",
-      "summary": "On November、F5、Five、Xint发生AI 模型或智能体能力进展，涉及关键数字：18、2026、5。从已有材料看，这不是孤立的标题变化，而是与网络、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Five、Cloudflare发生科技产业或开发者生态变化，涉及关键数字：2。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。",
-      "originalSummary": "On November 18, 2026, F5 and nginx.org disclosed ten vulnerabilities in nginx。Five of them, detailed by the Xint research team and published under the name nginx2root , are memory corrupti...。Xint also found a Linux kernel bug that turns that foothold into root on the host, including from in...。",
-      "url": "https://blog.cloudflare.com/nginx2root/",
-      "source": "Cloudflare Blog",
-      "region": "国际",
-      "publishedAt": "2026-11-20T01:58:29+00:00",
-      "tags": [
-        "网络",
-        "安全",
-        "云计算",
-        "AI",
-        "开源"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 30221,
-      "summaryLength": 317,
-      "summaryQuality": "medium",
-      "readerTextZh": "On November、F5、Five、Xint发生AI 模型或智能体能力进展，涉及关键数字：18、2026、5。从已有材料看，这不是孤立的标题变化，而是与网络、安全相关的产品、平台或安全进展。读者需要知道的重点是：相关主体已经释放了新的动作或风险信号，后续影响可能体现在开发者工作流、企业系统接入、用户数据保护、成本评估或生态竞争上。在更多细节公布前，应重点核对原文中的时间、版本、受影响对象和官方后续说明。Five、Cloudflare发生科技产业或开发者生态变化，涉及关键数字：2。目前可确认的信息主要来自来源页面提供的标题、导语和可抓取正文。站内会保留原文入口，便于继续核对发布时间、受影响对象、产品版本、漏洞编号或商业条款。如果后续来源补充了技术细节、官方回应或修复计划，下一轮自动更新会重新提炼摘要。\n\n原文正文较长，已先提供中文核心阅读版；需要核对细节时可打开原文。",
       "isTranslated": true
     }
   ]
