@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T08:19:16.826136+00:00",
-  "nextUpdate": "2026-11-24T20:19:16.826136+00:00",
+  "updatedAt": "2026-11-24T21:55:33.035909+00:00",
+  "nextUpdate": "2026-11-25T09:55:33.035909+00:00",
   "sources": [
     {
       "name": "InfoQ 中文公众号候选源",
@@ -76,29 +76,6 @@
   "errors": [],
   "items": [
     {
-      "title": "当 AI 改变一切，下一步如何构建？",
-      "titleZh": "当 AI 改变一切，下一步如何构建？",
-      "summary": "模型开发、训练和部署逐渐被整合进托管平台，机器学习工程的门槛进一步降低 2018 年，亚马逊云科技在 re:Invent 发布首款自研 Arm 服务器处理器 Graviton，并推出搭载该芯片的 EC2 A1 实例，为长期由 x86 架构主导的云计算市场带来新...。此后，随着 Graviton2 等产品推出，Arm 架构逐渐在云数据中心获得更广泛的应用 2025 年，亚马逊云科技发布 Kiro autonomous agent、Security Agent 和 DevOps Age...。",
-      "originalSummary": "模型开发、训练和部署逐渐被整合进托管平台，机器学习工程的门槛进一步降低 2018 年，亚马逊云科技在 re:Invent 发布首款自研 Arm 服务器处理器 Graviton，并推出搭载该芯片的 EC2 A1 实例，为长期由 x86 架构主导的云计算市场带来新...。此后，随着 Graviton2 等产品推出，Arm 架构逐渐在云数据中心获得更广泛的应用 2025 年，亚马逊云科技发布 Kiro autonomous agent、Security Agent 和 DevOps Age...。",
-      "url": "https://www.infoq.cn/article/iRm9lBSQj0OCvDdgLQrO?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-24T14:12:36+00:00",
-      "tags": [
-        "架构",
-        "软件工程",
-        "中文深度",
-        "AI",
-        "芯片"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 1879,
-      "summaryLength": 206,
-      "summaryQuality": "strong",
-      "readerTextZh": "在re:Invent见证云和AI的下一次革命 在re:Invent见证云和AI的下一次革命 “如果 Agent 能比我更快地写代码，那我还有什么价值？ ” 即使是亚马逊云科技首席开发者布道师 Darko Mesaroš，也曾因 AI 编程能力的快速进步而陷入身份危机 今年 11 月，在“What If Lab｜万一实验室 AI 硬件创意黑客松”上，Darko 坦诚地分享了这段自我怀疑的经历 云计算兴起之前，Darko 是一名系统管理员，与网络、数据库和存储管理员分工协作 随着云计算普及，基础设施逐渐被抽象为云服务，他也不得不掌握更广泛的技术能力 “突然之间，我不能只懂得如何管理系统了 我必须了解所有这些事情，因为一切都被抽象化了 ” 二十年前，云计算改变了工程师构建和运行软件的方式 如今，AI 正在接手越来越多的编程和工程任务 开发者需要再次思考，自己的工作将如何改变 这两轮技术变革，都与亚马逊云科技密切相关",
-      "isTranslated": false
-    },
-    {
       "title": "美团智播——数字人直播技术创新与实践",
       "titleZh": "美团智播——数字人直播技术创新与实践",
       "summary": "随着大语言模型、生成式AI与多模态交互技术的快速发展，数字人直播已突破早期形象僵硬、交互单一的瓶颈，在本地生活、电商、文娱等领域展现出巨大的商业潜力。美团智播，是面向本地生活场景的AI数字人直播解决方案，融合大模型、数字人与多模态交互技术，提供丰富的行业专属数字人形象，支持真人1:1复刻与门店实景定制，30秒生成直播素材，3分钟完成开播配置，7×24小时稳定上播。过去一年，依托生成式AI技术，数字人直播月日均GTV同比增长82.12%，月日均观看人次同比增长163.44%，开播场次提升11倍，充分验证了AI数字人直播在本地生活商业闭环中的实际价值。",
@@ -106,7 +83,7 @@
       "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-24T08:18:31.183271+00:00",
+      "publishedAt": "2026-11-24T21:54:57.088597+00:00",
       "tags": [
         "后端",
         "工程",
@@ -128,7 +105,7 @@
       "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-24T08:18:30.536665+00:00",
+      "publishedAt": "2026-11-24T21:54:56.507632+00:00",
       "tags": [
         "后端",
         "工程",
@@ -150,7 +127,7 @@
       "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-24T08:18:29.884361+00:00",
+      "publishedAt": "2026-11-24T21:54:55.919785+00:00",
       "tags": [
         "后端",
         "工程",
@@ -173,7 +150,7 @@
       "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-24T08:18:29.228424+00:00",
+      "publishedAt": "2026-11-24T21:54:55.314724+00:00",
       "tags": [
         "后端",
         "工程",
@@ -195,7 +172,7 @@
       "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-24T08:18:28.549832+00:00",
+      "publishedAt": "2026-11-24T21:54:54.715191+00:00",
       "tags": [
         "后端",
         "工程",
@@ -218,7 +195,7 @@
       "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-24T08:18:27.856489+00:00",
+      "publishedAt": "2026-11-24T21:54:54.128250+00:00",
       "tags": [
         "后端",
         "工程",
@@ -240,7 +217,7 @@
       "url": "https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-24T08:18:27.183035+00:00",
+      "publishedAt": "2026-11-24T21:54:53.551143+00:00",
       "tags": [
         "后端",
         "工程",
@@ -263,7 +240,7 @@
       "url": "https://tech.meituan.com/2026/11/10/Meituan-LongCat-2.5-Open-Source.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-24T08:18:26.442519+00:00",
+      "publishedAt": "2026-11-24T21:54:52.973386+00:00",
       "tags": [
         "后端",
         "工程",
@@ -286,7 +263,7 @@
       "url": "https://tech.meituan.com/2026/11/17/Agent-Evaluation-White-Paper-02.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-24T08:18:25.748615+00:00",
+      "publishedAt": "2026-11-24T21:54:52.379318+00:00",
       "tags": [
         "后端",
         "工程",
@@ -308,7 +285,7 @@
       "url": "https://tech.meituan.com/2026/11/18/Papers-EMNLP-2026.html",
       "source": "美团技术团队",
       "region": "技术团队",
-      "publishedAt": "2026-11-24T08:18:25.104170+00:00",
+      "publishedAt": "2026-11-24T21:54:51.792768+00:00",
       "tags": [
         "后端",
         "工程",
@@ -322,14 +299,210 @@
       "isTranslated": false
     },
     {
-      "title": ":fire::fire::fire: Claude Code 工程最佳实践 | 主数据平台 1.8.0 发布，专注于单点登录",
-      "titleZh": ":fire::fire::fire: Claude Code 工程最佳实践 | 主数据平台 1.8.0 发布，专注于单点登录",
-      "summary": "更新周期：2026-10-24 ~ 2026-11-22，后端 41 次提交、前端 40 次提交 编码规则与单号生成组件（全新功能） 控制台新增「编码规则」模块，支持规则主表、规则明细、拖拽排序、动态配置和试生成 支持常量、日期、变量、流水号、随机码、校验位、...。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "originalSummary": "更新周期：2026-10-24 ~ 2026-11-22，后端 41 次提交、前端 40 次提交 编码规则与单号生成组件（全新功能） 控制台新增「编码规则」模块，支持规则主表、规则明细、拖拽排序、动态配置和试生成 支持常量、日期、变量、流水号、随机码、校验位、...。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
-      "url": "https://www.oschina.net/news/503775",
+      "title": "OceanBase发布AI数据平OceanLake！CEO杨冰：我们赌多模态，就像当年赌分布式一样",
+      "titleZh": "OceanBase发布AI数据平OceanLake！CEO杨冰：我们赌多模态，就像当年赌分布式一样",
+      "summary": "从今年 4 月到 9 月，主要面向 Agent 调用的 MCP 访问量增长约 13.36 倍，人工页面访问量同期增长约 9.86 倍。AI 降低了软件生产的成本，却在另一端制造了新的基础设施需求 今天，在北京举行的 OceanBase AI 数据大会上，OceanBase 正式发布湖库一体 AI 数据平台 OceanLake，并宣布以 Apache L...。现在，OceanBase 正在面对一个新的问题：当数据库的使用者不再只是人和传统应用程序，而是数量庞大、行为不可预测的 AI Agent，过去十几年建立起来的数据基础设施，是否还适用？。",
+      "originalSummary": "从今年 4 月到 9 月，主要面向 Agent 调用的 MCP 访问量增长约 13.36 倍，人工页面访问量同期增长约 9.86 倍。AI 降低了软件生产的成本，却在另一端制造了新的基础设施需求 今天，在北京举行的 OceanBase AI 数据大会上，OceanBase 正式发布湖库一体 AI 数据平台 OceanLake，并宣布以 Apache L...。现在，OceanBase 正在面对一个新的问题：当数据库的使用者不再只是人和传统应用程序，而是数量庞大、行为不可预测的 AI Agent，过去十几年建立起来的数据基础设施，是否还适用？。",
+      "url": "https://www.infoq.cn/article/qEXNRNufkiFkiUEU9aae?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T20:21:09+00:00",
+      "tags": [
+        "架构",
+        "软件工程",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 2432,
+      "summaryLength": 227,
+      "summaryQuality": "strong",
+      "readerTextZh": "现在，OceanBase 正在面对一个新的问题：当数据库的使用者不再只是人和传统应用程序，而是数量庞大、行为不可预测的 AI Agent，过去十几年建立起来的数据基础设施，是否还适用？ 过去十六年，OceanBase 一直在解决一个问题：如何用国产数据库支撑金融、电信等行业最核心的业务系统 但现在，OceanBase 正在面对一个新的问题：当数据库的使用者不再只是人和传统应用程序，而是数量庞大、行为不可预测的 AI Agent，过去十几年建立起来的数据基础设施，是否还适用？ 从今年 4 月到 9 月，主要面向 Agent 调用的 MCP 访问量增长约 13.36 倍，人工页面访问量同期增长约 9.86 倍 在部分业务场景从 BI 转向 AI 后，数据仓库的调用量在半年内提升了一个数量级 类似的变化也发生在 OceanBase 自己的研发团队内部 随着 AI Coding 带来研发效率的提升，原本不是瓶颈的研发服务器、测试服务器，反而开始成为新的瓶颈 AI 降低了软件生产的成本，却在另一端制造了新的基础设施需求 今天，在北京举行的 OceanBase AI 数据大会上，OceanBase 正式发布湖库一体 AI 数据平台 OceanLake，并宣布以 Apache License 2.0 协议开源其核心 AI 数据库引擎 OceanSeek 从传统数据库到 AI 数据平台，OceanBase 的商业版图也在发生变化 据大会及现场采访披露，目前其 AI 业务营收已经突破 1 亿元，国际化业务营收占比达到 15%，增速达到 100% 与此同时，OceanBase 的研发团队已经分为两部分，传统数据库与 AI 数据业务齐头并进 在大会期间，OceanBase CEO 杨冰、CTO 杨传辉接受了媒体采访，围绕 AI 数据平台的商业化、技术路线、与 Databricks、Palantir 的竞争，以及数据厂商不断上移的业务边界，进行了进一步解读 过去，数据库和数据仓库之间存在相对明确的分工 数据库负责在线交易、实时读写和事务处理，数据仓库负责复杂查询、经营分析和离线计算",
+      "isTranslated": false
+    },
+    {
+      "title": "基于AScript的Go脚本语言发布啦 - rockey627",
+      "titleZh": "基于AScript的Go脚本语言发布啦 - rockey627",
+      "summary": "【摘要】AScript是一个开源的C#动态脚本解析执行引擎，支持扩展多种脚本语言，已实现C#/Python3/SQL/JavaScript/Lua语言，加上当前发布的Go语言，一共支持6种脚本语言。一、介绍 支持Go基础语法和数据类型，已内置 fmt、strconv、sync、regexp、ti AScript是一个开源的C#动态脚本解析执行引擎，支持扩展多种 脚本语言 ，已实现 C#/Python3/SQL/Ja...。",
+      "originalSummary": "【摘要】AScript是一个开源的C#动态脚本解析执行引擎，支持扩展多种脚本语言，已实现C#/Python3/SQL/JavaScript/Lua语言，加上当前发布的Go语言，一共支持6种脚本语言。一、介绍 支持Go基础语法和数据类型，已内置 fmt、strconv、sync、regexp、ti AScript是一个开源的C#动态脚本解析执行引擎，支持扩展多种 脚本语言 ，已实现 C#/Python3/SQL/Ja...。",
+      "url": "https://www.cnblogs.com/rockey627/p/23772104",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T17:35:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "开源"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 775,
+      "summaryLength": 177,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】AScript是一个开源的C#动态脚本解析执行引擎，支持扩展多种脚本语言，已实现C#/Python3/SQL/JavaScript/Lua语言，加上当前发布的Go语言，一共支持6种脚本语言 一、介绍 支持Go基础语法和数据类型，已内置 fmt、strconv、sync、regexp、time 等常 阅读全文 AScript是一个开源的C#动态脚本解析执行引擎，支持扩展多种脚本语言，已实现C#/Python3/SQL/JavaScript/Lua语言，加上当前发布的Go语言，一共支持6种脚本语言 一、介绍 支持Go基础语法和数据类型，已内置 fmt、strconv、sync、regexp、ti AScript是一个开源的C#动态脚本解析执行引擎，支持扩展多种脚本语言，已实现C#/Python3/SQL/JavaScript/Lua语言，加上当前发布的Go语言，一共支持6种脚本语言 一、介绍 支持Go基础语法和数据类型，已内置 fmt、strconv、sync、regexp、ti AScript是一个开源的C#动态脚本解析执行引擎，支持扩展多种 脚本语言 ，已实现 C#/Python3/SQL/JavaScript/Lua 语言，加上当前发布的 Go 语言，一共支持6种脚本语言 支持 Go 基础语法和数据类型，已内置 fmt 、 strconv 、 sync 、 regexp 、 time 等常用标准库 支持反引号包裹的原始字符串（不做任何转义处理），推荐用于正则： `\\d+` install - package AScript install -package AScript.Lang.Go posted @ 2026-11-25 01:34 rockey627 阅读( 12 ) 评论( 0 ) 收藏 举报 公告",
+      "isTranslated": false
+    },
+    {
+      "title": "106:GLM多算一轮，交付更划算吗？ - 李福春",
+      "titleZh": "106:GLM多算一轮，交付更划算吗？ - 李福春",
+      "summary": "【摘要】01、现场：一张能打开的装配件 演示里，Agent 收到一张草图，吐出 FreeCAD 装配件。文件能打开，草图约束还在，改一个参数，下游特征跟着重算。FreeCAD 官方仓库把它定义为开源参 阅读全文。",
+      "originalSummary": "【摘要】01、现场：一张能打开的装配件 演示里，Agent 收到一张草图，吐出 FreeCAD 装配件。文件能打开，草图约束还在，改一个参数，下游特征跟着重算。FreeCAD 官方仓库把它定义为开源参 阅读全文。",
+      "url": "https://www.cnblogs.com/snidget/p/23771367",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T15:25:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "开源"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 88,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】01、现场：一张能打开的装配件 演示里，Agent 收到一张草图，吐出 FreeCAD 装配件 文件能打开，草图约束还在，改一个参数，下游特征跟着重算 图片看完就结束，装配件要进评审：尺寸对不对，公差写没写，装配约束有没有过定义 FreeCAD 官方仓库把它定义为开源参 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "Day 30：三段开发深度与框架全图 - Jeff-Tsai",
+      "titleZh": "Day 30：三段开发深度与框架全图 - Jeff-Tsai",
+      "summary": "【摘要】昨天结尾说今天把三十天的东西收成全图。本篇说明： 框架沿 NoCode、LowCode 与 AnyCode 这条轴线提供的三段深度 全图：一份 FormSchema 长出来的东西，与每一次调用都会经过的东西 这套设计适合与不适合什么系统，以及长期的回报落在哪...。",
+      "originalSummary": "【摘要】昨天结尾说今天把三十天的东西收成全图。本篇说明： 框架沿 NoCode、LowCode 与 AnyCode 这条轴线提供的三段深度 全图：一份 FormSchema 长出来的东西，与每一次调用都会经过的东西 这套设计适合与不适合什么系统，以及长期的回报落在哪...。",
+      "url": "https://www.cnblogs.com/jeff-tsai/p/23771151/day-30-depths-and-map",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T14:18:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 116,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】昨天结尾说今天把三十天的东西收成全图 本篇说明： 框架沿 NoCode、LowCode 与 AnyCode 这条轴线提供的三段深度 全图：一份 FormSchema 长出来的东西，与每一次调用都会经过的东西 这套设计适合与不适合什么系统，以及长期的回报落在哪里 未竟之路，以及哪些是刻意不做 一、三 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "苦 Node.js SSR 久矣：我们把技术社区从 Nuxt 3 迁回了纯 Go 架构 - HelloWorld开发者社区",
+      "titleZh": "苦 Node.js SSR 久矣：我们把技术社区从 Nuxt 3 迁回了纯 Go 架构 - HelloWorld开发者社区",
+      "summary": "【摘要】我们砍掉了 Nuxt 3，把技术社区重构成了 Go + Templ + HTMX 自从有了 vue, react 之后，前后端分离，后端通过http接口返回json，前端拿到json数据解析并渲染，几乎成了各种web应用的标准做法。在此基于vue,react 的技术构架之后，又有了服务端渲染框架 阅读全文。",
+      "originalSummary": "【摘要】我们砍掉了 Nuxt 3，把技术社区重构成了 Go + Templ + HTMX 自从有了 vue, react 之后，前后端分离，后端通过http接口返回json，前端拿到json数据解析并渲染，几乎成了各种web应用的标准做法。在此基于vue,react 的技术构架之后，又有了服务端渲染框架 阅读全文。",
+      "url": "https://www.cnblogs.com/start1225/p/23771097",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T13:54:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 158,
+      "summaryLength": 131,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】我们砍掉了 Nuxt 3，把技术社区重构成了 Go + Templ + HTMX 自从有了 vue, react 之后，前后端分离，后端通过http接口返回json，前端拿到json数据解析并渲染，几乎成了各种web应用的标准做法 在此基于vue,react 的技术构架之后，又有了服务端渲染框架 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "【轻量化复刻大模型 / KIMI K3】K3 PostTrain 后训练交互式演示 - 罗西的思考",
+      "titleZh": "【轻量化复刻大模型 / KIMI K3】K3 PostTrain 后训练交互式演示 - 罗西的思考",
+      "summary": "【摘要】# 【轻量化复刻大模型 / KIMI K3】K3 PostTrain 后训练交互式演示 目录0x01 实现概述1.1 做了什么1.2 文件清单1.3 设计思路1.4 如何运行0x02 核心数学2.1 总体公式2.2。XTML 序列化（附录 F：格式定义）2.3。SFT Loss（S4.1.1：交 阅读全文。",
+      "originalSummary": "【摘要】# 【轻量化复刻大模型 / KIMI K3】K3 PostTrain 后训练交互式演示 目录0x01 实现概述1.1 做了什么1.2 文件清单1.3 设计思路1.4 如何运行0x02 核心数学2.1 总体公式2.2。XTML 序列化（附录 F：格式定义）2.3。SFT Loss（S4.1.1：交 阅读全文。",
+      "url": "https://www.cnblogs.com/rossiXYZ/p/23672229",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T12:41:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 117,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】# 【轻量化复刻大模型 / KIMI K3】K3 PostTrain 后训练交互式演示 目录0x01 实现概述1.1 做了什么1.2 文件清单1.3 设计思路1.4 如何运行0x02 核心数学2.1 总体公式2.2 XTML 序列化（附录 F：格式定义）2.3 SFT Loss（S4.1.1：交 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "为什么 Java 写的 1000，C 读出来是负 4 亿？ - leikooo",
+      "titleZh": "为什么 Java 写的 1000，C 读出来是负 4 亿？ - leikooo",
+      "summary": "【摘要】大家多半碰到过下面这几件怪事： 用 hexdump 看一个存了整数 0x12345678 的二进制文件，出来的却是 78 56 34 12，像是被倒着写进去的。写 socket 程序时忘了调 htons，明明监听的是 8080，netstat 里看到的却是 36895。Java 服务往文件里写了 阅读全文。",
+      "originalSummary": "【摘要】大家多半碰到过下面这几件怪事： 用 hexdump 看一个存了整数 0x12345678 的二进制文件，出来的却是 78 56 34 12，像是被倒着写进去的。写 socket 程序时忘了调 htons，明明监听的是 8080，netstat 里看到的却是 36895。Java 服务往文件里写了 阅读全文。",
+      "url": "https://www.cnblogs.com/leikooo/p/23770750",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T12:30:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 131,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】大家多半碰到过下面这几件怪事： 用 hexdump 看一个存了整数 0x12345678 的二进制文件，出来的却是 78 56 34 12，像是被倒着写进去的 写 socket 程序时忘了调 htons，明明监听的是 8080，netstat 里看到的却是 36895 Java 服务往文件里写了 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": "【AI】一个优秀的AI框架设计 - 徐之豪",
+      "titleZh": "【AI】一个优秀的AI框架设计 - 徐之豪",
+      "summary": "【摘要】一个优秀的AI框架设计 一个好的 AI 框架需要支持： 1、策划改行为不用找程序 2、程序轻松加行为入口（节点），逻辑单一、轻度、解耦 3、框架允许同时多种AI底层实现（行为树/效用/GOAP/强化学习等） 4、线上出问题能在十分钟内定位到具体位置 零...。",
+      "originalSummary": "【摘要】一个优秀的AI框架设计 一个好的 AI 框架需要支持： 1、策划改行为不用找程序 2、程序轻松加行为入口（节点），逻辑单一、轻度、解耦 3、框架允许同时多种AI底层实现（行为树/效用/GOAP/强化学习等） 4、线上出问题能在十分钟内定位到具体位置 零...。",
+      "url": "https://www.cnblogs.com/xuuold/p/23770554",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T12:01:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度",
+        "AI"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 105,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】一个优秀的AI框架设计 一个好的 AI 框架需要支持： 1、策划改行为不用找程序 2、程序轻松加行为入口（节点），逻辑单一、轻度、解耦 3、框架允许同时多种AI底层实现（行为树/效用/GOAP/强化学习等） 4、线上出问题能在十分钟内定位到具体位置 零、判断标准 先说清楚\"优秀\"的标准",
+      "isTranslated": false
+    },
+    {
+      "title": "七个DSH插件源码分析报告 - 我才是银古",
+      "titleZh": "七个DSH插件源码分析报告 - 我才是银古",
+      "summary": "【摘要】实现原理 · 插件效果 · 优缺点 · 横向对比 从提示词到原生执行：七层表面上的七种插件形态 7 个插件仓库 8 份分项报告 10 张可视化图表 0 处源码级耦合 分析对象 D:\\self\\code\\cj 下的七个 DSH 插件源码仓库 证据基线 各...。",
+      "originalSummary": "【摘要】实现原理 · 插件效果 · 优缺点 · 横向对比 从提示词到原生执行：七层表面上的七种插件形态 7 个插件仓库 8 份分项报告 10 张可视化图表 0 处源码级耦合 分析对象 D:\\self\\code\\cj 下的七个 DSH 插件源码仓库 证据基线 各...。",
+      "url": "https://www.cnblogs.com/znlgis/p/23770164",
+      "source": "博客园技术文章",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T10:52:00+00:00",
+      "tags": [
+        "开发者",
+        "后端",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 98,
+      "summaryQuality": "weak",
+      "readerTextZh": "【摘要】实现原理 · 插件效果 · 优缺点 · 横向对比 从提示词到原生执行：七层表面上的七种插件形态 7 个插件仓库 8 份分项报告 10 张可视化图表 0 处源码级耦合 分析对象 D:\\self\\code\\cj 下的七个 DSH 插件源码仓库 证据基线 各仓库 Git 工作树（以 package.jso 阅读全文",
+      "isTranslated": false
+    },
+    {
+      "title": ":fire: xbatis 1.10.13 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+      "titleZh": ":fire: xbatis 1.10.13 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+      "summary": "让你直接少写 1/3 甚至 2/3 的持久层代码。1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容 mybatis 3.6.0。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "originalSummary": "让你直接少写 1/3 甚至 2/3 的持久层代码。1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容 mybatis 3.6.0。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区。",
+      "url": "https://www.oschina.net/news/503783",
       "source": "开源中国资讯",
       "region": "中文技术深度",
-      "publishedAt": "2026-11-24T07:18:04+00:00",
+      "publishedAt": "2026-11-24T09:38:35+00:00",
       "tags": [
         "开源",
         "开发者",
@@ -338,17 +511,105 @@
         "软件工程"
       ],
       "analysisMethod": "article-text",
-      "sourceTextLength": 393,
-      "summaryLength": 194,
+      "sourceTextLength": 407,
+      "summaryLength": 155,
       "summaryQuality": "weak",
-      "readerTextZh": "更新周期：2026-10-24 ~ 2026-11-22，后端 41 次提交、前端 40 次提交 编码规则与单号生成组件（全新功能） 控制台新增「编码规则」模块，支持规则主表、规则明细、拖拽排序、动态配置和试生成 支持常量、日期、变量、流水号、随机码、校验位、GUID/雪花 ID、组织编码、父单号截取共 9 类规则明细 提供单个生成、同参批量 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
+      "readerTextZh": "让你直接少写 1/3 甚至 2/3 的持久层代码 API 简单 快捷 优雅 简洁 构建 SQL 非常强！ 用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护 1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容 mybatis 3.6.0 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建 OSCHINA.NET 是面向开发者的开源与 AI 生态社区 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建",
+      "isTranslated": false
+    },
+    {
+      "title": "MateClaw 3.1.0 发布：从执行架构升级，到技能经验与长任务可靠性完善",
+      "titleZh": "MateClaw 3.1.0 发布：从执行架构升级，到技能经验与长任务可靠性完善",
+      "summary": "MateClaw 3.1.0 发布：从执行架构升级，到技能经验与长任务可靠性完善 MateClaw 是一个开源 AI 助手项目，将对话、记忆、知识库、技能和自动化组织在同一个工作台中，并支持员工、团队协作和多渠道接入。近期，项目先后发布了 3.0.0（2026 年 10 月 26 日）和 3.1.0（2026 年 11 月 19 日）。",
+      "originalSummary": "MateClaw 3.1.0 发布：从执行架构升级，到技能经验与长任务可靠性完善 MateClaw 是一个开源 AI 助手项目，将对话、记忆、知识库、技能和自动化组织在同一个工作台中，并支持员工、团队协作和多渠道接入。近期，项目先后发布了 3.0.0（2026 年 10 月 26 日）和 3.1.0（2026 年 11 月 19 日）。",
+      "url": "https://www.oschina.net/news/503782",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T09:36:52+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 186,
+      "summaryLength": 130,
+      "summaryQuality": "weak",
+      "readerTextZh": "MateClaw 3.1.0 发布：从执行架构升级，到技能经验与长任务可靠性完善 MateClaw 是一个开源 AI 助手项目，将对话、记忆、知识库、技能和自动化组织在同一个工作台中，并支持员工、团队协作和多渠道接入 近期，项目先后发布了 3.0.0（2026 年 10 月 26 日）和 3.1.0（2026 年 11 月 19 日）",
+      "isTranslated": false
+    },
+    {
+      "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+      "titleZh": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家 上周社区速...。我们相信新鲜火热出炉的分享更能赢得大家的喜爱，也欢迎广大读者朋友们踊跃投稿 搬家之后，通勤距离从原来的 15 km 缩短到了 3 km，开车变成了一个性价比极低且经常「还不如走路快」的通勤方式。",
+      "originalSummary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家 上周社区速...。我们相信新鲜火热出炉的分享更能赢得大家的喜爱，也欢迎广大读者朋友们踊跃投稿 搬家之后，通勤距离从原来的 15 km 缩短到了 3 km，开车变成了一个性价比极低且经常「还不如走路快」的通勤方式。",
+      "url": "https://sspai.com/post/119492",
+      "source": "少数派深度",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T09:14:11+00:00",
+      "tags": [
+        "工具",
+        "数字生活",
+        "中文深度"
+      ],
+      "analysisMethod": "article-text",
+      "sourceTextLength": 3402,
+      "summaryLength": 274,
+      "summaryQuality": "strong",
+      "readerTextZh": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家 上周社区速递 ... 查看全文 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家 上周社区速递 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家 上周社区速递 除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家 上周社区速递： 社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏 为了让作者的投稿尽快与广大读者见面，我们调整了《新玩意》栏目中作者投稿部分的呈现方式和周期，作者投稿的「新玩意」后续会迁移至本栏目 投稿渠道与奖励方式仍与以往完全一致，详情参见文末 我们相信新鲜火热出炉的分享更能赢得大家的喜爱，也欢迎广大读者朋友们踊跃投稿 搬家之后，通勤距离从原来的 15 km 缩短到了 3 km，开车变成了一个性价比极低且经常「还不如走路快」的通勤方式 在忍受了一年多共享单车开锁即坏、车把歪斜、甚至要求我在马路中央还车等一系列荒谬问题后，我决定买一辆自己的短途代步工具 考虑到终点附近充电不便，以前还有过自行车被偷的经历，所以我把目光看向了可以带上楼的折叠自行车 选购折叠自行车，轻量便携和折叠机构的稳固可靠是两个刚性条件",
+      "isTranslated": false
+    },
+    {
+      "title": "RNOISE Prompt Forge V5.2 发布：零 LLM 确定性 AI 音乐 Prompt 编译器与 MCP 2.0 协议引擎",
+      "titleZh": "RNOISE Prompt Forge V5.2 发布：零 LLM 确定性 AI 音乐 Prompt 编译器与 MCP 2.0 协议引擎",
+      "summary": "随着 Suno V6、Udio 2.0、Sonauto V2、DiffRhythm Pro 及 Stable Audio 2.5 等多款生成式音频引擎快速发展，开发者与音乐创作者在跨平台编排 AI 音乐提示词时普遍面临三类工程痛点：一是不同音频引擎的标签语法、...。二是依赖通用大语言模型动态生成 Prompt 时，存在推理延。",
+      "originalSummary": "随着 Suno V6、Udio 2.0、Sonauto V2、DiffRhythm Pro 及 Stable Audio 2.5 等多款生成式音频引擎快速发展，开发者与音乐创作者在跨平台编排 AI 音乐提示词时普遍面临三类工程痛点：一是不同音频引擎的标签语法、...。二是依赖通用大语言模型动态生成 Prompt 时，存在推理延。",
+      "url": "https://www.oschina.net/news/503778",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T08:37:40+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度",
+        "AI",
+        "软件工程"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 187,
+      "summaryLength": 137,
+      "summaryQuality": "weak",
+      "readerTextZh": "随着 Suno V6、Udio 2.0、Sonauto V2、DiffRhythm Pro 及 Stable Audio 2.5 等多款生成式音频引擎快速发展，开发者与音乐创作者在跨平台编排 AI 音乐提示词时普遍面临三类工程痛点：一是不同音频引擎的标签语法、结构控制符与时间轴格式差异巨大，手动改写效率低 二是依赖通用大语言模型动态生成 Prompt 时，存在推理延",
+      "isTranslated": false
+    },
+    {
+      "title": ":fire::fire::fire: Claude Code 工程最佳实践 | 主数据平台 1.8.0 发布，专注于单点登录",
+      "titleZh": ":fire::fire::fire: Claude Code 工程最佳实践 | 主数据平台 1.8.0 发布，专注于单点登录",
+      "summary": "更新周期：2026-10-24 ~ 2026-11-22，后端 41 次提交、前端 40 次提交 编码规则与单号生成组件（全新功能） 控制台新增「编码规则」模块，支持规则主表、规则明细、拖拽排序、动态配置和试生成 支持常量、日期、变量、流水号、随机码、校验位、...。",
+      "originalSummary": "更新周期：2026-10-24 ~ 2026-11-22，后端 41 次提交、前端 40 次提交 编码规则与单号生成组件（全新功能） 控制台新增「编码规则」模块，支持规则主表、规则明细、拖拽排序、动态配置和试生成 支持常量、日期、变量、流水号、随机码、校验位、...。",
+      "url": "https://www.oschina.net/news/503775",
+      "source": "开源中国资讯",
+      "region": "中文技术深度",
+      "publishedAt": "2026-11-24T07:18:04+00:00",
+      "tags": [
+        "开源",
+        "开发者",
+        "中文深度"
+      ],
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 175,
+      "summaryLength": 99,
+      "summaryQuality": "weak",
+      "readerTextZh": "更新周期：2026-10-24 ~ 2026-11-22，后端 41 次提交、前端 40 次提交 编码规则与单号生成组件（全新功能） 控制台新增「编码规则」模块，支持规则主表、规则明细、拖拽排序、动态配置和试生成 支持常量、日期、变量、流水号、随机码、校验位、GUID/雪花 ID、组织编码、父单号截取共 9 类规则明细 提供单个生成、同参批量",
       "isTranslated": false
     },
     {
       "title": "全平台、简单、快、小：为什么我说 SOUI 是唯一四项全占的 C++ GUI 框架 - 启程软件",
       "titleZh": "全平台、简单、快、小：为什么我说 SOUI 是唯一四项全占的 C++ GUI 框架 - 启程软件",
-      "summary": "要跨平台，就得接受一套新语言、新模型、新工具链（Flutter 的 Dart + Widget、Qt 的 MOC + 信号槽、Electron 的 JS + Chromium）。要学习成本低，就往往被绑在一个平台上（Win32/MF 阅读全文 GUI 选型有个几乎无解的老问题：四个好东西，你通常只能挑两个。下面四节分别拆开讲这四件事是怎么做到的——重点不是”我们也有”，而是为什么只有这一家能同时有 一、全平台：不是”多写几套适配层”，是一个 Win32 形态的 API 贯穿 8 个目标 七个是产品级（含浏览器），FreeR...。",
-      "originalSummary": "要跨平台，就得接受一套新语言、新模型、新工具链（Flutter 的 Dart + Widget、Qt 的 MOC + 信号槽、Electron 的 JS + Chromium）。要学习成本低，就往往被绑在一个平台上（Win32/MF 阅读全文 GUI 选型有个几乎无解的老问题：四个好东西，你通常只能挑两个。下面四节分别拆开讲这四件事是怎么做到的——重点不是”我们也有”，而是为什么只有这一家能同时有 一、全平台：不是”多写几套适配层”，是一个 Win32 形态的 API 贯穿 8 个目标 七个是产品级（含浏览器），FreeR...。",
+      "summary": "【摘要】GUI 选型有个几乎无解的老问题：四个好东西，你通常只能挑两个。要跨平台，就得接受一套新语言、新模型、新工具链（Flutter 的 Dart + Widget、Qt 的 MOC + 信号槽、Electron 的 JS + Chromium）。要学习成本低，就往往被绑在一个平台上（Win32/MF 阅读全文。",
+      "originalSummary": "【摘要】GUI 选型有个几乎无解的老问题：四个好东西，你通常只能挑两个。要跨平台，就得接受一套新语言、新模型、新工具链（Flutter 的 Dart + Widget、Qt 的 MOC + 信号槽、Electron 的 JS + Chromium）。要学习成本低，就往往被绑在一个平台上（Win32/MF 阅读全文。",
       "url": "https://www.cnblogs.com/setoutsoft/p/23767329",
       "source": "博客园技术文章",
       "region": "中文技术深度",
@@ -359,11 +620,11 @@
         "中文深度",
         "AI"
       ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 2591,
-      "summaryLength": 211,
+      "analysisMethod": "feed-text",
+      "sourceTextLength": 159,
+      "summaryLength": 124,
       "summaryQuality": "weak",
-      "readerTextZh": "【摘要】GUI 选型有个几乎无解的老问题：四个好东西，你通常只能挑两个 要跨平台，就得接受一套新语言、新模型、新工具链（Flutter 的 Dart + Widget、Qt 的 MOC + 信号槽、Electron 的 JS + Chromium） 要学习成本低，就往往被绑在一个平台上（Win32/MF 阅读全文 GUI 选型有个几乎无解的老问题：四个好东西，你通常只能挑两个 要学习成本低，就往往被绑在一个平台上（Win32/MF GUI 选型有个几乎无解的老问题：四个好东西，你通常只能挑两个 要学习成本低，就往往被绑在一个平台上（Win32/MF GUI 选型有个几乎无解的老问题：四个好东西，你通常只能挑两个 要跨平台，就得接受一套新语言、新模型、新工具链（Flutter 的 Dart + Widget、Qt 的 MOC + 信号槽、Electron 的 JS + Chromium） 要学习成本低，就往往被绑在一个平台上（Win32/MFC、Cocoa、GTK） 要性能好、体积又小，就得放弃完整控件体系和声明式布局（Dear ImGui 是典型） 要有完整控件和可视化设计器，通常就把 VM 或几百兆运行时一起拖进来 我写这篇的目的，是论证 SOUI 是唯一一个把这四项同时做到的通用 GUI 框架 但这话必须加限定词，否则就是空话： “唯一”指的是：在提供完整通用控件体系 + XML 声明式布局 + 原生渲染的 GUI 框架这个集合里，同时满足—— ① 覆盖桌面、移动、鸿蒙，且同一套抽象能下沉裸机、上移浏览器 ③ 编译到原生机器码、无 VM，有可核对的帧率/帧耗时数据 ④ 核心 2.3 MB 起，应用通常在 3~10 MB 量级 没有第二家同时落在四列里",
+      "readerTextZh": "【摘要】GUI 选型有个几乎无解的老问题：四个好东西，你通常只能挑两个 要跨平台，就得接受一套新语言、新模型、新工具链（Flutter 的 Dart + Widget、Qt 的 MOC + 信号槽、Electron 的 JS + Chromium） 要学习成本低，就往往被绑在一个平台上（Win32/MF 阅读全文",
       "isTranslated": false
     },
     {
@@ -390,72 +651,6 @@
       "isTranslated": false
     },
     {
-      "title": "用 .NET 10 实现 Kafka Broker，单副本实测吞吐比 Apache Kafka 高 92.5%？ - .NET中文开源社区",
-      "titleZh": "用 .NET 10 实现 Kafka Broker，单副本实测吞吐比 Apache Kafka 高 92.5%？ - .NET中文开源社区",
-      "summary": "【摘要】生产者收到成功响应之后，Broker 重启还能不能读回同一条消息？。同一个 Kafka 客户端连到自己写的服务，能不能照常建 Topic、生产、消费和提交 offset？。SimdKafka v1.0.0 从这两个问题出发，用 C# 和 .NET 10 实现了一个独立的消息 Broker。",
-      "originalSummary": "【摘要】生产者收到成功响应之后，Broker 重启还能不能读回同一条消息？。同一个 Kafka 客户端连到自己写的服务，能不能照常建 Topic、生产、消费和提交 offset？。SimdKafka v1.0.0 从这两个问题出发，用 C# 和 .NET 10 实现了一个独立的消息 Broker。",
-      "url": "https://www.cnblogs.com/dotnet-org-cn/p/23765926",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-24T05:52:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "开源"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 120,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】生产者收到成功响应之后，Broker 重启还能不能读回同一条消息？ 同一个 Kafka 客户端连到自己写的服务，能不能照常建 Topic、生产、消费和提交 offset？ SimdKafka v1.0.0 从这两个问题出发，用 C# 和 .NET 10 实现了一个独立的消息 Broker",
-      "isTranslated": false
-    },
-    {
-      "title": "ES 7.17 三节点 Docker 集群的自动备份：从 NFS 被拦住到用 ACL 根治权限 - 新*",
-      "titleZh": "ES 7.17 三节点 Docker 集群的自动备份：从 NFS 被拦住到用 ACL 根治权限 - 新*",
-      "summary": "【摘要】给 3 节点 Docker 化的 ES 7.17 集群配每日自动快照，走完了 NFS 被云安全组拦截、改用 SSHFS、路径配置踩坑、容器重建丢插件、跨节点属主竞态导致快照长期 PARTIAL、最终用 POSIX 默认 ACL 根治的全过程。",
-      "originalSummary": "【摘要】给 3 节点 Docker 化的 ES 7.17 集群配每日自动快照，走完了 NFS 被云安全组拦截、改用 SSHFS、路径配置踩坑、容器重建丢插件、跨节点属主竞态导致快照长期 PARTIAL、最终用 POSIX 默认 ACL 根治的全过程。",
-      "url": "https://www.cnblogs.com/yellow3gold/p/23765742",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-24T05:33:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "安全",
-        "云计算"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 146,
-      "summaryLength": 100,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】给 3 节点 Docker 化的 ES 7.17 集群配每日自动快照，走完了 NFS 被云安全组拦截、改用 SSHFS、路径配置踩坑、容器重建丢插件、跨节点属主竞态导致快照长期 PARTIAL、最终用 POSIX 默认 ACL 根治的全过程",
-      "isTranslated": false
-    },
-    {
-      "title": "一个后台，三个官方包：Zero 后台脚手架 - known",
-      "titleZh": "一个后台，三个官方包：Zero 后台脚手架 - known",
-      "summary": "【摘要】ZERO · 后台脚手架 .NET 10 + Blazor 的后台脚手架：不引 UI 库、不引 ORM，登录、权限、代码生成开箱能用。接一个后台项目，最花时间的往往不是业务，而是每次都要重写一遍的那几样：登录、菜单、权限、字典、日志、文件上传。写到第十遍，人会开始怀疑自己是在做项目，还是在抄自己。",
-      "originalSummary": "【摘要】ZERO · 后台脚手架 .NET 10 + Blazor 的后台脚手架：不引 UI 库、不引 ORM，登录、权限、代码生成开箱能用。接一个后台项目，最花时间的往往不是业务，而是每次都要重写一遍的那几样：登录、菜单、权限、字典、日志、文件上传。写到第十遍，人会开始怀疑自己是在做项目，还是在抄自己。",
-      "url": "https://www.cnblogs.com/known/p/23764757",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-24T03:41:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 120,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】ZERO · 后台脚手架 .NET 10 + Blazor 的后台脚手架：不引 UI 库、不引 ORM，登录、权限、代码生成开箱能用 接一个后台项目，最花时间的往往不是业务，而是每次都要重写一遍的那几样：登录、菜单、权限、字典、日志、文件上传 写到第十遍，人会开始怀疑自己是在做项目，还是在抄自己",
-      "isTranslated": false
-    },
-    {
       "title": "Ladybird 发布 alpha 版本，从零开发的开源浏览器引擎",
       "titleZh": "Ladybird 发布 alpha 版本，从零开发的开源浏览器引擎",
       "summary": "Ladybird 开始进入 alpha 测试阶段。项目创始人 Andreas Kling 在 11 月 23 日的公告只有一千多字，但第一句就把这件事的分量说清楚了： Ladybird is a browser with a new engine。The engine is our own, built from the ground up, and not a fork。",
@@ -474,28 +669,6 @@
       "summaryLength": 150,
       "summaryQuality": "weak",
       "readerTextZh": "Ladybird 开始进入 alpha 测试阶段 项目创始人 Andreas Kling 在 11 月 23 日的公告只有一千多字，但第一句就把这件事的分量说清楚了： Ladybird is a browser with a new engine The engine is our own, built from the ground up, and not a fork The browser around it is modest, but functional",
-      "isTranslated": false
-    },
-    {
-      "title": "写在动荡之后：漫步巴黎的寻常一日",
-      "titleZh": "写在动荡之后：漫步巴黎的寻常一日",
-      "summary": "我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 假如你有幸能年轻时在巴黎生活过，那么此后一生中不论去到哪里，巴黎都会与你同在，因为巴黎是一场流动的盛宴 前段时间看到法国街头发生暴乱的新闻，如果没有去过巴黎，这些对我来说可能也只是...。眼前的老房子，既保留着旧时的结构，也留下了后人修复与整理的痕迹，这些痕迹同样是木筋屋故事的一部分，正是一代代人的悉心维护，才让它们历经几百年的风雨，依然站在今天的街头 再往前，博韦府邸（Hôtel de Beauvais...。",
-      "originalSummary": "我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 假如你有幸能年轻时在巴黎生活过，那么此后一生中不论去到哪里，巴黎都会与你同在，因为巴黎是一场流动的盛宴 前段时间看到法国街头发生暴乱的新闻，如果没有去过巴黎，这些对我来说可能也只是...。眼前的老房子，既保留着旧时的结构，也留下了后人修复与整理的痕迹，这些痕迹同样是木筋屋故事的一部分，正是一代代人的悉心维护，才让它们历经几百年的风雨，依然站在今天的街头 再往前，博韦府邸（Hôtel de Beauvais...。",
-      "url": "https://sspai.com/post/119412",
-      "source": "少数派深度",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-24T03:03:10+00:00",
-      "tags": [
-        "工具",
-        "数字生活",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "article-text",
-      "sourceTextLength": 3499,
-      "summaryLength": 218,
-      "summaryQuality": "strong",
-      "readerTextZh": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没 」 查看全文 巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没 」 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考 我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点 假如你有幸能年轻时在巴黎生活过，那么此后一生中不论去到哪里，巴黎都会与你同在，因为巴黎是一场流动的盛宴 前段时间看到法国街头发生暴乱的新闻，如果没有去过巴黎，这些对我来说可能也只是遥远的报道 可当我曾经走过那些街道，坐在路边吃过饭，看过人们逛街、聊天、坐着晒太阳，再看到动荡的画面，新闻里的城市便有了轮廓，对她的关心也变得具体：希望那些街道依然热闹，希望人们能够继续过着自己寻常的日子 一次行前花了许多心思、途中又留下深刻印象的旅行，值得在回来之后，用很长的时间慢慢回味 回想在巴黎的几天，我尤其喜欢在塞纳河右岸徒步的一天，这一天回应了我对巴黎的憧憬，而这份憧憬萌生于上海 上海素有「东方巴黎」之称，这份联想也有历史上的来由 随着昔日法租界的扩张与开发，巴黎的城市规划对上海的城市建设产生了重要影响 曾被誉为「东方香榭丽舍」的霞飞路（今淮海中路），以及今天衡复历史文化风貌区一带梧桐掩映的街道、花园洋房与街角公寓，都留下了这段历史的痕迹",
       "isTranslated": false
     },
     {
@@ -586,28 +759,6 @@
       "isTranslated": false
     },
     {
-      "title": "为什么 PHP 应该只保留 ZTS 构建模式 - JaguarJack",
-      "titleZh": "为什么 PHP 应该只保留 ZTS 构建模式 - JaguarJack",
-      "summary": "【摘要】为什么 PHP 应该只保留 ZTS 构建模式 想用 ext/parallel 扩展在 PHP 里并行执行代码，得先找到一个启用了线程安全（ZTS）的 PHP 版本。PHP 能不能干脆只提供 ZTS 构建？。这个想法酝酿了几年，起初也有一点私心，就是希望更多人能用上这个扩展。",
-      "originalSummary": "【摘要】为什么 PHP 应该只保留 ZTS 构建模式 想用 ext/parallel 扩展在 PHP 里并行执行代码，得先找到一个启用了线程安全（ZTS）的 PHP 版本。PHP 能不能干脆只提供 ZTS 构建？。这个想法酝酿了几年，起初也有一点私心，就是希望更多人能用上这个扩展。",
-      "url": "https://www.cnblogs.com/catchadmin/p/23763006",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-24T02:06:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "安全"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 115,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】为什么 PHP 应该只保留 ZTS 构建模式 想用 ext/parallel 扩展在 PHP 里并行执行代码，得先找到一个启用了线程安全（ZTS）的 PHP 版本 PHP 能不能干脆只提供 ZTS 构建？ 这个想法酝酿了几年，起初也有一点私心，就是希望更多人能用上这个扩展 PHP 已经有了轮询 AP 阅读全文",
-      "isTranslated": false
-    },
-    {
       "title": "qModel 算法模型平台开源版 v1.4.4 发布：参数默认值、入参修复与计算结果可视化扩展",
       "titleZh": "qModel 算法模型平台开源版 v1.4.4 发布：参数默认值、入参修复与计算结果可视化扩展",
       "summary": "在模型测试、在线调试和创建计算任务之间来回切换时，同一个参数常常要按说明重填多次。计算结果想用图表展示，又受限于支持的数据结构。qModel 开源版 v1.4.4 围绕这些日常使用问题更新： 参数在定义时设置默认值，并在模型测试、在线调试、创建计算任务三个入口自动带出。",
@@ -627,160 +778,6 @@
       "summaryLength": 119,
       "summaryQuality": "weak",
       "readerTextZh": "在模型测试、在线调试和创建计算任务之间来回切换时，同一个参数常常要按说明重填多次 计算结果想用图表展示，又受限于支持的数据结构 qModel 开源版 v1.4.4 围绕这些日常使用问题更新： 参数在定义时设置默认值，并在模型测试、在线调试、创建计算任务三个入口自动带出 结果可视化新增对象数组、键值数组两种数据结",
-      "isTranslated": false
-    },
-    {
-      "title": "Day 29：定义、框架与应用代码各负责哪一段 - Jeff-Tsai",
-      "titleZh": "Day 29：定义、框架与应用代码各负责哪一段 - Jeff-Tsai",
-      "summary": "【摘要】昨天结尾说今天回到案例，把这些机制逐项归位。Day 1 说整套 Northwind 的八张表单里只有一张需要自己写程序，并答应系列收尾前把整套应用摊开逐项对账。那一张里装了什么，Day 3 已经交代过。",
-      "originalSummary": "【摘要】昨天结尾说今天回到案例，把这些机制逐项归位。Day 1 说整套 Northwind 的八张表单里只有一张需要自己写程序，并答应系列收尾前把整套应用摊开逐项对账。那一张里装了什么，Day 3 已经交代过。",
-      "url": "https://www.cnblogs.com/jeff-tsai/p/23762146/day-29-case-reconciliation",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-24T01:25:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 91,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】昨天结尾说今天回到案例，把这些机制逐项归位 Day 1 说整套 Northwind 的八张表单里只有一张需要自己写程序，并答应系列收尾前把整套应用摊开逐项对账 那一张里装了什么，Day 3 已经交代过 今天把每一个行为拆开，看每一段由谁负责 本篇说明： 系统行为的三个层次与各自的判断标准 一张表 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年 - 狂师",
-      "titleZh": "阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年 - 狂师",
-      "summary": "这两年写代码的方式变了不少，很多人日常就是用 AI 写代码，一句需求描述丢过去，一段代码几分钟就出来。代码输出快了，但新的问题也跟着来了，怎么保证这些代码的质量？。自己写的代码自己看不出毛病，AI 写的更是这样，扫一眼 diff 觉得能跑就提交，问题往往就藏在这一眼里。",
-      "originalSummary": "这两年写代码的方式变了不少，很多人日常就是用 AI 写代码，一句需求描述丢过去，一段代码几分钟就出来。代码输出快了，但新的问题也跟着来了，怎么保证这些代码的质量？。自己写的代码自己看不出毛病，AI 写的更是这样，扫一眼 diff 觉得能跑就提交，问题往往就藏在这一眼里。",
-      "url": "https://www.cnblogs.com/jinjiangongzuoshi/p/23761965",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-24T01:07:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI",
-        "开源"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 118,
-      "summaryQuality": "weak",
-      "readerTextZh": "这两年写代码的方式变了不少，很多人日常就是用 AI 写代码，一句需求描述丢过去，一段代码几分钟就出来 代码输出快了，但新的问题也跟着来了，怎么保证这些代码的质量？ 自己写的代码自己看不出毛病，AI 写的更是这样，扫一眼 diff 觉得能跑就提交，问题往往就藏在这一眼里",
-      "isTranslated": false
-    },
-    {
-      "title": "那些没有写进简历的东西 - 余一思",
-      "titleZh": "那些没有写进简历的东西 - 余一思",
-      "summary": "【摘要】有些经历无法用职位和成果概括，却慢慢成了我们的一部分 前段时间，我重新整理过一次简历。上面写着工作年限、技术栈、负责过的系统，也写着从程序员到研发经理的经历。按时间排下来，清楚、完整，看起来甚至有些顺利。",
-      "originalSummary": "【摘要】有些经历无法用职位和成果概括，却慢慢成了我们的一部分 前段时间，我重新整理过一次简历。上面写着工作年限、技术栈、负责过的系统，也写着从程序员到研发经理的经历。按时间排下来，清楚、完整，看起来甚至有些顺利。",
-      "url": "https://www.cnblogs.com/yuyisi/p/23538029",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-24T00:42:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 92,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】有些经历无法用职位和成果概括，却慢慢成了我们的一部分 前段时间，我重新整理过一次简历 上面写着工作年限、技术栈、负责过的系统，也写着从程序员到研发经理的经历 按时间排下来，清楚、完整，看起来甚至有些顺利 可写到一半，我忽然觉得，这份简历认识我，又不完全认识我 它写得下“稳定性建设”，却写不下那 阅读全文",
-      "isTranslated": false
-    },
-    {
-      "title": "AI 会写代码之后，程序员该学什么？ - codigger",
-      "titleZh": "AI 会写代码之后，程序员该学什么？ - codigger",
-      "summary": "【摘要】一 、变局先于焦虑 打开社交平台，铺天盖地都是 \"程序员要失业了\"。可招聘平台上的景象完全是另一回事：Java 后端岗位 30 天内更新超过 14 万个，需求量在所有后端语言里仍排第一。2026 上半年 IT 技术岗招聘总量同比上涨 16%，其中 AI 复合型开发岗位的增幅超过 42%。",
-      "originalSummary": "【摘要】一 、变局先于焦虑 打开社交平台，铺天盖地都是 \"程序员要失业了\"。可招聘平台上的景象完全是另一回事：Java 后端岗位 30 天内更新超过 14 万个，需求量在所有后端语言里仍排第一。2026 上半年 IT 技术岗招聘总量同比上涨 16%，其中 AI 复合型开发岗位的增幅超过 42%。",
-      "url": "https://www.cnblogs.com/codigger/p/23761759",
-      "source": "博客园技术文章",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-24T00:41:00+00:00",
-      "tags": [
-        "开发者",
-        "后端",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 159,
-      "summaryLength": 119,
-      "summaryQuality": "weak",
-      "readerTextZh": "【摘要】一 、变局先于焦虑 打开社交平台，铺天盖地都是 \"程序员要失业了\" 可招聘平台上的景象完全是另一回事：Java 后端岗位 30 天内更新超过 14 万个，需求量在所有后端语言里仍排第一 2026 上半年 IT 技术岗招聘总量同比上涨 16%，其中 AI 复合型开发岗位的增幅超过 42%",
-      "isTranslated": false
-    },
-    {
-      "title": "开源 Windows 任务管理器 Argus v0.6.0 发布，新增桌面与任务栏监控、多轨道历史与 NPU 支持",
-      "titleZh": "开源 Windows 任务管理器 Argus v0.6.0 发布，新增桌面与任务栏监控、多轨道历史与 NPU 支持",
-      "summary": "开源 Windows 任务管理器 Argus 现已发布 v0.6.0。Argus 使用 Rust 直接调用 Windows NT 原生接口（不依赖 WMI），界面基于 GPUI Kit 与 DirectX 11 原生渲染，脱离 WebView2 与浏览器内核开销，支持 Windows 10...。v0.6.0 换用全新点阵性能图图标并重构主窗口界面，新增。",
-      "originalSummary": "开源 Windows 任务管理器 Argus 现已发布 v0.6.0。Argus 使用 Rust 直接调用 Windows NT 原生接口（不依赖 WMI），界面基于 GPUI Kit 与 DirectX 11 原生渲染，脱离 WebView2 与浏览器内核开销，支持 Windows 10...。v0.6.0 换用全新点阵性能图图标并重构主窗口界面，新增。",
-      "url": "https://www.oschina.net/news/503759",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-23T21:04:26+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "芯片"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 218,
-      "summaryLength": 140,
-      "summaryQuality": "weak",
-      "readerTextZh": "开源 Windows 任务管理器 Argus 现已发布 v0.6.0 Argus 使用 Rust 直接调用 Windows NT 原生接口（不依赖 WMI），界面基于 GPUI Kit 与 DirectX 11 原生渲染，脱离 WebView2 与浏览器内核开销，支持 Windows 10 22H2 及 Windows 11（x64），以 AGPL-3.0 协议开源 v0.6.0 换用全新点阵性能图图标并重构主窗口界面，新增",
-      "isTranslated": false
-    },
-    {
-      "title": "phimint v0.13.0 发布：Windows 自更新、卸载、路径显示逐条修好；MIT OR Apache-2.0 双协议",
-      "titleZh": "phimint v0.13.0 发布：Windows 自更新、卸载、路径显示逐条修好；MIT OR Apache-2.0 双协议",
-      "summary": "phimint v0.13.0 已发布（2026-11-23）。phimint 是一个用 Rust 写的终端 AI 编码 agent：一条命令装上，配好 API key，就能在终端里把需求变成跑通的代码。这一轮要讲的不是新功能，是一批具体的麻烦事被一个一个修好了。",
-      "originalSummary": "phimint v0.13.0 已发布（2026-11-23）。phimint 是一个用 Rust 写的终端 AI 编码 agent：一条命令装上，配好 API key，就能在终端里把需求变成跑通的代码。这一轮要讲的不是新功能，是一批具体的麻烦事被一个一个修好了。",
-      "url": "https://www.oschina.net/news/503758",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-23T13:53:30+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 189,
-      "summaryLength": 109,
-      "summaryQuality": "weak",
-      "readerTextZh": "phimint v0.13.0 已发布（2026-11-23） phimint 是一个用 Rust 写的终端 AI 编码 agent：一条命令装上，配好 API key，就能在终端里把需求变成跑通的代码 这一轮要讲的不是新功能，是一批具体的麻烦事被一个一个修好了 跨平台工具真正难的地方往往不在\"能不能跑\"，而在\"装上之后会不会跟你捣乱\"",
-      "isTranslated": false
-    },
-    {
-      "title": "特斯拉新版 FSD 的炫酷画面，由车机上的 1B 模型实时生成",
-      "titleZh": "特斯拉新版 FSD 的炫酷画面，由车机上的 1B 模型实时生成",
-      "summary": "马斯克在 X 上解释了特斯拉新版 FSD 那个看起来非常酷炫的显示效果是怎么做出来的：不是 3D 渲染，是一个 1B 的扩散模型在车机上实时生成视频。他写得很直白： \"We've had a ~pixel-perfect world model since last year, which is critical for synthetic data generati...。",
-      "originalSummary": "马斯克在 X 上解释了特斯拉新版 FSD 那个看起来非常酷炫的显示效果是怎么做出来的：不是 3D 渲染，是一个 1B 的扩散模型在车机上实时生成视频。他写得很直白： \"We've had a ~pixel-perfect world model since last year, which is critical for synthetic data generati...。",
-      "url": "https://www.oschina.net/news/503757",
-      "source": "开源中国资讯",
-      "region": "中文技术深度",
-      "publishedAt": "2026-11-23T10:56:06+00:00",
-      "tags": [
-        "开源",
-        "开发者",
-        "中文深度",
-        "AI"
-      ],
-      "analysisMethod": "feed-text",
-      "sourceTextLength": 214,
-      "summaryLength": 152,
-      "summaryQuality": "weak",
-      "readerTextZh": "马斯克在 X 上解释了特斯拉新版 FSD 那个看起来非常酷炫的显示效果是怎么做出来的：不是 3D 渲染，是一个 1B 的扩散模型在车机上实时生成视频 他写得很直白： \"We've had a ~pixel-perfect world model since last year, which is critical for synthetic data generation.\" 去年就有一个近乎像素级的世界模型，那是用",
       "isTranslated": false
     },
     {
